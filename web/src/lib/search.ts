@@ -9,8 +9,8 @@ export async function initSearch() {
   const data = await getSummary()
   const ci = data.search_index.filter(e => e.type === 'contestant')
   const oi = data.search_index.filter(e => e.type === 'organization')
-  contestants = new Fuse(ci, { keys: ['name'], threshold: 0.3, minMatchCharLength: 1 })
-  organizations = new Fuse(oi, { keys: ['name'], threshold: 0.3, minMatchCharLength: 1 })
+  contestants = new Fuse(ci, { keys: ['name'], threshold: 0.2, minMatchCharLength: 2 })
+  organizations = new Fuse(oi, { keys: ['name'], threshold: 0.2, minMatchCharLength: 2 })
 }
 
 export function searchContestant(query: string): SearchEntry[] {
