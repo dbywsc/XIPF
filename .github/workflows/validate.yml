@@ -1,0 +1,23 @@
+name: Validate
+
+on:
+  pull_request:
+    paths: ['contests/**', 'organizations.json']
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install openpyxl
+      - name: Convert XLSX files
+        run: |
+          for f in contests/**/*.xlsx; do
+            [ -f "$f" ] && python scripts/import_xlsx.py "$f" || true
+          done
+      - name: Validate
+        run: python scripts/validate.py
