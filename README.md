@@ -1,111 +1,109 @@
 # XIPF
 
-大学生程序设计竞赛（ICPC / CCPC）数据追踪平台，专注于邀请赛和省赛的获奖统计。
+Xcpc Invitational Programming contest Finder
 
-记录选手、学校在各项比赛中的排名、奖牌、冠亚季军，支持搜索、排行、数据分析。
+记录选手们在邀请赛和省赛中的获奖情况
 
-## 功能
+## 架构
 
-- **选手追踪** — 跨比赛追踪同一选手，自动合并参赛记录
-- **学校排名** — 按冠军 > 亚军 > 季军 > 金牌 > 银牌 > 铜牌排序
-- **冠亚季军** — 每场比赛计算校排前 3，仅本校最优队伍计数
-- **打星队伍** — 有排名、不评奖、正确穿插在正式队伍之间
-- **女队标记** — XLSX 导入时自动识别
-- **双榜单** — 同一场比赛的邀请赛和省赛自动分离
+```
+contests/          ← 原始数据（CSV / XLSX）
+     │
+     ↓  python scripts/import_data.py
+     │
+JSON 数据          ← 中间格式
+     │
+     ↓  python scripts/build.py
+     │
+dist/              ← 静态 JSON（前端直接读取）
+     │
+     ↓  Vue 3 SPA（纯前端 / GitHub Pages）
+```
+
+- 数据以文件形式存放，Git 版本控制
+- Python 构建脚本处理为静态 JSON
+- Vue 3 前端纯客户端渲染，托管于 GitHub Pages（免费）
 
 ## 快速开始
 
+**注意：** 本项目所有代码均由 Claude + Deepseek 完成。
+
+**环境要求**：Python 3.9+、Node.js 18+
+
 ```bash
-# 环境
-pip install openpyxl    # 仅 XLSX 导入需要
-Node.js 18+
+# 安装 Python 依赖
+pip install openpyxl
 
-# 步骤一：导入数据
-python scripts/xlsx_to_csv.py contest.xlsx
-# → 生成 城市_invitational.csv 和 城市_provincial.csv
+# 导入数据（支持 .xlsx / .csv）
+python scripts/import_data.py path/to/contest.xlsx --date=2026-05-24
 
-python scripts/import_data.py 城市_invitational.csv --date=2026-05-20 --title="2026 年比赛名称"
-
-# 步骤二：构建
+# 构建
 python scripts/build.py
 
-# 步骤三：启动前端
-cd web && npm install && npm run dev
+# 启动前端
+cd web
+npm install
+npm run dev
 ```
 
-打开 `http://localhost:5173`。
+打开 http://localhost:5173 即可浏览。
 
-## 数据格式
+## 数据导入
 
-### CSV（Tab 分隔）
-
-```
-Rank	Organization Rank	Organization	Team	Member1	Member2	Member3	Unofficial	Girl	Prize
-1	1	清华大学	零基础新生 1 队	张三	李四	王五	N	N	金奖
-*			中山纪念中学	烟花巷陌	胡金勇	吴同春	蔡明辉	Y	N	
-```
-
-| 列 | 说明 |
-|----|------|
-| Rank | `*` = 打星，数字 = 正式队排名 |
-| Organization Rank | 校排（`xlsx_to_csv.py` 自动计算） |
-| Organization | 学校全名 |
-| Team | 队伍名称 |
-| Member1-3 | 队员姓名 |
-| Unofficial | `Y` = 打星 |
-| Girl | `Y` = 女队 |
-| Prize | 金奖 / 银奖 / 铜奖 或留空 |
-
-### 导入命令
+### CLI
 
 ```bash
-# XLSX → CSV
-python scripts/xlsx_to_csv.py contest.xlsx
+# CCPC 官方 XLSX（自动识别邀请赛/省赛/女队）
+python scripts/import_data.py contest.xlsx --date=2026-06-01
 
-# CSV → 导入（CLI）
-python scripts/import_data.py file.csv --date=2026-05-20 --title="比赛名称"
-
-# CSV → 导入（Web）
-# 浏览器打开 http://localhost:5173/#/import 拖拽上传
+# CSV（Tab 分隔）
+# 格式：Rank  OrgRank  Organization  Team  Member1  Member2  Member3  Unofficial  Girl  Prize
+python scripts/import_data.py contest.csv --date=2026-06-01
 ```
 
-## 命令参考
+### Web
 
-| 命令 | 用途 |
-|------|------|
-| `python scripts/xlsx_to_csv.py file.xlsx` | XLSX 转 CSV，自动分离邀请赛/省赛 |
-| `python scripts/import_data.py file.csv --date=YYYY-MM-DD --title="名称"` | CSV 导入为比赛数据 |
-| `python scripts/build.py` | 构建静态 JSON 到 `dist/` |
-| `python scripts/validate.py` | 校验数据格式 |
+启动前端后访问「导入」页面，拖拽上传 XLSX 或 CSV，自动解析并下载 JSON 文件。放入 `contests/YYYY/城市名/` 后重新构建即可。
 
 ## 目录结构
 
 ```
-├── contests/            # 比赛数据（Git 跟踪）
-│   └── YYYY/
-│       └── 城市_类型/
-│           ├── contest_data.json
-│           └── roster.json
-├── organizations.json   # 学校名映射（自动生成）
-├── scripts/             # Python 工具
-│   ├── xlsx_to_csv.py      # XLSX → CSV
-│   ├── import_data.py      # CSV → JSON
-│   ├── build.py            # 构建静态站点数据
-│   ├── validate.py         # CI 校验
-│   └── bootstrap_orgs.py   # 学校名自动归类
-├── web/                 # Vue 3 前端
+├── contests/                          # 原始数据
+│   └── 2026/
+│       └── 秦皇岛_invitational/
+│           ├── contest_data.json      # 比赛数据（导入生成）
+│           └── roster.json            # 队员名册
+├── organizations.json                 # 学校归一化（自动生成）
+├── scripts/
+│   ├── import_data.py                 # 数据导入（CSV / XLSX）
+│   ├── build.py                       # 构建静态 JSON
+│   ├── validate.py                    # 数据校验（CI）
+│   ├── models.py                      # 数据模型
+│   └── bootstrap_orgs.py             # 学校名自动归类
+├── web/                               # Vue 3 前端
 │   └── src/pages/
-│       ├── Home.vue              # 首页
-│       ├── Contest.vue           # 比赛详情
-│       ├── Contestant.vue        # 选手主页
-│       ├── Organization.vue      # 学校主页
-│       ├── Contests.vue         # 全部比赛
-│       ├── Contestants.vue      # 全部选手
-│       ├── Organizations.vue    # 全部学校
-│       └── Import.vue           # 在线导入
-├── dist/                 # 构建产物（不提交 Git）
-└── .github/workflows/    # CI/CD
+│       ├── Home.vue                   # 首页（双搜索框）
+│       ├── Contest.vue                # 比赛详情（可展开队员）
+│       ├── Contestant.vue             # 选手主页
+│       ├── Organization.vue           # 学校主页
+│       ├── Contests.vue              # 全部比赛
+│       ├── Organizations.vue         # 全部学校
+│       ├── Contestants.vue           # 全部选手
+│       └── Import.vue                # 在线导入
+├── dist/                              # 构建产物（不提交 Git）
+└── .github/workflows/                 # CI/CD
+    ├── validate.yml                   # PR 校验
+    └── deploy.yml                     # 自动部署
 ```
+
+## 贡献数据
+
+1. Fork 本仓库
+2. 在 `contests/YYYY/城市名_类型/` 下放入数据文件，或运行 `python scripts/import_data.py`
+3. 运行 `python scripts/build.py` 验证
+4. 提交 Pull Request
+
+详见 [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## 技术栈
 
@@ -113,8 +111,9 @@ python scripts/import_data.py file.csv --date=2026-05-20 --title="比赛名称"
 |----|------|
 | 数据处理 | Python 3 + openpyxl |
 | 前端 | Vue 3 + TypeScript + Vite |
-| 搜索 | Fuse.js |
-| 部署 | GitHub Pages |
+| 搜索 | Fuse.js（客户端全文搜索） |
+| 部署 | GitHub Pages（免费） |
+| 数据格式 | JSON（静态文件） |
 
 ## License
 

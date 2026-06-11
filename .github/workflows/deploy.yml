@@ -3,6 +3,7 @@ name: Deploy
 on:
   push:
     branches: [main, master]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -32,19 +33,12 @@ jobs:
         run: pip install openpyxl
 
       - name: Build data
-        run: |
-          for f in contests/**/*.xlsx; do
-            [ -f "$f" ] && python scripts/xlsx_to_csv.py "$f" || true
-          done
-          for f in *.csv; do
-            [ -f "$f" ] && python scripts/import_data.py "$f" || true
-          done
-          python scripts/build.py
+        run: python scripts/build.py
 
       - name: Copy data to web
         run: mkdir -p web/public/data && cp -r dist/* web/public/data/
 
-      - name: Install and build frontend
+      - name: Build frontend
         working-directory: web
         run: |
           npm ci
