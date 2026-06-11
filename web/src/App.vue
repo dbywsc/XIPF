@@ -18,7 +18,7 @@
       <router-view />
     </main>
     <footer class="footer">
-      <span>XIPF &copy; 2026 &middot; Powered by dbywsc</span>
+      <span><a href="https://github.com/dbywsc/XIPF" target="_blank">XIPF</a> &copy; 2026 &middot; Powered by dbywsc</span>
     </footer>
   </div>
 </template>
@@ -71,6 +71,8 @@ a:hover { color: var(--primary-hover); text-decoration: underline; }
 .main { flex: 1; max-width: 1280px; width: 100%; margin: 32px auto; padding: 0 24px; }
 
 .footer { text-align: center; padding: 32px 24px; color: var(--text-muted); font-size: 13px; border-top: 1px solid var(--border); }
+.footer a { color: var(--text-secondary); font-weight: 500; }
+.footer a:hover { color: var(--primary); }
 
 /* Shared components */
 .card { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm); }
