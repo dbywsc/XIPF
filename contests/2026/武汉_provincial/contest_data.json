@@ -1,0 +1,1665 @@
+{
+  "title": "2026 年 ICPC 国际大学生程序设计竞赛湖北省赛",
+  "year": 2026,
+  "date": "2026-05-17",
+  "teams": [
+    {
+      "id": "T001",
+      "name": "万物一心",
+      "organization": "武汉理工大学",
+      "official": true,
+      "rank": 1,
+      "orgRank": 1,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "gold",
+      "members": [
+        {
+          "name": "朱振傲",
+          "gender": ""
+        },
+        {
+          "name": "朱选文",
+          "gender": ""
+        },
+        {
+          "name": "杨发通",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": "冠军"
+    },
+    {
+      "id": "T002",
+      "name": "爱抖露码斯他",
+      "organization": "武汉理工大学",
+      "official": true,
+      "rank": 2,
+      "orgRank": 1,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "gold",
+      "members": [
+        {
+          "name": "李晨",
+          "gender": ""
+        },
+        {
+          "name": "俞烨宸",
+          "gender": ""
+        },
+        {
+          "name": "詹万炜",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T003",
+      "name": "终帆",
+      "organization": "华中科技大学",
+      "official": true,
+      "rank": 3,
+      "orgRank": 2,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "gold",
+      "members": [
+        {
+          "name": "朱雨程",
+          "gender": ""
+        },
+        {
+          "name": "吴高宇",
+          "gender": ""
+        },
+        {
+          "name": "阮弘毅",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": "亚军"
+    },
+    {
+      "id": "T004",
+      "name": "WA的一声就哭了出来",
+      "organization": "湖北工业大学",
+      "official": true,
+      "rank": 4,
+      "orgRank": 3,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "gold",
+      "members": [
+        {
+          "name": "周奕昊",
+          "gender": ""
+        },
+        {
+          "name": "陈京宇",
+          "gender": ""
+        },
+        {
+          "name": "汪浩",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": "季军"
+    },
+    {
+      "id": "T005",
+      "name": "俄亥俄州大学狂躁四把钥匙标准球员",
+      "organization": "华中科技大学",
+      "official": true,
+      "rank": 5,
+      "orgRank": 2,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "gold",
+      "members": [
+        {
+          "name": "姜泰哲",
+          "gender": ""
+        },
+        {
+          "name": "晏梓豪",
+          "gender": ""
+        },
+        {
+          "name": "孙致平",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T006",
+      "name": "爱丽丝最后一次出现是什么时候呢",
+      "organization": "中国地质大学（武汉）",
+      "official": true,
+      "rank": 6,
+      "orgRank": 4,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "gold",
+      "members": [
+        {
+          "name": "陈学海",
+          "gender": ""
+        },
+        {
+          "name": "李诏天",
+          "gender": ""
+        },
+        {
+          "name": "江烁",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T007",
+      "name": "谢谢张兵",
+      "organization": "武汉大学",
+      "official": true,
+      "rank": 7,
+      "orgRank": 5,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "洪阳",
+          "gender": ""
+        },
+        {
+          "name": "刘尚源",
+          "gender": ""
+        },
+        {
+          "name": "袁振宇",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T008",
+      "name": "焚天裂渊寂灭恐惧老登",
+      "organization": "武汉科技大学",
+      "official": true,
+      "rank": 8,
+      "orgRank": 6,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "施卓凡",
+          "gender": ""
+        },
+        {
+          "name": "王宇杰",
+          "gender": ""
+        },
+        {
+          "name": "李文卓",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T009",
+      "name": "停车坐爱枫林湾",
+      "organization": "华中科技大学",
+      "official": true,
+      "rank": 9,
+      "orgRank": 2,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "邢钦典",
+          "gender": ""
+        },
+        {
+          "name": "梁彦伦",
+          "gender": ""
+        },
+        {
+          "name": "李思远",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T010",
+      "name": "终局织梦",
+      "organization": "武汉纺织大学",
+      "official": true,
+      "rank": 10,
+      "orgRank": 7,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "孔浩杰",
+          "gender": ""
+        },
+        {
+          "name": "费文伟",
+          "gender": ""
+        },
+        {
+          "name": "曾繁昊",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T011",
+      "name": "栈中星河",
+      "organization": "武汉大学",
+      "official": true,
+      "rank": 11,
+      "orgRank": 5,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "张宇华",
+          "gender": ""
+        },
+        {
+          "name": "骆贝尔",
+          "gender": ""
+        },
+        {
+          "name": "崔啸",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T012",
+      "name": "我养了10条鱼",
+      "organization": "三峡大学",
+      "official": true,
+      "rank": 12,
+      "orgRank": 8,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "刘熙",
+          "gender": ""
+        },
+        {
+          "name": "隗嘉乐",
+          "gender": ""
+        },
+        {
+          "name": "黄桢",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T013",
+      "name": "涉海蜉蝣",
+      "organization": "湖北大学",
+      "official": true,
+      "rank": 13,
+      "orgRank": 9,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "朱俊好",
+          "gender": ""
+        },
+        {
+          "name": "万睿晞",
+          "gender": ""
+        },
+        {
+          "name": "周东升",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T014",
+      "name": "茶山刘一队",
+      "organization": "中南财经政法大学",
+      "official": true,
+      "rank": 14,
+      "orgRank": 10,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "尹泰",
+          "gender": ""
+        },
+        {
+          "name": "王超",
+          "gender": ""
+        },
+        {
+          "name": "易文博",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T015",
+      "name": "擢升",
+      "organization": "华中农业大学",
+      "official": true,
+      "rank": 15,
+      "orgRank": 11,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "胡泽宇",
+          "gender": ""
+        },
+        {
+          "name": "范继青",
+          "gender": ""
+        },
+        {
+          "name": "丁鹏宇",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T016",
+      "name": "铁花飞",
+      "organization": "长江大学",
+      "official": true,
+      "rank": 16,
+      "orgRank": 12,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "柯业鑫",
+          "gender": ""
+        },
+        {
+          "name": "张为晖",
+          "gender": ""
+        },
+        {
+          "name": "王梦磊",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T017",
+      "name": "好喜欢你怎么办",
+      "organization": "黄冈师范学院",
+      "official": true,
+      "rank": 17,
+      "orgRank": 13,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "刘闻科",
+          "gender": ""
+        },
+        {
+          "name": "张舒恒",
+          "gender": ""
+        },
+        {
+          "name": "周康禧",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T018",
+      "name": "WA出三室一厅",
+      "organization": "武汉理工大学",
+      "official": true,
+      "rank": 18,
+      "orgRank": 1,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "倪锋",
+          "gender": ""
+        },
+        {
+          "name": "罗韬",
+          "gender": ""
+        },
+        {
+          "name": "吴习凡",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T019",
+      "name": "AC誓约",
+      "organization": "武汉工程大学",
+      "official": true,
+      "rank": 19,
+      "orgRank": 14,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "王友亮",
+          "gender": ""
+        },
+        {
+          "name": "明廷栋",
+          "gender": ""
+        },
+        {
+          "name": "李德鑫",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T020",
+      "name": "漫步AC",
+      "organization": "武汉科技大学",
+      "official": true,
+      "rank": 20,
+      "orgRank": 6,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "刘思瑜",
+          "gender": ""
+        },
+        {
+          "name": "周炜皓",
+          "gender": ""
+        },
+        {
+          "name": "许良彬",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T021",
+      "name": "long，可是帝王之征啊",
+      "organization": "武汉大学",
+      "official": true,
+      "rank": 21,
+      "orgRank": 5,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "林浩",
+          "gender": ""
+        },
+        {
+          "name": "钟意",
+          "gender": ""
+        },
+        {
+          "name": "董科宏",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T022",
+      "name": "原神启动",
+      "organization": "华中科技大学",
+      "official": true,
+      "rank": 22,
+      "orgRank": 2,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "李荃鑫",
+          "gender": ""
+        },
+        {
+          "name": "林宇轩",
+          "gender": ""
+        },
+        {
+          "name": "张涵",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T023",
+      "name": "Whynot",
+      "organization": "湖北第二师范学院",
+      "official": true,
+      "rank": 23,
+      "orgRank": 15,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "陈瑞杰",
+          "gender": ""
+        },
+        {
+          "name": "魏传旭",
+          "gender": ""
+        },
+        {
+          "name": "肖梓恒",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T024",
+      "name": "闪光袋鼠哥哥亲手操办闪光袋鼠爷爷的退役仪式",
+      "organization": "华中农业大学",
+      "official": true,
+      "rank": 24,
+      "orgRank": 11,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "雷博琦",
+          "gender": ""
+        },
+        {
+          "name": "蒋志恩",
+          "gender": ""
+        },
+        {
+          "name": "苏森阳",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T025",
+      "name": "WA 无涯 AC 是岸",
+      "organization": "三峡大学",
+      "official": true,
+      "rank": 25,
+      "orgRank": 8,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "冯成宽",
+          "gender": ""
+        },
+        {
+          "name": "吴潇",
+          "gender": ""
+        },
+        {
+          "name": "吴世恺",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T026",
+      "name": "写using namespace std;的是给",
+      "organization": "武汉轻工大学",
+      "official": true,
+      "rank": 26,
+      "orgRank": 16,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "高雪峰",
+          "gender": ""
+        },
+        {
+          "name": "聂远杰",
+          "gender": ""
+        },
+        {
+          "name": "胡笑语",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T027",
+      "name": "代码复仇者",
+      "organization": "长江大学",
+      "official": true,
+      "rank": 27,
+      "orgRank": 12,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "吕奕含",
+          "gender": ""
+        },
+        {
+          "name": "贺鹏飞",
+          "gender": ""
+        },
+        {
+          "name": "杨傢涵",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T028",
+      "name": "这是一个很重要的问题",
+      "organization": "武汉大学",
+      "official": true,
+      "rank": 28,
+      "orgRank": 5,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "苏雨硕",
+          "gender": ""
+        },
+        {
+          "name": "陈明德",
+          "gender": ""
+        },
+        {
+          "name": "杨博文",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T029",
+      "name": "最有解在左",
+      "organization": "武昌理工学院",
+      "official": true,
+      "rank": 29,
+      "orgRank": 17,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "聂鑫栋",
+          "gender": ""
+        },
+        {
+          "name": "邓皓文",
+          "gender": ""
+        },
+        {
+          "name": "胡瀟涵",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T030",
+      "name": "我怎么可能成为acm高手～牡蛎牡蛎～",
+      "organization": "华中师范大学",
+      "official": true,
+      "rank": 30,
+      "orgRank": 18,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "贺向阳",
+          "gender": ""
+        },
+        {
+          "name": "徐金涛",
+          "gender": ""
+        },
+        {
+          "name": "杨璟欣",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T031",
+      "name": "三人穿墙",
+      "organization": "中国地质大学（武汉）",
+      "official": true,
+      "rank": 31,
+      "orgRank": 4,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "孔梁思成",
+          "gender": ""
+        },
+        {
+          "name": "杨佳琦",
+          "gender": ""
+        },
+        {
+          "name": "郭鲁庆",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T032",
+      "name": "远航星的告别",
+      "organization": "武汉商学院",
+      "official": true,
+      "rank": 32,
+      "orgRank": 19,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "杨文昊",
+          "gender": ""
+        },
+        {
+          "name": "许义",
+          "gender": ""
+        },
+        {
+          "name": "赵士冲",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T033",
+      "name": "我的带专生物語果然有問題",
+      "organization": "武汉软件工程职业学院",
+      "official": true,
+      "rank": 33,
+      "orgRank": 20,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "郭臣希",
+          "gender": ""
+        },
+        {
+          "name": "吴伟凡",
+          "gender": ""
+        },
+        {
+          "name": "樊洪涛",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T034",
+      "name": "直通录用",
+      "organization": "中南民族大学",
+      "official": true,
+      "rank": 34,
+      "orgRank": 21,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "李玮豪",
+          "gender": ""
+        },
+        {
+          "name": "刘宽",
+          "gender": ""
+        },
+        {
+          "name": "方可",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T035",
+      "name": "麻衣学姐想念zzz",
+      "organization": "华中师范大学",
+      "official": true,
+      "rank": 35,
+      "orgRank": 18,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "王绪毅",
+          "gender": ""
+        },
+        {
+          "name": "晏维阳",
+          "gender": ""
+        },
+        {
+          "name": "邹卓昂",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T036",
+      "name": "思考40s，爆了",
+      "organization": "华中科技大学",
+      "official": true,
+      "rank": 36,
+      "orgRank": 2,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "陈泽恺",
+          "gender": ""
+        },
+        {
+          "name": "张祎博",
+          "gender": ""
+        },
+        {
+          "name": "罗凯旋",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T037",
+      "name": "满月三人组",
+      "organization": "武汉纺织大学",
+      "official": true,
+      "rank": 37,
+      "orgRank": 7,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "范赫",
+          "gender": ""
+        },
+        {
+          "name": "钟宇峰",
+          "gender": ""
+        },
+        {
+          "name": "游为与",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T038",
+      "name": "憧憬成为AC大帝",
+      "organization": "华中农业大学",
+      "official": true,
+      "rank": 38,
+      "orgRank": 11,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "刘睿哲",
+          "gender": ""
+        },
+        {
+          "name": "阮崇轩",
+          "gender": ""
+        },
+        {
+          "name": "赵俊杰",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T039",
+      "name": "人中赤兔，马中吕布",
+      "organization": "武汉学院",
+      "official": true,
+      "rank": 39,
+      "orgRank": 22,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "刘佳",
+          "gender": ""
+        },
+        {
+          "name": "徐式飞",
+          "gender": ""
+        },
+        {
+          "name": "沈济操",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T040",
+      "name": "卖南娘的小核弹",
+      "organization": "武汉大学",
+      "official": true,
+      "rank": 40,
+      "orgRank": 5,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "肖涵卓",
+          "gender": ""
+        },
+        {
+          "name": "姚德豪",
+          "gender": ""
+        },
+        {
+          "name": "郑建瑞",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T041",
+      "name": "外经贸_",
+      "organization": "武汉纺织大学外经贸学院",
+      "official": true,
+      "rank": 41,
+      "orgRank": 23,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "程荆翔",
+          "gender": ""
+        },
+        {
+          "name": "万奇杭",
+          "gender": ""
+        },
+        {
+          "name": "肖宇轩",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T042",
+      "name": "来神了",
+      "organization": "湖北经济学院",
+      "official": true,
+      "rank": 42,
+      "orgRank": 24,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "郑奥",
+          "gender": ""
+        },
+        {
+          "name": "刘也",
+          "gender": ""
+        },
+        {
+          "name": "杨佳慧",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T043",
+      "name": "组队偷挤牛奶，喝完发现进的是公牛圈",
+      "organization": "武汉轻工大学",
+      "official": true,
+      "rank": 43,
+      "orgRank": 16,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "王福洪",
+          "gender": ""
+        },
+        {
+          "name": "汤士哲",
+          "gender": ""
+        },
+        {
+          "name": "黄宏",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T044",
+      "name": "黎卡今天吃什么",
+      "organization": "中南民族大学",
+      "official": true,
+      "rank": 44,
+      "orgRank": 21,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "张宇豪",
+          "gender": ""
+        },
+        {
+          "name": "赖臣霖",
+          "gender": ""
+        },
+        {
+          "name": "冯钰航",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T045",
+      "name": "我的ACM物语果然有问题",
+      "organization": "湖北汽车工业学院",
+      "official": true,
+      "rank": 45,
+      "orgRank": 25,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "曾宇恒",
+          "gender": ""
+        },
+        {
+          "name": "李振超",
+          "gender": ""
+        },
+        {
+          "name": "王超毅",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T046",
+      "name": "第六感",
+      "organization": "长江大学",
+      "official": true,
+      "rank": 46,
+      "orgRank": 12,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "周旭",
+          "gender": ""
+        },
+        {
+          "name": "余锶埼",
+          "gender": ""
+        },
+        {
+          "name": "林子卓",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T047",
+      "name": "我依然故我，于终幕之上",
+      "organization": "湖北中医药大学",
+      "official": true,
+      "rank": 47,
+      "orgRank": 26,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "周钲墙",
+          "gender": ""
+        },
+        {
+          "name": "阮鹏宇",
+          "gender": ""
+        },
+        {
+          "name": "李乐乐",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T048",
+      "name": "#define itn int",
+      "organization": "武汉科技大学",
+      "official": true,
+      "rank": 48,
+      "orgRank": 6,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "陈欣雨",
+          "gender": ""
+        },
+        {
+          "name": "徐天润",
+          "gender": ""
+        },
+        {
+          "name": "王洋洋",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T049",
+      "name": "春秋必成",
+      "organization": "湖北师范大学",
+      "official": true,
+      "rank": 49,
+      "orgRank": 27,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "胡玉灿",
+          "gender": ""
+        },
+        {
+          "name": "黄有阳",
+          "gender": ""
+        },
+        {
+          "name": "蔡贤军",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T050",
+      "name": "提交就是队",
+      "organization": "湖北工业大学工程技术学院",
+      "official": true,
+      "rank": 50,
+      "orgRank": 28,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "万涛",
+          "gender": ""
+        },
+        {
+          "name": "吕亚东",
+          "gender": ""
+        },
+        {
+          "name": "余宗名",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T051",
+      "name": "终解",
+      "organization": "湖北工业大学",
+      "official": true,
+      "rank": 51,
+      "orgRank": 3,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "邹奥运",
+          "gender": ""
+        },
+        {
+          "name": "廖美嘉",
+          "gender": ""
+        },
+        {
+          "name": "文子木",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T052",
+      "name": "以前见过",
+      "organization": "武汉工程大学",
+      "official": true,
+      "rank": 52,
+      "orgRank": 14,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "靳鹏凯",
+          "gender": ""
+        },
+        {
+          "name": "秦春佳",
+          "gender": ""
+        },
+        {
+          "name": "袁世涛",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T053",
+      "name": "她说只嫁打a的",
+      "organization": "华中师范大学",
+      "official": true,
+      "rank": 53,
+      "orgRank": 18,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "王宇",
+          "gender": ""
+        },
+        {
+          "name": "魏子洲",
+          "gender": ""
+        },
+        {
+          "name": "王乾骁",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T054",
+      "name": "打一辈子acm吧",
+      "organization": "武汉生物工程学院",
+      "official": true,
+      "rank": 54,
+      "orgRank": 29,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "郭洋佳",
+          "gender": ""
+        },
+        {
+          "name": "张俊豪",
+          "gender": ""
+        },
+        {
+          "name": "钟堃",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T055",
+      "name": "看！是异色炫彩气球！",
+      "organization": "江汉大学",
+      "official": true,
+      "rank": 55,
+      "orgRank": 30,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "陈子杰",
+          "gender": ""
+        },
+        {
+          "name": "王沂鹏",
+          "gender": ""
+        },
+        {
+          "name": "朱志丹",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T056",
+      "name": "享受比赛！",
+      "organization": "武汉商学院",
+      "official": true,
+      "rank": 56,
+      "orgRank": 19,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "钱梅",
+          "gender": ""
+        },
+        {
+          "name": "肖家骏",
+          "gender": ""
+        },
+        {
+          "name": "高立志",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T057",
+      "name": "呜呜呜我是爆零怪",
+      "organization": "黄冈师范学院",
+      "official": true,
+      "rank": 57,
+      "orgRank": 13,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "周雨含",
+          "gender": ""
+        },
+        {
+          "name": "夏可怡",
+          "gender": ""
+        },
+        {
+          "name": "何子怡",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T058",
+      "name": "妄想AC代偿联盟",
+      "organization": "武昌首义学院",
+      "official": true,
+      "rank": 58,
+      "orgRank": 31,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "蒋文杰",
+          "gender": ""
+        },
+        {
+          "name": "颜锦仪",
+          "gender": ""
+        },
+        {
+          "name": "姚想",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "T059",
+      "name": "如果我拿到了蓝桥杯省一她还会离开我吗",
+      "organization": "华中科技大学文华学院",
+      "official": true,
+      "rank": 59,
+      "orgRank": 32,
+      "solved": 0,
+      "penalty": 0,
+      "problems": [],
+      "medal": "",
+      "members": [
+        {
+          "name": "方鹏遥",
+          "gender": ""
+        },
+        {
+          "name": "杨周",
+          "gender": ""
+        },
+        {
+          "name": "张欣云",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    }
+  ],
+  "problems": [],
+  "awards": {
+    "gold": 6,
+    "silver": 12,
+    "bronze": 18
+  }
+}
