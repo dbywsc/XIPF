@@ -1,6 +1,5 @@
-/** Static data fetcher. In dev, reads from ../../dist/; in production, from /data/. */
-
-const DATA_BASE = import.meta.env.DEV ? '/data' : '/data'
+/** Static data fetcher. Uses Vite's BASE_URL for production. */
+const DATA_BASE = import.meta.env.BASE_URL + 'data'
 
 interface SummaryData {
   contests: ContestSummary[]
