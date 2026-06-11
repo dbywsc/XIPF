@@ -454,7 +454,7 @@ def build():
                 "official_count": sum(1 for t in c.teams if t.official),
                 "problem_count": len(c.problems),
             }
-            for c in all_contests
+            for c in sorted(all_contests, key=lambda c: c.date, reverse=True)
         ],
         "organizations": [
             {
