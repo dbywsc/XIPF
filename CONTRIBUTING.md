@@ -1,37 +1,79 @@
 # 贡献指南
 
-## 方式一：XLSX 导入（推荐）
+如果你有一场 ICPC / CCPC 比赛的数据，欢迎为 XIPF 贡献。
 
-如果你的比赛数据是 CCPC 官方 Excel 格式：
+## 零、准备工作（只需一次）
 
 ```bash
+# 1. Fork 仓库
+# 打开 https://github.com/dbywsc/XIPF 点右上角 Fork
+
+# 2. 克隆你的 fork
+git clone git@github.com:你的用户名/XIPF.git
+cd XIPF
+
+# 3. 安装依赖
 pip install openpyxl
-python scripts/xlsx_to_csv.py contest.xlsx
 ```
 
-会自动生成两个 CSV：`城市_invitational.csv` 和 `城市_provincial.csv`。
+## 一、放入比赛数据
 
-然后导入：
+将你的 `.xlsx` 文件（CCPC 官方导出的 Excel）放到任意位置，然后：
 
 ```bash
+# 转换为 CSV（自动分离邀请赛和省赛）
+python scripts/xlsx_to_csv.py /path/to/contest.xlsx
+
+# 导入邀请赛
 python scripts/import_data.py 城市_invitational.csv \
   --date=2026-05-20 \
-  --title="2026 年中国大学生程序设计竞赛全国邀请赛（城市）"
+  --title="2026 年中国大学生程序设计竞赛全国邀请赛（某某城市）"
+
+# 导入省赛（如果有）
+python scripts/import_data.py 城市_provincial.csv \
+  --date=2026-05-20 \
+  --title="第 X 届 XX 省大学生程序设计竞赛"
 ```
 
-## 方式二：Web 导入
+这会在 `contests/2026/` 下自动创建对应目录和文件。
 
-启动前端 `cd web && npm run dev`，访问「导入」页面：
+### 为什么不直接用 XLSX？
 
-1. 填写比赛名称和日期
-2. 拖拽上传 CSV 文件
-3. 点击下载两个 JSON 文件
-4. 放入 `contests/YYYY/城市_类型/` 目录
-5. 运行 `python scripts/build.py`
+XLSX 中队员名和教练混在一起，且不同比赛的列布局不同。`xlsx_to_csv.py` 会：
 
-## CSV 格式
+- 自动提取前 3 个队员，跳过教练
+- 自动识别女队（通过 Markers 列）
+- 自动计算学校排名（本校最优正式队的排名）
+- 正确分离邀请赛和省赛为两个独立榜单
 
-Tab 分隔，UTF-8 编码：
+## 二、构建验证
+
+```bash
+python scripts/build.py
+```
+
+确保没有报错。构建产物在 `dist/` 目录下，不会被提交（已在 `.gitignore` 中）。
+
+## 三、提交 PR
+
+```bash
+# 创建独立分支
+git checkout -b add-contest-2026-某某城市
+
+# 只提交比赛数据，不要提交 dist/
+git add contests/2026/某某城市_invitational/
+git add contests/2026/某某城市_provincial/
+git add organizations.json   # 如果有新增学校
+
+git commit -m "添加 2026 年某某城市邀请赛/省赛数据"
+git push origin add-contest-2026-某某城市
+```
+
+然后去你的 fork 页面，点击 **Contribute → Open Pull Request**，选择你的分支合并到 `dbywsc/XIPF` 的 `main`。
+
+## CSV 格式参考
+
+如果你需要手动修改 CSV 再导入，格式如下（Tab 分隔）：
 
 ```
 Rank	Organization Rank	Organization	Team	Member1	Member2	Member3	Unofficial	Girl	Prize
@@ -39,64 +81,31 @@ Rank	Organization Rank	Organization	Team	Member1	Member2	Member3	Unofficial	Girl
 *			中山纪念中学	烟花巷陌	胡金勇	吴同春	蔡明辉	Y	N	
 ```
 
-### 说明
+| 列 | 说明 |
+|----|------|
+| Rank | 数字 = 正式队排名，`*` = 打星队伍 |
+| Organization Rank | 校排，由工具自动计算 |
+| Organization | 学校全名 |
+| Team | 队伍名称 |
+| Member1-3 | 队员姓名 |
+| Unofficial | `Y` = 打星，`N` = 正式 |
+| Girl | `Y` = 女队 |
+| Prize | 金奖 / 银奖 / 铜奖，打星队伍留空 |
 
-- `Rank` 为 `*` 表示打星队伍，只排名不评奖
-- `Organization Rank` 由 `xlsx_to_csv.py` 自动计算（取本校最优正式队排名）
-- `Prize` 支持：金奖、银奖、铜奖，或留空
-- `Unofficial` 为 `Y` 时队伍不参与奖牌统计
-- `Girl` 为 `Y` 时标记为女队
-- 队员列（Member1-3）超过 3 人时只取前 3 人，跳过教练
-
-## 冠亚季军
-
-每场比赛自动计算校排前 3 名：
-
-- **冠军** = 校排第 1 的正式队伍
-- **亚军** = 校排第 2 的正式队伍
-- **季军** = 校排第 3 的正式队伍
-
-同一学校多支队伍参赛时，只有排名最高的那支队伍获得冠亚季军标记。
-冠军同时计入金牌统计。
-
-## 构建
-
-```bash
-python scripts/build.py
-```
-
-构建产物在 `dist/` 目录，前端直接读取。每次添加或修改比赛数据后都需要重新构建。
-
-## 学校名归一化
-
-首次导入新学校时，`build.py` 会自动调用 `bootstrap_orgs.py` 生成 `organizations.json`。学校名会根据城市前缀自动归类省市。
-
-如需手动合并别名：
-
-```json
-{
-  "id": "org-xxxxxxxx",
-  "canonical": "武汉大学",
-  "aliases": ["Wuhan University", "WHU"],
-  "province": "湖北",
-  "city": "武汉"
-}
-```
-
-## 目录命名
+## 目录结构
 
 ```
 contests/YYYY/城市_类型/
+├── contest_data.json    # 比赛数据
+└── roster.json          # 队员名册
 ```
 
-- 城市从文件名自动检测（中文或拼音均可）
+- 城市从文件名自动识别（中文或拼音均可）
 - 类型：`invitational`（邀请赛）、`provincial`（省赛）
 
-## PR 前检查
+## 注意事项
 
-```bash
-python scripts/build.py      # 确保构建成功
-python scripts/validate.py   # 校验数据格式
-```
-
-CI 也会自动运行以上检查。
+- **不要提交 `dist/` 目录**（已在 `.gitignore` 中排除）
+- 同一姓名在不同学校会自动区分为不同选手
+- 冠亚季军每场比赛自动计算，不需要手动标记
+- 女队标签从原始 Excel 的 Markers 列自动识别
