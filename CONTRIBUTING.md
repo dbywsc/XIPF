@@ -4,15 +4,20 @@
 
 ## 零、准备工作（只需一次）
 
+> **注意：必须用 `git clone`，不能下载 ZIP。** ZIP 包里没有 `.git`，无法创建分支和提交 PR。
+
 ```bash
 # 1. Fork 仓库
 # 打开 https://github.com/dbywsc/XIPF 点右上角 Fork
 
-# 2. 克隆你的 fork
+# 2. 克隆你的 fork（替换 "你的用户名"）
 git clone git@github.com:你的用户名/XIPF.git
 cd XIPF
 
-# 3. 安装依赖
+# 3. 关联上游仓库（方便后续同步）
+git remote add upstream git@github.com:dbywsc/XIPF.git
+
+# 4. 安装 Python 依赖
 pip install openpyxl
 ```
 
