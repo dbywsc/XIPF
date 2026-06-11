@@ -5,6 +5,9 @@ on:
     branches: [main, master]
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: read
   pages: write
@@ -29,7 +32,7 @@ jobs:
 
       - name: Build data
         run: |
-          pip install openpyxl
+          pip install --quiet openpyxl
           python scripts/build.py
 
       - name: Copy data to web
@@ -37,12 +40,11 @@ jobs:
           rm -rf web/public/data
           mkdir -p web/public/data
           cp -r dist/* web/public/data/
-        shell: bash
 
       - name: Build frontend
         run: |
           cd web
-          npm install
+          npm install --quiet
           npx vite build --base=/XIPF/
 
       - name: Setup Pages
