@@ -45,7 +45,10 @@ function dl(d:string,n:string){const b=new Blob([d],{type:'application/json'});c
 
 <template>
   <div class="pg">
-    <h1 class="page-title">导入数据</h1>
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
+      <h1 class="page-title" style="margin-bottom:0">导入数据</h1>
+      <a href="https://github.com/dbywsc/XIPF/blob/main/CONTRIBUTING.md" target="_blank" class="doc-link">说明文档 &rarr;</a>
+    </div>
     <div class="card" style="padding:24px;margin-bottom:24px">
       <div class="form-row">
         <label>名称 <input v-model="title" type="text" placeholder="2026 年 CCPC 全国邀请赛（城市）" class="inp" /></label>
@@ -73,6 +76,8 @@ function dl(d:string,n:string){const b=new Blob([d],{type:'application/json'});c
 
 <style scoped>
 .pg { max-width: 640px; margin: 0 auto; }
+.doc-link { font-size: 14px; color: var(--text-secondary); text-decoration: none; }
+.doc-link:hover { color: var(--primary); }
 .form-row { display: flex; gap: 16px; margin-bottom: 20px; }
 .form-row label { flex: 1; font-size: 13px; color: var(--text-secondary); font-weight: 500; }
 .inp { display: block; width: 100%; margin-top: 4px; padding: 8px 12px; font-size: 14px; border: 1px solid var(--border); border-radius: 6px; outline: none; font-family: inherit; }
