@@ -34,7 +34,13 @@ const ml: Record<string,string> = { gold:'金奖', silver:'银奖', bronze:'铜�
             <td class="num">{{ team.rank||'*' }}</td>
             <td>{{ team.organization }}</td>
             <td><span class="tname">{{ team.name }}</span><span v-if="team.girl_team" class="gtag">女队</span><span v-if="team.members.length" class="arrow">{{ expanded.has(team.id)?'▾':'▸' }}</span></td>
-            <td><span v-if="team.medal" class="badge" :class="`badge-${team.medal}`">{{ ml[team.medal] }}</span><span v-else class="no">-</span></td>
+            <td>
+              <template v-if="team.division_medals && Object.keys(team.division_medals).length">
+                <span v-for="(m, div) in team.division_medals" :key="div" class="badge" :class="`badge-${m}`" style="margin-right:4px">{{ div }}{{ ml[m] || m }}</span>
+              </template>
+              <span v-else-if="team.medal" class="badge" :class="`badge-${team.medal}`">{{ ml[team.medal] }}</span>
+              <span v-else class="no">-</span>
+            </td>
           </tr>
           <tr v-if="expanded.has(team.id) && team.members.length" class="exp">
             <td colspan="4"><div class="mems"><template v-for="m in team.members" :key="m.name"><router-link v-if="m.contestant_id" :to="`/contestant/${m.contestant_id}`" class="mlink">{{ m.name }}</router-link><span v-else class="mlink dim">{{ m.name }}</span></template></div></td>

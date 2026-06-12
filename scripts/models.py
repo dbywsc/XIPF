@@ -42,6 +42,7 @@ class Team:
     girl_team: bool = False
     medal: str = ""  # "gold", "silver", "bronze", or ""
     champion: str = ""  # "冠军", "亚军", "季军", or ""
+    division_medals: dict = field(default_factory=dict)
 
 
 @dataclass

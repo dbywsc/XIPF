@@ -197,6 +197,13 @@
       "city": ""
     },
     {
+      "id": "org-5d8dd2f7",
+      "canonical": "东莞城市学院",
+      "aliases": [],
+      "province": "广东",
+      "city": "东莞"
+    },
+    {
       "id": "org-d5ba0325",
       "canonical": "东莞外国语学校",
       "aliases": [],
@@ -946,6 +953,13 @@
       "city": "广州"
     },
     {
+      "id": "org-0adaf5f4",
+      "canonical": "华平教育",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-7c09f137",
       "canonical": "南京中医药大学",
       "aliases": [],
@@ -1105,6 +1119,34 @@
       "aliases": [],
       "province": "湖南",
       "city": "衡阳"
+    },
+    {
+      "id": "org-a33d11db",
+      "canonical": "南宁市第三中学",
+      "aliases": [],
+      "province": "广西",
+      "city": "南宁"
+    },
+    {
+      "id": "org-f9f41d7f",
+      "canonical": "南宁市第二中学",
+      "aliases": [],
+      "province": "广西",
+      "city": "南宁"
+    },
+    {
+      "id": "org-c97bff76",
+      "canonical": "南宁市良庆区琼林学校",
+      "aliases": [],
+      "province": "广西",
+      "city": "南宁"
+    },
+    {
+      "id": "org-9389dd87",
+      "canonical": "南宁师范大学",
+      "aliases": [],
+      "province": "广西",
+      "city": "南宁"
     },
     {
       "id": "org-968b5891",
@@ -2164,6 +2206,20 @@
       "city": ""
     },
     {
+      "id": "org-d23822cb",
+      "canonical": "岑溪市岑溪中学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-a3149854",
+      "canonical": "岑溪市育才实验学校",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-d8a3780f",
       "canonical": "峰城大",
       "aliases": [],
@@ -2229,6 +2285,13 @@
     {
       "id": "org-4dea4de2",
       "canonical": "广东工业大学揭阳校区",
+      "aliases": [],
+      "province": "广东",
+      "city": ""
+    },
+    {
+      "id": "org-e09af30b",
+      "canonical": "广东工商职业技术大学",
       "aliases": [],
       "province": "广东",
       "city": ""
@@ -2381,6 +2444,34 @@
       "city": "广州"
     },
     {
+      "id": "org-2055ef87",
+      "canonical": "广西中医药大学",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
+      "id": "org-57a469a0",
+      "canonical": "广西农业职业技术大学",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
+      "id": "org-26da1e97",
+      "canonical": "广西城市职业大学",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
+      "id": "org-9e1524f3",
+      "canonical": "广西外国语学院",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
       "id": "org-fe7d3f4b",
       "canonical": "广西大学",
       "aliases": [],
@@ -2388,8 +2479,36 @@
       "city": ""
     },
     {
+      "id": "org-b62f263f",
+      "canonical": "广西奇贝教育科技有限公司",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
       "id": "org-de0eb817",
       "canonical": "广西师范大学",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
+      "id": "org-0d99d2a1",
+      "canonical": "广西师范大学附属外国语学校",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
+      "id": "org-4c94bfdb",
+      "canonical": "广西民族大学",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
+      "id": "org-18842e61",
+      "canonical": "广西生态工程职业技术学院",
       "aliases": [],
       "province": "广西",
       "city": ""
@@ -2404,6 +2523,27 @@
     {
       "id": "org-c46566c1",
       "canonical": "广西科技师范学院",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
+      "id": "org-fb03fe11",
+      "canonical": "广西职业师范学院",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
+      "id": "org-c4016b2a",
+      "canonical": "广西职业技术学院",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
+      "id": "org-e01ad05a",
+      "canonical": "广西自然资源职业技术学院",
       "aliases": [],
       "province": "广西",
       "city": ""
@@ -2752,8 +2892,106 @@
       "city": "杭州"
     },
     {
+      "id": "org-bdad256d",
+      "canonical": "柳州城市职业学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-6ba9e95b",
+      "canonical": "柳州市崇远中学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-f90c7643",
+      "canonical": "柳州市景行小学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-2c066d36",
+      "canonical": "柳州市未来自定义科技培训有限公司",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-9c1156e0",
+      "canonical": "柳州铁一中学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-894d99f5",
+      "canonical": "柳州铁一中学（初中部）",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-4761cd89",
+      "canonical": "柳州高级中学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-a25d1c63",
+      "canonical": "桂林信息科技学院",
+      "aliases": [],
+      "province": "广西",
+      "city": "桂林"
+    },
+    {
+      "id": "org-d34ed4c4",
+      "canonical": "桂林学院",
+      "aliases": [],
+      "province": "广西",
+      "city": "桂林"
+    },
+    {
+      "id": "org-391a710b",
+      "canonical": "桂林市国龙外国语学校",
+      "aliases": [],
+      "province": "广西",
+      "city": "桂林"
+    },
+    {
+      "id": "org-5d4cc39b",
+      "canonical": "桂林市桂林中学",
+      "aliases": [],
+      "province": "广西",
+      "city": "桂林"
+    },
+    {
+      "id": "org-bafd9a97",
+      "canonical": "桂林理工大学",
+      "aliases": [],
+      "province": "广西",
+      "city": "桂林"
+    },
+    {
       "id": "org-89d6aa85",
       "canonical": "桂林电子科技大学",
+      "aliases": [],
+      "province": "广西",
+      "city": "桂林"
+    },
+    {
+      "id": "org-1b56ecc2",
+      "canonical": "桂林电子科技大学北海校区",
+      "aliases": [],
+      "province": "广西",
+      "city": "桂林"
+    },
+    {
+      "id": "org-65d2795f",
+      "canonical": "桂林航天工业学院",
       "aliases": [],
       "province": "广西",
       "city": "桂林"
@@ -2764,6 +3002,13 @@
       "aliases": [],
       "province": "广东",
       "city": "深圳"
+    },
+    {
+      "id": "org-8acd5b78",
+      "canonical": "梧州学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
     },
     {
       "id": "org-b1a1d999",
@@ -3351,6 +3596,20 @@
       "canonical": "河南财经政法大学",
       "aliases": [],
       "province": "河南",
+      "city": ""
+    },
+    {
+      "id": "org-3335953c",
+      "canonical": "河池学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-2afbd41b",
+      "canonical": "河池市金城江区第五初级中学",
+      "aliases": [],
+      "province": "",
       "city": ""
     },
     {
@@ -4026,6 +4285,13 @@
       "city": ""
     },
     {
+      "id": "org-751a7af9",
+      "canonical": "湖南工学院",
+      "aliases": [],
+      "province": "湖南",
+      "city": ""
+    },
+    {
       "id": "org-6ee50b02",
       "canonical": "湖南师范大学",
       "aliases": [],
@@ -4189,6 +4455,13 @@
     {
       "id": "org-b094c469",
       "canonical": "牡丹江师范学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-d197efaa",
+      "canonical": "玉林师范学院",
       "aliases": [],
       "province": "",
       "city": ""
@@ -4730,6 +5003,13 @@
       "canonical": "贵州民族大学",
       "aliases": [],
       "province": "贵州",
+      "city": ""
+    },
+    {
+      "id": "org-ac50aeb6",
+      "canonical": "贵港市荷城初级中学",
+      "aliases": [],
+      "province": "",
       "city": ""
     },
     {

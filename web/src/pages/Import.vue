@@ -20,12 +20,22 @@ function handle(e:Event){
       for(let i=hi+1;i<ls.length;i++){
         const c=ls[i].split('\t');if(!c[0]?.trim()||c[0].trim().startsWith('#')||c[0].trim().startsWith(','))continue
         const rk=parseInt(c[0])||0;const og=(c[2]||'').trim();const tn=(c[3]||'').trim()
-        const uf=tb(c[7]);const gl=tb(c[8]);const md=pm(c[9]||'')
+        const uf=tb(c[7]);const gl=tb(c[8]);let md='';const dm:Record<string,string>={}
+        const rawPrize=(c[9]||'').trim()
+        if(rawPrize){
+          if(rawPrize.includes(';')||rawPrize.includes('=')){
+            for(const p of rawPrize.split(';')){
+              const eq=p.indexOf('=');if(eq>0)dm[p.substring(0,eq).trim()]=p.substring(eq+1).trim()
+            }
+            const mo={gold:3,silver:2,bronze:1};let best=0
+            for(const m of Object.values(dm)){const v=mo[m]||0;if(v>best){best=v;md=m}}
+          }else{md=pm(rawPrize)}
+        }
         const ms:any[]=[];for(let j=4;j<=6;j++){const n=(c[j]||'').trim();if(n)ms.push({name:n,gender:''})}
         const ids=new Set(ts.map(t=>t.id));let tid:string;let ct=1
         if(rk>0){tid=`T${String(rk).padStart(3,'0')}`;while(ids.has(tid)){tid=`T${String(rk).padStart(3,'0')}_${ct}`;ct++}}
         else{tid=`T${String(ts.length+1).padStart(3,'0')}`;while(ids.has(tid)){tid=`T${String(ts.length+1).padStart(3,'0')}_${ct}`;ct++}}
-        ts.push({id:tid,name:tn,organization:og,official:!uf,rank:rk,orgRank:parseInt(c[1])||0,solved:0,penalty:0,problems:[],medal:md,members:ms,girl_team:gl,champion:''});ro.teams[tid]={members:ms,organization_override:null}
+        ts.push({id:tid,name:tn,organization:og,official:!uf,rank:rk,orgRank:parseInt(c[1])||0,solved:0,penalty:0,problems:[],medal:md,division_medals:dm,members:ms,girl_team:gl,champion:''});ro.teams[tid]={members:ms,organization_override:null}
       }
       const ob:Record<string,number>={};const obt:Record<string,string>={}
       for(const t of ts){if(!t.official||!t.organization)continue;if(!(t.organization in ob)||t.rank<ob[t.organization]){ob[t.organization]=t.rank;obt[t.organization]=t.id}}

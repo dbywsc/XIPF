@@ -23,24 +23,59 @@ pip install openpyxl
 
 ## 一、放入比赛数据
 
-将你的 `.xlsx` 文件（CCPC 官方导出的 Excel）放到任意位置，然后：
+将你的 `.xlsx` 文件（CCPC 官方导出的 Excel）放到任意位置。根据比赛类型选择对应的流程。
+
+### 情况 A：邀请赛 + 省赛 分离榜单（绝大多数比赛）
+
+榜单分列在不同 Sheet 中（如「邀请赛队伍」「省赛队伍」），自动分离并分别导入：
 
 ```bash
-# 转换为 CSV（自动分离邀请赛和省赛）
+# 1. 转换为 CSV（自动分离）
 python scripts/xlsx_to_csv.py /path/to/contest.xlsx
 
-# 导入邀请赛
+# 2. 导入邀请赛
 python scripts/import_data.py 城市_invitational.csv \
   --date=2026-05-20 \
   --title="2026 年中国大学生程序设计竞赛全国邀请赛（某某城市）"
 
-# 导入省赛（如果有）
+# 3. 导入省赛
 python scripts/import_data.py 城市_provincial.csv \
   --date=2026-05-20 \
   --title="第 X 届 XX 省大学生程序设计竞赛"
 ```
 
-这会在 `contests/2026/` 下自动创建对应目录和文件。
+最终目录：`contests/2026/城市_invitational/` 和 `contests/2026/城市_provincial/`
+
+### 情况 B：多组别合并榜单（如广西赛）
+
+所有组别（邀请赛、区内本科、专科、中小学）在同一张表中，奖牌按组别分别标记：
+
+```bash
+# 1. 用 xlsx_to_csv.py 处理 Main sheet（会自动包含所有组别）
+python scripts/xlsx_to_csv.py /path/to/contest.xlsx
+
+# 2. 对生成的主 CSV 文件，手动补全 Prize 列
+#    Prize 格式：组别1=gold; 组别2=silver
+#    例如：邀请赛组=gold; 区内本科组=silver
+
+# 3. 用 import_multi.py 导入
+python scripts/import_multi.py 城市_combined.csv \
+  --date=2026-05-31 \
+  --title="第九届广西大学生程序设计大赛暨2026中国-东盟国际大学生程序设计大赛"
+```
+
+Prize 列示例：
+
+| Rank | Org | Team | ... | Prize |
+|------|-----|------|-----|-------|
+| 1 | 长沙理工大学 | 你怎么知道... | ... | 邀请赛组=gold |
+| 22 | 广西大学 | WA了 | ... | 邀请赛组=bronze; 区内本科组=gold |
+
+- 多组别之间用 `; ` 分隔
+- 每个组别的奖牌值：`gold` / `silver` / `bronze`
+- 组别名称与原始 Excel 的 Sheet 名一致（如「邀请赛组」「区内本科组」「专科组」「中小学组」）
+
+最终目录：`contests/2026/城市_combined/`
 
 ### 为什么不直接用 XLSX？
 

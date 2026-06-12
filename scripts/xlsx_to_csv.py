@@ -26,7 +26,6 @@ CITY_NAMES = [
     "秦皇岛", "三亚", "桂林", "珠海", "佛山", "东莞", "中山", "惠州",
     "汕头", "绍兴", "芜湖", "洛阳", "开封", "湘潭", "株洲", "衡阳",
     "绵阳", "咸阳", "自贡", "包头", "齐齐哈尔",
-    "河南", "贵州", "广西", "江苏", "山东", "陕西", "吉林", "四川", "广东", "浙江",
 ]
 
 PINYIN_CITIES = {
@@ -217,12 +216,6 @@ def convert(filepath: Path, output: Path = None):
             teams = read_main_sheet(wb[sheet_name], rank_col)
             if not teams:
                 continue
-            # Merge unofficial teams only to invitational division
-            if div_suffix == "invitational" and "Unofficial" in sheet_names:
-                unofficial_teams = read_main_sheet(wb["Unofficial"], 0)
-                if unofficial_teams:
-                    teams.extend(unofficial_teams)
-                    teams.sort(key=lambda t: t["overall_rank"] if t["overall_rank"] > 0 else 9999)
             official_count = 0
             for t in teams:
                 if t["unofficial"]:

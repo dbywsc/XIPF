@@ -71,6 +71,7 @@ def parse_contest_data(filepath: Path) -> Contest:
             medal=t.get("medal", ""),
             girl_team=t.get("girl_team", False),
             champion=t.get("champion", ""),
+            division_medals=t.get("division_medals", {}),
         )
         teams.append(team)
 
@@ -454,7 +455,7 @@ def build():
                 "official_count": sum(1 for t in c.teams if t.official),
                 "problem_count": len(c.problems),
             }
-            for c in sorted(all_contests, key=lambda c: c.date, reverse=True)
+            for c in all_contests
         ],
         "organizations": [
             {
@@ -511,6 +512,7 @@ def build():
                     "medal": t.medal,
                     "champion": t.champion,
                     "girl_team": t.girl_team,
+                    "division_medals": t.division_medals,
                     "score": {"solved": t.solved, "penalty": t.penalty},
                     "members": [
                         {"name": m.name, "gender": m.gender,

@@ -1,17 +1,13 @@
-"""XIPF contest data importer — CSV only.
+"""Import combined multi-division CSV where Prize column uses format:
+  division_name=medal; division_name=medal
 
-Format: Tab-separated CSV.
-  Rank  Organization Rank  Organization  Team  Member1  Member2  Member3  Unofficial  Girl  Prize
+Example:  邀请赛组=gold; 区内本科组=silver
 
-Usage: python scripts/import_data.py contest.csv --date=2026-05-24
+Usage: python scripts/import_multi.py 广西_combined.csv --date=2026-05-31 --title="比赛名称"
 """
 
-import csv
-import json
-import re
-import sys
+import csv, json, re, sys
 from pathlib import Path
-
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTESTS_DIR = ROOT / "contests"
@@ -21,7 +17,7 @@ CITY_NAMES = [
     "西安", "长沙", "郑州", "济南", "青岛", "合肥", "南昌", "福州", "厦门",
     "沈阳", "大连", "哈尔滨", "长春", "昆明", "南宁", "贵阳", "兰州",
     "天津", "石家庄", "太原", "苏州", "徐州", "扬州", "宁波", "温州",
-    "秦皇岛", "三亚", "桂林", "珠海", "佛山", "东莞", "中山", "惠州", "河南",
+    "秦皇岛", "三亚", "桂林", "珠海", "佛山", "东莞", "中山", "惠州", "河南", "广西",
     "汕头", "绍兴", "芜湖", "洛阳", "开封", "湘潭", "株洲", "衡阳",
     "绵阳", "咸阳", "自贡", "包头", "齐齐哈尔",
 ]
@@ -39,35 +35,18 @@ PINYIN_CITIES = {
     "wenzhou": "温州", "dongguan": "东莞",
 }
 
-
 def detect_city(filename: str) -> str:
     lower = filename.lower()
     for c in CITY_NAMES:
-        if c in lower:
-            return c
-    for pinyin, chinese in PINYIN_CITIES.items():
-        if pinyin in lower:
-            return chinese
+        if c in lower: return c
+    for p, ch in PINYIN_CITIES.items():
+        if p in lower: return ch
     m = re.search(r'[（(]([^）)]+)[）)]', filename)
-    if m:
-        return m.group(1)
+    if m: return m.group(1)
     return "unknown"
 
 
-def parse_medal(v: str) -> str:
-    if not v:
-        return ""
-    s = str(v).strip().lower()
-    if "gold" in s or s in ("金奖", "金牌", "金"):
-        return "gold"
-    if "silver" in s or s in ("银奖", "银牌", "银"):
-        return "silver"
-    if "bronze" in s or s in ("铜奖", "铜牌", "铜"):
-        return "bronze"
-    return ""
-
-
-def import_csv(filepath: Path, year: str, contest_date: str, contest_title: str = "") -> dict:
+def import_csv(filepath: Path, year: str, contest_date: str, contest_title: str = ""):
     teams = []
     roster = {"teams": {}}
     seen_ids = set()
@@ -81,17 +60,14 @@ def import_csv(filepath: Path, year: str, contest_date: str, contest_title: str 
         if row and str(row[0]).strip() == "Rank":
             header_row = i
             break
-
     if header_row < 0:
-        print("Error: Could not find header row starting with 'Rank'")
+        print("Error: Could not find header row")
         return None
 
     for row in rows[header_row + 1:]:
-        if not row or not any(cell.strip() for cell in row):
-            continue
+        if not row or not any(cell.strip() for cell in row): continue
         first = str(row[0]).strip()
-        if first.startswith("#") or first.startswith(","):
-            continue
+        if first.startswith("#") or first.startswith(","): continue
 
         rank = int(first) if first.isdigit() else 0
         org_rank = int(row[1].strip()) if len(row) > 1 and row[1].strip().isdigit() else 0
@@ -105,7 +81,23 @@ def import_csv(filepath: Path, year: str, contest_date: str, contest_title: str 
 
         unofficial = str(row[7]).strip().upper() == "Y" if len(row) > 7 and row[7].strip() else False
         girl_team = str(row[8]).strip().upper() == "Y" if len(row) > 8 and row[8].strip() else False
-        medal = parse_medal(row[9]) if len(row) > 9 else ""
+        raw_prize = str(row[9]).strip() if len(row) > 9 else ""
+
+        # Parse semicolon-separated division medals
+        division_medals = {}
+        if raw_prize:
+            for part in raw_prize.split(";"):
+                p = part.strip()
+                if "=" in p:
+                    div, m = p.split("=", 1)
+                    division_medals[div.strip()] = m.strip()
+
+        # Best medal wins
+        medal_order = {"gold": 3, "silver": 2, "bronze": 1}
+        medal = ""
+        for m in division_medals.values():
+            if medal_order.get(m, 0) > medal_order.get(medal, 0):
+                medal = m
 
         tid = f"T{rank:03d}" if rank > 0 else f"T{len(teams) + 1:03d}"
         base_tid = tid
@@ -120,23 +112,20 @@ def import_csv(filepath: Path, year: str, contest_date: str, contest_title: str 
             "official": not unofficial, "rank": rank, "org_rank": org_rank,
             "solved": 0, "penalty": 0, "problems": [],
             "medal": medal, "members": members, "girl_team": girl_team,
+            "division_medals": division_medals,
             "champion": "",
         })
         roster["teams"][tid] = {"members": members, "organization_override": None}
 
-    # Compute champion/亚军/季军: only the best-ranked team per org
-    # For each org, find the official team with the lowest rank
-    org_best: dict[str, int] = {}  # org -> best rank
-    org_best_team: dict[str, str] = {}  # org -> team id of best team
+    # Champion: best team per org
+    org_best: dict[str, int] = {}
+    org_best_team: dict[str, str] = {}
     for t in teams:
-        if not t["official"] or not t["organization"]:
-            continue
+        if not t["official"] or not t["organization"]: continue
         org = t["organization"]
         if org not in org_best or t["rank"] < org_best[org]:
             org_best[org] = t["rank"]
             org_best_team[org] = t["id"]
-
-    # Sort orgs by best rank
     sorted_orgs = sorted(org_best.items(), key=lambda x: x[1])
     champion_labels = {1: "冠军", 2: "亚军", 3: "季军"}
     for i, (org, _) in enumerate(sorted_orgs[:3]):
@@ -161,59 +150,30 @@ def import_csv(filepath: Path, year: str, contest_date: str, contest_title: str 
 
 def main():
     if len(sys.argv) < 2:
-        print(f"Usage: python {sys.argv[0]} path/to/file.csv --date=YYYY-MM-DD [--year YYYY]")
-        print()
-        print("CSV format (Tab-separated):")
-        print("  Rank  Organization Rank  Organization  Team  Member1  Member2  Member3  Unofficial  Girl  Prize")
+        print(f"Usage: python {sys.argv[0]} file.csv --date=YYYY-MM-DD --title='名称'")
         sys.exit(1)
 
     filepath = Path(sys.argv[1]).resolve()
-    if not filepath.exists():
-        print(f"File not found: {filepath}")
-        sys.exit(1)
+    if not filepath.exists(): print(f"File not found: {filepath}"); sys.exit(1)
 
-    year = "2026"
-    contest_date = ""
-    contest_title = ""
+    year = "2026"; contest_date = ""; contest_title = ""
     for i, arg in enumerate(sys.argv):
-        if arg.startswith("--year="):
-            year = arg.split("=", 1)[1]
-        elif arg == "--year" and i + 1 < len(sys.argv):
-            year = sys.argv[i + 1]
-        elif arg.startswith("--date="):
-            contest_date = arg.split("=", 1)[1]
-        elif arg == "--date" and i + 1 < len(sys.argv):
-            contest_date = sys.argv[i + 1]
-        elif arg.startswith("--title="):
-            contest_title = arg.split("=", 1)[1]
-        elif arg == "--title" and i + 1 < len(sys.argv):
-            contest_title = sys.argv[i + 1]
+        if arg.startswith("--year="): year = arg.split("=", 1)[1]
+        elif arg == "--year" and i + 1 < len(sys.argv): year = sys.argv[i + 1]
+        elif arg.startswith("--date="): contest_date = arg.split("=", 1)[1]
+        elif arg == "--date" and i + 1 < len(sys.argv): contest_date = sys.argv[i + 1]
+        elif arg.startswith("--title="): contest_title = arg.split("=", 1)[1]
+        elif arg == "--title" and i + 1 < len(sys.argv): contest_title = sys.argv[i + 1]
 
-    if not contest_date:
-        print("Warning: no --date provided. Use --date=YYYY-MM-DD")
-
-    filename = filepath.stem
-    city = detect_city(filename)
-    print(f"Processing: {filepath.name}")
+    filename = filepath.stem; city = detect_city(filename)
+    print(f"Multi-division import: {filepath.name}")
     print(f"  City: {city}, Date: {contest_date or 'not set'}")
 
     result = import_csv(filepath, year, contest_date, contest_title)
-    if result is None:
-        sys.exit(1)
+    if result is None: sys.exit(1)
 
     contest_data, roster = result
-
-    lower = filename.lower()
-    if "邀请赛" in lower or "invitational" in lower:
-        slug = f"{city}_invitational"
-    elif "省赛" in lower or "provincial" in lower:
-        slug = f"{city}_provincial"
-    elif "打星" in lower or "unofficial" in lower:
-        slug = f"{city}_unofficial"
-    else:
-        slug = city
-
-    contest_dir = CONTESTS_DIR / year / slug
+    contest_dir = CONTESTS_DIR / year / f"{city}_combined"
     contest_dir.mkdir(parents=True, exist_ok=True)
 
     with open(contest_dir / "contest_data.json", "w", encoding="utf-8") as f:
@@ -221,9 +181,18 @@ def main():
     with open(contest_dir / "roster.json", "w", encoding="utf-8") as f:
         json.dump(roster, f, ensure_ascii=False, indent=2)
 
+    # Division stats
+    div_stats = {}
+    for t in contest_data["teams"]:
+        for div, m in t.get("division_medals", {}).items():
+            if div not in div_stats: div_stats[div] = {"gold": 0, "silver": 0, "bronze": 0, "count": 0}
+            div_stats[div][m] += 1
+            div_stats[div]["count"] += 1
+
     print(f"  -> {contest_dir.relative_to(CONTESTS_DIR)}")
-    print(f"     {len(contest_data['teams'])} teams, "
-          f"G{contest_data['awards']['gold']}/S{contest_data['awards']['silver']}/B{contest_data['awards']['bronze']}")
+    print(f"     {len(contest_data['teams'])} teams, G{contest_data['awards']['gold']}/S{contest_data['awards']['silver']}/B{contest_data['awards']['bronze']}")
+    for div, stats in sorted(div_stats.items()):
+        print(f"     {div}: {stats['count']} teams, G{stats['gold']}/S{stats['silver']}/B{stats['bronze']}")
 
 
 if __name__ == "__main__":
