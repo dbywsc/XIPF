@@ -1,11 +1,32 @@
 {
   "organizations": [
     {
+      "id": "511a出题组",
+      "canonical": "511A出题组",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-bd221fd1",
+      "canonical": "三峡大学",
+      "aliases": [],
+      "province": "湖北",
+      "city": "宜昌"
+    },
+    {
       "id": "org-7632372c",
       "canonical": "三明学院",
       "aliases": [],
       "province": "",
       "city": ""
+    },
+    {
+      "id": "org-3dd3d364",
+      "canonical": "上海交通大学",
+      "aliases": [],
+      "province": "上海",
+      "city": "上海"
     },
     {
       "id": "org-8b01c483",
@@ -15,8 +36,22 @@
       "city": "上海"
     },
     {
+      "id": "org-a573e50f",
+      "canonical": "上海工程技术大学",
+      "aliases": [],
+      "province": "上海",
+      "city": "上海"
+    },
+    {
       "id": "org-cc70247b",
       "canonical": "上海师范大学",
+      "aliases": [],
+      "province": "上海",
+      "city": "上海"
+    },
+    {
+      "id": "org-bf5f26f6",
+      "canonical": "上海应用技术大学",
       "aliases": [],
       "province": "上海",
       "city": "上海"
@@ -36,8 +71,36 @@
       "city": "上海"
     },
     {
+      "id": "org-a2ba21f8",
+      "canonical": "上海海洋大学",
+      "aliases": [],
+      "province": "上海",
+      "city": "上海"
+    },
+    {
+      "id": "org-db281589",
+      "canonical": "上海理工大学",
+      "aliases": [],
+      "province": "上海",
+      "city": "上海"
+    },
+    {
+      "id": "org-1839e5d8",
+      "canonical": "上海电力大学",
+      "aliases": [],
+      "province": "上海",
+      "city": "上海"
+    },
+    {
       "id": "org-e98cc835",
       "canonical": "上海第二工业大学",
+      "aliases": [],
+      "province": "上海",
+      "city": "上海"
+    },
+    {
+      "id": "org-a0aaab6e",
+      "canonical": "上海财经大学浙江学院",
       "aliases": [],
       "province": "上海",
       "city": "上海"
@@ -78,6 +141,27 @@
       "city": ""
     },
     {
+      "id": "org-998acbd3",
+      "canonical": "东北师范大学附属中学",
+      "aliases": [],
+      "province": "辽宁",
+      "city": ""
+    },
+    {
+      "id": "org-0e72b506",
+      "canonical": "东北林业大学",
+      "aliases": [],
+      "province": "辽宁",
+      "city": ""
+    },
+    {
+      "id": "org-8f6edcc3",
+      "canonical": "东北电力大学",
+      "aliases": [],
+      "province": "辽宁",
+      "city": ""
+    },
+    {
       "id": "org-4226da09",
       "canonical": "东北石油大学秦皇岛校区",
       "aliases": [],
@@ -92,11 +176,32 @@
       "city": "南昌"
     },
     {
+      "id": "org-0a26ec65",
+      "canonical": "东南大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
+      "id": "org-d5ba0325",
+      "canonical": "东莞外国语学校",
+      "aliases": [],
+      "province": "广东",
+      "city": "东莞"
+    },
+    {
       "id": "org-b8a48c18",
       "canonical": "东莞理工学院",
       "aliases": [],
       "province": "广东",
       "city": "东莞"
+    },
+    {
+      "id": "org-d33751c2",
+      "canonical": "个人参赛",
+      "aliases": [],
+      "province": "",
+      "city": ""
     },
     {
       "id": "org-359ce90a",
@@ -111,6 +216,20 @@
       "aliases": [],
       "province": "山西",
       "city": "太原"
+    },
+    {
+      "id": "org-ecf8c231",
+      "canonical": "中南大学",
+      "aliases": [],
+      "province": "湖南",
+      "city": "长沙"
+    },
+    {
+      "id": "org-a63356f4",
+      "canonical": "中南林业科技大学",
+      "aliases": [],
+      "province": "湖南",
+      "city": "长沙"
     },
     {
       "id": "org-abf16b19",
@@ -141,6 +260,13 @@
       "city": "北京"
     },
     {
+      "id": "org-cfc188ba",
+      "canonical": "中国人民解放军网络空间部队信息工程大学",
+      "aliases": [],
+      "province": "北京",
+      "city": ""
+    },
+    {
       "id": "org-5e9b9be8",
       "canonical": "中国人民警察大学",
       "aliases": [],
@@ -155,12 +281,26 @@
       "city": "北京"
     },
     {
+      "id": "org-50bc57bb",
+      "canonical": "中国农业大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
       "id": "org-5b57873c",
       "canonical": "中国地质大学（北京）",
       "aliases": [],
       "province": "北京",
       "city": "北京"
-    }, 
+    },
+    {
+      "id": "org-e1310a8f",
+      "canonical": "中国地质大学（武汉）",
+      "aliases": [],
+      "province": "北京",
+      "city": ""
+    },
     {
       "id": "org-fe88e6e7",
       "canonical": "中国民航大学",
@@ -190,11 +330,74 @@
       "city": "徐州"
     },
     {
+      "id": "org-16e41468",
+      "canonical": "中国矿业大学徐海学院",
+      "aliases": [],
+      "province": "江苏",
+      "city": "徐州"
+    },
+    {
+      "id": "org-41af3129",
+      "canonical": "中国矿业大学（北京）",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-5a23d396",
+      "canonical": "中国科学技术大学",
+      "aliases": [],
+      "province": "安徽",
+      "city": "合肥"
+    },
+    {
+      "id": "org-b473cd9f",
+      "canonical": "中国科学院大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-f3485372",
+      "canonical": "中国计量大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "杭州"
+    },
+    {
+      "id": "org-b520cff5",
+      "canonical": "中国计量大学现代科技学院",
+      "aliases": [],
+      "province": "北京",
+      "city": ""
+    },
+    {
+      "id": "org-675f3be9",
+      "canonical": "中央民大附中、贵阳一中",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-2f01ae35",
       "canonical": "中央民族大学",
       "aliases": [],
       "province": "北京",
       "city": "北京"
+    },
+    {
+      "id": "org-0949a196",
+      "canonical": "中山大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-04adee16",
+      "canonical": "中山市中山纪念中学",
+      "aliases": [],
+      "province": "",
+      "city": ""
     },
     {
       "id": "org-b6c0865a",
@@ -209,6 +412,20 @@
       "aliases": [],
       "province": "",
       "city": ""
+    },
+    {
+      "id": "org-a8ae5eaf",
+      "canonical": "丽水职业技术学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-aad6ca0c",
+      "canonical": "乐山师范学院",
+      "aliases": [],
+      "province": "四川",
+      "city": "乐山"
     },
     {
       "id": "org-57e96262",
@@ -232,6 +449,34 @@
       "city": "江门"
     },
     {
+      "id": "org-4b1fd0f1",
+      "canonical": "井冈山大学",
+      "aliases": [],
+      "province": "江西",
+      "city": "井冈山"
+    },
+    {
+      "id": "org-d3880b8d",
+      "canonical": "佛山大学",
+      "aliases": [],
+      "province": "广东",
+      "city": "佛山"
+    },
+    {
+      "id": "org-0c146a72",
+      "canonical": "佛山市南海区石门中学",
+      "aliases": [],
+      "province": "广东",
+      "city": "佛山"
+    },
+    {
+      "id": "org-b94805c6",
+      "canonical": "佳木斯大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-c808f0a8",
       "canonical": "保定学院",
       "aliases": [],
@@ -253,6 +498,20 @@
       "city": "郑州"
     },
     {
+      "id": "org-00d098d7",
+      "canonical": "信阳农林学院",
+      "aliases": [],
+      "province": "河南",
+      "city": "信阳"
+    },
+    {
+      "id": "org-42473e45",
+      "canonical": "信阳学院",
+      "aliases": [],
+      "province": "河南",
+      "city": "信阳"
+    },
+    {
       "id": "org-76f5c4c9",
       "canonical": "信阳师范大学",
       "aliases": [],
@@ -267,8 +526,43 @@
       "city": "兰州"
     },
     {
+      "id": "org-5070e1e8",
+      "canonical": "兰州理工大学",
+      "aliases": [],
+      "province": "甘肃",
+      "city": "兰州"
+    },
+    {
+      "id": "org-65543cc4",
+      "canonical": "内江师范学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-4714c497",
+      "canonical": "内蒙古农业大学",
+      "aliases": [],
+      "province": "内蒙古",
+      "city": ""
+    },
+    {
+      "id": "org-23d2a7bc",
+      "canonical": "内蒙古农业大学职业技术学院",
+      "aliases": [],
+      "province": "内蒙古",
+      "city": ""
+    },
+    {
       "id": "org-22dcc272",
       "canonical": "内蒙古大学",
+      "aliases": [],
+      "province": "内蒙古",
+      "city": ""
+    },
+    {
+      "id": "org-2f4570f4",
+      "canonical": "内蒙古大学创业学院",
       "aliases": [],
       "province": "内蒙古",
       "city": ""
@@ -281,8 +575,71 @@
       "city": ""
     },
     {
+      "id": "org-023521d5",
+      "canonical": "内蒙古师范大学",
+      "aliases": [],
+      "province": "内蒙古",
+      "city": ""
+    },
+    {
+      "id": "org-0f99bba6",
+      "canonical": "内蒙古电子信息职业技术学院",
+      "aliases": [],
+      "province": "内蒙古",
+      "city": ""
+    },
+    {
+      "id": "org-d400aa01",
+      "canonical": "内蒙古科技大学包头医学院",
+      "aliases": [],
+      "province": "内蒙古",
+      "city": ""
+    },
+    {
+      "id": "org-2588ae43",
+      "canonical": "内蒙古科技大学包头师范学院",
+      "aliases": [],
+      "province": "内蒙古",
+      "city": ""
+    },
+    {
+      "id": "org-79ad2556",
+      "canonical": "内蒙古财经大学",
+      "aliases": [],
+      "province": "内蒙古",
+      "city": ""
+    },
+    {
+      "id": "org-8b7b4256",
+      "canonical": "内蒙古鸿德文理学院",
+      "aliases": [],
+      "province": "内蒙古",
+      "city": ""
+    },
+    {
+      "id": "org-8b407d3f",
+      "canonical": "凯里学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-4cd37fff",
       "canonical": "北京中医药大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-7d9c4b33",
+      "canonical": "北京交通大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-9cb0c375",
+      "canonical": "北京交通大学威海校区",
       "aliases": [],
       "province": "北京",
       "city": "北京"
@@ -295,8 +652,29 @@
       "city": "北京"
     },
     {
+      "id": "org-60835fac",
+      "canonical": "北京八中乌兰察布分校",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
       "id": "org-10f74b5b",
       "canonical": "北京化工大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-60f05332",
+      "canonical": "北京印刷学院",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-31bd197a",
+      "canonical": "北京城市学院",
       "aliases": [],
       "province": "北京",
       "city": "北京"
@@ -309,6 +687,97 @@
       "city": "北京"
     },
     {
+      "id": "org-6f705684",
+      "canonical": "北京工业大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-48b0f4f8",
+      "canonical": "北京市第八十中学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-4ad256b2",
+      "canonical": "北京师范大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-c015655f",
+      "canonical": "北京师范大学珠海校区",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-5619ae65",
+      "canonical": "北京建筑大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-8e934950",
+      "canonical": "北京林业大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-9fc7ee8b",
+      "canonical": "北京理工大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-35602936",
+      "canonical": "北京理工大学珠海学院",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-f209d4bf",
+      "canonical": "北京电子科技学院",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-a0555f09",
+      "canonical": "北京科技大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-610329b4",
+      "canonical": "北京第二外国语学院成都附属中学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-667600d3",
+      "canonical": "北京航空航天大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "org-851871a6",
+      "canonical": "北京语言大学",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
+    },
+    {
       "id": "org-72df0792",
       "canonical": "北京邮电大学",
       "aliases": [],
@@ -316,10 +785,45 @@
       "city": "北京"
     },
     {
+      "id": "org-0eb23a92",
+      "canonical": "北华大学",
+      "aliases": [],
+      "province": "吉林",
+      "city": "吉林"
+    },
+    {
       "id": "org-320dc29f",
       "canonical": "北华航天工业学院",
       "aliases": [],
       "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-1d718269",
+      "canonical": "北师香港浸会大学",
+      "aliases": [],
+      "province": "广东",
+      "city": "珠海"
+    },
+    {
+      "id": "org-bb49baaf",
+      "canonical": "北方工业大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-3b0170e0",
+      "canonical": "北部湾大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-66b0a9c4",
+      "canonical": "华东交通大学",
+      "aliases": [],
+      "province": "上海",
       "city": ""
     },
     {
@@ -351,6 +855,20 @@
       "city": "武汉"
     },
     {
+      "id": "org-30bce214",
+      "canonical": "华中科技大学",
+      "aliases": [],
+      "province": "湖北",
+      "city": "武汉"
+    },
+    {
+      "id": "org-46c43f1b",
+      "canonical": "华中科技大学文华学院",
+      "aliases": [],
+      "province": "湖北",
+      "city": ""
+    },
+    {
       "id": "org-f89b5b92",
       "canonical": "华侨大学",
       "aliases": [],
@@ -379,11 +897,39 @@
       "city": ""
     },
     {
+      "id": "org-6eb3a5a6",
+      "canonical": "华南农业大学",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
       "id": "org-230ff7b3",
       "canonical": "华南师范大学",
       "aliases": [],
       "province": "广东",
       "city": "广州"
+    },
+    {
+      "id": "org-7ca970d2",
+      "canonical": "华南师范大学附属中学",
+      "aliases": [],
+      "province": "广东",
+      "city": ""
+    },
+    {
+      "id": "org-57341c84",
+      "canonical": "华南理工大学",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "org-24c671de",
+      "canonical": "南京信息工程大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
     },
     {
       "id": "org-ce1d99b2",
@@ -393,8 +939,43 @@
       "city": "南京"
     },
     {
+      "id": "org-ce1920d9",
+      "canonical": "南京外国语学校",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
+      "id": "org-723e13fd",
+      "canonical": "南京大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
+      "id": "org-63e9a3ad",
+      "canonical": "南京大学苏州校区",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
       "id": "org-410ef1c1",
       "canonical": "南京工业职业技术大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
+      "id": "org-5fb0c64d",
+      "canonical": "南京工程学院",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
+      "id": "org-ea9ead3c",
+      "canonical": "南京市第一中学",
       "aliases": [],
       "province": "江苏",
       "city": "南京"
@@ -414,8 +995,22 @@
       "city": "南京"
     },
     {
+      "id": "org-7ae34b9d",
+      "canonical": "南京理工大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
       "id": "org-cf40587b",
       "canonical": "南京理工大学紫金学院",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
+      "id": "org-3f0f523b",
+      "canonical": "南京航空航天大学",
       "aliases": [],
       "province": "江苏",
       "city": "南京"
@@ -449,8 +1044,29 @@
       "city": ""
     },
     {
+      "id": "org-b6dda14d",
+      "canonical": "南方科技大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-14aab9a2",
       "canonical": "南昌大学",
+      "aliases": [],
+      "province": "江西",
+      "city": "南昌"
+    },
+    {
+      "id": "org-9daf2910",
+      "canonical": "南昌理工学院",
+      "aliases": [],
+      "province": "江西",
+      "city": "南昌"
+    },
+    {
+      "id": "org-51537b8f",
+      "canonical": "南昌航空大学",
       "aliases": [],
       "province": "江西",
       "city": "南昌"
@@ -519,6 +1135,20 @@
       "city": "台州"
     },
     {
+      "id": "org-4f3d9b8e",
+      "canonical": "台州科技职业学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "台州"
+    },
+    {
+      "id": "org-9ab06ba2",
+      "canonical": "台州职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "台州"
+    },
+    {
       "id": "org-4aa63f7e",
       "canonical": "合肥大学",
       "aliases": [],
@@ -526,8 +1156,43 @@
       "city": "合肥"
     },
     {
+      "id": "org-3fe75c74",
+      "canonical": "合肥工业大学",
+      "aliases": [],
+      "province": "安徽",
+      "city": "合肥"
+    },
+    {
+      "id": "org-8763b23d",
+      "canonical": "合肥工业大学宣城校区",
+      "aliases": [],
+      "province": "安徽",
+      "city": "合肥"
+    },
+    {
+      "id": "org-3cb17d45",
+      "canonical": "吉利学院",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-32531341",
+      "canonical": "吉林农业大学",
+      "aliases": [],
+      "province": "吉林",
+      "city": ""
+    },
+    {
       "id": "org-76ad9b41",
       "canonical": "吉林农业科技学院",
+      "aliases": [],
+      "province": "吉林",
+      "city": ""
+    },
+    {
+      "id": "org-eeaa938b",
+      "canonical": "吉林外国语大学",
       "aliases": [],
       "province": "吉林",
       "city": ""
@@ -540,6 +1205,55 @@
       "city": ""
     },
     {
+      "id": "org-0656bc46",
+      "canonical": "吉林工程技术师范学院",
+      "aliases": [],
+      "province": "吉林",
+      "city": ""
+    },
+    {
+      "id": "org-c93cec53",
+      "canonical": "吉林师范大学",
+      "aliases": [],
+      "province": "吉林",
+      "city": ""
+    },
+    {
+      "id": "org-51265e41",
+      "canonical": "吉林师范大学博达学院",
+      "aliases": [],
+      "province": "吉林",
+      "city": ""
+    },
+    {
+      "id": "org-405394d5",
+      "canonical": "吉林建筑大学",
+      "aliases": [],
+      "province": "吉林",
+      "city": ""
+    },
+    {
+      "id": "org-abda90ee",
+      "canonical": "吉林建筑科技学院",
+      "aliases": [],
+      "province": "吉林",
+      "city": ""
+    },
+    {
+      "id": "org-d0b04930",
+      "canonical": "吉林毓文中学",
+      "aliases": [],
+      "province": "吉林",
+      "city": ""
+    },
+    {
+      "id": "org-3138aa1d",
+      "canonical": "吉林财经大学",
+      "aliases": [],
+      "province": "吉林",
+      "city": ""
+    },
+    {
       "id": "org-64801675",
       "canonical": "同济大学",
       "aliases": [],
@@ -547,11 +1261,123 @@
       "city": "上海"
     },
     {
+      "id": "org-d72ff421",
+      "canonical": "吴老师信奥",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-40a61c76",
       "canonical": "周口师范学院",
       "aliases": [],
       "province": "",
       "city": ""
+    },
+    {
+      "id": "org-c3ff8996",
+      "canonical": "呼伦贝尔学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-540dbd31",
+      "canonical": "呼和浩特市第二中学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-341f4079",
+      "canonical": "呼和浩特市第六中学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-b0627ea0",
+      "canonical": "呼和浩特民族学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-2ea5b449",
+      "canonical": "哈尔滨华德学院",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": "哈尔滨"
+    },
+    {
+      "id": "org-43cb678d",
+      "canonical": "哈尔滨商业大学",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": "哈尔滨"
+    },
+    {
+      "id": "org-1c48bb56",
+      "canonical": "哈尔滨学院",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": "哈尔滨"
+    },
+    {
+      "id": "org-c4afb076",
+      "canonical": "哈尔滨工业大学",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": "哈尔滨"
+    },
+    {
+      "id": "org-6f79e599",
+      "canonical": "哈尔滨工业大学（威海）",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": "哈尔滨"
+    },
+    {
+      "id": "org-6402f6f0",
+      "canonical": "哈尔滨工业大学（深圳）",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": "哈尔滨"
+    },
+    {
+      "id": "org-d8d78e45",
+      "canonical": "哈尔滨工程大学",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": "哈尔滨"
+    },
+    {
+      "id": "org-b2c25c12",
+      "canonical": "哈尔滨师范大学",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": "哈尔滨"
+    },
+    {
+      "id": "org-c77c513c",
+      "canonical": "哈尔滨理工大学",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": "哈尔滨"
+    },
+    {
+      "id": "org-e4baf1da",
+      "canonical": "哈尔滨理工大学（威海）",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": "哈尔滨"
+    },
+    {
+      "id": "org-11a2fc6e",
+      "canonical": "哈尔滨金融学院",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": "哈尔滨"
     },
     {
       "id": "org-5169e73d",
@@ -575,6 +1401,20 @@
       "city": ""
     },
     {
+      "id": "org-9e76485d",
+      "canonical": "商丘学院",
+      "aliases": [],
+      "province": "河南",
+      "city": "商丘"
+    },
+    {
+      "id": "org-e48de5b8",
+      "canonical": "商丘工学院",
+      "aliases": [],
+      "province": "河南",
+      "city": "商丘"
+    },
+    {
       "id": "org-11f1f643",
       "canonical": "商丘师范学院",
       "aliases": [],
@@ -582,10 +1422,122 @@
       "city": "商丘"
     },
     {
+      "id": "org-1d049fd2",
+      "canonical": "嘉兴南湖学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-cd2115d1",
       "canonical": "嘉兴大学",
       "aliases": [],
       "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-d209f350",
+      "canonical": "嘉兴职业技术学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-27076541",
+      "canonical": "嘉应学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-088e82ca",
+      "canonical": "四川信息职业技术学院",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-332abf58",
+      "canonical": "四川农业大学",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-e4e682b3",
+      "canonical": "四川大学",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-471e2694",
+      "canonical": "四川大学锦江学院",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-f5031de3",
+      "canonical": "四川工商学院",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-b8555f0d",
+      "canonical": "四川师范大学",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-c60b81d0",
+      "canonical": "四川民族学院",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-5e25fce6",
+      "canonical": "四川现代职业学院",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-895c76d3",
+      "canonical": "四川省成都市树德中学",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-835649b4",
+      "canonical": "四川省成都市第七中学",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-946d0b17",
+      "canonical": "四川省绵阳中学",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-9db153f5",
+      "canonical": "四川航天职业技术学院",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
+      "id": "org-336dbd26",
+      "canonical": "四川轻化工大学",
+      "aliases": [],
+      "province": "四川",
       "city": ""
     },
     {
@@ -596,8 +1548,43 @@
       "city": "长沙"
     },
     {
+      "id": "org-b0510ef4",
+      "canonical": "复旦大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-8ad6cb3a",
+      "canonical": "大庆市兰德学校",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-6540da60",
+      "canonical": "大庆师范学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-a8d96f5a",
+      "canonical": "大连东软信息学院",
+      "aliases": [],
+      "province": "辽宁",
+      "city": "大连"
+    },
+    {
       "id": "org-02dc8b61",
       "canonical": "大连交通大学",
+      "aliases": [],
+      "province": "辽宁",
+      "city": "大连"
+    },
+    {
+      "id": "org-95df7027",
+      "canonical": "大连外国语大学",
       "aliases": [],
       "province": "辽宁",
       "city": "大连"
@@ -629,6 +1616,20 @@
       "aliases": [],
       "province": "辽宁",
       "city": "大连"
+    },
+    {
+      "id": "org-5601b963",
+      "canonical": "大连理工大学盘锦校区",
+      "aliases": [],
+      "province": "辽宁",
+      "city": "大连"
+    },
+    {
+      "id": "org-8c4409b2",
+      "canonical": "天元公学",
+      "aliases": [],
+      "province": "",
+      "city": ""
     },
     {
       "id": "org-b9e803ee",
@@ -666,6 +1667,13 @@
       "city": "天津"
     },
     {
+      "id": "org-b80fdb0a",
+      "canonical": "天津职业技术师范大学",
+      "aliases": [],
+      "province": "天津",
+      "city": "天津"
+    },
+    {
       "id": "org-43196867",
       "canonical": "太原理工大学",
       "aliases": [],
@@ -694,8 +1702,85 @@
       "city": "宁德"
     },
     {
+      "id": "org-e1a820e0",
+      "canonical": "宁波城市职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "宁波"
+    },
+    {
+      "id": "org-f6a99643",
+      "canonical": "宁波大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "宁波"
+    },
+    {
+      "id": "org-88061a04",
+      "canonical": "宁波大学科学技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "宁波"
+    },
+    {
+      "id": "org-d29a1143",
+      "canonical": "宁波工程学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "宁波"
+    },
+    {
+      "id": "org-5ffdcbee",
+      "canonical": "宁波市效实中学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "宁波"
+    },
+    {
+      "id": "org-b1f93efd",
+      "canonical": "宁波市镇海中学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "宁波"
+    },
+    {
+      "id": "org-1aef9702",
+      "canonical": "宁波市镇海蛟川书院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "宁波"
+    },
+    {
+      "id": "org-250dc4e3",
+      "canonical": "宁波幼儿师范高等专科学校",
+      "aliases": [],
+      "province": "浙江",
+      "city": "宁波"
+    },
+    {
+      "id": "org-7e29563e",
+      "canonical": "宁波职业技术大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "宁波"
+    },
+    {
+      "id": "org-6e460f72",
+      "canonical": "宁波财经学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "宁波"
+    },
+    {
       "id": "org-df08ca1e",
       "canonical": "安徽农业大学",
+      "aliases": [],
+      "province": "安徽",
+      "city": ""
+    },
+    {
+      "id": "org-8752c1e8",
+      "canonical": "安徽工业大学",
       "aliases": [],
       "province": "安徽",
       "city": ""
@@ -736,6 +1821,13 @@
       "city": ""
     },
     {
+      "id": "org-88d41589",
+      "canonical": "宜宾学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-675db9f0",
       "canonical": "宜春学院",
       "aliases": [],
@@ -743,8 +1835,43 @@
       "city": "宜春"
     },
     {
+      "id": "org-4e705ef0",
+      "canonical": "宿州学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-17ee9b0c",
+      "canonical": "小栈编程",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-2de359b1",
+      "canonical": "山东中医药大学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
       "id": "org-00c1c1e1",
       "canonical": "山东交通学院",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-e33a45bc",
+      "canonical": "山东农业大学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-b25aa9bf",
+      "canonical": "山东协和学院",
       "aliases": [],
       "province": "山东",
       "city": ""
@@ -764,6 +1891,27 @@
       "city": ""
     },
     {
+      "id": "org-a7e443d6",
+      "canonical": "山东女子学院",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-e51e4508",
+      "canonical": "山东工商学院",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-7b5afe61",
+      "canonical": "山东工程职业技术大学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
       "id": "org-022059c7",
       "canonical": "山东师范大学",
       "aliases": [],
@@ -778,8 +1926,64 @@
       "city": ""
     },
     {
+      "id": "org-b64b2a6e",
+      "canonical": "山东淄博实验中学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
       "id": "org-7984e7e2",
       "canonical": "山东理工大学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-e2b99fb5",
+      "canonical": "山东省临沂第一中学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-5f503291",
+      "canonical": "山东省实验中学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-3acdcc1c",
+      "canonical": "山东省平邑第一中学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-d8adb1a1",
+      "canonical": "山东省泰安第一中学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-c8437ec2",
+      "canonical": "山东省淄博第四中学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-33920277",
+      "canonical": "山东省潍坊第一中学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-4577395c",
+      "canonical": "山东省烟台第二中学",
       "aliases": [],
       "province": "山东",
       "city": ""
@@ -794,6 +1998,20 @@
     {
       "id": "org-6ffd170e",
       "canonical": "山东科技大学",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-87e946fe",
+      "canonical": "山东科技大学济南校区",
+      "aliases": [],
+      "province": "山东",
+      "city": ""
+    },
+    {
+      "id": "org-3add6152",
+      "canonical": "山东第一医科大学（山东省医学科学院）",
       "aliases": [],
       "province": "山东",
       "city": ""
@@ -841,6 +2059,13 @@
       "city": ""
     },
     {
+      "id": "org-eaef5e35",
+      "canonical": "常州大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "常州"
+    },
+    {
       "id": "org-192a4ab8",
       "canonical": "平顶山学院",
       "aliases": [],
@@ -855,8 +2080,36 @@
       "city": ""
     },
     {
+      "id": "org-e82be6bd",
+      "canonical": "广东培正学院",
+      "aliases": [],
+      "province": "广东",
+      "city": ""
+    },
+    {
+      "id": "org-d1581a86",
+      "canonical": "广东外语外贸大学",
+      "aliases": [],
+      "province": "广东",
+      "city": ""
+    },
+    {
+      "id": "org-d4b3149b",
+      "canonical": "广东实验中学",
+      "aliases": [],
+      "province": "广东",
+      "city": ""
+    },
+    {
       "id": "org-3206e093",
       "canonical": "广东工业大学",
+      "aliases": [],
+      "province": "广东",
+      "city": ""
+    },
+    {
+      "id": "org-4dea4de2",
+      "canonical": "广东工业大学揭阳校区",
       "aliases": [],
       "province": "广东",
       "city": ""
@@ -869,6 +2122,27 @@
       "city": ""
     },
     {
+      "id": "org-648570db",
+      "canonical": "广东海洋大学",
+      "aliases": [],
+      "province": "广东",
+      "city": ""
+    },
+    {
+      "id": "org-c660e0f9",
+      "canonical": "广东科技学院",
+      "aliases": [],
+      "province": "广东",
+      "city": ""
+    },
+    {
+      "id": "org-ddcbcbec",
+      "canonical": "广东药科大学",
+      "aliases": [],
+      "province": "广东",
+      "city": ""
+    },
+    {
       "id": "org-bd97588b",
       "canonical": "广东金融学院",
       "aliases": [],
@@ -876,8 +2150,36 @@
       "city": ""
     },
     {
+      "id": "org-9aaeff56",
+      "canonical": "广州中医药大学",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
       "id": "org-06ed764b",
       "canonical": "广州华商学院",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "org-446e0f26",
+      "canonical": "广州华立学院",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "org-befea93e",
+      "canonical": "广州南方学院",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "org-95180633",
+      "canonical": "广州城市理工学院",
       "aliases": [],
       "province": "广东",
       "city": "广州"
@@ -890,8 +2192,64 @@
       "city": "广州"
     },
     {
+      "id": "org-9c0444a1",
+      "canonical": "广州大学附属中学",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
       "id": "org-6bec5af5",
       "canonical": "广州工商学院",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "org-8b27873d",
+      "canonical": "广州市执信中学",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "org-eb9e27c5",
+      "canonical": "广州市第二中学",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "org-4243c32d",
+      "canonical": "广州市铁一中学",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "org-74fb5c17",
+      "canonical": "广州市黄埔区苏元学校",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "org-d85f484e",
+      "canonical": "广州执信中学",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "org-89bb7da5",
+      "canonical": "广州新华学院",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "org-0bfb7991",
+      "canonical": "广州航海学院",
       "aliases": [],
       "province": "广东",
       "city": "广州"
@@ -904,6 +2262,13 @@
       "city": "广州"
     },
     {
+      "id": "org-fe7d3f4b",
+      "canonical": "广西大学",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
       "id": "org-de0eb817",
       "canonical": "广西师范大学",
       "aliases": [],
@@ -911,8 +2276,36 @@
       "city": ""
     },
     {
+      "id": "org-71c3dad6",
+      "canonical": "广西科技大学",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
+      "id": "org-c46566c1",
+      "canonical": "广西科技师范学院",
+      "aliases": [],
+      "province": "广西",
+      "city": ""
+    },
+    {
       "id": "org-24f3464d",
       "canonical": "应急管理大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-ed6c88de",
+      "canonical": "延安大学西安创新学院",
+      "aliases": [],
+      "province": "陕西",
+      "city": "西安"
+    },
+    {
+      "id": "org-8b0794fb",
+      "canonical": "延边大学",
       "aliases": [],
       "province": "",
       "city": ""
@@ -932,11 +2325,25 @@
       "city": ""
     },
     {
+      "id": "org-8774d70d",
+      "canonical": "彭州市嘉祥外国语学校",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-6ce24e98",
       "canonical": "徐州工程学院",
       "aliases": [],
       "province": "江苏",
       "city": "徐州"
+    },
+    {
+      "id": "org-7db37511",
+      "canonical": "德阳成都外国语学校",
+      "aliases": [],
+      "province": "",
+      "city": ""
     },
     {
       "id": "org-64588475",
@@ -946,8 +2353,92 @@
       "city": "怀化"
     },
     {
+      "id": "org-7ec4260c",
+      "canonical": "惠州学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-ac7d4ae8",
+      "canonical": "成都东软学院",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-fdfa6c43",
+      "canonical": "成都中医药大学",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
       "id": "org-19af3b38",
       "canonical": "成都信息工程大学",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-7f1327d2",
+      "canonical": "成都外国语学校",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-fce83d4a",
+      "canonical": "成都大学",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-13d12380",
+      "canonical": "成都工业学院",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-0151b0fb",
+      "canonical": "成都市实验外国语学校",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-9b596e79",
+      "canonical": "成都市新津区成外学校",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-c082999e",
+      "canonical": "成都市新津区成实外高级中学",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-0e487e29",
+      "canonical": "成都市树德实验中学",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-d33279d4",
+      "canonical": "成都市锦江区嘉祥外国语高级中学",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-3a0fd46b",
+      "canonical": "成都师范学院",
       "aliases": [],
       "province": "四川",
       "city": "成都"
@@ -967,11 +2458,46 @@
       "city": "成都"
     },
     {
+      "id": "org-a6af4e67",
+      "canonical": "成都职业技术学院",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-b9bbbbf1",
+      "canonical": "成都英才学校",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
       "id": "org-2e1f0318",
       "canonical": "成都锦城学院",
       "aliases": [],
       "province": "四川",
       "city": "成都"
+    },
+    {
+      "id": "org-0227178d",
+      "canonical": "成都高新区成外高级中学",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-d2092bee",
+      "canonical": "扬州大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "扬州"
+    },
+    {
+      "id": "org-437ab664",
+      "canonical": "攀枝花学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
     },
     {
       "id": "org-19e187f8",
@@ -981,8 +2507,22 @@
       "city": "新乡"
     },
     {
+      "id": "org-672bb891",
+      "canonical": "新易元未来工坊",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-f7b22817",
       "canonical": "新疆大学",
+      "aliases": [],
+      "province": "新疆",
+      "city": ""
+    },
+    {
+      "id": "org-9fe6835e",
+      "canonical": "新疆政法学院",
       "aliases": [],
       "province": "新疆",
       "city": ""
@@ -993,6 +2533,27 @@
       "aliases": [],
       "province": "江苏",
       "city": "无锡"
+    },
+    {
+      "id": "org-78ee2061",
+      "canonical": "昆山杜克大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-42643a69",
+      "canonical": "景德镇陶瓷大学",
+      "aliases": [],
+      "province": "江西",
+      "city": "景德镇"
+    },
+    {
+      "id": "org-c8435821",
+      "canonical": "暨南大学",
+      "aliases": [],
+      "province": "广东",
+      "city": "广州"
     },
     {
       "id": "org-75af0d78",
@@ -1009,6 +2570,41 @@
       "city": "杭州"
     },
     {
+      "id": "org-b35b7455",
+      "canonical": "杭州万向职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "杭州"
+    },
+    {
+      "id": "org-0e4a22aa",
+      "canonical": "杭州信友队教育科技有限公司",
+      "aliases": [],
+      "province": "浙江",
+      "city": "杭州"
+    },
+    {
+      "id": "org-bc8415b1",
+      "canonical": "杭州光年船说教育科技有限公司",
+      "aliases": [],
+      "province": "浙江",
+      "city": "杭州"
+    },
+    {
+      "id": "org-c950c0c7",
+      "canonical": "杭州医学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "杭州"
+    },
+    {
+      "id": "org-c7d64e9d",
+      "canonical": "杭州学军中学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "杭州"
+    },
+    {
       "id": "org-75261f85",
       "canonical": "杭州师范大学",
       "aliases": [],
@@ -1016,8 +2612,50 @@
       "city": "杭州"
     },
     {
+      "id": "org-12dc677d",
+      "canonical": "杭州电子科技大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "杭州"
+    },
+    {
+      "id": "org-a04129f7",
+      "canonical": "杭州电子科技大学信息工程学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "杭州"
+    },
+    {
+      "id": "org-0eeca5dc",
+      "canonical": "杭州职业技术大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "杭州"
+    },
+    {
+      "id": "org-89d6aa85",
+      "canonical": "桂林电子科技大学",
+      "aliases": [],
+      "province": "广西",
+      "city": "桂林"
+    },
+    {
       "id": "org-b1a1d999",
       "canonical": "武昌理工学院",
+      "aliases": [],
+      "province": "湖北",
+      "city": "武汉"
+    },
+    {
+      "id": "org-6970a96b",
+      "canonical": "武昌首义学院",
+      "aliases": [],
+      "province": "湖北",
+      "city": "武汉"
+    },
+    {
+      "id": "org-23f6fdc4",
+      "canonical": "武汉商学院",
       "aliases": [],
       "province": "湖北",
       "city": "武汉"
@@ -1030,8 +2668,36 @@
       "city": "武汉"
     },
     {
+      "id": "org-0d915c06",
+      "canonical": "武汉学院",
+      "aliases": [],
+      "province": "湖北",
+      "city": "武汉"
+    },
+    {
       "id": "org-1056ffd6",
       "canonical": "武汉工程大学",
+      "aliases": [],
+      "province": "湖北",
+      "city": "武汉"
+    },
+    {
+      "id": "org-29ea39ec",
+      "canonical": "武汉理工大学",
+      "aliases": [],
+      "province": "湖北",
+      "city": "武汉"
+    },
+    {
+      "id": "org-54b0d578",
+      "canonical": "武汉生物工程学院",
+      "aliases": [],
+      "province": "湖北",
+      "city": "武汉"
+    },
+    {
+      "id": "org-23b28e2f",
+      "canonical": "武汉科技大学",
       "aliases": [],
       "province": "湖北",
       "city": "武汉"
@@ -1051,11 +2717,39 @@
       "city": "武汉"
     },
     {
+      "id": "org-a291e737",
+      "canonical": "武汉软件工程职业学院",
+      "aliases": [],
+      "province": "湖北",
+      "city": "武汉"
+    },
+    {
       "id": "org-f85c1d38",
       "canonical": "武汉轻工大学",
       "aliases": [],
       "province": "湖北",
       "city": "武汉"
+    },
+    {
+      "id": "org-15f498f5",
+      "canonical": "汕头大学",
+      "aliases": [],
+      "province": "广东",
+      "city": "汕头"
+    },
+    {
+      "id": "org-4f659aca",
+      "canonical": "汕头市潮阳实验学校",
+      "aliases": [],
+      "province": "广东",
+      "city": "汕头"
+    },
+    {
+      "id": "org-33871bf7",
+      "canonical": "江南大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "无锡"
     },
     {
       "id": "org-2d3761e4",
@@ -1072,8 +2766,50 @@
       "city": ""
     },
     {
+      "id": "org-142d67be",
+      "canonical": "江苏理工学院",
+      "aliases": [],
+      "province": "江苏",
+      "city": ""
+    },
+    {
+      "id": "org-e1db999c",
+      "canonical": "江苏省锡山高级中学",
+      "aliases": [],
+      "province": "江苏",
+      "city": ""
+    },
+    {
       "id": "org-57cb45e6",
       "canonical": "江西农业大学",
+      "aliases": [],
+      "province": "江西",
+      "city": ""
+    },
+    {
+      "id": "org-e9e1ee49",
+      "canonical": "江西师范大学",
+      "aliases": [],
+      "province": "江西",
+      "city": ""
+    },
+    {
+      "id": "org-376c8e6f",
+      "canonical": "江西水利电力大学",
+      "aliases": [],
+      "province": "江西",
+      "city": ""
+    },
+    {
+      "id": "org-84783c04",
+      "canonical": "江西理工大学",
+      "aliases": [],
+      "province": "江西",
+      "city": ""
+    },
+    {
+      "id": "org-db833c2f",
+      "canonical": "江西理工大学南昌校区",
       "aliases": [],
       "province": "江西",
       "city": ""
@@ -1095,6 +2831,13 @@
     {
       "id": "org-a2ad5122",
       "canonical": "沈阳化工大学",
+      "aliases": [],
+      "province": "辽宁",
+      "city": "沈阳"
+    },
+    {
+      "id": "org-8f376980",
+      "canonical": "沈阳师范大学",
       "aliases": [],
       "province": "辽宁",
       "city": "沈阳"
@@ -1268,8 +3011,22 @@
       "city": ""
     },
     {
+      "id": "org-394562e3",
+      "canonical": "河南中医药大学",
+      "aliases": [],
+      "province": "河南",
+      "city": ""
+    },
+    {
       "id": "org-7cbe459b",
       "canonical": "河南信息科技学院",
+      "aliases": [],
+      "province": "河南",
+      "city": ""
+    },
+    {
+      "id": "org-714e3df0",
+      "canonical": "河南信息科技学院筹建处",
       "aliases": [],
       "province": "河南",
       "city": ""
@@ -1359,6 +3116,13 @@
       "city": ""
     },
     {
+      "id": "org-8d0ac39a",
+      "canonical": "河南省第二实验中学",
+      "aliases": [],
+      "province": "河南",
+      "city": ""
+    },
+    {
       "id": "org-ab048370",
       "canonical": "河南科技大学",
       "aliases": [],
@@ -1375,6 +3139,13 @@
     {
       "id": "org-362deea9",
       "canonical": "河南科技职业大学",
+      "aliases": [],
+      "province": "河南",
+      "city": ""
+    },
+    {
+      "id": "org-877bc9b8",
+      "canonical": "河南能源化工学院筹建处",
       "aliases": [],
       "province": "河南",
       "city": ""
@@ -1429,11 +3200,39 @@
       "city": "洛阳"
     },
     {
+      "id": "org-173c464e",
+      "canonical": "济南外国语学校",
+      "aliases": [],
+      "province": "山东",
+      "city": "济南"
+    },
+    {
       "id": "org-beb10ff7",
       "canonical": "济南大学",
       "aliases": [],
       "province": "山东",
       "city": "济南"
+    },
+    {
+      "id": "org-9da66f26",
+      "canonical": "济南振声学校",
+      "aliases": [],
+      "province": "山东",
+      "city": "济南"
+    },
+    {
+      "id": "org-be0b566c",
+      "canonical": "济宁医学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-1d03280e",
+      "canonical": "济宁孔子学校",
+      "aliases": [],
+      "province": "",
+      "city": ""
     },
     {
       "id": "org-992918f6",
@@ -1443,8 +3242,36 @@
       "city": "杭州"
     },
     {
+      "id": "org-0171b047",
+      "canonical": "浙大宁波理工学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "宁波"
+    },
+    {
       "id": "org-8774c5ec",
       "canonical": "浙江万里学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-9a96a34f",
+      "canonical": "浙江中医药大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-6ee46e73",
+      "canonical": "浙江传媒学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-93e607f7",
+      "canonical": "浙江农业商贸职业学院",
       "aliases": [],
       "province": "浙江",
       "city": ""
@@ -1464,8 +3291,57 @@
       "city": ""
     },
     {
+      "id": "org-73a4ec86",
+      "canonical": "浙江同济科技职业学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-fbd87cb3",
+      "canonical": "浙江商业职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
       "id": "org-57ce91d8",
       "canonical": "浙江外国语学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-008ae5fd",
+      "canonical": "浙江大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-a114ce5c",
+      "canonical": "浙江安防职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-ffcdb8da",
+      "canonical": "浙江工业大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-23dc8687",
+      "canonical": "浙江工业大学之江学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-f8a72cf1",
+      "canonical": "浙江工业职业技术学院",
       "aliases": [],
       "province": "浙江",
       "city": ""
@@ -1478,8 +3354,85 @@
       "city": ""
     },
     {
+      "id": "org-70e92750",
+      "canonical": "浙江工商大学杭州商学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-8a41b4c6",
+      "canonical": "浙江工商职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-9ef518df",
+      "canonical": "浙江工贸职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-7f4568ec",
+      "canonical": "浙江师范大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-520cbe55",
+      "canonical": "浙江师范大学行知学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
       "id": "org-5c568a08",
       "canonical": "浙江广厦建设职业技术大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-473f053e",
+      "canonical": "浙江建设职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-f9829da1",
+      "canonical": "浙江机电职业技术大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-25b56cc9",
+      "canonical": "浙江树人学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-ddb9d47c",
+      "canonical": "浙江水利水电学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-be8a9138",
+      "canonical": "浙江汽车职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-fa758e5e",
+      "canonical": "浙江海洋大学",
       "aliases": [],
       "province": "浙江",
       "city": ""
@@ -1492,8 +3445,134 @@
       "city": ""
     },
     {
+      "id": "org-092cf97e",
+      "canonical": "浙江理工大学科技与艺术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-675cef40",
+      "canonical": "浙江省余姚中学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-bad4e3b3",
+      "canonical": "浙江省杭州第二中学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-5d90e491",
+      "canonical": "浙江省瑞安中学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-68626bc1",
+      "canonical": "浙江省诸暨市海亮高级中学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-ba3c2ef5",
+      "canonical": "浙江科技大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-eabd4c52",
+      "canonical": "浙江纺织服装职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-6a68d3dc",
+      "canonical": "浙江经贸职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-0b346d7d",
+      "canonical": "浙江育英职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-b159bfc7",
+      "canonical": "浙江药科职业大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-a861e3df",
+      "canonical": "浙江警官职业学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-d1bea785",
+      "canonical": "浙江警察学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
       "id": "org-e4360e66",
       "canonical": "浙江财经大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-8703734c",
+      "canonical": "浙江越秀外国语学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-69013014",
+      "canonical": "浙江邮电职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-f7fa9a7f",
+      "canonical": "浙江金华科贸职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-1930301c",
+      "canonical": "浙江金华第一中学",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-12541762",
+      "canonical": "浙江金融职业学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": ""
+    },
+    {
+      "id": "org-0cfa1b92",
+      "canonical": "浙江长征职业技术学院",
       "aliases": [],
       "province": "浙江",
       "city": ""
@@ -1506,6 +3585,76 @@
       "city": ""
     },
     {
+      "id": "org-1d205fde",
+      "canonical": "淮北理工学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-526dba8d",
+      "canonical": "深圳北理莫斯科大学",
+      "aliases": [],
+      "province": "广东",
+      "city": "深圳"
+    },
+    {
+      "id": "org-ef83cd08",
+      "canonical": "深圳外国语学校",
+      "aliases": [],
+      "province": "广东",
+      "city": "深圳"
+    },
+    {
+      "id": "org-2d809442",
+      "canonical": "深圳大学",
+      "aliases": [],
+      "province": "广东",
+      "city": "深圳"
+    },
+    {
+      "id": "org-9507c0a3",
+      "canonical": "深圳实验学校",
+      "aliases": [],
+      "province": "广东",
+      "city": "深圳"
+    },
+    {
+      "id": "org-f6869543",
+      "canonical": "深圳市福田区红岭中学（红岭教育集团）",
+      "aliases": [],
+      "province": "广东",
+      "city": "深圳"
+    },
+    {
+      "id": "org-db245977",
+      "canonical": "深圳市耀华实验学校",
+      "aliases": [],
+      "province": "广东",
+      "city": "深圳"
+    },
+    {
+      "id": "org-229087aa",
+      "canonical": "深圳市高级中学",
+      "aliases": [],
+      "province": "广东",
+      "city": "深圳"
+    },
+    {
+      "id": "org-8b2abba4",
+      "canonical": "深圳技术大学",
+      "aliases": [],
+      "province": "广东",
+      "city": "深圳"
+    },
+    {
+      "id": "org-fc4aa513",
+      "canonical": "深圳河套学院",
+      "aliases": [],
+      "province": "广东",
+      "city": "深圳"
+    },
+    {
       "id": "org-ba792779",
       "canonical": "深圳理工大学",
       "aliases": [],
@@ -1513,8 +3662,36 @@
       "city": "深圳"
     },
     {
+      "id": "org-b5f8df11",
+      "canonical": "深圳职业技术大学",
+      "aliases": [],
+      "province": "广东",
+      "city": "深圳"
+    },
+    {
+      "id": "org-edb1d57a",
+      "canonical": "清华大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-b22e5ac2",
+      "canonical": "清远职业技术学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-65efcdd7",
       "canonical": "温州医科大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "温州"
+    },
+    {
+      "id": "org-b58abe7b",
+      "canonical": "温州医科大学仁济学院",
       "aliases": [],
       "province": "浙江",
       "city": "温州"
@@ -1534,6 +3711,48 @@
       "city": "温州"
     },
     {
+      "id": "org-25cedd1e",
+      "canonical": "温州理工学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "温州"
+    },
+    {
+      "id": "org-18df8470",
+      "canonical": "温州科技职业学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "温州"
+    },
+    {
+      "id": "org-54e30a59",
+      "canonical": "温州职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "温州"
+    },
+    {
+      "id": "org-6fc3f015",
+      "canonical": "湖北中医药大学",
+      "aliases": [],
+      "province": "湖北",
+      "city": ""
+    },
+    {
+      "id": "org-09560825",
+      "canonical": "湖北大学",
+      "aliases": [],
+      "province": "湖北",
+      "city": ""
+    },
+    {
+      "id": "org-17fcaaad",
+      "canonical": "湖北工业大学",
+      "aliases": [],
+      "province": "湖北",
+      "city": ""
+    },
+    {
       "id": "org-8d83aa14",
       "canonical": "湖北工业大学工程技术学院",
       "aliases": [],
@@ -1550,6 +3769,13 @@
     {
       "id": "org-e3e6f6de",
       "canonical": "湖北汽车工业学院",
+      "aliases": [],
+      "province": "湖北",
+      "city": ""
+    },
+    {
+      "id": "org-9ed9d645",
+      "canonical": "湖北第二师范学院",
       "aliases": [],
       "province": "湖北",
       "city": ""
@@ -1583,8 +3809,22 @@
       "city": ""
     },
     {
+      "id": "org-af64c5c4",
+      "canonical": "湖南大学",
+      "aliases": [],
+      "province": "湖南",
+      "city": ""
+    },
+    {
       "id": "org-d8396aa4",
       "canonical": "湖南工业大学",
+      "aliases": [],
+      "province": "湖南",
+      "city": ""
+    },
+    {
+      "id": "org-5d22031e",
+      "canonical": "湖南工商大学",
       "aliases": [],
       "province": "湖南",
       "city": ""
@@ -1604,6 +3844,13 @@
       "city": ""
     },
     {
+      "id": "org-41efb29a",
+      "canonical": "湖南理工学院",
+      "aliases": [],
+      "province": "湖南",
+      "city": ""
+    },
+    {
       "id": "org-22ee1429",
       "canonical": "湖南科技大学",
       "aliases": [],
@@ -1611,11 +3858,74 @@
       "city": ""
     },
     {
+      "id": "org-42c88b4d",
+      "canonical": "湖南第一师范学院",
+      "aliases": [],
+      "province": "湖南",
+      "city": ""
+    },
+    {
+      "id": "org-7410956e",
+      "canonical": "湖南财政经济学院",
+      "aliases": [],
+      "province": "湖南",
+      "city": ""
+    },
+    {
+      "id": "org-dfe797a5",
+      "canonical": "湖州学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "湖州"
+    },
+    {
+      "id": "org-eb3e8adb",
+      "canonical": "湖州师范大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "湖州"
+    },
+    {
+      "id": "org-a26b4a50",
+      "canonical": "湖州职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "湖州"
+    },
+    {
       "id": "org-afc6eec0",
       "canonical": "湘潭大学",
       "aliases": [],
       "province": "湖南",
       "city": "湘潭"
+    },
+    {
+      "id": "org-dd0d4c31",
+      "canonical": "潍坊学院",
+      "aliases": [],
+      "province": "山东",
+      "city": "潍坊"
+    },
+    {
+      "id": "org-043dd894",
+      "canonical": "潍坊科技学院",
+      "aliases": [],
+      "province": "山东",
+      "city": "潍坊"
+    },
+    {
+      "id": "澳门大学-universidade-de-macau-",
+      "canonical": "澳门大学(Universidade de Macau)",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-1c6a3e15",
+      "canonical": "澳门科技大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
     },
     {
       "id": "org-1e64ce8f",
@@ -1632,11 +3942,39 @@
       "city": "烟台"
     },
     {
+      "id": "org-f78d1136",
+      "canonical": "烟台开发区高级中学",
+      "aliases": [],
+      "province": "山东",
+      "city": "烟台"
+    },
+    {
       "id": "org-7654378a",
       "canonical": "烟台理工学院",
       "aliases": [],
       "province": "山东",
       "city": "烟台"
+    },
+    {
+      "id": "org-32a1ee24",
+      "canonical": "烟台职业学院",
+      "aliases": [],
+      "province": "山东",
+      "city": "烟台"
+    },
+    {
+      "id": "org-0e3e68c7",
+      "canonical": "烟台青华中学",
+      "aliases": [],
+      "province": "山东",
+      "city": "烟台"
+    },
+    {
+      "id": "org-0d39cabb",
+      "canonical": "焦作市第一中学",
+      "aliases": [],
+      "province": "河南",
+      "city": "焦作"
     },
     {
       "id": "org-aae5b821",
@@ -1653,11 +3991,60 @@
       "city": "秦皇岛"
     },
     {
+      "id": "org-b094c469",
+      "canonical": "牡丹江师范学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-6c9a821b",
+      "canonical": "珠海科技学院",
+      "aliases": [],
+      "province": "广东",
+      "city": "珠海"
+    },
+    {
       "id": "org-e57d492e",
       "canonical": "甘肃农业大学",
       "aliases": [],
       "province": "甘肃",
       "city": ""
+    },
+    {
+      "id": "org-449352dc",
+      "canonical": "电子科技大学",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-b71da550",
+      "canonical": "电子科技大学中山学院",
+      "aliases": [],
+      "province": "广东",
+      "city": "中山"
+    },
+    {
+      "id": "org-b7e90007",
+      "canonical": "电子科技大学成都学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-027a9830",
+      "canonical": "白城师范学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-97927b4d",
+      "canonical": "盐城工学院",
+      "aliases": [],
+      "province": "江苏",
+      "city": "盐城"
     },
     {
       "id": "org-9313f650",
@@ -1737,6 +4124,13 @@
       "city": ""
     },
     {
+      "id": "org-b204f947",
+      "canonical": "福建师范大学附属中学",
+      "aliases": [],
+      "province": "福建",
+      "city": ""
+    },
+    {
       "id": "org-fa393878",
       "canonical": "福建江夏学院",
       "aliases": [],
@@ -1746,6 +4140,20 @@
     {
       "id": "org-0192f8ea",
       "canonical": "福建理工大学",
+      "aliases": [],
+      "province": "福建",
+      "city": ""
+    },
+    {
+      "id": "org-809c0c10",
+      "canonical": "福建省厦门第一中学",
+      "aliases": [],
+      "province": "福建",
+      "city": ""
+    },
+    {
+      "id": "org-3243a620",
+      "canonical": "福建省福州第三中学",
       "aliases": [],
       "province": "福建",
       "city": ""
@@ -1765,11 +4173,53 @@
       "city": "秦皇岛"
     },
     {
+      "id": "org-fa805312",
+      "canonical": "绍兴大学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "绍兴"
+    },
+    {
+      "id": "org-5a318b8e",
+      "canonical": "绍兴市第一中学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "绍兴"
+    },
+    {
       "id": "org-1ee99ccb",
       "canonical": "绍兴理工学院",
       "aliases": [],
       "province": "浙江",
       "city": "绍兴"
+    },
+    {
+      "id": "org-e18d7d70",
+      "canonical": "绍兴职业技术学院",
+      "aliases": [],
+      "province": "浙江",
+      "city": "绍兴"
+    },
+    {
+      "id": "org-d3e6d9ca",
+      "canonical": "绍兴鲁迅中学",
+      "aliases": [],
+      "province": "浙江",
+      "city": "绍兴"
+    },
+    {
+      "id": "org-24d00927",
+      "canonical": "绥化学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-e5671b7c",
+      "canonical": "绵阳城市学院",
+      "aliases": [],
+      "province": "四川",
+      "city": "绵阳"
     },
     {
       "id": "org-25a6e7aa",
@@ -1779,8 +4229,22 @@
       "city": ""
     },
     {
+      "id": "org-4b039bce",
+      "canonical": "苏州大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "苏州"
+    },
+    {
       "id": "org-68852691",
       "canonical": "苏州工学院",
+      "aliases": [],
+      "province": "江苏",
+      "city": "苏州"
+    },
+    {
+      "id": "org-5be74d35",
+      "canonical": "苏州科技大学",
       "aliases": [],
       "province": "江苏",
       "city": "苏州"
@@ -1791,6 +4255,20 @@
       "aliases": [],
       "province": "",
       "city": ""
+    },
+    {
+      "id": "org-caa97c0d",
+      "canonical": "菏泽学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-9d41dde2",
+      "canonical": "萍乡学院",
+      "aliases": [],
+      "province": "江西",
+      "city": "萍乡"
     },
     {
       "id": "org-98bb78b8",
@@ -1805,6 +4283,27 @@
       "aliases": [],
       "province": "湖南",
       "city": "衡阳"
+    },
+    {
+      "id": "org-a661f439",
+      "canonical": "衢州学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-ce5d8fd7",
+      "canonical": "衢州职业技术学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-50a88292",
+      "canonical": "西北农林科技大学",
+      "aliases": [],
+      "province": "陕西",
+      "city": "杨凌"
     },
     {
       "id": "org-d4956dea",
@@ -1828,11 +4327,74 @@
       "city": ""
     },
     {
+      "id": "org-73caf5ba",
+      "canonical": "西华大学",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-6503a11d",
+      "canonical": "西华师范大学",
+      "aliases": [],
+      "province": "四川",
+      "city": "南充"
+    },
+    {
+      "id": "org-75b830cd",
+      "canonical": "西南交通大学",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-aed60ff6",
+      "canonical": "西南大学",
+      "aliases": [],
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
+      "id": "org-e5921fbc",
+      "canonical": "西南民族大学",
+      "aliases": [],
+      "province": "重庆",
+      "city": ""
+    },
+    {
       "id": "org-be703b52",
       "canonical": "西南石油大学",
       "aliases": [],
       "province": "四川",
       "city": "成都"
+    },
+    {
+      "id": "org-07a75571",
+      "canonical": "西南科技大学",
+      "aliases": [],
+      "province": "四川",
+      "city": "绵阳"
+    },
+    {
+      "id": "org-caa0f1d3",
+      "canonical": "西南财经大学",
+      "aliases": [],
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "org-0ffd977d",
+      "canonical": "西安交通大学",
+      "aliases": [],
+      "province": "陕西",
+      "city": "西安"
+    },
+    {
+      "id": "org-9a8d3aae",
+      "canonical": "西安工业大学",
+      "aliases": [],
+      "province": "陕西",
+      "city": "西安"
     },
     {
       "id": "org-47c35f67",
@@ -1856,6 +4418,34 @@
       "city": "西安"
     },
     {
+      "id": "org-cc79e7a0",
+      "canonical": "西安理工大学",
+      "aliases": [],
+      "province": "陕西",
+      "city": "西安"
+    },
+    {
+      "id": "org-7817f5e9",
+      "canonical": "西安电子科技大学",
+      "aliases": [],
+      "province": "陕西",
+      "city": "西安"
+    },
+    {
+      "id": "org-a03eeff3",
+      "canonical": "西安石油大学",
+      "aliases": [],
+      "province": "陕西",
+      "city": "西安"
+    },
+    {
+      "id": "org-fe525860",
+      "canonical": "西安科技大学",
+      "aliases": [],
+      "province": "陕西",
+      "city": "西安"
+    },
+    {
       "id": "org-55fa9c3e",
       "canonical": "西安邮电大学",
       "aliases": [],
@@ -1863,11 +4453,88 @@
       "city": "西安"
     },
     {
+      "id": "org-8b64f18b",
+      "canonical": "西湖大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-3c17ca64",
+      "canonical": "西藏民族大学",
+      "aliases": [],
+      "province": "西藏",
+      "city": ""
+    },
+    {
+      "id": "org-63e61684",
+      "canonical": "观山湖中学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-6d10a1b7",
       "canonical": "许昌学院",
       "aliases": [],
       "province": "",
       "city": ""
+    },
+    {
+      "id": "org-02ed981d",
+      "canonical": "许昌高中",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-02e14417",
+      "canonical": "贵州大学",
+      "aliases": [],
+      "province": "贵州",
+      "city": ""
+    },
+    {
+      "id": "org-f2a7f7de",
+      "canonical": "贵州工程应用技术学院",
+      "aliases": [],
+      "province": "贵州",
+      "city": ""
+    },
+    {
+      "id": "org-053652e8",
+      "canonical": "贵州师范大学",
+      "aliases": [],
+      "province": "贵州",
+      "city": ""
+    },
+    {
+      "id": "org-be8f268f",
+      "canonical": "贵州师范学院",
+      "aliases": [],
+      "province": "贵州",
+      "city": ""
+    },
+    {
+      "id": "org-7ff8de9e",
+      "canonical": "贵州民族大学",
+      "aliases": [],
+      "province": "贵州",
+      "city": ""
+    },
+    {
+      "id": "org-88317880",
+      "canonical": "贺州学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-b127ac0e",
+      "canonical": "赣东学院",
+      "aliases": [],
+      "province": "江西",
+      "city": "抚州"
     },
     {
       "id": "org-c5004098",
@@ -1884,10 +4551,31 @@
       "city": ""
     },
     {
+      "id": "org-95e62a35",
+      "canonical": "辽宁石油化工大学",
+      "aliases": [],
+      "province": "辽宁",
+      "city": ""
+    },
+    {
       "id": "org-27cd5311",
       "canonical": "辽宁科技大学",
       "aliases": [],
       "province": "辽宁",
+      "city": ""
+    },
+    {
+      "id": "org-5a84846b",
+      "canonical": "通化师范学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-aa71ed0a",
+      "canonical": "遂宁职业学院",
+      "aliases": [],
+      "province": "",
       "city": ""
     },
     {
@@ -1933,6 +4621,13 @@
       "city": "郑州"
     },
     {
+      "id": "org-5df2eb49",
+      "canonical": "郑州外国语学校",
+      "aliases": [],
+      "province": "河南",
+      "city": "郑州"
+    },
+    {
       "id": "org-7d745a27",
       "canonical": "郑州大学",
       "aliases": [],
@@ -1956,6 +4651,13 @@
     {
       "id": "org-9692a14e",
       "canonical": "郑州市第四高级中学",
+      "aliases": [],
+      "province": "河南",
+      "city": "郑州"
+    },
+    {
+      "id": "org-4b86be01",
+      "canonical": "郑州市郑东新区外国语中学",
       "aliases": [],
       "province": "河南",
       "city": "郑州"
@@ -1989,6 +4691,20 @@
       "city": "郑州"
     },
     {
+      "id": "org-106272ff",
+      "canonical": "郑州西亚斯学院",
+      "aliases": [],
+      "province": "河南",
+      "city": "郑州"
+    },
+    {
+      "id": "org-4b286688",
+      "canonical": "郑州财经学院",
+      "aliases": [],
+      "province": "河南",
+      "city": "郑州"
+    },
+    {
       "id": "org-8deae074",
       "canonical": "郑州轻工业大学",
       "aliases": [],
@@ -1996,8 +4712,78 @@
       "city": "郑州"
     },
     {
+      "id": "org-6ef30ce3",
+      "canonical": "重庆交通大学",
+      "aliases": [],
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
+      "id": "org-c7567a73",
+      "canonical": "重庆城市科技学院",
+      "aliases": [],
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
       "id": "org-19375a45",
       "canonical": "重庆大学",
+      "aliases": [],
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
+      "id": "org-cf4c463b",
+      "canonical": "重庆工商大学",
+      "aliases": [],
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
+      "id": "org-989be029",
+      "canonical": "重庆工程学院",
+      "aliases": [],
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
+      "id": "org-1dc800e4",
+      "canonical": "重庆市鲁能巴蜀中学校",
+      "aliases": [],
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
+      "id": "org-5069e4bf",
+      "canonical": "重庆文理学院",
+      "aliases": [],
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
+      "id": "org-0de5f75a",
+      "canonical": "重庆理工大学",
+      "aliases": [],
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
+      "id": "org-b54b9008",
+      "canonical": "重庆电子科技职业大学",
+      "aliases": [],
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
+      "id": "org-70fe862c",
+      "canonical": "重庆移通学院",
+      "aliases": [],
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
+      "id": "org-51eab8c7",
+      "canonical": "重庆第二师范学院",
       "aliases": [],
       "province": "重庆",
       "city": "重庆"
@@ -2010,6 +4796,34 @@
       "city": "重庆"
     },
     {
+      "id": "org-c55256d7",
+      "canonical": "金华市丽泽中学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-1d6f3fb7",
+      "canonical": "金华新东方双语学校",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-fa8eaed4",
+      "canonical": "金华职业技术大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-dd998aba",
+      "canonical": "钉耙编程",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-c70c34f6",
       "canonical": "长安大学",
       "aliases": [],
@@ -2017,11 +4831,102 @@
       "city": "西安"
     },
     {
+      "id": "org-c4658e9a",
+      "canonical": "长春力旺高中",
+      "aliases": [],
+      "province": "吉林",
+      "city": "长春"
+    },
+    {
+      "id": "org-a216c7d6",
+      "canonical": "长春大学",
+      "aliases": [],
+      "province": "吉林",
+      "city": "长春"
+    },
+    {
+      "id": "org-cc03b7ce",
+      "canonical": "长春工业大学",
+      "aliases": [],
+      "province": "吉林",
+      "city": "长春"
+    },
+    {
+      "id": "org-5f34faac",
+      "canonical": "长春工业大学人文信息学院",
+      "aliases": [],
+      "province": "吉林",
+      "city": "长春"
+    },
+    {
+      "id": "org-dc9715ec",
+      "canonical": "长春工程学院",
+      "aliases": [],
+      "province": "吉林",
+      "city": "长春"
+    },
+    {
+      "id": "org-2347b475",
+      "canonical": "长春师范大学",
+      "aliases": [],
+      "province": "吉林",
+      "city": "长春"
+    },
+    {
+      "id": "org-1f6f568b",
+      "canonical": "长春建筑学院",
+      "aliases": [],
+      "province": "吉林",
+      "city": "长春"
+    },
+    {
       "id": "org-076d9e51",
       "canonical": "长春理工大学",
       "aliases": [],
       "province": "吉林",
       "city": "长春"
+    },
+    {
+      "id": "org-448b5c83",
+      "canonical": "长春电子科技学院",
+      "aliases": [],
+      "province": "吉林",
+      "city": "长春"
+    },
+    {
+      "id": "org-f19651c5",
+      "canonical": "长春职业技术大学",
+      "aliases": [],
+      "province": "吉林",
+      "city": "长春"
+    },
+    {
+      "id": "org-daf22828",
+      "canonical": "长江大学",
+      "aliases": [],
+      "province": "湖北",
+      "city": "荆州"
+    },
+    {
+      "id": "org-329ced5d",
+      "canonical": "长沙学院",
+      "aliases": [],
+      "province": "湖南",
+      "city": "长沙"
+    },
+    {
+      "id": "org-7fc360ff",
+      "canonical": "长沙市长郡中学",
+      "aliases": [],
+      "province": "湖南",
+      "city": "长沙"
+    },
+    {
+      "id": "org-6d29161b",
+      "canonical": "长沙理工大学",
+      "aliases": [],
+      "province": "湖南",
+      "city": "长沙"
     },
     {
       "id": "org-dd7abf26",
@@ -2052,6 +4957,13 @@
       "city": "福州"
     },
     {
+      "id": "org-6d8f0cce",
+      "canonical": "阿坝师范学院",
+      "aliases": [],
+      "province": "四川",
+      "city": "阿坝"
+    },
+    {
       "id": "org-7b6dc27d",
       "canonical": "陕西师范大学",
       "aliases": [],
@@ -2063,6 +4975,13 @@
       "canonical": "陕西科技大学",
       "aliases": [],
       "province": "陕西",
+      "city": ""
+    },
+    {
+      "id": "org-c272e115",
+      "canonical": "集宁师范学院",
+      "aliases": [],
+      "province": "",
       "city": ""
     },
     {
@@ -2080,8 +4999,43 @@
       "city": "青岛"
     },
     {
+      "id": "org-f4cf3fc5",
+      "canonical": "青岛大学",
+      "aliases": [],
+      "province": "山东",
+      "city": "青岛"
+    },
+    {
+      "id": "org-00c94bce",
+      "canonical": "青岛工学院",
+      "aliases": [],
+      "province": "山东",
+      "city": "青岛"
+    },
+    {
+      "id": "org-cecce796",
+      "canonical": "青岛市城阳第一高级中学",
+      "aliases": [],
+      "province": "山东",
+      "city": "青岛"
+    },
+    {
       "id": "org-a1f45f92",
       "canonical": "青岛理工大学",
+      "aliases": [],
+      "province": "山东",
+      "city": "青岛"
+    },
+    {
+      "id": "org-e697654f",
+      "canonical": "青岛科技大学",
+      "aliases": [],
+      "province": "山东",
+      "city": "青岛"
+    },
+    {
+      "id": "org-84da27c6",
+      "canonical": "青岛黄海学院",
       "aliases": [],
       "province": "山东",
       "city": "青岛"
@@ -2101,11 +5055,60 @@
       "city": "韶关"
     },
     {
+      "id": "org-43fbef17",
+      "canonical": "香港中文大学（深圳）",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-c63efe7f",
+      "canonical": "香港城市大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-07060f55",
+      "canonical": "香港城市大学（东莞）",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-d22f192f",
+      "canonical": "香港理工大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-8e63603f",
+      "canonical": "香港科技大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-3590cdd2",
       "canonical": "香港科技大学（广州）",
       "aliases": [],
       "province": "",
       "city": ""
+    },
+    {
+      "id": "org-3c31b303",
+      "canonical": "鲁东大学",
+      "aliases": [],
+      "province": "山东",
+      "city": "烟台"
+    },
+    {
+      "id": "org-cce4f3cd",
+      "canonical": "黄冈师范学院",
+      "aliases": [],
+      "province": "湖北",
+      "city": "黄冈"
     },
     {
       "id": "org-7cb57609",
@@ -2122,11 +5125,74 @@
       "city": ""
     },
     {
+      "id": "org-24a0488c",
+      "canonical": "黑河学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-0c9f24be",
+      "canonical": "黑河市第一中学",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
+      "id": "org-ace6ca3b",
+      "canonical": "黑龙江外国语学院",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": ""
+    },
+    {
+      "id": "org-aa54e85f",
+      "canonical": "黑龙江大学",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": ""
+    },
+    {
+      "id": "org-8cf90793",
+      "canonical": "黑龙江工程学院",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": ""
+    },
+    {
+      "id": "org-339d5bd6",
+      "canonical": "黑龙江科技大学",
+      "aliases": [],
+      "province": "黑龙江",
+      "city": ""
+    },
+    {
+      "id": "org-342e1700",
+      "canonical": "黔南民族师范学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-d2d78599",
       "canonical": "齐鲁工业大学",
       "aliases": [],
       "province": "山东",
       "city": "济南"
+    },
+    {
+      "id": "org-2d65f98e",
+      "canonical": "齐鲁理工学院",
+      "aliases": [],
+      "province": "山东",
+      "city": "济南"
+    },
+    {
+      "id": "org-109881bd",
+      "canonical": "齐齐哈尔大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
     },
     {
       "id": "org-574a6eaf",
