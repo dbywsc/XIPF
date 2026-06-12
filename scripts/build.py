@@ -105,9 +105,14 @@ def parse_contest_data(filepath: Path) -> Contest:
                 team.medal = "bronze"
 
     contest_id = filepath.parent.name
-    year_dir = filepath.parent.parent.name
+    category_dir = filepath.parent.parent.name
+    year_dir = filepath.parent.parent.parent.name
     if year_dir.isdigit():
-        contest_id = f"{year_dir}-{contest_id}"
+        # 3-level: contests/2026/icpc/南昌_invitational → 2026-icpc-南昌_invitational
+        contest_id = f"{year_dir}-{category_dir}-{contest_id}"
+    elif category_dir.isdigit():
+        # 2-level: contests/2026/北京 → 2026-北京
+        contest_id = f"{category_dir}-{contest_id}"
 
     return Contest(
         id=contest_id,
@@ -223,9 +228,14 @@ def parse_srk(filepath: Path) -> Contest:
 
     # Determine contest ID from directory name
     contest_id = filepath.parent.name
-    year = filepath.parent.parent.name if filepath.parent.parent.name.isdigit() else ""
-    if year:
-        contest_id = f"{year}-{contest_id}"
+    category_dir = filepath.parent.parent.name
+    year_dir = filepath.parent.parent.parent.name
+    if year_dir.isdigit():
+        # 3-level: contests/2026/icpc/南昌_invitational
+        contest_id = f"{year_dir}-{category_dir}-{contest_id}"
+    elif category_dir.isdigit():
+        # 2-level: contests/2026/北京
+        contest_id = f"{category_dir}-{contest_id}"
 
     return Contest(
         id=contest_id,
@@ -455,7 +465,7 @@ def build():
                 "official_count": sum(1 for t in c.teams if t.official),
                 "problem_count": len(c.problems),
             }
-            for c in all_contests
+            for c in sorted(all_contests, key=lambda c: c.date, reverse=True)
         ],
         "organizations": [
             {

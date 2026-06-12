@@ -156,7 +156,7 @@ def main():
     filepath = Path(sys.argv[1]).resolve()
     if not filepath.exists(): print(f"File not found: {filepath}"); sys.exit(1)
 
-    year = "2026"; contest_date = ""; contest_title = ""
+    year = "2026"; contest_date = ""; contest_title = ""; contest_type = ""
     for i, arg in enumerate(sys.argv):
         if arg.startswith("--year="): year = arg.split("=", 1)[1]
         elif arg == "--year" and i + 1 < len(sys.argv): year = sys.argv[i + 1]
@@ -164,6 +164,8 @@ def main():
         elif arg == "--date" and i + 1 < len(sys.argv): contest_date = sys.argv[i + 1]
         elif arg.startswith("--title="): contest_title = arg.split("=", 1)[1]
         elif arg == "--title" and i + 1 < len(sys.argv): contest_title = sys.argv[i + 1]
+        elif arg.startswith("--type="): contest_type = arg.split("=", 1)[1]
+        elif arg == "--type" and i + 1 < len(sys.argv): contest_type = sys.argv[i + 1]
 
     filename = filepath.stem; city = detect_city(filename)
     print(f"Multi-division import: {filepath.name}")
@@ -173,7 +175,7 @@ def main():
     if result is None: sys.exit(1)
 
     contest_data, roster = result
-    contest_dir = CONTESTS_DIR / year / f"{city}_combined"
+    contest_dir = CONTESTS_DIR / year / contest_type / f"{city}_combined" if contest_type else CONTESTS_DIR / year / f"{city}_combined"
     contest_dir.mkdir(parents=True, exist_ok=True)
 
     with open(contest_dir / "contest_data.json", "w", encoding="utf-8") as f:

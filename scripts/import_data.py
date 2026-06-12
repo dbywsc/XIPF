@@ -54,6 +54,23 @@ def detect_city(filename: str) -> str:
     return "unknown"
 
 
+def load_org_name_map() -> dict:
+    import json
+    p = Path(__file__).resolve().parent.parent / "org_names_map.json"
+    if p.exists():
+        with open(p, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+_ORG_MAP = None
+
+def translate_org(name: str) -> str:
+    global _ORG_MAP
+    if _ORG_MAP is None:
+        _ORG_MAP = load_org_name_map()
+    return _ORG_MAP.get(name.strip(), name)
+
+
 def parse_medal(v: str) -> str:
     if not v:
         return ""
@@ -95,7 +112,7 @@ def import_csv(filepath: Path, year: str, contest_date: str, contest_title: str 
 
         rank = int(first) if first.isdigit() else 0
         org_rank = int(row[1].strip()) if len(row) > 1 and row[1].strip().isdigit() else 0
-        organization = str(row[2]).strip() if len(row) > 2 else ""
+        organization = translate_org(str(row[2]).strip()) if len(row) > 2 else ""
         team_name = str(row[3]).strip() if len(row) > 3 else ""
 
         members = []
@@ -175,6 +192,7 @@ def main():
     year = "2026"
     contest_date = ""
     contest_title = ""
+    contest_type = ""  # empty = put in 2026/ directly, or use --type=icpc/ccpc
     for i, arg in enumerate(sys.argv):
         if arg.startswith("--year="):
             year = arg.split("=", 1)[1]
@@ -188,6 +206,10 @@ def main():
             contest_title = arg.split("=", 1)[1]
         elif arg == "--title" and i + 1 < len(sys.argv):
             contest_title = sys.argv[i + 1]
+        elif arg.startswith("--type="):
+            contest_type = arg.split("=", 1)[1]
+        elif arg == "--type" and i + 1 < len(sys.argv):
+            contest_type = sys.argv[i + 1]
 
     if not contest_date:
         print("Warning: no --date provided. Use --date=YYYY-MM-DD")
@@ -213,7 +235,7 @@ def main():
     else:
         slug = city
 
-    contest_dir = CONTESTS_DIR / year / slug
+    contest_dir = CONTESTS_DIR / year / contest_type / slug if contest_type else CONTESTS_DIR / year / slug
     contest_dir.mkdir(parents=True, exist_ok=True)
 
     with open(contest_dir / "contest_data.json", "w", encoding="utf-8") as f:

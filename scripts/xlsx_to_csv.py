@@ -42,6 +42,24 @@ PINYIN_CITIES = {
 }
 
 
+def load_org_name_map() -> dict:
+    """Load English→Chinese organization name mapping."""
+    import json
+    map_path = Path(__file__).resolve().parent.parent / "org_names_map.json"
+    if map_path.exists():
+        with open(map_path, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+ORG_NAME_MAP = None
+
+def translate_org(name: str) -> str:
+    global ORG_NAME_MAP
+    if ORG_NAME_MAP is None:
+        ORG_NAME_MAP = load_org_name_map()
+    return ORG_NAME_MAP.get(name.strip(), name)
+
+
 def detect_city(filename: str) -> str:
     lower = filename.lower()
     for c in CITY_NAMES:
@@ -134,7 +152,7 @@ def read_main_sheet(ws, rank_col: int = 0) -> list:
         col_a = str(row[col_rank_val]).strip() if len(row) > col_rank_val and row[col_rank_val] else ""
         col_b = str(row[1]).strip() if len(row) > 1 and row[1] else ""
         col_d = str(row[3]).strip() if len(row) > 3 and row[3] else ""
-        organization = str(row[col_org]).strip() if col_org >= 0 and len(row) > col_org else ""
+        organization = translate_org(str(row[col_org]).strip()) if col_org >= 0 and len(row) > col_org else ""
         team_name = str(row[col_team]).strip() if col_team >= 0 and len(row) > col_team else ""
         official_marker = str(row[col_official]).strip() if col_official >= 0 and len(row) > col_official else ""
         raw_members = str(row[member_col]).strip() if member_col >= 0 and len(row) > member_col else ""
@@ -210,6 +228,12 @@ def convert(filepath: Path, output: Path = None):
             division_sheets.append((name, "provincial"))
 
     if division_sheets:
+        # If only one division type found (e.g., only provincial), also process Main as the other type
+        div_types = {d[1] for d in division_sheets}
+        if "invitational" not in div_types:
+            division_sheets.append(("Main", "invitational"))
+        elif "provincial" not in div_types:
+            division_sheets.append(("Main", "provincial"))
         print(f"City: {city}, Divisions: {[d[1] for d in division_sheets]}")
         for sheet_name, div_suffix in division_sheets:
             rank_col = 0 if div_suffix == "invitational" else 1
