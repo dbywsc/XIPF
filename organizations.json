@@ -183,6 +183,13 @@
       "city": "南京"
     },
     {
+      "id": "org-b6df876c",
+      "canonical": "东南大学成贤学院",
+      "aliases": [],
+      "province": "江苏",
+      "city": ""
+    },
+    {
       "id": "org-d5ba0325",
       "canonical": "东莞外国语学校",
       "aliases": [],
@@ -925,6 +932,13 @@
       "city": "广州"
     },
     {
+      "id": "org-7c09f137",
+      "canonical": "南京中医药大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
       "id": "org-24c671de",
       "canonical": "南京信息工程大学",
       "aliases": [],
@@ -934,6 +948,13 @@
     {
       "id": "org-ce1d99b2",
       "canonical": "南京农业大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
+      "id": "org-9e2fd0f7",
+      "canonical": "南京医科大学",
       "aliases": [],
       "province": "江苏",
       "city": "南京"
@@ -960,6 +981,13 @@
       "city": "南京"
     },
     {
+      "id": "org-8026f8a5",
+      "canonical": "南京工业大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
       "id": "org-410ef1c1",
       "canonical": "南京工业职业技术大学",
       "aliases": [],
@@ -981,6 +1009,20 @@
       "city": "南京"
     },
     {
+      "id": "org-ff08fce5",
+      "canonical": "南京师范大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
+      "id": "org-93f3792f",
+      "canonical": "南京师范大学附属中学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
       "id": "org-b1ed15b3",
       "canonical": "南京晓庄学院",
       "aliases": [],
@@ -995,8 +1037,22 @@
       "city": "南京"
     },
     {
+      "id": "org-e404df92",
+      "canonical": "南京特殊教育师范学院",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
       "id": "org-7ae34b9d",
       "canonical": "南京理工大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
+      "id": "org-ea69e85b",
+      "canonical": "南京理工大学泰州科技学院",
       "aliases": [],
       "province": "江苏",
       "city": "南京"
@@ -1842,6 +1898,13 @@
       "city": ""
     },
     {
+      "id": "org-699e851c",
+      "canonical": "宿迁学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-17ee9b0c",
       "canonical": "小栈编程",
       "aliases": [],
@@ -2057,6 +2120,13 @@
       "aliases": [],
       "province": "山西",
       "city": ""
+    },
+    {
+      "id": "org-0976c568",
+      "canonical": "常州外国语学校",
+      "aliases": [],
+      "province": "江苏",
+      "city": "常州"
     },
     {
       "id": "org-eaef5e35",
@@ -2759,6 +2829,13 @@
       "city": "武汉"
     },
     {
+      "id": "org-c02fa4c6",
+      "canonical": "江苏大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": ""
+    },
+    {
       "id": "org-d7f07a6f",
       "canonical": "江苏海洋大学",
       "aliases": [],
@@ -2773,8 +2850,57 @@
       "city": ""
     },
     {
+      "id": "org-b12358f6",
+      "canonical": "江苏省东台中学",
+      "aliases": [],
+      "province": "江苏",
+      "city": ""
+    },
+    {
+      "id": "org-5a0b0c89",
+      "canonical": "江苏省海安高级中学",
+      "aliases": [],
+      "province": "江苏",
+      "city": ""
+    },
+    {
+      "id": "org-696b7a3f",
+      "canonical": "江苏省淮阴中学",
+      "aliases": [],
+      "province": "江苏",
+      "city": ""
+    },
+    {
+      "id": "org-aa72706b",
+      "canonical": "江苏省苏州中学校",
+      "aliases": [],
+      "province": "江苏",
+      "city": ""
+    },
+    {
       "id": "org-e1db999c",
       "canonical": "江苏省锡山高级中学",
+      "aliases": [],
+      "province": "江苏",
+      "city": ""
+    },
+    {
+      "id": "org-b88582a5",
+      "canonical": "江苏科技大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": ""
+    },
+    {
+      "id": "org-9e823559",
+      "canonical": "江苏科技大学张家港校区",
+      "aliases": [],
+      "province": "江苏",
+      "city": ""
+    },
+    {
+      "id": "org-4ca8e3c5",
+      "canonical": "江苏第二师范学院",
       "aliases": [],
       "province": "江苏",
       "city": ""
@@ -3163,6 +3289,13 @@
       "aliases": [],
       "province": "河南",
       "city": ""
+    },
+    {
+      "id": "org-147b5fc4",
+      "canonical": "河海大学",
+      "aliases": [],
+      "province": "江苏",
+      "city": "南京"
     },
     {
       "id": "org-7cdafe03",
@@ -4047,6 +4180,13 @@
       "city": "盐城"
     },
     {
+      "id": "org-d6ea120c",
+      "canonical": "盐城师范学院",
+      "aliases": [],
+      "province": "江苏",
+      "city": "盐城"
+    },
+    {
       "id": "org-9313f650",
       "canonical": "石家庄学院",
       "aliases": [],
@@ -4238,6 +4378,13 @@
     {
       "id": "org-68852691",
       "canonical": "苏州工学院",
+      "aliases": [],
+      "province": "江苏",
+      "city": "苏州"
+    },
+    {
+      "id": "org-d763a212",
+      "canonical": "苏州市吴江区苏州湾外国语学校",
       "aliases": [],
       "province": "江苏",
       "city": "苏州"
@@ -4817,6 +4964,13 @@
       "city": ""
     },
     {
+      "id": "org-add57473",
+      "canonical": "金陵科技学院",
+      "aliases": [],
+      "province": "",
+      "city": ""
+    },
+    {
       "id": "org-dd998aba",
       "canonical": "钉耙编程",
       "aliases": [],
@@ -4962,6 +5116,13 @@
       "aliases": [],
       "province": "四川",
       "city": "阿坝"
+    },
+    {
+      "id": "org-44024c4d",
+      "canonical": "陆军工程大学",
+      "aliases": [],
+      "province": "",
+      "city": ""
     },
     {
       "id": "org-7b6dc27d",
