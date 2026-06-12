@@ -64,6 +64,13 @@
       "city": "上海"
     },
     {
+      "id": "org-4e08141b",
+      "canonical": "上海楷登电子科技有限公司",
+      "aliases": [],
+      "province": "上海",
+      "city": "上海"
+    },
+    {
       "id": "org-90338568",
       "canonical": "上海海事大学",
       "aliases": [],
@@ -461,6 +468,13 @@
       "aliases": [],
       "province": "江西",
       "city": "井冈山"
+    },
+    {
+      "id": "org-17bd5731",
+      "canonical": "代码源",
+      "aliases": [],
+      "province": "",
+      "city": ""
     },
     {
       "id": "org-d3880b8d",
@@ -1107,8 +1121,22 @@
       "city": ""
     },
     {
+      "id": "org-396bb979",
+      "canonical": "南昌五中",
+      "aliases": [],
+      "province": "江西",
+      "city": "南昌"
+    },
+    {
       "id": "org-14aab9a2",
       "canonical": "南昌大学",
+      "aliases": [],
+      "province": "江西",
+      "city": "南昌"
+    },
+    {
+      "id": "org-c90ed799",
+      "canonical": "南昌市第二中学",
       "aliases": [],
       "province": "江西",
       "city": "南昌"
@@ -1576,6 +1604,13 @@
       "city": ""
     },
     {
+      "id": "org-255e3a44",
+      "canonical": "四川省泸州高级中学",
+      "aliases": [],
+      "province": "四川",
+      "city": ""
+    },
+    {
       "id": "org-946d0b17",
       "canonical": "四川省绵阳中学",
       "aliases": [],
@@ -1595,6 +1630,13 @@
       "aliases": [],
       "province": "四川",
       "city": ""
+    },
+    {
+      "id": "org-4d7c19a9",
+      "canonical": "国科英才科创学院",
+      "aliases": [],
+      "province": "北京",
+      "city": "北京"
     },
     {
       "id": "org-8707bf77",
@@ -2119,6 +2161,13 @@
       "canonical": "山西工程科技职业大学",
       "aliases": [],
       "province": "山西",
+      "city": ""
+    },
+    {
+      "id": "org-d8a3780f",
+      "canonical": "峰城大",
+      "aliases": [],
+      "province": "",
       "city": ""
     },
     {
@@ -2710,6 +2759,13 @@
       "city": "桂林"
     },
     {
+      "id": "org-2d337c34",
+      "canonical": "桃李未来",
+      "aliases": [],
+      "province": "广东",
+      "city": "深圳"
+    },
+    {
       "id": "org-b1a1d999",
       "canonical": "武昌理工学院",
       "aliases": [],
@@ -2936,6 +2992,13 @@
     {
       "id": "org-db833c2f",
       "canonical": "江西理工大学南昌校区",
+      "aliases": [],
+      "province": "江西",
+      "city": ""
+    },
+    {
+      "id": "org-c74c43a8",
+      "canonical": "江西科技学院附属中学",
       "aliases": [],
       "province": "江西",
       "city": ""
@@ -5062,8 +5125,22 @@
       "city": "荆州"
     },
     {
+      "id": "org-b2a0bc6a",
+      "canonical": "长沙外国语学校",
+      "aliases": [],
+      "province": "湖南",
+      "city": "长沙"
+    },
+    {
       "id": "org-329ced5d",
       "canonical": "长沙学院",
+      "aliases": [],
+      "province": "湖南",
+      "city": "长沙"
+    },
+    {
+      "id": "org-338660f2",
+      "canonical": "长沙市中雅培粹学校",
       "aliases": [],
       "province": "湖南",
       "city": "长沙"
@@ -5136,6 +5213,13 @@
       "canonical": "陕西科技大学",
       "aliases": [],
       "province": "陕西",
+      "city": ""
+    },
+    {
+      "id": "org-8b216069",
+      "canonical": "雅礼中学",
+      "aliases": [],
+      "province": "",
       "city": ""
     },
     {

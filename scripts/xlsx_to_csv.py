@@ -217,6 +217,12 @@ def convert(filepath: Path, output: Path = None):
             teams = read_main_sheet(wb[sheet_name], rank_col)
             if not teams:
                 continue
+            # Merge unofficial teams only to invitational division
+            if div_suffix == "invitational" and "Unofficial" in sheet_names:
+                unofficial_teams = read_main_sheet(wb["Unofficial"], 0)
+                if unofficial_teams:
+                    teams.extend(unofficial_teams)
+                    teams.sort(key=lambda t: t["overall_rank"] if t["overall_rank"] > 0 else 9999)
             official_count = 0
             for t in teams:
                 if t["unofficial"]:
