@@ -10,13 +10,21 @@ const orgs = ref<OrgSummary[]>([])
 const loading = ref(true)
 const cq = ref(''), sq = ref('')
 const cr = ref<any[]>([]), sr = ref<any[]>([])
+const notice = ref('')
 
 onMounted(async () => {
   await initSearch()
   const d = await getSummary()
   contests.value = d.contests
-  orgs.value = d.organizations.sort((a:any,b:any)=>((b.champion_冠军||0)-(a.champion_冠军||0))||((b.champion_亚军||0)-(a.champion_亚军||0))||((b.champion_季军||0)-(a.champion_季军||0))||((b.gold||0)-(a.gold||0))||((b.silver||0)-(a.silver||0))||((b.bronze||0)-(a.bronze||0))).slice(0,15)
+  orgs.value = d.organizations.sort((a:any,b:any)=>((b.champion_冠军||0)-(a.champion_冠军||0))||((b.champion_亚军||0)-(a.champion_亚军||0))||((b.champion_季军||0)-(a.champion_季军||0))||((b.gold||0)-(a.gold||0))||((b.silver||0)-(a.silver||0))||((b.bronze||0)-(a.bronze||0))).slice(0,50)
   loading.value = false
+  try {
+    const resp = await fetch(import.meta.env.BASE_URL + 'data/announcement.json')
+    if (resp.ok) {
+      const data = await resp.json()
+      notice.value = data.text || ''
+    }
+  } catch {}
 })
 
 watch(cq, (q) => { cr.value = searchContestant(q) })
@@ -39,6 +47,13 @@ watch(sq, (q) => { sr.value = searchOrg(q) })
             <div v-for="r in sr" :key="r.id" @click="router.push(`/org/${r.id}`);sq=''">{{ r.name }}<span class="tag">学校</span></div>
           </div>
         </div>
+      </div>
+    </section>
+
+    <section v-if="notice" class="card notice-card">
+      <div class="notice-inner">
+        <svg class="notice-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+        <span class="notice-text">{{ notice }}</span>
       </div>
     </section>
 
@@ -75,6 +90,11 @@ watch(sq, (q) => { sr.value = searchOrg(q) })
 .tag { font-size: 10px; padding: 2px 8px; border-radius: 10px; background: #f0f0f0; color: #666; }
 .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
 @media (max-width: 768px) { .cols { grid-template-columns: 1fr; } }
+.notice-card { border-left: 3px solid var(--primary); background: var(--primary-light); }
+.notice-inner { display: flex; align-items: flex-start; gap: 12px; padding: 16px 20px; }
+.notice-icon { flex-shrink: 0; color: var(--primary); margin-top: 1px; }
+.notice-text { font-size: 14px; line-height: 1.6; color: var(--text); }
+
 .card-head { display: flex; justify-content: space-between; align-items: center; padding: 18px 24px; border-bottom: 1px solid var(--border-light); }
 .card-head h2 { font-size: 16px; font-weight: 600; }
 .card-head a { font-size: 13px; color: var(--text-muted); }
