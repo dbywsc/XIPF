@@ -207,23 +207,25 @@ def parse_srk(filepath: Path) -> Contest:
         teams.append(team)
 
     # Sort teams by ICPC rules (solved desc, penalty asc), then assign ranks
-    # Official teams ranked separately for awards, but we assign global rank to all
     official_teams = [t for t in teams if t.official]
-    unofficial_teams = [t for t in teams if not t.official]
 
-    # All teams sorted together for global rank
+    # Global rank: all teams sorted together
     all_sorted = sorted(teams, key=lambda t: (-t.solved, t.penalty))
     for rank, team in enumerate(all_sorted, 1):
         team.rank = rank
 
-    # Awards only for official teams, sorted separately
+    # Awards: SRK count values are absolute (not cumulative)
+    # [36, 72, 108] means gold=36, silver=72, bronze=108
     official_sorted = sorted(official_teams, key=lambda t: (-t.solved, t.penalty))
+    gold_count = award_counts[0]
+    silver_count = award_counts[1]
+    bronze_count = min(award_counts[2], len(official_sorted) - gold_count - silver_count)
     for i, team in enumerate(official_sorted):
-        if i < award_counts[0]:
+        if i < gold_count:
             team.medal = "gold"
-        elif i < award_counts[1]:
+        elif i < gold_count + silver_count:
             team.medal = "silver"
-        elif i < award_counts[2]:
+        elif i < gold_count + silver_count + bronze_count:
             team.medal = "bronze"
 
     # Determine contest ID from directory name
@@ -245,9 +247,9 @@ def parse_srk(filepath: Path) -> Contest:
         frozen_duration=frozen_sec,
         problems=problems,
         teams=teams,
-        gold_count=award_counts[0],
-        silver_count=award_counts[1] - award_counts[0],
-        bronze_count=award_counts[2] - award_counts[1],
+        gold_count=gold_count,
+        silver_count=silver_count,
+        bronze_count=bronze_count,
     )
 
 
