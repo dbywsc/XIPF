@@ -47,9 +47,12 @@ const ml: Record<string,string> = { gold:'金奖', silver:'银奖', bronze:'铜�
         <tbody>
           <tr v-for="r in data.records" :key="`${r.contest_id}-${r.team_name}`">
             <td class="num">{{ r.date }}</td>
-            <td><router-link :to="`/contest/${r.contest_id}`">{{ r.contest_title }}</router-link></td>
-            <td>{{ r.team_name }}</td>
-            <td class="num text-right">{{ r.rank }}</td>
+            <td class="ctitle"><router-link :to="`/contest/${r.contest_id}`">{{ r.contest_title }}</router-link></td>
+            <td class="tname">{{ r.team_name }}</td>
+            <td class="num text-right">
+              <span v-if="r.official">{{ r.rank }} / {{ r.official_rank }}</span>
+              <span v-else class="unoff-rank">{{ r.rank }}</span>
+            </td>
             <td><span v-if="r.medal" class="badge" :class="`badge-${r.medal}`">{{ ml[r.medal] }}</span><span v-else class="no">-</span></td>
           </tr>
         </tbody>
@@ -71,6 +74,10 @@ const ml: Record<string,string> = { gold:'金奖', silver:'银奖', bronze:'铜�
 .stat { text-align: center; }
 .n { font-size: 34px; font-weight: 700; line-height: 1.2; }
 .l { font-size: 13px; color: var(--text-secondary); margin-top: 2px; }
+.ctitle { max-width: 280px; }
+.ctitle a { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tname { max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .no { color: var(--text-muted); }
+.unoff-rank { color: var(--text-muted); }
 .card { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm); margin-bottom: 24px; overflow: hidden; }
 </style>

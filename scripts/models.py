@@ -39,6 +39,7 @@ class Team:
     problems: list[ProblemStatus] = field(default_factory=list)
     members: list[TeamMember] = field(default_factory=list)
     rank: int = 0
+    official_rank: int = 0  # rank among official teams; 0 for unofficial
     girl_team: bool = False
     medal: str = ""  # "gold", "silver", "bronze", or ""
     champion: str = ""  # "冠军", "亚军", "季军", or ""
@@ -68,7 +69,9 @@ class ContestRecord:
     date: str
     team_name: str
     rank: int
-    medal: str
+    official_rank: int = 0
+    official: bool = True
+    medal: str = ""
     champion: str = ""  # "冠军", "亚军", "季军", or ""
     solved: int = 0
     penalty: int = 0

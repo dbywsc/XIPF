@@ -77,10 +77,16 @@ def parse_contest_data(filepath: Path) -> Contest:
 
     # Sort teams by ICPC rules and assign ranks
     official_teams = [t for t in teams if t.official]
+
+    # Global rank: all teams sorted together (always recompute)
     all_sorted = sorted(teams, key=lambda t: (-t.solved, t.penalty))
     for rank, team in enumerate(all_sorted, 1):
-        if team.rank == 0:  # only assign if not already set
-            team.rank = rank
+        team.rank = rank
+
+    # Official rank: official teams only
+    official_sorted_cd = sorted(official_teams, key=lambda t: (-t.solved, t.penalty))
+    for i, team in enumerate(official_sorted_cd):
+        team.official_rank = i + 1
 
     # Assign medals: use pre-set if available, otherwise calculate from team count
     pre_set_medals = any(t.medal for t in teams if hasattr(t, 'medal') and t.medal)
@@ -214,13 +220,14 @@ def parse_srk(filepath: Path) -> Contest:
     for rank, team in enumerate(all_sorted, 1):
         team.rank = rank
 
-    # Awards: SRK count values are absolute (not cumulative)
+    # Official rank + awards: SRK count values are absolute (not cumulative)
     # [36, 72, 108] means gold=36, silver=72, bronze=108
     official_sorted = sorted(official_teams, key=lambda t: (-t.solved, t.penalty))
     gold_count = award_counts[0]
     silver_count = award_counts[1]
     bronze_count = min(award_counts[2], len(official_sorted) - gold_count - silver_count)
     for i, team in enumerate(official_sorted):
+        team.official_rank = i + 1
         if i < gold_count:
             team.medal = "gold"
         elif i < gold_count + silver_count:
@@ -428,6 +435,8 @@ def build():
                     date=contest.date,
                     team_name=team.name,
                     rank=team.rank,
+                    official_rank=team.official_rank,
+                    official=team.official,
                     medal=team.medal,
                     champion=team.champion,
                     solved=team.solved,
@@ -521,6 +530,7 @@ def build():
                     "official": t.official,
                     "organization": t.organization,
                     "rank": t.rank,
+                    "official_rank": t.official_rank,
                     "medal": t.medal,
                     "champion": t.champion,
                     "girl_team": t.girl_team,
@@ -559,6 +569,8 @@ def build():
                     "date": r.date,
                     "team_name": r.team_name,
                     "rank": r.rank,
+                    "official_rank": r.official_rank,
+                    "official": r.official,
                     "medal": r.medal,
                     "champion": r.champion,
                     "score": {"solved": r.solved, "penalty": r.penalty},

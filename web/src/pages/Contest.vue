@@ -28,10 +28,13 @@ const ml: Record<string,string> = { gold:'金奖', silver:'银奖', bronze:'铜�
 
     <div class="card" style="overflow-x:auto">
       <table class="table">
-        <thead><tr><th>#</th><th>学校</th><th>队伍</th><th>奖项</th></tr></thead>
+        <thead><tr><th>排名</th><th>学校</th><th>队伍</th><th>奖项</th></tr></thead>
         <tbody v-for="team in data.teams" :key="team.id">
           <tr :class="{ row: true, unofficial: !team.official }" @click="toggle(team.id)" style="cursor:pointer">
-            <td class="num">{{ team.rank||'*' }}</td>
+            <td class="num">
+              <span v-if="team.official">{{ team.rank }} / {{ team.official_rank }}</span>
+              <span v-else class="unoff-rank">{{ team.rank }}</span>
+            </td>
             <td>{{ team.organization }}</td>
             <td><span class="tname">{{ team.name }}</span><span v-if="team.girl_team" class="gtag">女队</span><span v-if="team.members.length" class="arrow">{{ expanded.has(team.id)?'▾':'▸' }}</span></td>
             <td>
@@ -58,6 +61,7 @@ const ml: Record<string,string> = { gold:'金奖', silver:'银奖', bronze:'铜�
 .meta { color: var(--text-secondary); font-size: 14px; margin-top: 6px; }
 .row { transition: background var(--transition); }
 .unofficial { opacity: .55; }
+.unoff-rank { color: var(--text-muted); }
 .tname { font-weight: 500; }
 .gtag { margin-left: 6px; font-size: 10px; padding: 1px 6px; border-radius: 4px; background: #fce7f3; color: #be185d; font-weight: 500; }
 .arrow { margin-left: 6px; color: var(--text-muted); font-size: 12px; }
