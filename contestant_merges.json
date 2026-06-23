@@ -1,0 +1,9 @@
+{
+  "_comment": "配置同名选手在不同学校下的记录合并。source 的记录会合并到 target，不影响原始队伍和学校统计。",
+  "merges": [
+    {
+      "source": { "name": "陈弈帆", "organization": "个人参赛" },
+      "target": { "name": "陈弈帆", "organization": "暨南大学" }
+    }
+  ]
+}

@@ -113,6 +113,49 @@ npm run dev
 
 确认无误后 `Ctrl+C` 停止服务器，继续下一步。
 
+## 二点五、合并同人不同校的记录（可选）
+
+默认策略是同名不同校的选手被视为两个独立的人。如果你发现某个选手以不同学校身份参赛（如本校 + 个人参赛/打星），希望将其记录合并，可以手动配置合并规则。
+
+### 配置合并
+
+编辑仓库根目录的 `contestant_merges.json`：
+
+```json
+{
+  "_comment": "source 的记录会合并到 target，不影响原始队伍和学校统计",
+  "merges": [
+    {
+      "source": { "name": "陈弈帆", "organization": "个人参赛" },
+      "target": { "name": "陈弈帆", "organization": "暨南大学" }
+    }
+  ]
+}
+```
+
+- `source`：要合并掉的选手（姓名 + 学校精确匹配）
+- `target`：合并到的目标选手
+- 可以配置多条 rules，每次运行脚本会全部执行
+
+### 执行合并
+
+```bash
+# 先正常运行 build.py
+python scripts/build.py
+
+# 然后执行合并脚本
+python scripts/merge_contestants.py
+
+# 记得更新前端数据
+cp -r dist/* web/public/data/
+```
+
+合并后：
+- source 选手的参赛记录全部移到 target
+- source 选手文件被删除
+- 比赛页面中的选手链接会自动更新
+- 原始队伍所属学校和学校统计数据不受影响
+
 ## 三、提交 PR
 
 ```bash

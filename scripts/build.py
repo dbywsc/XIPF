@@ -609,6 +609,12 @@ def build():
             json.dump(sorted(unmatched_orgs), f, ensure_ascii=False, indent=2)
         print(f"Wrote {len(unmatched_orgs)} unmatched organizations to unmatched_orgs.json")
 
+    # 6. Copy announcement if exists
+    announcement_src = ROOT / "announcement.json"
+    if announcement_src.exists():
+        shutil.copy(announcement_src, DIST_DIR / "announcement.json")
+        print("Copied announcement.json")
+
     print("\nBuild complete!")
 
 
