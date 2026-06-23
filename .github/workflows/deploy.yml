@@ -35,6 +35,9 @@ jobs:
           pip install --quiet openpyxl
           python scripts/build.py
 
+      - name: Merge contestants
+        run: python scripts/merge_contestants.py
+
       - name: Copy data to web
         run: |
           rm -rf web/public/data
