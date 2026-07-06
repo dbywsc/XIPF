@@ -1,0 +1,5215 @@
+{
+  "title": "2026年中国大学生程序设计竞赛-江西省大学生程序设计竞赛（南昌大学）",
+  "year": 2026,
+  "date": "2026-05-24",
+  "teams": [
+    {
+      "id": "team258",
+      "name": "雪月花",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 1,
+      "org_rank": 1,
+      "solved": 8,
+      "penalty": 62280,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "AC",
+          "time": 12853,
+          "tries": 3
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 3191,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 994,
+          "tries": 2
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 1843,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 11543,
+          "tries": 1
+        },
+        {
+          "alias": "J",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "K",
+          "result": "AC",
+          "time": 16735,
+          "tries": 1
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 729,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 7415,
+          "tries": 4
+        }
+      ],
+      "medal": "gold",
+      "members": [
+        {
+          "name": "何超",
+          "gender": ""
+        },
+        {
+          "name": "满曜嘉",
+          "gender": ""
+        },
+        {
+          "name": "谢星航",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": "冠军"
+    },
+    {
+      "id": "team146",
+      "name": "零基础老登10086队",
+      "organization": "东华理工大学",
+      "official": true,
+      "rank": 2,
+      "org_rank": 1,
+      "solved": 7,
+      "penalty": 41640,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "AC",
+          "time": 12425,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 3140,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": "RJ",
+          "time": 0,
+          "tries": 5
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 646,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 1671,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 9278,
+          "tries": 1
+        },
+        {
+          "alias": "J",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "K",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 401,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 13103,
+          "tries": 2
+        }
+      ],
+      "medal": "gold",
+      "members": [
+        {
+          "name": "熊永荣",
+          "gender": ""
+        },
+        {
+          "name": "涂嘉乐",
+          "gender": ""
+        },
+        {
+          "name": "袁玲丽",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": "亚军"
+    },
+    {
+      "id": "team149",
+      "name": "长安一片AC",
+      "organization": "南昌理工学院",
+      "official": true,
+      "rank": 3,
+      "org_rank": 1,
+      "solved": 7,
+      "penalty": 48000,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "AC",
+          "time": 7756,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 4142,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 784,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 2726,
+          "tries": 3
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 13975,
+          "tries": 4
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 547,
+          "tries": 3
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 7414,
+          "tries": 3
+        }
+      ],
+      "medal": "gold",
+      "members": [
+        {
+          "name": "曾正基",
+          "gender": ""
+        },
+        {
+          "name": "廖龙浩",
+          "gender": ""
+        },
+        {
+          "name": "毛富豪",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": "季军"
+    },
+    {
+      "id": "team154",
+      "name": "集训吃饭不排队",
+      "organization": "南昌航空大学",
+      "official": true,
+      "rank": 4,
+      "org_rank": 1,
+      "solved": 7,
+      "penalty": 50940,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "AC",
+          "time": 12048,
+          "tries": 2
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 3443,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 631,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 1628,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 15943,
+          "tries": 2
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 382,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 13444,
+          "tries": 2
+        }
+      ],
+      "medal": "gold",
+      "members": [
+        {
+          "name": "赖剑峰",
+          "gender": ""
+        },
+        {
+          "name": "严嘉康",
+          "gender": ""
+        },
+        {
+          "name": "刘英祺",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team325",
+      "name": "前湖曼巴",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 5,
+      "org_rank": 2,
+      "solved": 7,
+      "penalty": 64200,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "AC",
+          "time": 11776,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 5764,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 599,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 4186,
+          "tries": 4
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 16157,
+          "tries": 2
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 351,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 14799,
+          "tries": 5
+        }
+      ],
+      "medal": "gold",
+      "members": [
+        {
+          "name": "陈周宇杰",
+          "gender": ""
+        },
+        {
+          "name": "游理皓",
+          "gender": ""
+        },
+        {
+          "name": "纪熹桐",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team323",
+      "name": "缘起甜韵趣恋丛生！",
+      "organization": "江西理工大学南昌校区",
+      "official": true,
+      "rank": 6,
+      "org_rank": 1,
+      "solved": 6,
+      "penalty": 32340,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "AC",
+          "time": 9190,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 6116,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1078,
+          "tries": 2
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 1809,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "RJ",
+          "time": 0,
+          "tries": 12
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 312,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 11581,
+          "tries": 2
+        }
+      ],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "牛子陆",
+          "gender": ""
+        },
+        {
+          "name": "林智磊",
+          "gender": ""
+        },
+        {
+          "name": "范子成",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team062",
+      "name": "我没招了",
+      "organization": "江西师范大学",
+      "official": true,
+      "rank": 7,
+      "org_rank": 1,
+      "solved": 6,
+      "penalty": 34020,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 3388,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 925,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 1876,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 14344,
+          "tries": 1
+        },
+        {
+          "alias": "J",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "K",
+          "result": "RJ",
+          "time": 0,
+          "tries": 3
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 456,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 9583,
+          "tries": 4
+        }
+      ],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "杨加航",
+          "gender": ""
+        },
+        {
+          "name": "陈泽帆",
+          "gender": ""
+        },
+        {
+          "name": "王诗琳",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team222",
+      "name": "美式不加糖",
+      "organization": "江西师范大学",
+      "official": true,
+      "rank": 8,
+      "org_rank": 2,
+      "solved": 6,
+      "penalty": 37440,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 7
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 1999,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 919,
+          "tries": 3
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 1495,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 7717,
+          "tries": 3
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 585,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 16522,
+          "tries": 4
+        }
+      ],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "张志伟",
+          "gender": ""
+        },
+        {
+          "name": "冯尉旺",
+          "gender": ""
+        },
+        {
+          "name": "魏子俊",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team116",
+      "name": "领航者",
+      "organization": "江西农业大学",
+      "official": true,
+      "rank": 9,
+      "org_rank": 1,
+      "solved": 6,
+      "penalty": 38100,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "AC",
+          "time": 13500,
+          "tries": 2
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 4805,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 513,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 2056,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": "RJ",
+          "time": 0,
+          "tries": 11
+        },
+        {
+          "alias": "K",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 336,
+          "tries": 2
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 12201,
+          "tries": 2
+        }
+      ],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "刘圣丰",
+          "gender": ""
+        },
+        {
+          "name": "孙文凯",
+          "gender": ""
+        },
+        {
+          "name": "吴楚扬",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team048",
+      "name": "别开香槟开早了",
+      "organization": "江西财经大学",
+      "official": true,
+      "rank": 10,
+      "org_rank": 1,
+      "solved": 6,
+      "penalty": 40920,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "AC",
+          "time": 8167,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 5639,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1269,
+          "tries": 2
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 2691,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "RJ",
+          "time": 0,
+          "tries": 2
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 928,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 15231,
+          "tries": 6
+        }
+      ],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "孙天成",
+          "gender": ""
+        },
+        {
+          "name": "罗文轩",
+          "gender": ""
+        },
+        {
+          "name": "杨源鑫",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team192",
+      "name": "朗朗晴天",
+      "organization": "江西软件职业技术大学",
+      "official": true,
+      "rank": 11,
+      "org_rank": 1,
+      "solved": 6,
+      "penalty": 45600,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 3
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 7173,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1253,
+          "tries": 2
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 2488,
+          "tries": 2
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 16349,
+          "tries": 2
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 718,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 11869,
+          "tries": 2
+        }
+      ],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "杨欢欢",
+          "gender": ""
+        },
+        {
+          "name": "蔡易伯",
+          "gender": ""
+        },
+        {
+          "name": "曾络",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team322",
+      "name": "落花瓣",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 12,
+      "org_rank": 3,
+      "solved": 6,
+      "penalty": 59640,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 3184,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1262,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 2637,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 16724,
+          "tries": 6
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 404,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 16409,
+          "tries": 12
+        }
+      ],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "罗嘉乐",
+          "gender": ""
+        },
+        {
+          "name": "王建捷",
+          "gender": ""
+        },
+        {
+          "name": "万佳伟",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team226",
+      "name": "hh粉丝团",
+      "organization": "九江学院",
+      "official": true,
+      "rank": 13,
+      "org_rank": 1,
+      "solved": 5,
+      "penalty": 21720,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 3781,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1144,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 1782,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "RJ",
+          "time": 0,
+          "tries": 4
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 494,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 11007,
+          "tries": 4
+        }
+      ],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "向洁",
+          "gender": ""
+        },
+        {
+          "name": "陈亮",
+          "gender": ""
+        },
+        {
+          "name": "左鹏",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team069",
+      "name": "RE:Master",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 14,
+      "org_rank": 4,
+      "solved": 5,
+      "penalty": 24300,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 6
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 4341,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 832,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 1761,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 15948,
+          "tries": 1
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 397,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        }
+      ],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "罗思晨",
+          "gender": ""
+        },
+        {
+          "name": "刘钟橙",
+          "gender": ""
+        },
+        {
+          "name": "刘烨",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team090",
+      "name": "杂~鱼~杂~鱼~ 欧尼酱连这都做不到嘛~",
+      "organization": "东华理工大学",
+      "official": true,
+      "rank": 15,
+      "org_rank": 2,
+      "solved": 5,
+      "penalty": 25680,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 3775,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 657,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 2401,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 17504,
+          "tries": 2
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 318,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "silver",
+      "members": [
+        {
+          "name": "刘志翔",
+          "gender": ""
+        },
+        {
+          "name": "周子彤",
+          "gender": ""
+        },
+        {
+          "name": "黄伟",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team216",
+      "name": "再也不吃水煮黑背鲈了",
+      "organization": "井冈山大学",
+      "official": true,
+      "rank": 16,
+      "org_rank": 1,
+      "solved": 5,
+      "penalty": 26460,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 5944,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1673,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 3613,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "RJ",
+          "time": 0,
+          "tries": 3
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 1063,
+          "tries": 3
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 10702,
+          "tries": 2
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "徐明",
+          "gender": ""
+        },
+        {
+          "name": "唐城颖",
+          "gender": ""
+        },
+        {
+          "name": "李方凯",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team111",
+      "name": "天空之矛",
+      "organization": "江西财经大学",
+      "official": true,
+      "rank": 17,
+      "org_rank": 2,
+      "solved": 5,
+      "penalty": 34200,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 5475,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1665,
+          "tries": 2
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 4277,
+          "tries": 2
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": "RJ",
+          "time": 0,
+          "tries": 11
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 1032,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 14692,
+          "tries": 5
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "李鑫",
+          "gender": ""
+        },
+        {
+          "name": "张瑞杰",
+          "gender": ""
+        },
+        {
+          "name": "曹京顺",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team018",
+      "name": "刚刚教了一位神",
+      "organization": "东华理工大学",
+      "official": true,
+      "rank": 18,
+      "org_rank": 3,
+      "solved": 5,
+      "penalty": 36060,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 6434,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1339,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 4301,
+          "tries": 3
+        },
+        {
+          "alias": "I",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 992,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 15950,
+          "tries": 5
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "尚志超",
+          "gender": ""
+        },
+        {
+          "name": "薛笑运",
+          "gender": ""
+        },
+        {
+          "name": "欧阳嘉隆",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team239",
+      "name": "本质铁牌",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 19,
+      "org_rank": 5,
+      "solved": 5,
+      "penalty": 39000,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 6266,
+          "tries": 4
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 2193,
+          "tries": 4
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 2845,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 17617,
+          "tries": 2
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 604,
+          "tries": 2
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "唐昊梓",
+          "gender": ""
+        },
+        {
+          "name": "欧阳曦",
+          "gender": ""
+        },
+        {
+          "name": "罗俊",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team232",
+      "name": "拿到牌子队长女装",
+      "organization": "江西理工大学南昌校区",
+      "official": true,
+      "rank": 20,
+      "org_rank": 2,
+      "solved": 5,
+      "penalty": 42960,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 9131,
+          "tries": 3
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1429,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 6696,
+          "tries": 3
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 525,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "AC",
+          "time": 16921,
+          "tries": 4
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "郭逸非",
+          "gender": ""
+        },
+        {
+          "name": "俞泽延",
+          "gender": ""
+        },
+        {
+          "name": "杨旭鑫",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team230",
+      "name": "JHZ",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 21,
+      "org_rank": 6,
+      "solved": 5,
+      "penalty": 45420,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 17820,
+          "tries": 6
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 803,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 2978,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 13868,
+          "tries": 4
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 423,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "贾鑫海",
+          "gender": ""
+        },
+        {
+          "name": "郑铎",
+          "gender": ""
+        },
+        {
+          "name": "洪轩",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team091",
+      "name": "尝试 Hello World 一万次最终放弃",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 22,
+      "org_rank": 7,
+      "solved": 5,
+      "penalty": 46140,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 2
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 6446,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 6976,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 5335,
+          "tries": 4
+        },
+        {
+          "alias": "I",
+          "result": "AC",
+          "time": 16913,
+          "tries": 5
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 2245,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "桂叶青",
+          "gender": ""
+        },
+        {
+          "name": "刘峰",
+          "gender": ""
+        },
+        {
+          "name": "贾明昊",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team274",
+      "name": "胖宝宝蒟蒻现场赛偶遇惊人的脑经急转弯题目拼尽全力手玩无法战胜嘻可以和解吗但是并非骑士队友背负宜春张源哲之名所以我的贪心板子不会输嘻嘻我一定要赢",
+      "organization": "宜春学院",
+      "official": true,
+      "rank": 23,
+      "org_rank": 1,
+      "solved": 4,
+      "penalty": 11340,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 2
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 6649,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 639,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 2199,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": "RJ",
+          "time": 0,
+          "tries": 6
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 800,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "俞淳宝",
+          "gender": ""
+        },
+        {
+          "name": "卢思吕",
+          "gender": ""
+        },
+        {
+          "name": "魏涵胜",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team237",
+      "name": "队友说的都队",
+      "organization": "南昌理工学院",
+      "official": true,
+      "rank": 24,
+      "org_rank": 2,
+      "solved": 4,
+      "penalty": 15060,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 7484,
+          "tries": 3
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 932,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 3837,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 588,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "曾好",
+          "gender": ""
+        },
+        {
+          "name": "曹炫锋",
+          "gender": ""
+        },
+        {
+          "name": "李闪亮",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team224",
+      "name": "UAKIOIICPCWFIBOOM0CSPJGESP1",
+      "organization": "南昌航空大学",
+      "official": true,
+      "rank": 25,
+      "org_rank": 2,
+      "solved": 4,
+      "penalty": 17880,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "C",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 5854,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "F",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1728,
+          "tries": 4
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 4840,
+          "tries": 2
+        },
+        {
+          "alias": "I",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "J",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "K",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 826,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 5
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "邵鹏辉",
+          "gender": ""
+        },
+        {
+          "name": "吴志磊",
+          "gender": ""
+        },
+        {
+          "name": "朱俊",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team004",
+      "name": "赣个大东西",
+      "organization": "赣东学院",
+      "official": true,
+      "rank": 26,
+      "org_rank": 1,
+      "solved": 4,
+      "penalty": 20520,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 7728,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 840,
+          "tries": 2
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 5150,
+          "tries": 2
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 2147,
+          "tries": 2
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 5
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "邓建豪",
+          "gender": ""
+        },
+        {
+          "name": "何欣怡",
+          "gender": ""
+        },
+        {
+          "name": "彭敏宇",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team046",
+      "name": "队里有熊",
+      "organization": "南昌理工学院",
+      "official": true,
+      "rank": 27,
+      "org_rank": 3,
+      "solved": 4,
+      "penalty": 20640,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 5182,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1968,
+          "tries": 4
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 7470,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 1355,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 6
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "汤宇豪",
+          "gender": ""
+        },
+        {
+          "name": "姜鸿鑫",
+          "gender": ""
+        },
+        {
+          "name": "项子岳",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team016",
+      "name": "我们就是奇迹",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 28,
+      "org_rank": 8,
+      "solved": 4,
+      "penalty": 20820,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 6338,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1086,
+          "tries": 2
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 8282,
+          "tries": 3
+        },
+        {
+          "alias": "I",
+          "result": "RJ",
+          "time": 0,
+          "tries": 2
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 415,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 9
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "谢佳宏",
+          "gender": ""
+        },
+        {
+          "name": "张远祥",
+          "gender": ""
+        },
+        {
+          "name": "郑国靖",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team121",
+      "name": "一切都是我们有铁牌的选择",
+      "organization": "华东交通大学",
+      "official": true,
+      "rank": 29,
+      "org_rank": 1,
+      "solved": 4,
+      "penalty": 20880,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 8887,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 3276,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 7970,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 892,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 7
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "晏奕豪",
+          "gender": ""
+        },
+        {
+          "name": "邓袁杰",
+          "gender": ""
+        },
+        {
+          "name": "李帆",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team174",
+      "name": "旮旯给木领域大蛇",
+      "organization": "江西农业大学",
+      "official": true,
+      "rank": 30,
+      "org_rank": 2,
+      "solved": 4,
+      "penalty": 22260,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 9533,
+          "tries": 4
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 2181,
+          "tries": 3
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 3522,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 1162,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 6
+        }
+      ],
+      "medal": "bronze",
+      "members": [
+        {
+          "name": "龙轩",
+          "gender": ""
+        },
+        {
+          "name": "王博涵",
+          "gender": ""
+        },
+        {
+          "name": "方淳铭",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team213",
+      "name": "每一题都是wa",
+      "organization": "景德镇陶瓷大学",
+      "official": true,
+      "rank": 31,
+      "org_rank": 1,
+      "solved": 4,
+      "penalty": 22560,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 3367,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1269,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 16226,
+          "tries": 1
+        },
+        {
+          "alias": "I",
+          "result": "RJ",
+          "time": 0,
+          "tries": 4
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": "RJ",
+          "time": 0,
+          "tries": 2
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 1754,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 2
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "楼家煜",
+          "gender": ""
+        },
+        {
+          "name": "柴定超",
+          "gender": ""
+        },
+        {
+          "name": "陈嘉勒",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team206",
+      "name": "三人驭六丸",
+      "organization": "江西财经大学",
+      "official": true,
+      "rank": 32,
+      "org_rank": 3,
+      "solved": 4,
+      "penalty": 23460,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 4050,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 841,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 11159,
+          "tries": 7
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 328,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "钟明皓",
+          "gender": ""
+        },
+        {
+          "name": "周君",
+          "gender": ""
+        },
+        {
+          "name": "詹宇飞",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team225",
+      "name": "拿牌去看那艺娜演唱会结果发现她塌房了",
+      "organization": "江西农业大学",
+      "official": true,
+      "rank": 33,
+      "org_rank": 3,
+      "solved": 4,
+      "penalty": 23820,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 9196,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1388,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 10020,
+          "tries": 2
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 843,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 6
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "邓俊威",
+          "gender": ""
+        },
+        {
+          "name": "吴帅斌",
+          "gender": ""
+        },
+        {
+          "name": "朱宇强",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team219",
+      "name": "畅琰琪遇",
+      "organization": "江西理工大学",
+      "official": true,
+      "rank": 34,
+      "org_rank": 1,
+      "solved": 4,
+      "penalty": 24480,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 9739,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 892,
+          "tries": 2
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 7752,
+          "tries": 3
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 1388,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "李文畅",
+          "gender": ""
+        },
+        {
+          "name": "谢琰",
+          "gender": ""
+        },
+        {
+          "name": "杨子琪",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team064",
+      "name": "元神不玩原神",
+      "organization": "华东交通大学",
+      "official": true,
+      "rank": 35,
+      "org_rank": 2,
+      "solved": 4,
+      "penalty": 25200,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 8444,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1611,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 11039,
+          "tries": 3
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 1864,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 3
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "施晋元",
+          "gender": ""
+        },
+        {
+          "name": "吴欣达",
+          "gender": ""
+        },
+        {
+          "name": "张有恒",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team144",
+      "name": "飞飞带你吃花椒",
+      "organization": "华东交通大学",
+      "official": true,
+      "rank": 36,
+      "org_rank": 3,
+      "solved": 4,
+      "penalty": 26160,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 12620,
+          "tries": 4
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 2015,
+          "tries": 2
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 3565,
+          "tries": 2
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 886,
+          "tries": 2
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 6
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "戚银芯",
+          "gender": ""
+        },
+        {
+          "name": "华诺飞",
+          "gender": ""
+        },
+        {
+          "name": "李沁宇",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team242",
+      "name": "73在鲁，奶龙在赣，521铜首铁首愿得一人心白首不分离，你根本不懂得不懂得爱我洛克王国胖猫跳河",
+      "organization": "江西水利电力大学",
+      "official": true,
+      "rank": 37,
+      "org_rank": 1,
+      "solved": 4,
+      "penalty": 26400,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 3
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 10105,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1986,
+          "tries": 4
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 7479,
+          "tries": 2
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 921,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "谭宇晨",
+          "gender": ""
+        },
+        {
+          "name": "涂鸣灏",
+          "gender": ""
+        },
+        {
+          "name": "马晋灝",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team131",
+      "name": "Auspice_Pavilion",
+      "organization": "江西师范大学",
+      "official": true,
+      "rank": 38,
+      "org_rank": 3,
+      "solved": 3,
+      "penalty": 9540,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 5529,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1740,
+          "tries": 2
+        },
+        {
+          "alias": "H",
+          "result": "RJ",
+          "time": 0,
+          "tries": 9
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 1105,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "林泉",
+          "gender": ""
+        },
+        {
+          "name": "龚睿智",
+          "gender": ""
+        },
+        {
+          "name": "赖猛忠",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team223",
+      "name": "酒吧里面点炒饭",
+      "organization": "南昌航空大学",
+      "official": true,
+      "rank": 39,
+      "org_rank": 3,
+      "solved": 3,
+      "penalty": 15000,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 10831,
+          "tries": 3
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1234,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "RJ",
+          "time": 0,
+          "tries": 6
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 641,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "马铭宇",
+          "gender": ""
+        },
+        {
+          "name": "王云博",
+          "gender": ""
+        },
+        {
+          "name": "李声欢",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team126",
+      "name": "圣歌莉亚",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 40,
+      "org_rank": 9,
+      "solved": 3,
+      "penalty": 16260,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 8100,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 3260,
+          "tries": 2
+        },
+        {
+          "alias": "H",
+          "result": "RJ",
+          "time": 0,
+          "tries": 15
+        },
+        {
+          "alias": "I",
+          "result": "RJ",
+          "time": 0,
+          "tries": 4
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 2534,
+          "tries": 2
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "童天宇",
+          "gender": ""
+        },
+        {
+          "name": "宋坤",
+          "gender": ""
+        },
+        {
+          "name": "罗東明",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team241",
+      "name": "运行时错误",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 41,
+      "org_rank": 10,
+      "solved": 3,
+      "penalty": 16680,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 5
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 12550,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 2488,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "RJ",
+          "time": 0,
+          "tries": 10
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 1729,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "朱浩展",
+          "gender": ""
+        },
+        {
+          "name": "胡征豪",
+          "gender": ""
+        },
+        {
+          "name": "张修贤",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team202",
+      "name": "倒头就睡zzz",
+      "organization": "江西理工大学",
+      "official": true,
+      "rank": 42,
+      "org_rank": 2,
+      "solved": 3,
+      "penalty": 17280,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 2
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "AC",
+          "time": 13004,
+          "tries": 3
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 1156,
+          "tries": 1
+        },
+        {
+          "alias": "H",
+          "result": "RJ",
+          "time": 0,
+          "tries": 5
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 818,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "陈文发",
+          "gender": ""
+        },
+        {
+          "name": "喻文建",
+          "gender": ""
+        },
+        {
+          "name": "邹佳怡",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team172",
+      "name": "老虎",
+      "organization": "九江学院",
+      "official": true,
+      "rank": 43,
+      "org_rank": 2,
+      "solved": 3,
+      "penalty": 35820,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "RJ",
+          "time": 0,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "AC",
+          "time": 8609,
+          "tries": 3
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 12209,
+          "tries": 9
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 1861,
+          "tries": 2
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "余书豪",
+          "gender": ""
+        },
+        {
+          "name": "毛君羡",
+          "gender": ""
+        },
+        {
+          "name": "郭袁非",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team259",
+      "name": "雨姐的丈夫们",
+      "organization": "宜春学院",
+      "official": true,
+      "rank": 44,
+      "org_rank": 2,
+      "solved": 2,
+      "penalty": 15000,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "RJ",
+          "time": 0,
+          "tries": 9
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 10032,
+          "tries": 2
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 1391,
+          "tries": 3
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "黄明",
+          "gender": ""
+        },
+        {
+          "name": "陈泽睿",
+          "gender": ""
+        },
+        {
+          "name": "王仁杰",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team240",
+      "name": "摸鱼协会",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 45,
+      "org_rank": 11,
+      "solved": 2,
+      "penalty": 17160,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "RJ",
+          "time": 0,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "RJ",
+          "time": 0,
+          "tries": 13
+        },
+        {
+          "alias": "H",
+          "result": "AC",
+          "time": 6799,
+          "tries": 6
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 3230,
+          "tries": 2
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "唐旭豪",
+          "gender": ""
+        },
+        {
+          "name": "江语欣",
+          "gender": ""
+        },
+        {
+          "name": "周穗",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team243",
+      "name": "不玩轮椅万能头",
+      "organization": "南昌大学",
+      "official": true,
+      "rank": 46,
+      "org_rank": 12,
+      "solved": 1,
+      "penalty": 2460,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "RJ",
+          "time": 0,
+          "tries": 9
+        },
+        {
+          "alias": "H",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 2471,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "李赛宗",
+          "gender": ""
+        },
+        {
+          "name": "范子涵",
+          "gender": ""
+        },
+        {
+          "name": "汪俊涵",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team324",
+      "name": "我能说什么",
+      "organization": "江西水利电力大学",
+      "official": true,
+      "rank": 47,
+      "org_rank": 2,
+      "solved": 1,
+      "penalty": 2760,
+      "problems": [
+        {
+          "alias": "A",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": "RJ",
+          "time": 0,
+          "tries": 5
+        },
+        {
+          "alias": "H",
+          "result": "RJ",
+          "time": 0,
+          "tries": 5
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 2813,
+          "tries": 1
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "张松林",
+          "gender": ""
+        },
+        {
+          "name": "姚佳俊",
+          "gender": ""
+        },
+        {
+          "name": "张尔庆",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    },
+    {
+      "id": "team234",
+      "name": "萍时来爬武功山",
+      "organization": "萍乡学院",
+      "official": true,
+      "rank": 48,
+      "org_rank": 1,
+      "solved": 1,
+      "penalty": 6180,
+      "problems": [
+        {
+          "alias": "A",
+          "result": "RJ",
+          "time": 0,
+          "tries": 1
+        },
+        {
+          "alias": "B",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "C",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "D",
+          "result": "RJ",
+          "time": 0,
+          "tries": 2
+        },
+        {
+          "alias": "E",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "F",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "G",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "H",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "I",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "J",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "K",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        },
+        {
+          "alias": "L",
+          "result": "AC",
+          "time": 3808,
+          "tries": 3
+        },
+        {
+          "alias": "M",
+          "result": null,
+          "time": 0,
+          "tries": 0
+        }
+      ],
+      "medal": "",
+      "members": [
+        {
+          "name": "王文鑫",
+          "gender": ""
+        },
+        {
+          "name": "张梓轩",
+          "gender": ""
+        },
+        {
+          "name": "钟陈钰",
+          "gender": ""
+        }
+      ],
+      "girl_team": false,
+      "champion": ""
+    }
+  ],
+  "problems": [
+    {
+      "alias": "A",
+      "accepted": 88,
+      "submitted": 371
+    },
+    {
+      "alias": "B",
+      "accepted": 5,
+      "submitted": 61
+    },
+    {
+      "alias": "C",
+      "accepted": 18,
+      "submitted": 80
+    },
+    {
+      "alias": "D",
+      "accepted": 315,
+      "submitted": 644
+    },
+    {
+      "alias": "E",
+      "accepted": 15,
+      "submitted": 247
+    },
+    {
+      "alias": "F",
+      "accepted": 1,
+      "submitted": 21
+    },
+    {
+      "alias": "G",
+      "accepted": 324,
+      "submitted": 733
+    },
+    {
+      "alias": "H",
+      "accepted": 293,
+      "submitted": 930
+    },
+    {
+      "alias": "I",
+      "accepted": 107,
+      "submitted": 461
+    },
+    {
+      "alias": "J",
+      "accepted": 11,
+      "submitted": 169
+    },
+    {
+      "alias": "K",
+      "accepted": 14,
+      "submitted": 271
+    },
+    {
+      "alias": "L",
+      "accepted": 338,
+      "submitted": 454
+    },
+    {
+      "alias": "M",
+      "accepted": 155,
+      "submitted": 1124
+    }
+  ],
+  "awards": {
+    "gold": 5,
+    "silver": 11,
+    "bronze": 13
+  }
+}

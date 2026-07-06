@@ -1,0 +1,5055 @@
+{
+  "teams": {
+    "NE-team-O18": {
+      "members": [
+        {
+          "name": "胥啸虎",
+          "gender": ""
+        },
+        {
+          "name": "王思邈",
+          "gender": ""
+        },
+        {
+          "name": "杨潇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K20": {
+      "members": [
+        {
+          "name": "杜沛键",
+          "gender": ""
+        },
+        {
+          "name": "雷钧森",
+          "gender": ""
+        },
+        {
+          "name": "陈泺嘉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-D13": {
+      "members": [
+        {
+          "name": "于之航",
+          "gender": ""
+        },
+        {
+          "name": "陈鹏旭",
+          "gender": ""
+        },
+        {
+          "name": "王天泽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O05": {
+      "members": [
+        {
+          "name": "苏焜",
+          "gender": ""
+        },
+        {
+          "name": "谢天石",
+          "gender": ""
+        },
+        {
+          "name": "张佳栋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-J16": {
+      "members": [
+        {
+          "name": "陈煜航",
+          "gender": ""
+        },
+        {
+          "name": "丁文涛",
+          "gender": ""
+        },
+        {
+          "name": "张彭凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P07": {
+      "members": [
+        {
+          "name": "朱峰",
+          "gender": ""
+        },
+        {
+          "name": "谢书泱",
+          "gender": ""
+        },
+        {
+          "name": "王羽婷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F03": {
+      "members": [
+        {
+          "name": "邱思宇",
+          "gender": ""
+        },
+        {
+          "name": "吴钦鸿",
+          "gender": ""
+        },
+        {
+          "name": "郭昕旸",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-J01": {
+      "members": [
+        {
+          "name": "田宇丰",
+          "gender": ""
+        },
+        {
+          "name": "卢景行",
+          "gender": ""
+        },
+        {
+          "name": "张城玮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L22": {
+      "members": [
+        {
+          "name": "李奕儒",
+          "gender": ""
+        },
+        {
+          "name": "龚垚淼",
+          "gender": ""
+        },
+        {
+          "name": "高显堤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I04": {
+      "members": [
+        {
+          "name": "黄暄骜",
+          "gender": ""
+        },
+        {
+          "name": "刘星佳",
+          "gender": ""
+        },
+        {
+          "name": "刘铖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A01": {
+      "members": [
+        {
+          "name": "陶钧",
+          "gender": ""
+        },
+        {
+          "name": "耿鹏成",
+          "gender": ""
+        },
+        {
+          "name": "松浩然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P08": {
+      "members": [
+        {
+          "name": "韩子睿",
+          "gender": ""
+        },
+        {
+          "name": "张逸涵",
+          "gender": ""
+        },
+        {
+          "name": "尹人令",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q14": {
+      "members": [
+        {
+          "name": "黄伟宁",
+          "gender": ""
+        },
+        {
+          "name": "李澎瑞",
+          "gender": ""
+        },
+        {
+          "name": "孙健钧",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A12": {
+      "members": [
+        {
+          "name": "金炜东",
+          "gender": ""
+        },
+        {
+          "name": "蒋渡",
+          "gender": ""
+        },
+        {
+          "name": "吴兆昕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M09": {
+      "members": [
+        {
+          "name": "汪鼎尊",
+          "gender": ""
+        },
+        {
+          "name": "谢书骁",
+          "gender": ""
+        },
+        {
+          "name": "程籽实",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A22": {
+      "members": [
+        {
+          "name": "陈云龙",
+          "gender": ""
+        },
+        {
+          "name": "卢海琪",
+          "gender": ""
+        },
+        {
+          "name": "金智威",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-J07": {
+      "members": [
+        {
+          "name": "徐昊天",
+          "gender": ""
+        },
+        {
+          "name": "李泽与",
+          "gender": ""
+        },
+        {
+          "name": "毛谦韵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N09": {
+      "members": [
+        {
+          "name": "刘昱",
+          "gender": ""
+        },
+        {
+          "name": "王宗凡",
+          "gender": ""
+        },
+        {
+          "name": "梁家铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-J15": {
+      "members": [
+        {
+          "name": "王霆钧",
+          "gender": ""
+        },
+        {
+          "name": "仝家驹",
+          "gender": ""
+        },
+        {
+          "name": "陈增杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K18": {
+      "members": [
+        {
+          "name": "钟剑辉",
+          "gender": ""
+        },
+        {
+          "name": "毛祥宇",
+          "gender": ""
+        },
+        {
+          "name": "刘泽轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-J12": {
+      "members": [
+        {
+          "name": "沈士渊",
+          "gender": ""
+        },
+        {
+          "name": "魏嘉豪",
+          "gender": ""
+        },
+        {
+          "name": "徐晨阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K12": {
+      "members": [
+        {
+          "name": "徐明拯",
+          "gender": ""
+        },
+        {
+          "name": "任相龙",
+          "gender": ""
+        },
+        {
+          "name": "曾浩锐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O01": {
+      "members": [
+        {
+          "name": "冯际鸣",
+          "gender": ""
+        },
+        {
+          "name": "李俊良",
+          "gender": ""
+        },
+        {
+          "name": "江云天",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F21": {
+      "members": [
+        {
+          "name": "赵亮亮",
+          "gender": ""
+        },
+        {
+          "name": "丁易然",
+          "gender": ""
+        },
+        {
+          "name": "李嘉明",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P13": {
+      "members": [
+        {
+          "name": "拱垲",
+          "gender": ""
+        },
+        {
+          "name": "张健哲",
+          "gender": ""
+        },
+        {
+          "name": "袁英麒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G08": {
+      "members": [
+        {
+          "name": "陈旻庚",
+          "gender": ""
+        },
+        {
+          "name": "叶阳",
+          "gender": ""
+        },
+        {
+          "name": "朱霁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E05": {
+      "members": [
+        {
+          "name": "贺宇昊",
+          "gender": ""
+        },
+        {
+          "name": "余江辉",
+          "gender": ""
+        },
+        {
+          "name": "任麒源",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I21": {
+      "members": [
+        {
+          "name": "任益超",
+          "gender": ""
+        },
+        {
+          "name": "朱冠霖",
+          "gender": ""
+        },
+        {
+          "name": "陈柳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C22": {
+      "members": [
+        {
+          "name": "刘明卓",
+          "gender": ""
+        },
+        {
+          "name": "刘靖文",
+          "gender": ""
+        },
+        {
+          "name": "郭健桓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I02": {
+      "members": [
+        {
+          "name": "孙祥坤",
+          "gender": ""
+        },
+        {
+          "name": "卢逸衡",
+          "gender": ""
+        },
+        {
+          "name": "张天一",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H16": {
+      "members": [
+        {
+          "name": "孔泉智",
+          "gender": ""
+        },
+        {
+          "name": "邱天",
+          "gender": ""
+        },
+        {
+          "name": "赵星宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K10": {
+      "members": [
+        {
+          "name": "武锦旗",
+          "gender": ""
+        },
+        {
+          "name": "欧阳承风",
+          "gender": ""
+        },
+        {
+          "name": "席乐媛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B14": {
+      "members": [
+        {
+          "name": "董新畅",
+          "gender": ""
+        },
+        {
+          "name": "王百汇",
+          "gender": ""
+        },
+        {
+          "name": "施博文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-J08": {
+      "members": [
+        {
+          "name": "赵新凯",
+          "gender": ""
+        },
+        {
+          "name": "孙江吉",
+          "gender": ""
+        },
+        {
+          "name": "闫力仁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G09": {
+      "members": [
+        {
+          "name": "刘博文",
+          "gender": ""
+        },
+        {
+          "name": "刘兆洲",
+          "gender": ""
+        },
+        {
+          "name": "连茗暄",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q06": {
+      "members": [
+        {
+          "name": "刘圣丰",
+          "gender": ""
+        },
+        {
+          "name": "占宇彤",
+          "gender": ""
+        },
+        {
+          "name": "胡云钰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A16": {
+      "members": [
+        {
+          "name": "吴挺宇",
+          "gender": ""
+        },
+        {
+          "name": "吴尚鸿",
+          "gender": ""
+        },
+        {
+          "name": "甘景贤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B08": {
+      "members": [
+        {
+          "name": "杜宇丰",
+          "gender": ""
+        },
+        {
+          "name": "陈信帆",
+          "gender": ""
+        },
+        {
+          "name": "黎子川",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O14": {
+      "members": [
+        {
+          "name": "康德润",
+          "gender": ""
+        },
+        {
+          "name": "刘雅奇",
+          "gender": ""
+        },
+        {
+          "name": "程宇星",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q19": {
+      "members": [
+        {
+          "name": "汪明",
+          "gender": ""
+        },
+        {
+          "name": "鲁洁阳",
+          "gender": ""
+        },
+        {
+          "name": "邱方正",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M01": {
+      "members": [
+        {
+          "name": "魏文博",
+          "gender": ""
+        },
+        {
+          "name": "朱德良",
+          "gender": ""
+        },
+        {
+          "name": "李锦辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F14": {
+      "members": [
+        {
+          "name": "毛胜超",
+          "gender": ""
+        },
+        {
+          "name": "王星皓",
+          "gender": ""
+        },
+        {
+          "name": "石津豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P15": {
+      "members": [
+        {
+          "name": "刘弈廷",
+          "gender": ""
+        },
+        {
+          "name": "李瀚文",
+          "gender": ""
+        },
+        {
+          "name": "黄思惟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H07": {
+      "members": [
+        {
+          "name": "王令开",
+          "gender": ""
+        },
+        {
+          "name": "王开纪",
+          "gender": ""
+        },
+        {
+          "name": "陈鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I01": {
+      "members": [
+        {
+          "name": "陈宏毅",
+          "gender": ""
+        },
+        {
+          "name": "江子豪",
+          "gender": ""
+        },
+        {
+          "name": "汤宇涛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I06": {
+      "members": [
+        {
+          "name": "汤海峰",
+          "gender": ""
+        },
+        {
+          "name": "黎朔鸣",
+          "gender": ""
+        },
+        {
+          "name": "彭明俊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E22": {
+      "members": [
+        {
+          "name": "彭天祺",
+          "gender": ""
+        },
+        {
+          "name": "陈昊然",
+          "gender": ""
+        },
+        {
+          "name": "周好",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C17": {
+      "members": [
+        {
+          "name": "李文杰",
+          "gender": ""
+        },
+        {
+          "name": "章传亮",
+          "gender": ""
+        },
+        {
+          "name": "谌致远",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M10": {
+      "members": [
+        {
+          "name": "谢东骏",
+          "gender": ""
+        },
+        {
+          "name": "谭诚",
+          "gender": ""
+        },
+        {
+          "name": "齐鹏宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H09": {
+      "members": [
+        {
+          "name": "李京洲",
+          "gender": ""
+        },
+        {
+          "name": "张绍宸",
+          "gender": ""
+        },
+        {
+          "name": "华俊澄",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P22": {
+      "members": [
+        {
+          "name": "齐昊坤",
+          "gender": ""
+        },
+        {
+          "name": "曹勇麟",
+          "gender": ""
+        },
+        {
+          "name": "周文琦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N19": {
+      "members": [
+        {
+          "name": "史博文",
+          "gender": ""
+        },
+        {
+          "name": "徐聚礼",
+          "gender": ""
+        },
+        {
+          "name": "张林翰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C16": {
+      "members": [
+        {
+          "name": "黄宇帆",
+          "gender": ""
+        },
+        {
+          "name": "潘炼",
+          "gender": ""
+        },
+        {
+          "name": "黄筱瑶",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-D09": {
+      "members": [
+        {
+          "name": "熊振庭",
+          "gender": ""
+        },
+        {
+          "name": "李尧斐",
+          "gender": ""
+        },
+        {
+          "name": "焦子霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G15": {
+      "members": [
+        {
+          "name": "徐易",
+          "gender": ""
+        },
+        {
+          "name": "吴胤祺",
+          "gender": ""
+        },
+        {
+          "name": "孟家祺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q12": {
+      "members": [
+        {
+          "name": "陈嘉佑",
+          "gender": ""
+        },
+        {
+          "name": "司辰飞",
+          "gender": ""
+        },
+        {
+          "name": "曹瀚文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K16": {
+      "members": [
+        {
+          "name": "韩明轩",
+          "gender": ""
+        },
+        {
+          "name": "留昊",
+          "gender": ""
+        },
+        {
+          "name": "周彦泽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R19": {
+      "members": [
+        {
+          "name": "党金鹏",
+          "gender": ""
+        },
+        {
+          "name": "姜耀东",
+          "gender": ""
+        },
+        {
+          "name": "张依林",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I11": {
+      "members": [
+        {
+          "name": "李卓骏",
+          "gender": ""
+        },
+        {
+          "name": "冯子祥",
+          "gender": ""
+        },
+        {
+          "name": "王翔宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G04": {
+      "members": [
+        {
+          "name": "陈君豪",
+          "gender": ""
+        },
+        {
+          "name": "王强",
+          "gender": ""
+        },
+        {
+          "name": "林煜超",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B02": {
+      "members": [
+        {
+          "name": "张逸璇",
+          "gender": ""
+        },
+        {
+          "name": "魏恒彬",
+          "gender": ""
+        },
+        {
+          "name": "蒋文博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L12": {
+      "members": [
+        {
+          "name": "汪瀚声",
+          "gender": ""
+        },
+        {
+          "name": "刘洛松",
+          "gender": ""
+        },
+        {
+          "name": "杨君泓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N07": {
+      "members": [
+        {
+          "name": "郭天朗",
+          "gender": ""
+        },
+        {
+          "name": "华浩名",
+          "gender": ""
+        },
+        {
+          "name": "刘与同",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B12": {
+      "members": [
+        {
+          "name": "李一航",
+          "gender": ""
+        },
+        {
+          "name": "唐德睿",
+          "gender": ""
+        },
+        {
+          "name": "陆广阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M12": {
+      "members": [
+        {
+          "name": "林恬烁",
+          "gender": ""
+        },
+        {
+          "name": "罗永成",
+          "gender": ""
+        },
+        {
+          "name": "林苗苗",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-J21": {
+      "members": [
+        {
+          "name": "何旭",
+          "gender": ""
+        },
+        {
+          "name": "林辰旭",
+          "gender": ""
+        },
+        {
+          "name": "林钰博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L21": {
+      "members": [
+        {
+          "name": "赵雁松",
+          "gender": ""
+        },
+        {
+          "name": "乔泽冠",
+          "gender": ""
+        },
+        {
+          "name": "夏子晨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q16": {
+      "members": [
+        {
+          "name": "颜嘉民",
+          "gender": ""
+        },
+        {
+          "name": "郑少豪",
+          "gender": ""
+        },
+        {
+          "name": "周世杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q04": {
+      "members": [
+        {
+          "name": "朱默涵",
+          "gender": ""
+        },
+        {
+          "name": "房承烨",
+          "gender": ""
+        },
+        {
+          "name": "方梓谦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R10": {
+      "members": [
+        {
+          "name": "唐海原",
+          "gender": ""
+        },
+        {
+          "name": "周易非",
+          "gender": ""
+        },
+        {
+          "name": "黄炳睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I15": {
+      "members": [
+        {
+          "name": "罗卫泽",
+          "gender": ""
+        },
+        {
+          "name": "姚祥辉",
+          "gender": ""
+        },
+        {
+          "name": "潘奕霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G12": {
+      "members": [
+        {
+          "name": "陈昱安",
+          "gender": ""
+        },
+        {
+          "name": "钱柯宇",
+          "gender": ""
+        },
+        {
+          "name": "金铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P14": {
+      "members": [
+        {
+          "name": "秦翔宇",
+          "gender": ""
+        },
+        {
+          "name": "赵文浩",
+          "gender": ""
+        },
+        {
+          "name": "张鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C08": {
+      "members": [
+        {
+          "name": "李文强",
+          "gender": ""
+        },
+        {
+          "name": "杜鹏飞",
+          "gender": ""
+        },
+        {
+          "name": "马玉堂",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L16": {
+      "members": [
+        {
+          "name": "余承晓",
+          "gender": ""
+        },
+        {
+          "name": "彭禹天",
+          "gender": ""
+        },
+        {
+          "name": "李俊熹",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M06": {
+      "members": [
+        {
+          "name": "陈发祥",
+          "gender": ""
+        },
+        {
+          "name": "欧阳乐",
+          "gender": ""
+        },
+        {
+          "name": "白峻豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L10": {
+      "members": [
+        {
+          "name": "黄佳威",
+          "gender": ""
+        },
+        {
+          "name": "卢竑宇",
+          "gender": ""
+        },
+        {
+          "name": "王羿捷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E12": {
+      "members": [
+        {
+          "name": "叶鑫楠",
+          "gender": ""
+        },
+        {
+          "name": "成鲜微",
+          "gender": ""
+        },
+        {
+          "name": "张珈铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K13": {
+      "members": [
+        {
+          "name": "李海芬",
+          "gender": ""
+        },
+        {
+          "name": "范晓松",
+          "gender": ""
+        },
+        {
+          "name": "董振华",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M20": {
+      "members": [
+        {
+          "name": "何建伟",
+          "gender": ""
+        },
+        {
+          "name": "刘皓东",
+          "gender": ""
+        },
+        {
+          "name": "万翰宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I16": {
+      "members": [
+        {
+          "name": "朱文博",
+          "gender": ""
+        },
+        {
+          "name": "郭芊橙",
+          "gender": ""
+        },
+        {
+          "name": "吕志远",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L03": {
+      "members": [
+        {
+          "name": "陈沫",
+          "gender": ""
+        },
+        {
+          "name": "张竣豪",
+          "gender": ""
+        },
+        {
+          "name": "孙子鹤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P16": {
+      "members": [
+        {
+          "name": "陈秋雨",
+          "gender": ""
+        },
+        {
+          "name": "信自强",
+          "gender": ""
+        },
+        {
+          "name": "何恩培",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N13": {
+      "members": [
+        {
+          "name": "黄凯鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M15": {
+      "members": [
+        {
+          "name": "杨煜",
+          "gender": ""
+        },
+        {
+          "name": "杨家浩",
+          "gender": ""
+        },
+        {
+          "name": "史东伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M18": {
+      "members": [
+        {
+          "name": "毛洋洋",
+          "gender": ""
+        },
+        {
+          "name": "侯佳昊",
+          "gender": ""
+        },
+        {
+          "name": "孙豪阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A11": {
+      "members": [
+        {
+          "name": "金晟",
+          "gender": ""
+        },
+        {
+          "name": "蒋佳炀",
+          "gender": ""
+        },
+        {
+          "name": "时佳骏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E14": {
+      "members": [
+        {
+          "name": "陈琦煜",
+          "gender": ""
+        },
+        {
+          "name": "高宇轩",
+          "gender": ""
+        },
+        {
+          "name": "叶鹏辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P20": {
+      "members": [
+        {
+          "name": "龙敖",
+          "gender": ""
+        },
+        {
+          "name": "夏天",
+          "gender": ""
+        },
+        {
+          "name": "刘宸硕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K06": {
+      "members": [
+        {
+          "name": "李佳恒",
+          "gender": ""
+        },
+        {
+          "name": "吕俊东",
+          "gender": ""
+        },
+        {
+          "name": "孙智毅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G01": {
+      "members": [
+        {
+          "name": "陈子权",
+          "gender": ""
+        },
+        {
+          "name": "黄策",
+          "gender": ""
+        },
+        {
+          "name": "王哲学",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R09": {
+      "members": [
+        {
+          "name": "李泽东",
+          "gender": ""
+        },
+        {
+          "name": "张艺凡",
+          "gender": ""
+        },
+        {
+          "name": "徐子煊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H21": {
+      "members": [
+        {
+          "name": "余成鸣",
+          "gender": ""
+        },
+        {
+          "name": "赵毅",
+          "gender": ""
+        },
+        {
+          "name": "项思语",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M07": {
+      "members": [
+        {
+          "name": "潘可欣",
+          "gender": ""
+        },
+        {
+          "name": "李超平",
+          "gender": ""
+        },
+        {
+          "name": "林律融",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E21": {
+      "members": [
+        {
+          "name": "李亦阳",
+          "gender": ""
+        },
+        {
+          "name": "蒙禹龙",
+          "gender": ""
+        },
+        {
+          "name": "冯瀚文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G02": {
+      "members": [
+        {
+          "name": "李坤霖",
+          "gender": ""
+        },
+        {
+          "name": "史家业",
+          "gender": ""
+        },
+        {
+          "name": "陈晓鸣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E03": {
+      "members": [
+        {
+          "name": "苏晗",
+          "gender": ""
+        },
+        {
+          "name": "杨宇轩",
+          "gender": ""
+        },
+        {
+          "name": "张煦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C13": {
+      "members": [
+        {
+          "name": "赵文定",
+          "gender": ""
+        },
+        {
+          "name": "冯望",
+          "gender": ""
+        },
+        {
+          "name": "杨一鸣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C15": {
+      "members": [
+        {
+          "name": "黄雯建",
+          "gender": ""
+        },
+        {
+          "name": "马子孟",
+          "gender": ""
+        },
+        {
+          "name": "孙一卜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I22": {
+      "members": [
+        {
+          "name": "骆柏荣",
+          "gender": ""
+        },
+        {
+          "name": "徐瑞奇",
+          "gender": ""
+        },
+        {
+          "name": "李佳阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q07": {
+      "members": [
+        {
+          "name": "王司晨",
+          "gender": ""
+        },
+        {
+          "name": "杨熠鑫",
+          "gender": ""
+        },
+        {
+          "name": "徐健皓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-D03": {
+      "members": [
+        {
+          "name": "王浩轩",
+          "gender": ""
+        },
+        {
+          "name": "谭明昆",
+          "gender": ""
+        },
+        {
+          "name": "李慎彬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H12": {
+      "members": [
+        {
+          "name": "饶晟烨",
+          "gender": ""
+        },
+        {
+          "name": "刘明昊",
+          "gender": ""
+        },
+        {
+          "name": "陈柯嵩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N21": {
+      "members": [
+        {
+          "name": "宋怀源",
+          "gender": ""
+        },
+        {
+          "name": "苏弘烨",
+          "gender": ""
+        },
+        {
+          "name": "高英博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R03": {
+      "members": [
+        {
+          "name": "邬子阳",
+          "gender": ""
+        },
+        {
+          "name": "郑安乔元",
+          "gender": ""
+        },
+        {
+          "name": "姚心成",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C04": {
+      "members": [
+        {
+          "name": "董朝科",
+          "gender": ""
+        },
+        {
+          "name": "潘腾",
+          "gender": ""
+        },
+        {
+          "name": "袁琦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G14": {
+      "members": [
+        {
+          "name": "姚益浩",
+          "gender": ""
+        },
+        {
+          "name": "丁豪",
+          "gender": ""
+        },
+        {
+          "name": "邬博丞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R07": {
+      "members": [
+        {
+          "name": "郭一灏",
+          "gender": ""
+        },
+        {
+          "name": "李润淇",
+          "gender": ""
+        },
+        {
+          "name": "刘同星",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F02": {
+      "members": [
+        {
+          "name": "郑岳桓",
+          "gender": ""
+        },
+        {
+          "name": "陈皓",
+          "gender": ""
+        },
+        {
+          "name": "孟正浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B19": {
+      "members": [
+        {
+          "name": "余瑞林",
+          "gender": ""
+        },
+        {
+          "name": "赵家烨",
+          "gender": ""
+        },
+        {
+          "name": "杨竣超",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q10": {
+      "members": [
+        {
+          "name": "蒋承峻",
+          "gender": ""
+        },
+        {
+          "name": "曾豪",
+          "gender": ""
+        },
+        {
+          "name": "蔡卓轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-J03": {
+      "members": [
+        {
+          "name": "闫卡特",
+          "gender": ""
+        },
+        {
+          "name": "罗宇豪",
+          "gender": ""
+        },
+        {
+          "name": "徐浩东",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F12": {
+      "members": [
+        {
+          "name": "归子达",
+          "gender": ""
+        },
+        {
+          "name": "钱嘉豪",
+          "gender": ""
+        },
+        {
+          "name": "李佳航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H18": {
+      "members": [
+        {
+          "name": "赵新睿",
+          "gender": ""
+        },
+        {
+          "name": "缪弘毅",
+          "gender": ""
+        },
+        {
+          "name": "张稷穗",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H17": {
+      "members": [
+        {
+          "name": "刘佳",
+          "gender": ""
+        },
+        {
+          "name": "沈济操",
+          "gender": ""
+        },
+        {
+          "name": "徐式飞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O15": {
+      "members": [
+        {
+          "name": "孙天成",
+          "gender": ""
+        },
+        {
+          "name": "罗文轩",
+          "gender": ""
+        },
+        {
+          "name": "周政",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-D22": {
+      "members": [
+        {
+          "name": "刘信鸿",
+          "gender": ""
+        },
+        {
+          "name": "代一鸣",
+          "gender": ""
+        },
+        {
+          "name": "郭圳涛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B04": {
+      "members": [
+        {
+          "name": "钟姝伶",
+          "gender": ""
+        },
+        {
+          "name": "鞠学深",
+          "gender": ""
+        },
+        {
+          "name": "李雨隆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I19": {
+      "members": [
+        {
+          "name": "高斐鸿",
+          "gender": ""
+        },
+        {
+          "name": "庞宇呈",
+          "gender": ""
+        },
+        {
+          "name": "夏宇杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R15": {
+      "members": [
+        {
+          "name": "曾国琳",
+          "gender": ""
+        },
+        {
+          "name": "金炬光",
+          "gender": ""
+        },
+        {
+          "name": "顾奕诚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F10": {
+      "members": [
+        {
+          "name": "柳伟康",
+          "gender": ""
+        },
+        {
+          "name": "李奕凡",
+          "gender": ""
+        },
+        {
+          "name": "许烨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A07": {
+      "members": [
+        {
+          "name": "侯仁正",
+          "gender": ""
+        },
+        {
+          "name": "应嘉宇",
+          "gender": ""
+        },
+        {
+          "name": "徐振业",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N01": {
+      "members": [
+        {
+          "name": "李姜帅",
+          "gender": ""
+        },
+        {
+          "name": "杨思成",
+          "gender": ""
+        },
+        {
+          "name": "罗元",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q02": {
+      "members": [
+        {
+          "name": "丁昊",
+          "gender": ""
+        },
+        {
+          "name": "张诺言",
+          "gender": ""
+        },
+        {
+          "name": "崔东靖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E09": {
+      "members": [
+        {
+          "name": "李连奇",
+          "gender": ""
+        },
+        {
+          "name": "毕振豪",
+          "gender": ""
+        },
+        {
+          "name": "吴宇恒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K22": {
+      "members": [
+        {
+          "name": "熊鼎",
+          "gender": ""
+        },
+        {
+          "name": "杨珈懿",
+          "gender": ""
+        },
+        {
+          "name": "耿嘉泽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L02": {
+      "members": [
+        {
+          "name": "张讯",
+          "gender": ""
+        },
+        {
+          "name": "彭麟翔",
+          "gender": ""
+        },
+        {
+          "name": "单红旗",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H02": {
+      "members": [
+        {
+          "name": "陈奕帆",
+          "gender": ""
+        },
+        {
+          "name": "范泽涛",
+          "gender": ""
+        },
+        {
+          "name": "孟天",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C18": {
+      "members": [
+        {
+          "name": "崔恺林",
+          "gender": ""
+        },
+        {
+          "name": "杨京昊",
+          "gender": ""
+        },
+        {
+          "name": "赵益田",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R08": {
+      "members": [
+        {
+          "name": "欧阳兴隆",
+          "gender": ""
+        },
+        {
+          "name": "唐俊杰",
+          "gender": ""
+        },
+        {
+          "name": "邢志铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G05": {
+      "members": [
+        {
+          "name": "向坪君",
+          "gender": ""
+        },
+        {
+          "name": "张晨瑀",
+          "gender": ""
+        },
+        {
+          "name": "陈家宝",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F08": {
+      "members": [
+        {
+          "name": "蓝海洋",
+          "gender": ""
+        },
+        {
+          "name": "吴锡奎",
+          "gender": ""
+        },
+        {
+          "name": "刘炜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B11": {
+      "members": [
+        {
+          "name": "彭诚",
+          "gender": ""
+        },
+        {
+          "name": "杨天鹏",
+          "gender": ""
+        },
+        {
+          "name": "彭轩昂",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-D11": {
+      "members": [
+        {
+          "name": "吴岚轩",
+          "gender": ""
+        },
+        {
+          "name": "刘馨阳",
+          "gender": ""
+        },
+        {
+          "name": "刘佳宏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O11": {
+      "members": [
+        {
+          "name": "邱开崟",
+          "gender": ""
+        },
+        {
+          "name": "田野",
+          "gender": ""
+        },
+        {
+          "name": "刘宇轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A21": {
+      "members": [
+        {
+          "name": "闵阳",
+          "gender": ""
+        },
+        {
+          "name": "江志辉",
+          "gender": ""
+        },
+        {
+          "name": "肖展斌",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B15": {
+      "members": [
+        {
+          "name": "余伟琦",
+          "gender": ""
+        },
+        {
+          "name": "姚绮翔",
+          "gender": ""
+        },
+        {
+          "name": "丁锦烨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O22": {
+      "members": [
+        {
+          "name": "欧阳国典",
+          "gender": ""
+        },
+        {
+          "name": "潘宇健",
+          "gender": ""
+        },
+        {
+          "name": "程培哲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L09": {
+      "members": [
+        {
+          "name": "周浩宇",
+          "gender": ""
+        },
+        {
+          "name": "朱明昊",
+          "gender": ""
+        },
+        {
+          "name": "王福峥",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L01": {
+      "members": [
+        {
+          "name": "陈林赟",
+          "gender": ""
+        },
+        {
+          "name": "吴天昊",
+          "gender": ""
+        },
+        {
+          "name": "干宸骅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K15": {
+      "members": [
+        {
+          "name": "袁伯琦",
+          "gender": ""
+        },
+        {
+          "name": "毛梓聿",
+          "gender": ""
+        },
+        {
+          "name": "朱佳乐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B18": {
+      "members": [
+        {
+          "name": "冉渝旭",
+          "gender": ""
+        },
+        {
+          "name": "刘名洋",
+          "gender": ""
+        },
+        {
+          "name": "林如愿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R21": {
+      "members": [
+        {
+          "name": "谭翰煨",
+          "gender": ""
+        },
+        {
+          "name": "段圣宣",
+          "gender": ""
+        },
+        {
+          "name": "廖俊杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C20": {
+      "members": [
+        {
+          "name": "聂天一",
+          "gender": ""
+        },
+        {
+          "name": "徐张哲",
+          "gender": ""
+        },
+        {
+          "name": "崔正阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B05": {
+      "members": [
+        {
+          "name": "郑建斌",
+          "gender": ""
+        },
+        {
+          "name": "陈迪路",
+          "gender": ""
+        },
+        {
+          "name": "唐祎敏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O10": {
+      "members": [
+        {
+          "name": "杨泓延",
+          "gender": ""
+        },
+        {
+          "name": "郝国栋",
+          "gender": ""
+        },
+        {
+          "name": "闫少轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L07": {
+      "members": [
+        {
+          "name": "纪方嘉",
+          "gender": ""
+        },
+        {
+          "name": "任文",
+          "gender": ""
+        },
+        {
+          "name": "童炎",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L11": {
+      "members": [
+        {
+          "name": "陶乐乐",
+          "gender": ""
+        },
+        {
+          "name": "赵耀财",
+          "gender": ""
+        },
+        {
+          "name": "甄元浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R22": {
+      "members": [
+        {
+          "name": "杨睿果",
+          "gender": ""
+        },
+        {
+          "name": "赵浩然",
+          "gender": ""
+        },
+        {
+          "name": "陈劭延",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I14": {
+      "members": [
+        {
+          "name": "陈照岩",
+          "gender": ""
+        },
+        {
+          "name": "李民豪",
+          "gender": ""
+        },
+        {
+          "name": "李承昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G21": {
+      "members": [
+        {
+          "name": "张立",
+          "gender": ""
+        },
+        {
+          "name": "邱桐",
+          "gender": ""
+        },
+        {
+          "name": "陶文喆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N10": {
+      "members": [
+        {
+          "name": "吴书桐",
+          "gender": ""
+        },
+        {
+          "name": "于智文",
+          "gender": ""
+        },
+        {
+          "name": "顾宇燿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N17": {
+      "members": [
+        {
+          "name": "张琦",
+          "gender": ""
+        },
+        {
+          "name": "许书豪",
+          "gender": ""
+        },
+        {
+          "name": "季昊天",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L13": {
+      "members": [
+        {
+          "name": "高士博",
+          "gender": ""
+        },
+        {
+          "name": "徐洋",
+          "gender": ""
+        },
+        {
+          "name": "徐明洋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G20": {
+      "members": [
+        {
+          "name": "肖子龙",
+          "gender": ""
+        },
+        {
+          "name": "程子豪",
+          "gender": ""
+        },
+        {
+          "name": "吴棋烽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A03": {
+      "members": [
+        {
+          "name": "衷铭川",
+          "gender": ""
+        },
+        {
+          "name": "万俊哲",
+          "gender": ""
+        },
+        {
+          "name": "张云菲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C02": {
+      "members": [
+        {
+          "name": "关越",
+          "gender": ""
+        },
+        {
+          "name": "杨博涵",
+          "gender": ""
+        },
+        {
+          "name": "吕路遥",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E19": {
+      "members": [
+        {
+          "name": "李鸣铭",
+          "gender": ""
+        },
+        {
+          "name": "黄颂凯",
+          "gender": ""
+        },
+        {
+          "name": "李可心",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G17": {
+      "members": [
+        {
+          "name": "于亚玄",
+          "gender": ""
+        },
+        {
+          "name": "米凯奇",
+          "gender": ""
+        },
+        {
+          "name": "王盛宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N06": {
+      "members": [
+        {
+          "name": "赵艺凯",
+          "gender": ""
+        },
+        {
+          "name": "李焱冉",
+          "gender": ""
+        },
+        {
+          "name": "万德俊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K04": {
+      "members": [
+        {
+          "name": "郑竣杰",
+          "gender": ""
+        },
+        {
+          "name": "罗企翔",
+          "gender": ""
+        },
+        {
+          "name": "林志龙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F22": {
+      "members": [
+        {
+          "name": "连振翔",
+          "gender": ""
+        },
+        {
+          "name": "倪子钧",
+          "gender": ""
+        },
+        {
+          "name": "钟志烨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K07": {
+      "members": [
+        {
+          "name": "魏子尧",
+          "gender": ""
+        },
+        {
+          "name": "于博源",
+          "gender": ""
+        },
+        {
+          "name": "刘骐铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G22": {
+      "members": [
+        {
+          "name": "郭莹莹",
+          "gender": ""
+        },
+        {
+          "name": "丁维昌",
+          "gender": ""
+        },
+        {
+          "name": "卜龙宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G06": {
+      "members": [
+        {
+          "name": "赵泽熙",
+          "gender": ""
+        },
+        {
+          "name": "索枭涵",
+          "gender": ""
+        },
+        {
+          "name": "隋炀",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P02": {
+      "members": [
+        {
+          "name": "马博浩",
+          "gender": ""
+        },
+        {
+          "name": "朱思彤",
+          "gender": ""
+        },
+        {
+          "name": "张雨姗",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R05": {
+      "members": [
+        {
+          "name": "卓子翔",
+          "gender": ""
+        },
+        {
+          "name": "孙硕",
+          "gender": ""
+        },
+        {
+          "name": "石鑫琦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-D07": {
+      "members": [
+        {
+          "name": "郭奕辰",
+          "gender": ""
+        },
+        {
+          "name": "李昀轩",
+          "gender": ""
+        },
+        {
+          "name": "王金庸",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P18": {
+      "members": [
+        {
+          "name": "金宬汉",
+          "gender": ""
+        },
+        {
+          "name": "严子乘",
+          "gender": ""
+        },
+        {
+          "name": "李佑嘉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L19": {
+      "members": [
+        {
+          "name": "闫屹伟",
+          "gender": ""
+        },
+        {
+          "name": "高小柯",
+          "gender": ""
+        },
+        {
+          "name": "杜金雨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B20": {
+      "members": [
+        {
+          "name": "陈培印",
+          "gender": ""
+        },
+        {
+          "name": "谭炜烨",
+          "gender": ""
+        },
+        {
+          "name": "王跃然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E11": {
+      "members": [
+        {
+          "name": "高文林",
+          "gender": ""
+        },
+        {
+          "name": "章玉衡",
+          "gender": ""
+        },
+        {
+          "name": "包胡呢斯图",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I13": {
+      "members": [
+        {
+          "name": "张以琳",
+          "gender": ""
+        },
+        {
+          "name": "潘越",
+          "gender": ""
+        },
+        {
+          "name": "易宏伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-J10": {
+      "members": [
+        {
+          "name": "李伯轩",
+          "gender": ""
+        },
+        {
+          "name": "周凡城",
+          "gender": ""
+        },
+        {
+          "name": "刘书宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H20": {
+      "members": [
+        {
+          "name": "李南翃",
+          "gender": ""
+        },
+        {
+          "name": "周辉",
+          "gender": ""
+        },
+        {
+          "name": "李磊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-J05": {
+      "members": [
+        {
+          "name": "贾伊阳",
+          "gender": ""
+        },
+        {
+          "name": "廖赢煜",
+          "gender": ""
+        },
+        {
+          "name": "吴雨航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K03": {
+      "members": [
+        {
+          "name": "张云飞",
+          "gender": ""
+        },
+        {
+          "name": "顾陆军",
+          "gender": ""
+        },
+        {
+          "name": "郑炳朝",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N22": {
+      "members": [
+        {
+          "name": "卢炜弘",
+          "gender": ""
+        },
+        {
+          "name": "伍孝轩",
+          "gender": ""
+        },
+        {
+          "name": "林炜豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F11": {
+      "members": [
+        {
+          "name": "丁健健",
+          "gender": ""
+        },
+        {
+          "name": "陈君睿",
+          "gender": ""
+        },
+        {
+          "name": "蔡鸿盛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-D20": {
+      "members": [
+        {
+          "name": "李心言",
+          "gender": ""
+        },
+        {
+          "name": "张俊城",
+          "gender": ""
+        },
+        {
+          "name": "王奕凡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E20": {
+      "members": [
+        {
+          "name": "赵强",
+          "gender": ""
+        },
+        {
+          "name": "柴渊元",
+          "gender": ""
+        },
+        {
+          "name": "求哲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K09": {
+      "members": [
+        {
+          "name": "石宇",
+          "gender": ""
+        },
+        {
+          "name": "毋至晨",
+          "gender": ""
+        },
+        {
+          "name": "薛昊坤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K21": {
+      "members": [
+        {
+          "name": "施禛祾",
+          "gender": ""
+        },
+        {
+          "name": "吴皓天",
+          "gender": ""
+        },
+        {
+          "name": "李天宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C10": {
+      "members": [
+        {
+          "name": "隰轩逸",
+          "gender": ""
+        },
+        {
+          "name": "韩若威",
+          "gender": ""
+        },
+        {
+          "name": "张轶恺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H14": {
+      "members": [
+        {
+          "name": "金泽楷",
+          "gender": ""
+        },
+        {
+          "name": "罗誉",
+          "gender": ""
+        },
+        {
+          "name": "林煜斌",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A08": {
+      "members": [
+        {
+          "name": "何士杰",
+          "gender": ""
+        },
+        {
+          "name": "代伊扬",
+          "gender": ""
+        },
+        {
+          "name": "薛皓元",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M17": {
+      "members": [
+        {
+          "name": "王玲",
+          "gender": ""
+        },
+        {
+          "name": "王毅轩",
+          "gender": ""
+        },
+        {
+          "name": "张雨欣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R18": {
+      "members": [
+        {
+          "name": "刘鑫宇",
+          "gender": ""
+        },
+        {
+          "name": "蒋硕阳",
+          "gender": ""
+        },
+        {
+          "name": "龙麒旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O13": {
+      "members": [
+        {
+          "name": "王杰",
+          "gender": ""
+        },
+        {
+          "name": "项若楚",
+          "gender": ""
+        },
+        {
+          "name": "李涛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M19": {
+      "members": [
+        {
+          "name": "史振宜",
+          "gender": ""
+        },
+        {
+          "name": "梁寒兵",
+          "gender": ""
+        },
+        {
+          "name": "周熙众",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q18": {
+      "members": [
+        {
+          "name": "郑林",
+          "gender": ""
+        },
+        {
+          "name": "张仕杰",
+          "gender": ""
+        },
+        {
+          "name": "况雨含",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L04": {
+      "members": [
+        {
+          "name": "吴宇轩",
+          "gender": ""
+        },
+        {
+          "name": "黄俊华",
+          "gender": ""
+        },
+        {
+          "name": "冯剑宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O20": {
+      "members": [
+        {
+          "name": "金迪",
+          "gender": ""
+        },
+        {
+          "name": "田旭东",
+          "gender": ""
+        },
+        {
+          "name": "张慧祥",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q13": {
+      "members": [
+        {
+          "name": "刘睿哲",
+          "gender": ""
+        },
+        {
+          "name": "赵俊杰",
+          "gender": ""
+        },
+        {
+          "name": "阮崇轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R13": {
+      "members": [
+        {
+          "name": "边锦华",
+          "gender": ""
+        },
+        {
+          "name": "张皓淳",
+          "gender": ""
+        },
+        {
+          "name": "贾江涛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I05": {
+      "members": [
+        {
+          "name": "黄志腾",
+          "gender": ""
+        },
+        {
+          "name": "陈镇锋",
+          "gender": ""
+        },
+        {
+          "name": "赵亭旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R17": {
+      "members": [
+        {
+          "name": "李双阳",
+          "gender": ""
+        },
+        {
+          "name": "任彦成",
+          "gender": ""
+        },
+        {
+          "name": "贺宣宁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I07": {
+      "members": [
+        {
+          "name": "乌汗图",
+          "gender": ""
+        },
+        {
+          "name": "徐永琦",
+          "gender": ""
+        },
+        {
+          "name": "王发兴",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L20": {
+      "members": [
+        {
+          "name": "宫渤盛",
+          "gender": ""
+        },
+        {
+          "name": "高莉媛",
+          "gender": ""
+        },
+        {
+          "name": "向淼",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C06": {
+      "members": [
+        {
+          "name": "张步豪",
+          "gender": ""
+        },
+        {
+          "name": "徐海翔",
+          "gender": ""
+        },
+        {
+          "name": "郭宇政",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-J20": {
+      "members": [
+        {
+          "name": "洪一桐",
+          "gender": ""
+        },
+        {
+          "name": "张迦业",
+          "gender": ""
+        },
+        {
+          "name": "宋文杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F15": {
+      "members": [
+        {
+          "name": "陈祺恺",
+          "gender": ""
+        },
+        {
+          "name": "刘沛岩",
+          "gender": ""
+        },
+        {
+          "name": "张高升",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I18": {
+      "members": [
+        {
+          "name": "李胡诚",
+          "gender": ""
+        },
+        {
+          "name": "钟毅豪",
+          "gender": ""
+        },
+        {
+          "name": "吴轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q09": {
+      "members": [
+        {
+          "name": "宋之涵",
+          "gender": ""
+        },
+        {
+          "name": "王荣显",
+          "gender": ""
+        },
+        {
+          "name": "郭鑫明",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F17": {
+      "members": [
+        {
+          "name": "梅宇涵",
+          "gender": ""
+        },
+        {
+          "name": "任品豪",
+          "gender": ""
+        },
+        {
+          "name": "石俊锋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-D15": {
+      "members": [
+        {
+          "name": "王绪毅",
+          "gender": ""
+        },
+        {
+          "name": "赵宇轩",
+          "gender": ""
+        },
+        {
+          "name": "邹卓昂",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O09": {
+      "members": [
+        {
+          "name": "徐凯杭",
+          "gender": ""
+        },
+        {
+          "name": "郑灵轩",
+          "gender": ""
+        },
+        {
+          "name": "林弋焯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N04": {
+      "members": [
+        {
+          "name": "王策翔",
+          "gender": ""
+        },
+        {
+          "name": "郝孝彬",
+          "gender": ""
+        },
+        {
+          "name": "王亚男",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O21": {
+      "members": [
+        {
+          "name": "郭航旗",
+          "gender": ""
+        },
+        {
+          "name": "邱毓",
+          "gender": ""
+        },
+        {
+          "name": "王君惠",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H15": {
+      "members": [
+        {
+          "name": "马广郡",
+          "gender": ""
+        },
+        {
+          "name": "张译",
+          "gender": ""
+        },
+        {
+          "name": "潘凌飞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R06": {
+      "members": [
+        {
+          "name": "贾舒奥维",
+          "gender": ""
+        },
+        {
+          "name": "翟一可",
+          "gender": ""
+        },
+        {
+          "name": "徐悦然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q01": {
+      "members": [
+        {
+          "name": "刘丞量",
+          "gender": ""
+        },
+        {
+          "name": "杨星宇",
+          "gender": ""
+        },
+        {
+          "name": "李庆余",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K08": {
+      "members": [
+        {
+          "name": "魏全宏",
+          "gender": ""
+        },
+        {
+          "name": "王希龙",
+          "gender": ""
+        },
+        {
+          "name": "段然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E10": {
+      "members": [
+        {
+          "name": "戴云磊",
+          "gender": ""
+        },
+        {
+          "name": "杨鑫山",
+          "gender": ""
+        },
+        {
+          "name": "谭皓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I12": {
+      "members": [
+        {
+          "name": "汤宏彬",
+          "gender": ""
+        },
+        {
+          "name": "黄政涛",
+          "gender": ""
+        },
+        {
+          "name": "郑杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q20": {
+      "members": [
+        {
+          "name": "杨爽",
+          "gender": ""
+        },
+        {
+          "name": "马健豪",
+          "gender": ""
+        },
+        {
+          "name": "赵宏博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P09": {
+      "members": [
+        {
+          "name": "林宇翔",
+          "gender": ""
+        },
+        {
+          "name": "杨惠宾",
+          "gender": ""
+        },
+        {
+          "name": "王拯宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L14": {
+      "members": [
+        {
+          "name": "罗祥",
+          "gender": ""
+        },
+        {
+          "name": "俞征洋",
+          "gender": ""
+        },
+        {
+          "name": "汤健平",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P04": {
+      "members": [
+        {
+          "name": "王春龙",
+          "gender": ""
+        },
+        {
+          "name": "谢华皓",
+          "gender": ""
+        },
+        {
+          "name": "张昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M13": {
+      "members": [
+        {
+          "name": "赵一玮",
+          "gender": ""
+        },
+        {
+          "name": "黄文",
+          "gender": ""
+        },
+        {
+          "name": "赵子涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R14": {
+      "members": [
+        {
+          "name": "李冠成",
+          "gender": ""
+        },
+        {
+          "name": "张嘉豪",
+          "gender": ""
+        },
+        {
+          "name": "王语芊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G16": {
+      "members": [
+        {
+          "name": "张玉龙",
+          "gender": ""
+        },
+        {
+          "name": "赵子熙",
+          "gender": ""
+        },
+        {
+          "name": "蒋帆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G03": {
+      "members": [
+        {
+          "name": "宁思禹",
+          "gender": ""
+        },
+        {
+          "name": "王运柯",
+          "gender": ""
+        },
+        {
+          "name": "曹继喆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B03": {
+      "members": [
+        {
+          "name": "许岩",
+          "gender": ""
+        },
+        {
+          "name": "王君迈",
+          "gender": ""
+        },
+        {
+          "name": "李嘉弘",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H05": {
+      "members": [
+        {
+          "name": "郭昱杉",
+          "gender": ""
+        },
+        {
+          "name": "刘瑀",
+          "gender": ""
+        },
+        {
+          "name": "何钰杨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O08": {
+      "members": [
+        {
+          "name": "杨蕊竹",
+          "gender": ""
+        },
+        {
+          "name": "苏冬辉",
+          "gender": ""
+        },
+        {
+          "name": "张艺洁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K05": {
+      "members": [
+        {
+          "name": "谢天城",
+          "gender": ""
+        },
+        {
+          "name": "王芷安",
+          "gender": ""
+        },
+        {
+          "name": "李黛希",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G18": {
+      "members": [
+        {
+          "name": "王喆",
+          "gender": ""
+        },
+        {
+          "name": "吕海航",
+          "gender": ""
+        },
+        {
+          "name": "黄嘉毅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O03": {
+      "members": [
+        {
+          "name": "孟闯",
+          "gender": ""
+        },
+        {
+          "name": "彭清莲",
+          "gender": ""
+        },
+        {
+          "name": "马海娇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R16": {
+      "members": [
+        {
+          "name": "胡少杰",
+          "gender": ""
+        },
+        {
+          "name": "肖梦圆",
+          "gender": ""
+        },
+        {
+          "name": "林君诺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M11": {
+      "members": [
+        {
+          "name": "郑卫",
+          "gender": ""
+        },
+        {
+          "name": "幸豪",
+          "gender": ""
+        },
+        {
+          "name": "汤世軒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M03": {
+      "members": [
+        {
+          "name": "董鑫磊",
+          "gender": ""
+        },
+        {
+          "name": "张培腾",
+          "gender": ""
+        },
+        {
+          "name": "王浩然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M04": {
+      "members": [
+        {
+          "name": "朱道阳",
+          "gender": ""
+        },
+        {
+          "name": "孟成豪",
+          "gender": ""
+        },
+        {
+          "name": "杨锦辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-L18": {
+      "members": [
+        {
+          "name": "刘天为",
+          "gender": ""
+        },
+        {
+          "name": "王睿",
+          "gender": ""
+        },
+        {
+          "name": "陈子昂",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A20": {
+      "members": [
+        {
+          "name": "刘昱辰",
+          "gender": ""
+        },
+        {
+          "name": "郭育良",
+          "gender": ""
+        },
+        {
+          "name": "李霁岚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F09": {
+      "members": [
+        {
+          "name": "林星希",
+          "gender": ""
+        },
+        {
+          "name": "刘美妤",
+          "gender": ""
+        },
+        {
+          "name": "刘佳鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q22": {
+      "members": [
+        {
+          "name": "刘牧云",
+          "gender": ""
+        },
+        {
+          "name": "李根",
+          "gender": ""
+        },
+        {
+          "name": "吴近闻",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E16": {
+      "members": [
+        {
+          "name": "陈轶鹏",
+          "gender": ""
+        },
+        {
+          "name": "张毅",
+          "gender": ""
+        },
+        {
+          "name": "苏智鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-E17": {
+      "members": [
+        {
+          "name": "王学志",
+          "gender": ""
+        },
+        {
+          "name": "周鑫磊",
+          "gender": ""
+        },
+        {
+          "name": "陈志欢",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B16": {
+      "members": [
+        {
+          "name": "赵中昊",
+          "gender": ""
+        },
+        {
+          "name": "刘帅潼",
+          "gender": ""
+        },
+        {
+          "name": "李婉婷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-K02": {
+      "members": [
+        {
+          "name": "李昂",
+          "gender": ""
+        },
+        {
+          "name": "杨易轩",
+          "gender": ""
+        },
+        {
+          "name": "谢文俊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-G19": {
+      "members": [
+        {
+          "name": "郑锦鹏",
+          "gender": ""
+        },
+        {
+          "name": "张恩速",
+          "gender": ""
+        },
+        {
+          "name": "林学东",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F06": {
+      "members": [
+        {
+          "name": "王帅帅",
+          "gender": ""
+        },
+        {
+          "name": "孙佳伟",
+          "gender": ""
+        },
+        {
+          "name": "樊茂",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F04": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-N18": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-B07": {
+      "members": [
+        {
+          "name": "肖欣",
+          "gender": ""
+        },
+        {
+          "name": "赵艺景",
+          "gender": ""
+        },
+        {
+          "name": "赵志杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O07": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-D21": {
+      "members": [
+        {
+          "name": "梁博芳",
+          "gender": ""
+        },
+        {
+          "name": "张鸿昊",
+          "gender": ""
+        },
+        {
+          "name": "李杰俊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R11": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-H19": {
+      "members": [
+        {
+          "name": "卢家昊",
+          "gender": ""
+        },
+        {
+          "name": "黄泽辉",
+          "gender": ""
+        },
+        {
+          "name": "廖君辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C14": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-Q03": {
+      "members": [
+        {
+          "name": "李越",
+          "gender": ""
+        },
+        {
+          "name": "余悦",
+          "gender": ""
+        },
+        {
+          "name": "郭泓搏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-P19": {
+      "members": [
+        {
+          "name": "王建闳",
+          "gender": ""
+        },
+        {
+          "name": "张华基",
+          "gender": ""
+        },
+        {
+          "name": "高振函",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-B09": {
+      "members": [
+        {
+          "name": "戚晏嘉",
+          "gender": ""
+        },
+        {
+          "name": "宋秉轩",
+          "gender": ""
+        },
+        {
+          "name": "祝宏睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-R04": {
+      "members": [
+        {
+          "name": "徐兴球",
+          "gender": ""
+        },
+        {
+          "name": "孟奕涵",
+          "gender": ""
+        },
+        {
+          "name": "付思涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N05": {
+      "members": [
+        {
+          "name": "廖立华",
+          "gender": ""
+        },
+        {
+          "name": "李宇翔",
+          "gender": ""
+        },
+        {
+          "name": "冯岳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M05": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-E18": {
+      "members": [
+        {
+          "name": "韩茗",
+          "gender": ""
+        },
+        {
+          "name": "苑永蔚",
+          "gender": ""
+        },
+        {
+          "name": "王路宁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I17": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-A14": {
+      "members": [
+        {
+          "name": "向俊杰",
+          "gender": ""
+        },
+        {
+          "name": "董福惠",
+          "gender": ""
+        },
+        {
+          "name": "杜宏志",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-D06": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-A18": {
+      "members": [
+        {
+          "name": "杨佳多",
+          "gender": ""
+        },
+        {
+          "name": "龚浩喆",
+          "gender": ""
+        },
+        {
+          "name": "陈志恒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A02": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-N11": {
+      "members": [
+        {
+          "name": "张彦泽",
+          "gender": ""
+        },
+        {
+          "name": "刘佳美",
+          "gender": ""
+        },
+        {
+          "name": "纪旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-N12": {
+      "members": [
+        {
+          "name": "许健博",
+          "gender": ""
+        },
+        {
+          "name": "彭博文",
+          "gender": ""
+        },
+        {
+          "name": "母佳欢",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-A10": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-J14": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-D19": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-Q08": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-L17": {
+      "members": [
+        {
+          "name": "梁震宇",
+          "gender": ""
+        },
+        {
+          "name": "赵晨曦",
+          "gender": ""
+        },
+        {
+          "name": "周泊丞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-O02": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-D14": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-A05": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-D01": {
+      "members": [
+        {
+          "name": "刘洪运",
+          "gender": ""
+        },
+        {
+          "name": "张兴旺",
+          "gender": ""
+        },
+        {
+          "name": "杨鹏瑞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H08": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-P03": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-A06": {
+      "members": [
+        {
+          "name": "杨昊昌",
+          "gender": ""
+        },
+        {
+          "name": "张峻豪",
+          "gender": ""
+        },
+        {
+          "name": "吕一鸣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-F01": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-P10": {
+      "members": [
+        {
+          "name": "郑郭楠",
+          "gender": ""
+        },
+        {
+          "name": "刁炜宁",
+          "gender": ""
+        },
+        {
+          "name": "彭坤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C19": {
+      "members": [
+        {
+          "name": "朱海",
+          "gender": ""
+        },
+        {
+          "name": "姜利嘉铭",
+          "gender": ""
+        },
+        {
+          "name": "潘祥威",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-C05": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-R02": {
+      "members": [
+        {
+          "name": "贾径懿",
+          "gender": ""
+        },
+        {
+          "name": "茌心宇",
+          "gender": ""
+        },
+        {
+          "name": "岳宗博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-M02": {
+      "members": [
+        {
+          "name": "刘腾予",
+          "gender": ""
+        },
+        {
+          "name": "齐思博宇",
+          "gender": ""
+        },
+        {
+          "name": "冯柯舜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-D17": {
+      "members": [
+        {
+          "name": "丁留安",
+          "gender": ""
+        },
+        {
+          "name": "矫金明",
+          "gender": ""
+        },
+        {
+          "name": "张天山",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-D18": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-K14": {
+      "members": [
+        {
+          "name": "唐政宇",
+          "gender": ""
+        },
+        {
+          "name": "陈思哲",
+          "gender": ""
+        },
+        {
+          "name": "王荃",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-I10": {
+      "members": [
+        {
+          "name": "潘岩",
+          "gender": ""
+        },
+        {
+          "name": "金龙杰",
+          "gender": ""
+        },
+        {
+          "name": "苏紫辰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-H11": {
+      "members": [
+        {
+          "name": "倪婷钰",
+          "gender": ""
+        },
+        {
+          "name": "石圣男",
+          "gender": ""
+        },
+        {
+          "name": "季芷欧",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "NE-team-Q21": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-B06": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-H06": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-J17": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-E07": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-P06": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-B10": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-L06": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-P05": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-D16": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-M16": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-L15": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-D12": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-Q17": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-O06": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-K01": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-E06": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-Q15": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-E01": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-N15": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-H04": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-I20": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-L08": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-N14": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-J22": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-J19": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-M21": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-C07": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-A15": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-P12": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-L05": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-B01": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-G07": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-E04": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-O16": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-F18": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-H22": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-I03": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-C21": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-B21": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-N02": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-M14": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-A17": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-N03": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-F20": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-O19": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-B22": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-J06": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-H01": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-J11": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-H03": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-A13": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-K11": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-F13": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-F07": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-B17": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-O17": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-P21": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-J02": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-D08": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-R12": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-A09": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-F19": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-G13": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-J18": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-E13": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-C12": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-S01": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-M08": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-C01": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-J13": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-C11": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-I09": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-E08": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-Q05": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-J04": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-O12": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-D10": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-E02": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-R20": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-F16": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-C03": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-P01": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-E15": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-D05": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-G10": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-M22": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-K19": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-N08": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-P11": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-D02": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-F05": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-G11": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-R01": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-K17": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-D04": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-B13": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-N20": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-H10": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-N16": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-P17": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-O04": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-H13": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-J09": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-I08": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-A04": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-Q11": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-A19": {
+      "members": [],
+      "organization_override": null
+    },
+    "NE-team-C09": {
+      "members": [],
+      "organization_override": null
+    }
+  }
+}

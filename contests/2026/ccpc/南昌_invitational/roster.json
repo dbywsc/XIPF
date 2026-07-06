@@ -1,6 +1,6 @@
 {
   "teams": {
-    "T001": {
+    "team180": {
       "members": [
         {
           "name": "钱智煊",
@@ -17,7 +17,7 @@
       ],
       "organization_override": null
     },
-    "T002": {
+    "team060": {
       "members": [
         {
           "name": "杨潇",
@@ -34,7 +34,7 @@
       ],
       "organization_override": null
     },
-    "T003": {
+    "team058": {
       "members": [
         {
           "name": "石侃",
@@ -51,7 +51,7 @@
       ],
       "organization_override": null
     },
-    "T004": {
+    "team141": {
       "members": [
         {
           "name": "徐锐",
@@ -68,7 +68,7 @@
       ],
       "organization_override": null
     },
-    "T002_1": {
+    "team203": {
       "members": [
         {
           "name": "周川旸",
@@ -85,7 +85,7 @@
       ],
       "organization_override": null
     },
-    "T003_1": {
+    "team188": {
       "members": [
         {
           "name": "王奕尧",
@@ -102,7 +102,7 @@
       ],
       "organization_override": null
     },
-    "T004_1": {
+    "team306": {
       "members": [
         {
           "name": "高润琪",
@@ -119,7 +119,7 @@
       ],
       "organization_override": null
     },
-    "T005": {
+    "team063": {
       "members": [
         {
           "name": "朱一铭",
@@ -136,7 +136,7 @@
       ],
       "organization_override": null
     },
-    "T006": {
+    "team337": {
       "members": [
         {
           "name": "谭灿英",
@@ -153,7 +153,7 @@
       ],
       "organization_override": null
     },
-    "T007": {
+    "team147": {
       "members": [
         {
           "name": "李萌",
@@ -170,7 +170,7 @@
       ],
       "organization_override": null
     },
-    "T008": {
+    "team287": {
       "members": [
         {
           "name": "陈义达",
@@ -187,7 +187,7 @@
       ],
       "organization_override": null
     },
-    "T009": {
+    "team266": {
       "members": [
         {
           "name": "蔡智勋",
@@ -204,7 +204,7 @@
       ],
       "organization_override": null
     },
-    "T013": {
+    "team118": {
       "members": [
         {
           "name": "许百川",
@@ -221,7 +221,7 @@
       ],
       "organization_override": null
     },
-    "T014": {
+    "team252": {
       "members": [
         {
           "name": "贺海川",
@@ -238,7 +238,7 @@
       ],
       "organization_override": null
     },
-    "T015": {
+    "team245": {
       "members": [
         {
           "name": "金思齐",
@@ -255,7 +255,7 @@
       ],
       "organization_override": null
     },
-    "T010": {
+    "team164": {
       "members": [
         {
           "name": "林川翔",
@@ -268,7 +268,7 @@
       ],
       "organization_override": null
     },
-    "T011": {
+    "team087": {
       "members": [
         {
           "name": "黄启轩",
@@ -285,7 +285,7 @@
       ],
       "organization_override": null
     },
-    "T012": {
+    "team318": {
       "members": [
         {
           "name": "黄仕填",
@@ -302,7 +302,7 @@
       ],
       "organization_override": null
     },
-    "T013_1": {
+    "team151": {
       "members": [
         {
           "name": "罗俊升",
@@ -319,7 +319,7 @@
       ],
       "organization_override": null
     },
-    "T014_1": {
+    "team028": {
       "members": [
         {
           "name": "习逸晗",
@@ -336,7 +336,7 @@
       ],
       "organization_override": null
     },
-    "T015_1": {
+    "team054": {
       "members": [
         {
           "name": "秦朝超",
@@ -353,7 +353,7 @@
       ],
       "organization_override": null
     },
-    "T016": {
+    "team258": {
       "members": [
         {
           "name": "何超",
@@ -370,7 +370,7 @@
       ],
       "organization_override": null
     },
-    "T017": {
+    "team071": {
       "members": [
         {
           "name": "吴悠",
@@ -387,7 +387,7 @@
       ],
       "organization_override": null
     },
-    "T018": {
+    "team074": {
       "members": [
         {
           "name": "朱星宇",
@@ -404,7 +404,7 @@
       ],
       "organization_override": null
     },
-    "T025": {
+    "team014": {
       "members": [
         {
           "name": "周彦钊",
@@ -421,7 +421,7 @@
       ],
       "organization_override": null
     },
-    "T019": {
+    "team119": {
       "members": [
         {
           "name": "张宇华",
@@ -438,7 +438,7 @@
       ],
       "organization_override": null
     },
-    "T020": {
+    "team247": {
       "members": [
         {
           "name": "项天聪",
@@ -455,7 +455,7 @@
       ],
       "organization_override": null
     },
-    "T021": {
+    "team183": {
       "members": [
         {
           "name": "梁家瑞",
@@ -472,7 +472,7 @@
       ],
       "organization_override": null
     },
-    "T022": {
+    "team303": {
       "members": [
         {
           "name": "孙忆琳",
@@ -489,7 +489,7 @@
       ],
       "organization_override": null
     },
-    "T023": {
+    "team191": {
       "members": [
         {
           "name": "王熠辉",
@@ -506,7 +506,7 @@
       ],
       "organization_override": null
     },
-    "T031": {
+    "team112": {
       "members": [
         {
           "name": "孙宇宸",
@@ -523,7 +523,7 @@
       ],
       "organization_override": null
     },
-    "T024": {
+    "team047": {
       "members": [
         {
           "name": "王业盛",
@@ -540,7 +540,7 @@
       ],
       "organization_override": null
     },
-    "T025_1": {
+    "team334": {
       "members": [
         {
           "name": "胡正华",
@@ -557,7 +557,7 @@
       ],
       "organization_override": null
     },
-    "T026": {
+    "team269": {
       "members": [
         {
           "name": "余兴正",
@@ -574,7 +574,7 @@
       ],
       "organization_override": null
     },
-    "T027": {
+    "team273": {
       "members": [
         {
           "name": "朱默涵",
@@ -591,7 +591,7 @@
       ],
       "organization_override": null
     },
-    "T028": {
+    "team045": {
       "members": [
         {
           "name": "杨庭硕",
@@ -608,7 +608,7 @@
       ],
       "organization_override": null
     },
-    "T029": {
+    "team292": {
       "members": [
         {
           "name": "朱轩谊",
@@ -625,7 +625,7 @@
       ],
       "organization_override": null
     },
-    "T030": {
+    "team088": {
       "members": [
         {
           "name": "温雨佳",
@@ -642,7 +642,7 @@
       ],
       "organization_override": null
     },
-    "T031_1": {
+    "team146": {
       "members": [
         {
           "name": "熊永荣",
@@ -659,7 +659,7 @@
       ],
       "organization_override": null
     },
-    "T032": {
+    "team153": {
       "members": [
         {
           "name": "刘桐",
@@ -672,7 +672,7 @@
       ],
       "organization_override": null
     },
-    "T033": {
+    "team286": {
       "members": [
         {
           "name": "钱逸晗",
@@ -689,7 +689,7 @@
       ],
       "organization_override": null
     },
-    "T034": {
+    "team105": {
       "members": [
         {
           "name": "陈俊峰",
@@ -706,7 +706,7 @@
       ],
       "organization_override": null
     },
-    "T035": {
+    "team103": {
       "members": [
         {
           "name": "魏陈源",
@@ -723,7 +723,7 @@
       ],
       "organization_override": null
     },
-    "T044": {
+    "team115": {
       "members": [
         {
           "name": "李宥霆",
@@ -740,7 +740,7 @@
       ],
       "organization_override": null
     },
-    "T036": {
+    "team228": {
       "members": [
         {
           "name": "王宇烁",
@@ -757,7 +757,7 @@
       ],
       "organization_override": null
     },
-    "T037": {
+    "team149": {
       "members": [
         {
           "name": "曾正基",
@@ -774,7 +774,7 @@
       ],
       "organization_override": null
     },
-    "T038": {
+    "team020": {
       "members": [
         {
           "name": "李寅之",
@@ -791,7 +791,7 @@
       ],
       "organization_override": null
     },
-    "T039": {
+    "team154": {
       "members": [
         {
           "name": "赖剑峰",
@@ -808,7 +808,7 @@
       ],
       "organization_override": null
     },
-    "T040": {
+    "team168": {
       "members": [
         {
           "name": "陈文定",
@@ -825,7 +825,7 @@
       ],
       "organization_override": null
     },
-    "T041": {
+    "team044": {
       "members": [
         {
           "name": "顾凌晗",
@@ -842,7 +842,7 @@
       ],
       "organization_override": null
     },
-    "T042": {
+    "team158": {
       "members": [
         {
           "name": "龚孝天",
@@ -859,7 +859,7 @@
       ],
       "organization_override": null
     },
-    "T043": {
+    "team296": {
       "members": [
         {
           "name": "高雪峰",
@@ -876,7 +876,7 @@
       ],
       "organization_override": null
     },
-    "T044_1": {
+    "team033": {
       "members": [
         {
           "name": "谢之晗",
@@ -893,7 +893,7 @@
       ],
       "organization_override": null
     },
-    "T045": {
+    "team189": {
       "members": [
         {
           "name": "潘俊龙",
@@ -910,7 +910,7 @@
       ],
       "organization_override": null
     },
-    "T055": {
+    "team056": {
       "members": [
         {
           "name": "林泽全",
@@ -927,7 +927,7 @@
       ],
       "organization_override": null
     },
-    "T056": {
+    "team171": {
       "members": [
         {
           "name": "李致远",
@@ -944,7 +944,7 @@
       ],
       "organization_override": null
     },
-    "T057": {
+    "team009": {
       "members": [
         {
           "name": "王瀚宇",
@@ -961,7 +961,7 @@
       ],
       "organization_override": null
     },
-    "T046": {
+    "team265": {
       "members": [
         {
           "name": "张忆周",
@@ -978,7 +978,7 @@
       ],
       "organization_override": null
     },
-    "T059": {
+    "team253": {
       "members": [
         {
           "name": "刘一",
@@ -995,7 +995,7 @@
       ],
       "organization_override": null
     },
-    "T047": {
+    "team307": {
       "members": [
         {
           "name": "刘烨冬",
@@ -1012,7 +1012,7 @@
       ],
       "organization_override": null
     },
-    "T048": {
+    "team186": {
       "members": [
         {
           "name": "张孙霖",
@@ -1029,7 +1029,7 @@
       ],
       "organization_override": null
     },
-    "T049": {
+    "team325": {
       "members": [
         {
           "name": "陈周宇杰",
@@ -1046,7 +1046,7 @@
       ],
       "organization_override": null
     },
-    "T050": {
+    "team156": {
       "members": [
         {
           "name": "徐子健",
@@ -1063,7 +1063,7 @@
       ],
       "organization_override": null
     },
-    "T051": {
+    "team289": {
       "members": [
         {
           "name": "陈宣羽",
@@ -1080,7 +1080,7 @@
       ],
       "organization_override": null
     },
-    "T052": {
+    "team300": {
       "members": [
         {
           "name": "胡泽宇",
@@ -1097,7 +1097,7 @@
       ],
       "organization_override": null
     },
-    "T053": {
+    "team130": {
       "members": [
         {
           "name": "周博岩",
@@ -1114,7 +1114,7 @@
       ],
       "organization_override": null
     },
-    "T067": {
+    "team025": {
       "members": [
         {
           "name": "于凯",
@@ -1131,7 +1131,7 @@
       ],
       "organization_override": null
     },
-    "T054": {
+    "team197": {
       "members": [
         {
           "name": "康宇",
@@ -1148,7 +1148,7 @@
       ],
       "organization_override": null
     },
-    "T069": {
+    "team250": {
       "members": [
         {
           "name": "李冉曦",
@@ -1165,7 +1165,7 @@
       ],
       "organization_override": null
     },
-    "T055_1": {
+    "team108": {
       "members": [
         {
           "name": "孔浩杰",
@@ -1182,7 +1182,7 @@
       ],
       "organization_override": null
     },
-    "T056_1": {
+    "team317": {
       "members": [
         {
           "name": "郭庆",
@@ -1199,7 +1199,7 @@
       ],
       "organization_override": null
     },
-    "T057_1": {
+    "team138": {
       "members": [
         {
           "name": "刘英凯",
@@ -1216,7 +1216,7 @@
       ],
       "organization_override": null
     },
-    "T058": {
+    "team305": {
       "members": [
         {
           "name": "游佳浩",
@@ -1233,7 +1233,7 @@
       ],
       "organization_override": null
     },
-    "T059_1": {
+    "team323": {
       "members": [
         {
           "name": "牛子陆",
@@ -1250,7 +1250,7 @@
       ],
       "organization_override": null
     },
-    "T060": {
+    "team082": {
       "members": [
         {
           "name": "杨照华",
@@ -1267,7 +1267,7 @@
       ],
       "organization_override": null
     },
-    "T061": {
+    "team312": {
       "members": [
         {
           "name": "倪方博",
@@ -1284,7 +1284,7 @@
       ],
       "organization_override": null
     },
-    "T062": {
+    "team062": {
       "members": [
         {
           "name": "杨加航",
@@ -1301,7 +1301,7 @@
       ],
       "organization_override": null
     },
-    "T063": {
+    "team332": {
       "members": [
         {
           "name": "叶潇奇",
@@ -1318,7 +1318,7 @@
       ],
       "organization_override": null
     },
-    "T064": {
+    "team297": {
       "members": [
         {
           "name": "刘超",
@@ -1335,7 +1335,7 @@
       ],
       "organization_override": null
     },
-    "T065": {
+    "team326": {
       "members": [
         {
           "name": "朱昊文",
@@ -1352,7 +1352,7 @@
       ],
       "organization_override": null
     },
-    "T066": {
+    "team276": {
       "members": [
         {
           "name": "苏森阳",
@@ -1369,7 +1369,7 @@
       ],
       "organization_override": null
     },
-    "T067_1": {
+    "team198": {
       "members": [
         {
           "name": "李俊毅",
@@ -1386,7 +1386,7 @@
       ],
       "organization_override": null
     },
-    "T068": {
+    "team222": {
       "members": [
         {
           "name": "张志伟",
@@ -1403,7 +1403,7 @@
       ],
       "organization_override": null
     },
-    "T069_1": {
+    "team116": {
       "members": [
         {
           "name": "刘圣丰",
@@ -1420,7 +1420,7 @@
       ],
       "organization_override": null
     },
-    "T070": {
+    "team093": {
       "members": [
         {
           "name": "邓力豪",
@@ -1437,7 +1437,7 @@
       ],
       "organization_override": null
     },
-    "T071": {
+    "team256": {
       "members": [
         {
           "name": "徐天昊",
@@ -1454,7 +1454,7 @@
       ],
       "organization_override": null
     },
-    "T072": {
+    "team257": {
       "members": [
         {
           "name": "李健阳",
@@ -1471,7 +1471,7 @@
       ],
       "organization_override": null
     },
-    "T073": {
+    "team208": {
       "members": [
         {
           "name": "江雅奥",
@@ -1488,7 +1488,7 @@
       ],
       "organization_override": null
     },
-    "T074": {
+    "team048": {
       "members": [
         {
           "name": "孙天成",
@@ -1505,7 +1505,7 @@
       ],
       "organization_override": null
     },
-    "T090": {
+    "team169": {
       "members": [
         {
           "name": "李鑫洋",
@@ -1522,7 +1522,7 @@
       ],
       "organization_override": null
     },
-    "T075": {
+    "team294": {
       "members": [
         {
           "name": "林浩杰",
@@ -1539,7 +1539,7 @@
       ],
       "organization_override": null
     },
-    "T076": {
+    "team072": {
       "members": [
         {
           "name": "李海宇",
@@ -1556,7 +1556,7 @@
       ],
       "organization_override": null
     },
-    "T077": {
+    "team271": {
       "members": [
         {
           "name": "沈乐琰",
@@ -1573,7 +1573,7 @@
       ],
       "organization_override": null
     },
-    "T078": {
+    "team061": {
       "members": [
         {
           "name": "丁硕能",
@@ -1590,7 +1590,7 @@
       ],
       "organization_override": null
     },
-    "T079": {
+    "team302": {
       "members": [
         {
           "name": "黄志强",
@@ -1607,7 +1607,7 @@
       ],
       "organization_override": null
     },
-    "T080": {
+    "team192": {
       "members": [
         {
           "name": "杨欢欢",
@@ -1624,7 +1624,7 @@
       ],
       "organization_override": null
     },
-    "T097": {
+    "team034": {
       "members": [
         {
           "name": "孙宏宇",
@@ -1641,7 +1641,7 @@
       ],
       "organization_override": null
     },
-    "T081": {
+    "team133": {
       "members": [
         {
           "name": "王瑞雪",
@@ -1658,7 +1658,7 @@
       ],
       "organization_override": null
     },
-    "T082": {
+    "team027": {
       "members": [
         {
           "name": "杨康祥",
@@ -1675,7 +1675,7 @@
       ],
       "organization_override": null
     },
-    "T083": {
+    "team185": {
       "members": [
         {
           "name": "邓从权",
@@ -1692,7 +1692,7 @@
       ],
       "organization_override": null
     },
-    "T084": {
+    "team067": {
       "members": [
         {
           "name": "陈思琪",
@@ -1709,7 +1709,7 @@
       ],
       "organization_override": null
     },
-    "T085": {
+    "team019": {
       "members": [
         {
           "name": "王博成",
@@ -1726,7 +1726,7 @@
       ],
       "organization_override": null
     },
-    "T086": {
+    "team298": {
       "members": [
         {
           "name": "余成鸣",
@@ -1739,7 +1739,7 @@
       ],
       "organization_override": null
     },
-    "T087": {
+    "team319": {
       "members": [
         {
           "name": "江明轩",
@@ -1756,7 +1756,7 @@
       ],
       "organization_override": null
     },
-    "T088": {
+    "team007": {
       "members": [
         {
           "name": "王茂光",
@@ -1773,7 +1773,7 @@
       ],
       "organization_override": null
     },
-    "T089": {
+    "team170": {
       "members": [
         {
           "name": "韩高臻",
@@ -1790,7 +1790,7 @@
       ],
       "organization_override": null
     },
-    "T090_1": {
+    "team159": {
       "members": [
         {
           "name": "刘宽",
@@ -1807,7 +1807,7 @@
       ],
       "organization_override": null
     },
-    "T091": {
+    "team177": {
       "members": [
         {
           "name": "赵瑞翔",
@@ -1824,7 +1824,7 @@
       ],
       "organization_override": null
     },
-    "T092": {
+    "team322": {
       "members": [
         {
           "name": "罗嘉乐",
@@ -1841,7 +1841,7 @@
       ],
       "organization_override": null
     },
-    "T093": {
+    "team215": {
       "members": [
         {
           "name": "陈烨",
@@ -1858,7 +1858,7 @@
       ],
       "organization_override": null
     },
-    "T094": {
+    "team107": {
       "members": [
         {
           "name": "李侑轩",
@@ -1875,7 +1875,7 @@
       ],
       "organization_override": null
     },
-    "T112": {
+    "team117": {
       "members": [
         {
           "name": "沈寒宇",
@@ -1892,7 +1892,7 @@
       ],
       "organization_override": null
     },
-    "T095": {
+    "team132": {
       "members": [
         {
           "name": "吴建强",
@@ -1909,7 +1909,7 @@
       ],
       "organization_override": null
     },
-    "T096": {
+    "team214": {
       "members": [
         {
           "name": "韩宇桐",
@@ -1926,7 +1926,7 @@
       ],
       "organization_override": null
     },
-    "T097_1": {
+    "team036": {
       "members": [
         {
           "name": "谭一峰",
@@ -1943,7 +1943,7 @@
       ],
       "organization_override": null
     },
-    "T098": {
+    "team226": {
       "members": [
         {
           "name": "向洁",
@@ -1960,7 +1960,7 @@
       ],
       "organization_override": null
     },
-    "T099": {
+    "team279": {
       "members": [
         {
           "name": "李雅雯",
@@ -1977,7 +1977,7 @@
       ],
       "organization_override": null
     },
-    "T100": {
+    "team165": {
       "members": [
         {
           "name": "叶春良",
@@ -1994,7 +1994,7 @@
       ],
       "organization_override": null
     },
-    "T101": {
+    "team069": {
       "members": [
         {
           "name": "罗思晨",
@@ -2011,7 +2011,7 @@
       ],
       "organization_override": null
     },
-    "T102": {
+    "team268": {
       "members": [
         {
           "name": "李亦阳",
@@ -2028,7 +2028,7 @@
       ],
       "organization_override": null
     },
-    "T103": {
+    "team330": {
       "members": [
         {
           "name": "黄梓颍",
@@ -2045,7 +2045,7 @@
       ],
       "organization_override": null
     },
-    "T104": {
+    "team098": {
       "members": [
         {
           "name": "罗博航",
@@ -2062,7 +2062,7 @@
       ],
       "organization_override": null
     },
-    "T105": {
+    "team090": {
       "members": [
         {
           "name": "刘志翔",
@@ -2079,7 +2079,7 @@
       ],
       "organization_override": null
     },
-    "T106": {
+    "team251": {
       "members": [
         {
           "name": "徐金涛",
@@ -2096,7 +2096,7 @@
       ],
       "organization_override": null
     },
-    "T107": {
+    "team216": {
       "members": [
         {
           "name": "徐明",
@@ -2113,7 +2113,7 @@
       ],
       "organization_override": null
     },
-    "T108": {
+    "team264": {
       "members": [
         {
           "name": "邬博丞",
@@ -2130,7 +2130,7 @@
       ],
       "organization_override": null
     },
-    "T109": {
+    "team024": {
       "members": [
         {
           "name": "袁凯鑫",
@@ -2147,7 +2147,7 @@
       ],
       "organization_override": null
     },
-    "T110": {
+    "team085": {
       "members": [
         {
           "name": "蔡宇鑫",
@@ -2164,7 +2164,7 @@
       ],
       "organization_override": null
     },
-    "T111": {
+    "team122": {
       "members": [
         {
           "name": "李丹琳",
@@ -2181,7 +2181,7 @@
       ],
       "organization_override": null
     },
-    "T112_1": {
+    "team084": {
       "members": [
         {
           "name": "陈子轩",
@@ -2198,7 +2198,7 @@
       ],
       "organization_override": null
     },
-    "T113": {
+    "team142": {
       "members": [
         {
           "name": "郑庆",
@@ -2215,7 +2215,7 @@
       ],
       "organization_override": null
     },
-    "T114": {
+    "team173": {
       "members": [
         {
           "name": "陈一鸣",
@@ -2232,7 +2232,7 @@
       ],
       "organization_override": null
     },
-    "T115": {
+    "team106": {
       "members": [
         {
           "name": "任城鑫",
@@ -2249,7 +2249,7 @@
       ],
       "organization_override": null
     },
-    "T116": {
+    "team155": {
       "members": [
         {
           "name": "丁墨涵",
@@ -2266,7 +2266,7 @@
       ],
       "organization_override": null
     },
-    "T117": {
+    "team336": {
       "members": [
         {
           "name": "沈乃至",
@@ -2283,7 +2283,7 @@
       ],
       "organization_override": null
     },
-    "T118": {
+    "team333": {
       "members": [
         {
           "name": "郑岳桓",
@@ -2300,7 +2300,7 @@
       ],
       "organization_override": null
     },
-    "T119": {
+    "team255": {
       "members": [
         {
           "name": "曾庆伟",
@@ -2317,7 +2317,7 @@
       ],
       "organization_override": null
     },
-    "T120": {
+    "team308": {
       "members": [
         {
           "name": "程奕铭",
@@ -2334,7 +2334,7 @@
       ],
       "organization_override": null
     },
-    "T121": {
+    "team161": {
       "members": [
         {
           "name": "李孝强",
@@ -2351,7 +2351,7 @@
       ],
       "organization_override": null
     },
-    "T122": {
+    "team089": {
       "members": [
         {
           "name": "陈小庆",
@@ -2368,7 +2368,7 @@
       ],
       "organization_override": null
     },
-    "T123": {
+    "team229": {
       "members": [
         {
           "name": "张万里",
@@ -2385,7 +2385,7 @@
       ],
       "organization_override": null
     },
-    "T124": {
+    "team304": {
       "members": [
         {
           "name": "张威",
@@ -2402,7 +2402,7 @@
       ],
       "organization_override": null
     },
-    "T125": {
+    "team329": {
       "members": [
         {
           "name": "王盛宇",
@@ -2419,7 +2419,7 @@
       ],
       "organization_override": null
     },
-    "T126": {
+    "team238": {
       "members": [
         {
           "name": "庄嘉豪",
@@ -2436,7 +2436,7 @@
       ],
       "organization_override": null
     },
-    "T127": {
+    "team080": {
       "members": [
         {
           "name": "陈智谦",
@@ -2453,7 +2453,7 @@
       ],
       "organization_override": null
     },
-    "T128": {
+    "team111": {
       "members": [
         {
           "name": "李鑫",
@@ -2470,7 +2470,7 @@
       ],
       "organization_override": null
     },
-    "T129": {
+    "team075": {
       "members": [
         {
           "name": "王鼎皓",
@@ -2487,7 +2487,7 @@
       ],
       "organization_override": null
     },
-    "T130": {
+    "team038": {
       "members": [
         {
           "name": "叶兆谦",
@@ -2504,7 +2504,7 @@
       ],
       "organization_override": null
     },
-    "T149": {
+    "team299": {
       "members": [
         {
           "name": "王涵瑜",
@@ -2521,7 +2521,7 @@
       ],
       "organization_override": null
     },
-    "T131": {
+    "team184": {
       "members": [
         {
           "name": "张文豪",
@@ -2538,7 +2538,7 @@
       ],
       "organization_override": null
     },
-    "T132": {
+    "team018": {
       "members": [
         {
           "name": "尚志超",
@@ -2555,7 +2555,7 @@
       ],
       "organization_override": null
     },
-    "T133": {
+    "team129": {
       "members": [
         {
           "name": "黄炫皓",
@@ -2572,7 +2572,7 @@
       ],
       "organization_override": null
     },
-    "T153": {
+    "team221": {
       "members": [
         {
           "name": "龚裕杰",
@@ -2589,7 +2589,7 @@
       ],
       "organization_override": null
     },
-    "T134": {
+    "team339": {
       "members": [
         {
           "name": "宋来宇",
@@ -2606,7 +2606,7 @@
       ],
       "organization_override": null
     },
-    "T135": {
+    "team055": {
       "members": [
         {
           "name": "张渊博",
@@ -2623,7 +2623,7 @@
       ],
       "organization_override": null
     },
-    "T136": {
+    "team022": {
       "members": [
         {
           "name": "杨帅",
@@ -2640,7 +2640,7 @@
       ],
       "organization_override": null
     },
-    "T137": {
+    "team043": {
       "members": [
         {
           "name": "孙浩语",
@@ -2657,7 +2657,7 @@
       ],
       "organization_override": null
     },
-    "T138": {
+    "team152": {
       "members": [
         {
           "name": "邱千柔",
@@ -2674,7 +2674,7 @@
       ],
       "organization_override": null
     },
-    "T159": {
+    "team254": {
       "members": [
         {
           "name": "王培霖",
@@ -2691,7 +2691,7 @@
       ],
       "organization_override": null
     },
-    "T139": {
+    "team239": {
       "members": [
         {
           "name": "唐昊梓",
@@ -2708,7 +2708,7 @@
       ],
       "organization_override": null
     },
-    "T140": {
+    "team139": {
       "members": [
         {
           "name": "熊雷",
@@ -2725,7 +2725,7 @@
       ],
       "organization_override": null
     },
-    "T141": {
+    "team070": {
       "members": [
         {
           "name": "刘翔华",
@@ -2742,7 +2742,7 @@
       ],
       "organization_override": null
     },
-    "T142": {
+    "team096": {
       "members": [
         {
           "name": "庄瑜",
@@ -2759,7 +2759,7 @@
       ],
       "organization_override": null
     },
-    "T143": {
+    "team124": {
       "members": [
         {
           "name": "吴育轩",
@@ -2776,7 +2776,7 @@
       ],
       "organization_override": null
     },
-    "T144": {
+    "team270": {
       "members": [
         {
           "name": "胡皓翔",
@@ -2793,7 +2793,7 @@
       ],
       "organization_override": null
     },
-    "T166": {
+    "team015": {
       "members": [
         {
           "name": "李安磊",
@@ -2810,7 +2810,7 @@
       ],
       "organization_override": null
     },
-    "T145": {
+    "team078": {
       "members": [
         {
           "name": "戴宁凯",
@@ -2827,7 +2827,7 @@
       ],
       "organization_override": null
     },
-    "T146": {
+    "team313": {
       "members": [
         {
           "name": "彭锦涛",
@@ -2844,16 +2844,16 @@
       ],
       "organization_override": null
     },
-    "T147": {
+    "team331": {
       "members": [
         {
-          "name": "None",
+          "name": "杨哲凯",
           "gender": ""
         }
       ],
       "organization_override": null
     },
-    "T148": {
+    "team248": {
       "members": [
         {
           "name": "牛辰熙",
@@ -2870,7 +2870,7 @@
       ],
       "organization_override": null
     },
-    "T149_1": {
+    "team232": {
       "members": [
         {
           "name": "郭逸非",
@@ -2887,7 +2887,7 @@
       ],
       "organization_override": null
     },
-    "T150": {
+    "team260": {
       "members": [
         {
           "name": "周静",
@@ -2904,7 +2904,7 @@
       ],
       "organization_override": null
     },
-    "T151": {
+    "team230": {
       "members": [
         {
           "name": "贾鑫海",
@@ -2921,7 +2921,7 @@
       ],
       "organization_override": null
     },
-    "T152": {
+    "team091": {
       "members": [
         {
           "name": "桂叶青",
@@ -2938,7 +2938,7 @@
       ],
       "organization_override": null
     },
-    "T153_1": {
+    "team167": {
       "members": [
         {
           "name": "李增睿",
@@ -2955,16 +2955,16 @@
       ],
       "organization_override": null
     },
-    "T154": {
+    "team094": {
       "members": [
         {
-          "name": "None",
+          "name": "黄舒芃",
           "gender": ""
         }
       ],
       "organization_override": null
     },
-    "T155": {
+    "team052": {
       "members": [
         {
           "name": "胡鸣",
@@ -2981,7 +2981,7 @@
       ],
       "organization_override": null
     },
-    "T156": {
+    "team157": {
       "members": [
         {
           "name": "郑川建",
@@ -2998,7 +2998,7 @@
       ],
       "organization_override": null
     },
-    "T157": {
+    "team175": {
       "members": [
         {
           "name": "李嘉熙",
@@ -3015,7 +3015,7 @@
       ],
       "organization_override": null
     },
-    "T158": {
+    "team166": {
       "members": [
         {
           "name": "刘俊泽",
@@ -3032,7 +3032,7 @@
       ],
       "organization_override": null
     },
-    "T159_1": {
+    "team235": {
       "members": [
         {
           "name": "勾治华",
@@ -3049,7 +3049,7 @@
       ],
       "organization_override": null
     },
-    "T160": {
+    "team001": {
       "members": [
         {
           "name": "章颖",
@@ -3066,7 +3066,7 @@
       ],
       "organization_override": null
     },
-    "T161": {
+    "team327": {
       "members": [
         {
           "name": "苏锦翔",
@@ -3083,7 +3083,7 @@
       ],
       "organization_override": null
     },
-    "T162": {
+    "team081": {
       "members": [
         {
           "name": "梁永洪",
@@ -3100,7 +3100,7 @@
       ],
       "organization_override": null
     },
-    "T163": {
+    "team246": {
       "members": [
         {
           "name": "孙书磊",
@@ -3117,7 +3117,7 @@
       ],
       "organization_override": null
     },
-    "T164": {
+    "team207": {
       "members": [
         {
           "name": "梁家祥",
@@ -3134,7 +3134,7 @@
       ],
       "organization_override": null
     },
-    "T165": {
+    "team236": {
       "members": [
         {
           "name": "林语彤",
@@ -3151,7 +3151,7 @@
       ],
       "organization_override": null
     },
-    "T166_1": {
+    "team282": {
       "members": [
         {
           "name": "周杨",
@@ -3168,7 +3168,7 @@
       ],
       "organization_override": null
     },
-    "T167": {
+    "team076": {
       "members": [
         {
           "name": "陈依高",
@@ -3185,7 +3185,7 @@
       ],
       "organization_override": null
     },
-    "T168": {
+    "team295": {
       "members": [
         {
           "name": "裴梓杰",
@@ -3202,7 +3202,7 @@
       ],
       "organization_override": null
     },
-    "T169": {
+    "team150": {
       "members": [
         {
           "name": "董健豪",
@@ -3219,7 +3219,7 @@
       ],
       "organization_override": null
     },
-    "T170": {
+    "team321": {
       "members": [
         {
           "name": "潘文驰",
@@ -3236,7 +3236,7 @@
       ],
       "organization_override": null
     },
-    "T171": {
+    "team274": {
       "members": [
         {
           "name": "俞淳宝",
@@ -3253,7 +3253,7 @@
       ],
       "organization_override": null
     },
-    "T172": {
+    "team193": {
       "members": [
         {
           "name": "孙嘉麒",
@@ -3270,7 +3270,7 @@
       ],
       "organization_override": null
     },
-    "T173": {
+    "team092": {
       "members": [
         {
           "name": "侯轶棠",
@@ -3287,7 +3287,7 @@
       ],
       "organization_override": null
     },
-    "T174": {
+    "team179": {
       "members": [
         {
           "name": "赵旭东",
@@ -3304,7 +3304,7 @@
       ],
       "organization_override": null
     },
-    "T175": {
+    "team338": {
       "members": [
         {
           "name": "陈旻烨",
@@ -3321,7 +3321,7 @@
       ],
       "organization_override": null
     },
-    "T176": {
+    "team277": {
       "members": [
         {
           "name": "万涛",
@@ -3338,7 +3338,7 @@
       ],
       "organization_override": null
     },
-    "T177": {
+    "team249": {
       "members": [
         {
           "name": "赵志程",
@@ -3355,7 +3355,7 @@
       ],
       "organization_override": null
     },
-    "T178": {
+    "team283": {
       "members": [
         {
           "name": "霍颖超",
@@ -3372,7 +3372,7 @@
       ],
       "organization_override": null
     },
-    "T179": {
+    "team176": {
       "members": [
         {
           "name": "陈龙骏",
@@ -3389,7 +3389,7 @@
       ],
       "organization_override": null
     },
-    "T180": {
+    "team210": {
       "members": [
         {
           "name": "刘郑",
@@ -3406,7 +3406,7 @@
       ],
       "organization_override": null
     },
-    "T181": {
+    "team123": {
       "members": [
         {
           "name": "褚家宇",
@@ -3423,7 +3423,7 @@
       ],
       "organization_override": null
     },
-    "T182": {
+    "team290": {
       "members": [
         {
           "name": "张以琳",
@@ -3440,7 +3440,7 @@
       ],
       "organization_override": null
     },
-    "T183": {
+    "team218": {
       "members": [
         {
           "name": "张展翼",
@@ -3457,7 +3457,7 @@
       ],
       "organization_override": null
     },
-    "T184": {
+    "team135": {
       "members": [
         {
           "name": "刘学业",
@@ -3474,7 +3474,7 @@
       ],
       "organization_override": null
     },
-    "T185": {
+    "team237": {
       "members": [
         {
           "name": "曾好",
@@ -3491,7 +3491,7 @@
       ],
       "organization_override": null
     },
-    "T186": {
+    "team181": {
       "members": [
         {
           "name": "郭臣希",
@@ -3508,7 +3508,7 @@
       ],
       "organization_override": null
     },
-    "T187": {
+    "team037": {
       "members": [
         {
           "name": "高睿梓",
@@ -3525,7 +3525,7 @@
       ],
       "organization_override": null
     },
-    "T188": {
+    "team137": {
       "members": [
         {
           "name": "关天泽",
@@ -3542,7 +3542,7 @@
       ],
       "organization_override": null
     },
-    "T189": {
+    "team272": {
       "members": [
         {
           "name": "曾宇恒",
@@ -3559,7 +3559,7 @@
       ],
       "organization_override": null
     },
-    "T190": {
+    "team267": {
       "members": [
         {
           "name": "贺一恒",
@@ -3576,7 +3576,7 @@
       ],
       "organization_override": null
     },
-    "T191": {
+    "team205": {
       "members": [
         {
           "name": "靳鹏凯",
@@ -3593,7 +3593,7 @@
       ],
       "organization_override": null
     },
-    "T192": {
+    "team285": {
       "members": [
         {
           "name": "杨佳慧",
@@ -3610,7 +3610,7 @@
       ],
       "organization_override": null
     },
-    "T193": {
+    "team086": {
       "members": [
         {
           "name": "郑杰鸣",
@@ -3627,7 +3627,7 @@
       ],
       "organization_override": null
     },
-    "T194": {
+    "team143": {
       "members": [
         {
           "name": "文昊",
@@ -3644,7 +3644,7 @@
       ],
       "organization_override": null
     },
-    "T195": {
+    "team194": {
       "members": [
         {
           "name": "宁昱杰",
@@ -3661,7 +3661,7 @@
       ],
       "organization_override": null
     },
-    "T196": {
+    "team224": {
       "members": [
         {
           "name": "邵鹏辉",
@@ -3678,7 +3678,7 @@
       ],
       "organization_override": null
     },
-    "T197": {
+    "team244": {
       "members": [
         {
           "name": "罗权",
@@ -3695,7 +3695,7 @@
       ],
       "organization_override": null
     },
-    "T198": {
+    "team006": {
       "members": [
         {
           "name": "陈俊豪",
@@ -3712,7 +3712,7 @@
       ],
       "organization_override": null
     },
-    "T199": {
+    "team109": {
       "members": [
         {
           "name": "金子博",
@@ -3729,7 +3729,7 @@
       ],
       "organization_override": null
     },
-    "T200": {
+    "team023": {
       "members": [
         {
           "name": "孔维杰",
@@ -3746,7 +3746,7 @@
       ],
       "organization_override": null
     },
-    "T201": {
+    "team097": {
       "members": [
         {
           "name": "刘郑鑫",
@@ -3763,7 +3763,7 @@
       ],
       "organization_override": null
     },
-    "T202": {
+    "team340": {
       "members": [
         {
           "name": "王李庆晨",
@@ -3780,7 +3780,7 @@
       ],
       "organization_override": null
     },
-    "T203": {
+    "team004": {
       "members": [
         {
           "name": "邓建豪",
@@ -3797,7 +3797,7 @@
       ],
       "organization_override": null
     },
-    "T204": {
+    "team182": {
       "members": [
         {
           "name": "毛梓聿",
@@ -3814,7 +3814,7 @@
       ],
       "organization_override": null
     },
-    "T205": {
+    "team049": {
       "members": [
         {
           "name": "方鼎",
@@ -3831,7 +3831,7 @@
       ],
       "organization_override": null
     },
-    "T206": {
+    "team046": {
       "members": [
         {
           "name": "汤宇豪",
@@ -3848,7 +3848,7 @@
       ],
       "organization_override": null
     },
-    "T207": {
+    "team140": {
       "members": [
         {
           "name": "蒋乐为",
@@ -3865,7 +3865,7 @@
       ],
       "organization_override": null
     },
-    "T208": {
+    "team016": {
       "members": [
         {
           "name": "谢佳宏",
@@ -3882,7 +3882,7 @@
       ],
       "organization_override": null
     },
-    "T209": {
+    "team121": {
       "members": [
         {
           "name": "晏奕豪",
@@ -3899,7 +3899,7 @@
       ],
       "organization_override": null
     },
-    "T210": {
+    "team288": {
       "members": [
         {
           "name": "滕文胜",
@@ -3916,7 +3916,7 @@
       ],
       "organization_override": null
     },
-    "T211": {
+    "team005": {
       "members": [
         {
           "name": "赵博",
@@ -3933,7 +3933,7 @@
       ],
       "organization_override": null
     },
-    "T212": {
+    "team227": {
       "members": [
         {
           "name": "郑毅",
@@ -3950,7 +3950,7 @@
       ],
       "organization_override": null
     },
-    "T213": {
+    "team263": {
       "members": [
         {
           "name": "韩志军",
@@ -3967,7 +3967,7 @@
       ],
       "organization_override": null
     },
-    "T214": {
+    "team042": {
       "members": [
         {
           "name": "崔国林",
@@ -3984,7 +3984,7 @@
       ],
       "organization_override": null
     },
-    "T215": {
+    "team293": {
       "members": [
         {
           "name": "王永政",
@@ -4001,7 +4001,7 @@
       ],
       "organization_override": null
     },
-    "T216": {
+    "team134": {
       "members": [
         {
           "name": "林帮吉",
@@ -4018,7 +4018,7 @@
       ],
       "organization_override": null
     },
-    "T217": {
+    "team174": {
       "members": [
         {
           "name": "龙轩",
@@ -4035,24 +4035,7 @@
       ],
       "organization_override": null
     },
-    "T218": {
-      "members": [
-        {
-          "name": "楼家煜",
-          "gender": ""
-        },
-        {
-          "name": "柴定超",
-          "gender": ""
-        },
-        {
-          "name": "陈嘉勒",
-          "gender": ""
-        }
-      ],
-      "organization_override": null
-    },
-    "T241": {
+    "team309": {
       "members": [
         {
           "name": "龙信越",
@@ -4069,7 +4052,24 @@
       ],
       "organization_override": null
     },
-    "T219": {
+    "team213": {
+      "members": [
+        {
+          "name": "楼家煜",
+          "gender": ""
+        },
+        {
+          "name": "柴定超",
+          "gender": ""
+        },
+        {
+          "name": "陈嘉勒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team328": {
       "members": [
         {
           "name": "张嘉毅",
@@ -4086,7 +4086,7 @@
       ],
       "organization_override": null
     },
-    "T220": {
+    "team196": {
       "members": [
         {
           "name": "黎尚京",
@@ -4103,7 +4103,7 @@
       ],
       "organization_override": null
     },
-    "T221": {
+    "team095": {
       "members": [
         {
           "name": "刘子康",
@@ -4120,7 +4120,7 @@
       ],
       "organization_override": null
     },
-    "T222": {
+    "team053": {
       "members": [
         {
           "name": "林若晨",
@@ -4137,7 +4137,7 @@
       ],
       "organization_override": null
     },
-    "T223": {
+    "team206": {
       "members": [
         {
           "name": "钟明皓",
@@ -4154,7 +4154,7 @@
       ],
       "organization_override": null
     },
-    "T224": {
+    "team225": {
       "members": [
         {
           "name": "邓俊威",
@@ -4171,7 +4171,7 @@
       ],
       "organization_override": null
     },
-    "T225": {
+    "team029": {
       "members": [
         {
           "name": "赵腾宇",
@@ -4188,7 +4188,7 @@
       ],
       "organization_override": null
     },
-    "T226": {
+    "team219": {
       "members": [
         {
           "name": "李文畅",
@@ -4205,7 +4205,7 @@
       ],
       "organization_override": null
     },
-    "T227": {
+    "team035": {
       "members": [
         {
           "name": "周钲墙",
@@ -4222,7 +4222,7 @@
       ],
       "organization_override": null
     },
-    "T228": {
+    "team315": {
       "members": [
         {
           "name": "邵嘉丰",
@@ -4239,7 +4239,7 @@
       ],
       "organization_override": null
     },
-    "T229": {
+    "team064": {
       "members": [
         {
           "name": "施晋元",
@@ -4256,7 +4256,7 @@
       ],
       "organization_override": null
     },
-    "T230": {
+    "team144": {
       "members": [
         {
           "name": "戚银芯",
@@ -4273,7 +4273,7 @@
       ],
       "organization_override": null
     },
-    "T231": {
+    "team217": {
       "members": [
         {
           "name": "杨毅星",
@@ -4290,7 +4290,7 @@
       ],
       "organization_override": null
     },
-    "T232": {
+    "team242": {
       "members": [
         {
           "name": "谭宇晨",
@@ -4307,7 +4307,7 @@
       ],
       "organization_override": null
     },
-    "T233": {
+    "team030": {
       "members": [
         {
           "name": "巴成航",
@@ -4324,7 +4324,7 @@
       ],
       "organization_override": null
     },
-    "T234": {
+    "team320": {
       "members": [
         {
           "name": "李奕诚",
@@ -4341,7 +4341,7 @@
       ],
       "organization_override": null
     },
-    "T235": {
+    "team079": {
       "members": [
         {
           "name": "章序",
@@ -4358,7 +4358,7 @@
       ],
       "organization_override": null
     },
-    "T236": {
+    "team200": {
       "members": [
         {
           "name": "冯伟军",
@@ -4375,7 +4375,7 @@
       ],
       "organization_override": null
     },
-    "T237": {
+    "team190": {
       "members": [
         {
           "name": "孙煜棋",
@@ -4392,7 +4392,7 @@
       ],
       "organization_override": null
     },
-    "T238": {
+    "team017": {
       "members": [
         {
           "name": "姜铸洋",
@@ -4409,7 +4409,7 @@
       ],
       "organization_override": null
     },
-    "T239": {
+    "team101": {
       "members": [
         {
           "name": "吉祥",
@@ -4426,7 +4426,7 @@
       ],
       "organization_override": null
     },
-    "T263": {
+    "team011": {
       "members": [
         {
           "name": "毛子恒",
@@ -4443,7 +4443,7 @@
       ],
       "organization_override": null
     },
-    "T264": {
+    "team059": {
       "members": [
         {
           "name": "张子陈",
@@ -4460,7 +4460,7 @@
       ],
       "organization_override": null
     },
-    "T240": {
+    "team120": {
       "members": [
         {
           "name": "李子恒",
@@ -4477,7 +4477,7 @@
       ],
       "organization_override": null
     },
-    "T241_1": {
+    "team262": {
       "members": [
         {
           "name": "吴少泽",
@@ -4494,7 +4494,7 @@
       ],
       "organization_override": null
     },
-    "T242": {
+    "team280": {
       "members": [
         {
           "name": "马志波",
@@ -4511,7 +4511,7 @@
       ],
       "organization_override": null
     },
-    "T243": {
+    "team003": {
       "members": [
         {
           "name": "申思铭",
@@ -4528,7 +4528,7 @@
       ],
       "organization_override": null
     },
-    "T244": {
+    "team040": {
       "members": [
         {
           "name": "张玉龙",
@@ -4545,7 +4545,7 @@
       ],
       "organization_override": null
     },
-    "T245": {
+    "team083": {
       "members": [
         {
           "name": "陈峰玮",
@@ -4562,7 +4562,7 @@
       ],
       "organization_override": null
     },
-    "T271": {
+    "team041": {
       "members": [
         {
           "name": "马傲博",
@@ -4579,7 +4579,7 @@
       ],
       "organization_override": null
     },
-    "T246": {
+    "team201": {
       "members": [
         {
           "name": "聂鑫栋",
@@ -4596,7 +4596,7 @@
       ],
       "organization_override": null
     },
-    "T273": {
+    "team114": {
       "members": [
         {
           "name": "蔡欣冉",
@@ -4613,7 +4613,7 @@
       ],
       "organization_override": null
     },
-    "T247": {
+    "team335": {
       "members": [
         {
           "name": "白恩齐",
@@ -4630,7 +4630,7 @@
       ],
       "organization_override": null
     },
-    "T248": {
+    "team291": {
       "members": [
         {
           "name": "毛子祺",
@@ -4647,7 +4647,7 @@
       ],
       "organization_override": null
     },
-    "T249": {
+    "team110": {
       "members": [
         {
           "name": "杨家奎",
@@ -4664,7 +4664,7 @@
       ],
       "organization_override": null
     },
-    "T250": {
+    "team065": {
       "members": [
         {
           "name": "徐晨晓",
@@ -4681,7 +4681,7 @@
       ],
       "organization_override": null
     },
-    "T251": {
+    "team077": {
       "members": [
         {
           "name": "林远浩",
@@ -4698,7 +4698,7 @@
       ],
       "organization_override": null
     },
-    "T252": {
+    "team066": {
       "members": [
         {
           "name": "常斌",
@@ -4715,7 +4715,7 @@
       ],
       "organization_override": null
     },
-    "T253": {
+    "team050": {
       "members": [
         {
           "name": "汪文吉",
@@ -4732,7 +4732,7 @@
       ],
       "organization_override": null
     },
-    "T254": {
+    "team068": {
       "members": [
         {
           "name": "余延鳐",
@@ -4749,7 +4749,7 @@
       ],
       "organization_override": null
     },
-    "T255": {
+    "team026": {
       "members": [
         {
           "name": "龙子航",
@@ -4766,7 +4766,7 @@
       ],
       "organization_override": null
     },
-    "T256": {
+    "team136": {
       "members": [
         {
           "name": "袁浩坤",
@@ -4783,7 +4783,7 @@
       ],
       "organization_override": null
     },
-    "T257": {
+    "team204": {
       "members": [
         {
           "name": "陈震宇",
@@ -4800,7 +4800,7 @@
       ],
       "organization_override": null
     },
-    "T258": {
+    "team021": {
       "members": [
         {
           "name": "张全政",
@@ -4817,7 +4817,7 @@
       ],
       "organization_override": null
     },
-    "T259": {
+    "team002": {
       "members": [
         {
           "name": "胡哲源",
@@ -4834,7 +4834,7 @@
       ],
       "organization_override": null
     },
-    "T260": {
+    "team099": {
       "members": [
         {
           "name": "周一斐",
@@ -4851,7 +4851,7 @@
       ],
       "organization_override": null
     },
-    "T261": {
+    "team301": {
       "members": [
         {
           "name": "张伟鹏",
@@ -4868,7 +4868,7 @@
       ],
       "organization_override": null
     },
-    "T262": {
+    "team148": {
       "members": [
         {
           "name": "赖奕文",
@@ -4885,7 +4885,7 @@
       ],
       "organization_override": null
     },
-    "T263_1": {
+    "team104": {
       "members": [
         {
           "name": "金玉琳",
@@ -4902,7 +4902,7 @@
       ],
       "organization_override": null
     },
-    "T264_1": {
+    "team127": {
       "members": [
         {
           "name": "陈虞豪",
@@ -4919,7 +4919,7 @@
       ],
       "organization_override": null
     },
-    "T265": {
+    "team131": {
       "members": [
         {
           "name": "林泉",
@@ -4936,7 +4936,7 @@
       ],
       "organization_override": null
     },
-    "T266": {
+    "team284": {
       "members": [
         {
           "name": "王思咏",
@@ -4953,7 +4953,7 @@
       ],
       "organization_override": null
     },
-    "T294": {
+    "team010": {
       "members": [
         {
           "name": "胡书睿",
@@ -4970,7 +4970,7 @@
       ],
       "organization_override": null
     },
-    "T267": {
+    "team162": {
       "members": [
         {
           "name": "张帅",
@@ -4987,7 +4987,7 @@
       ],
       "organization_override": null
     },
-    "T268": {
+    "team039": {
       "members": [
         {
           "name": "马新宇",
@@ -5004,7 +5004,7 @@
       ],
       "organization_override": null
     },
-    "T269": {
+    "team211": {
       "members": [
         {
           "name": "刘佳",
@@ -5021,7 +5021,7 @@
       ],
       "organization_override": null
     },
-    "T298": {
+    "team220": {
       "members": [
         {
           "name": "邓觐恒",
@@ -5038,7 +5038,7 @@
       ],
       "organization_override": null
     },
-    "T270": {
+    "team310": {
       "members": [
         {
           "name": "廖俊杰",
@@ -5051,7 +5051,7 @@
       ],
       "organization_override": null
     },
-    "T271_1": {
+    "team281": {
       "members": [
         {
           "name": "何一豪",
@@ -5068,7 +5068,7 @@
       ],
       "organization_override": null
     },
-    "T272": {
+    "team223": {
       "members": [
         {
           "name": "马铭宇",
@@ -5085,7 +5085,7 @@
       ],
       "organization_override": null
     },
-    "T273_1": {
+    "team278": {
       "members": [
         {
           "name": "郑俊杰",
@@ -5102,7 +5102,7 @@
       ],
       "organization_override": null
     },
-    "T274": {
+    "team126": {
       "members": [
         {
           "name": "童天宇",
@@ -5119,7 +5119,7 @@
       ],
       "organization_override": null
     },
-    "T275": {
+    "team231": {
       "members": [
         {
           "name": "张姜楠",
@@ -5136,7 +5136,7 @@
       ],
       "organization_override": null
     },
-    "T276": {
+    "team241": {
       "members": [
         {
           "name": "朱浩展",
@@ -5153,7 +5153,7 @@
       ],
       "organization_override": null
     },
-    "T277": {
+    "team202": {
       "members": [
         {
           "name": "陈文发",
@@ -5170,7 +5170,7 @@
       ],
       "organization_override": null
     },
-    "T278": {
+    "team275": {
       "members": [
         {
           "name": "涂家胤",
@@ -5187,7 +5187,7 @@
       ],
       "organization_override": null
     },
-    "T279": {
+    "team031": {
       "members": [
         {
           "name": "林旭",
@@ -5204,7 +5204,7 @@
       ],
       "organization_override": null
     },
-    "T280": {
+    "team125": {
       "members": [
         {
           "name": "肖运康",
@@ -5221,7 +5221,7 @@
       ],
       "organization_override": null
     },
-    "T281": {
+    "team100": {
       "members": [
         {
           "name": "王宏达",
@@ -5238,7 +5238,7 @@
       ],
       "organization_override": null
     },
-    "T282": {
+    "team073": {
       "members": [
         {
           "name": "熊厚廣",
@@ -5255,7 +5255,7 @@
       ],
       "organization_override": null
     },
-    "T283": {
+    "team316": {
       "members": [
         {
           "name": "张国栋",
@@ -5272,7 +5272,7 @@
       ],
       "organization_override": null
     },
-    "T284": {
+    "team178": {
       "members": [
         {
           "name": "陈晋钦",
@@ -5289,7 +5289,7 @@
       ],
       "organization_override": null
     },
-    "T314": {
+    "team013": {
       "members": [
         {
           "name": "刘宗泽",
@@ -5306,7 +5306,7 @@
       ],
       "organization_override": null
     },
-    "T315": {
+    "team057": {
       "members": [
         {
           "name": "陈珦宸",
@@ -5323,7 +5323,7 @@
       ],
       "organization_override": null
     },
-    "T285": {
+    "team187": {
       "members": [
         {
           "name": "亓鹏飞",
@@ -5340,7 +5340,7 @@
       ],
       "organization_override": null
     },
-    "T286": {
+    "team172": {
       "members": [
         {
           "name": "余书豪",
@@ -5357,7 +5357,7 @@
       ],
       "organization_override": null
     },
-    "T287": {
+    "team128": {
       "members": [
         {
           "name": "陈博恒",
@@ -5374,7 +5374,7 @@
       ],
       "organization_override": null
     },
-    "T288": {
+    "team209": {
       "members": [
         {
           "name": "杨阳",
@@ -5391,7 +5391,7 @@
       ],
       "organization_override": null
     },
-    "T289": {
+    "team233": {
       "members": [
         {
           "name": "倪郑杰",
@@ -5408,7 +5408,7 @@
       ],
       "organization_override": null
     },
-    "T290": {
+    "team199": {
       "members": [
         {
           "name": "赵鹏逸",
@@ -5425,7 +5425,7 @@
       ],
       "organization_override": null
     },
-    "T291": {
+    "team212": {
       "members": [
         {
           "name": "王浩",
@@ -5442,7 +5442,7 @@
       ],
       "organization_override": null
     },
-    "T292": {
+    "team163": {
       "members": [
         {
           "name": "杨子禾",
@@ -5459,7 +5459,7 @@
       ],
       "organization_override": null
     },
-    "T293": {
+    "team145": {
       "members": [
         {
           "name": "鲁欣彤",
@@ -5476,7 +5476,7 @@
       ],
       "organization_override": null
     },
-    "T294_1": {
+    "team259": {
       "members": [
         {
           "name": "黄明",
@@ -5493,7 +5493,7 @@
       ],
       "organization_override": null
     },
-    "T295": {
+    "team240": {
       "members": [
         {
           "name": "唐旭豪",
@@ -5510,7 +5510,7 @@
       ],
       "organization_override": null
     },
-    "T327": {
+    "team113": {
       "members": [
         {
           "name": "王韦策",
@@ -5527,7 +5527,7 @@
       ],
       "organization_override": null
     },
-    "T328": {
+    "team012": {
       "members": [
         {
           "name": "林子恒",
@@ -5544,7 +5544,7 @@
       ],
       "organization_override": null
     },
-    "T296": {
+    "team051": {
       "members": [
         {
           "name": "徐佳凝",
@@ -5561,7 +5561,7 @@
       ],
       "organization_override": null
     },
-    "T297": {
+    "team195": {
       "members": [
         {
           "name": "蓝昊",
@@ -5578,7 +5578,7 @@
       ],
       "organization_override": null
     },
-    "T298_1": {
+    "team008": {
       "members": [
         {
           "name": "王艺杰",
@@ -5595,7 +5595,7 @@
       ],
       "organization_override": null
     },
-    "T299": {
+    "team261": {
       "members": [
         {
           "name": "夏鑫宇",
@@ -5612,7 +5612,7 @@
       ],
       "organization_override": null
     },
-    "T300": {
+    "team243": {
       "members": [
         {
           "name": "李赛宗",
@@ -5629,7 +5629,7 @@
       ],
       "organization_override": null
     },
-    "T301": {
+    "team324": {
       "members": [
         {
           "name": "张松林",
@@ -5646,7 +5646,7 @@
       ],
       "organization_override": null
     },
-    "T302": {
+    "team314": {
       "members": [
         {
           "name": "黄铭玥",
@@ -5663,7 +5663,7 @@
       ],
       "organization_override": null
     },
-    "T303": {
+    "team032": {
       "members": [
         {
           "name": "沈昊霆",
@@ -5680,7 +5680,7 @@
       ],
       "organization_override": null
     },
-    "T304": {
+    "team102": {
       "members": [
         {
           "name": "徐涛",
@@ -5697,7 +5697,7 @@
       ],
       "organization_override": null
     },
-    "T305": {
+    "team234": {
       "members": [
         {
           "name": "王文鑫",
@@ -5714,7 +5714,7 @@
       ],
       "organization_override": null
     },
-    "T306": {
+    "team160": {
       "members": [
         {
           "name": "刘致远",
@@ -5731,7 +5731,7 @@
       ],
       "organization_override": null
     },
-    "T307": {
+    "team311": {
       "members": [
         {
           "name": "廖晓亮",

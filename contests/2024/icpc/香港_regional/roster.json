@@ -1,0 +1,2942 @@
+{
+  "teams": {
+    "CD301-11": {
+      "members": [
+        {
+          "name": "Siyuan Luo",
+          "gender": ""
+        },
+        {
+          "name": "Ziyue Ge",
+          "gender": ""
+        },
+        {
+          "name": "Yuhao Meng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-10": {
+      "members": [
+        {
+          "name": "Binyang Jiang",
+          "gender": ""
+        },
+        {
+          "name": "Dayu Wang",
+          "gender": ""
+        },
+        {
+          "name": "Hejun Dong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-17": {
+      "members": [
+        {
+          "name": "Yuhang Chen",
+          "gender": ""
+        },
+        {
+          "name": "Wentao Ding",
+          "gender": ""
+        },
+        {
+          "name": "Pengkai Zhang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-16": {
+      "members": [
+        {
+          "name": "Wenhao MA",
+          "gender": ""
+        },
+        {
+          "name": "Zhuokun HE",
+          "gender": ""
+        },
+        {
+          "name": "Guangsheng HUANG",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-08": {
+      "members": [
+        {
+          "name": "Beiyu Li",
+          "gender": ""
+        },
+        {
+          "name": "Peizhen Hu",
+          "gender": ""
+        },
+        {
+          "name": "Haitian Peng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-25": {
+      "members": [
+        {
+          "name": "Pengcheng Geng",
+          "gender": ""
+        },
+        {
+          "name": "Haoran Song",
+          "gender": ""
+        },
+        {
+          "name": "Jun Tao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-18": {
+      "members": [
+        {
+          "name": "Youran Sun",
+          "gender": ""
+        },
+        {
+          "name": "Qingshuo Guo",
+          "gender": ""
+        },
+        {
+          "name": "Qiuyang Mang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-01": {
+      "members": [
+        {
+          "name": "Lekun Zhao",
+          "gender": ""
+        },
+        {
+          "name": "Junqi Lyu",
+          "gender": ""
+        },
+        {
+          "name": "Haotian Hu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-27": {
+      "members": [
+        {
+          "name": "QiXuan Li",
+          "gender": ""
+        },
+        {
+          "name": "Qiyue Xu",
+          "gender": ""
+        },
+        {
+          "name": "Yuchen Wu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-15": {
+      "members": [
+        {
+          "name": "Chongye Yang",
+          "gender": ""
+        },
+        {
+          "name": "Junyi Li",
+          "gender": ""
+        },
+        {
+          "name": "Endi Yu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-10": {
+      "members": [
+        {
+          "name": "Junfu Chen",
+          "gender": ""
+        },
+        {
+          "name": "Zhihang Yu",
+          "gender": ""
+        },
+        {
+          "name": "Yiding Wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-01": {
+      "members": [
+        {
+          "name": "Yeung Shing Hei Angus",
+          "gender": ""
+        },
+        {
+          "name": "Cheng Yu San",
+          "gender": ""
+        },
+        {
+          "name": "Lu Yi Fung",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-04": {
+      "members": [
+        {
+          "name": "Yimo Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Yin Fung LOK",
+          "gender": ""
+        },
+        {
+          "name": "Taimas Korganbayev",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-13": {
+      "members": [
+        {
+          "name": "Ko Kin Fung Nicholas",
+          "gender": ""
+        },
+        {
+          "name": "Mak Chun Hin Ivan",
+          "gender": ""
+        },
+        {
+          "name": "Lai Hong Tung Honrich",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-12": {
+      "members": [
+        {
+          "name": "Zhaienhe Zhou",
+          "gender": ""
+        },
+        {
+          "name": "Wenjie Hong",
+          "gender": ""
+        },
+        {
+          "name": "Yihang Guo",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-19": {
+      "members": [
+        {
+          "name": "Zhengyu Lin",
+          "gender": ""
+        },
+        {
+          "name": "Zhe Xue",
+          "gender": ""
+        },
+        {
+          "name": "Zihua Zeng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-02": {
+      "members": [
+        {
+          "name": "Shuxiao Xie",
+          "gender": ""
+        },
+        {
+          "name": "Dingzun Wang",
+          "gender": ""
+        },
+        {
+          "name": "Zishi Cheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-05": {
+      "members": [
+        {
+          "name": "Sui Hei Lung",
+          "gender": ""
+        },
+        {
+          "name": "Chong Ho Hsieh",
+          "gender": ""
+        },
+        {
+          "name": "Chun Wong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-07": {
+      "members": [
+        {
+          "name": "Junyao Gao",
+          "gender": ""
+        },
+        {
+          "name": "Tanxiao Li",
+          "gender": ""
+        },
+        {
+          "name": "Yixuan Cai",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-18": {
+      "members": [
+        {
+          "name": "Zheng Lin",
+          "gender": ""
+        },
+        {
+          "name": "Xiang Pang",
+          "gender": ""
+        },
+        {
+          "name": "Zhanrong Liang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-14": {
+      "members": [
+        {
+          "name": "Ka Kit Lui",
+          "gender": ""
+        },
+        {
+          "name": "Yeung Sin Chun",
+          "gender": ""
+        },
+        {
+          "name": "Sin Hang Yeung",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-02": {
+      "members": [
+        {
+          "name": "Quanzhi Kong",
+          "gender": ""
+        },
+        {
+          "name": "Zibo Xu",
+          "gender": ""
+        },
+        {
+          "name": "Leyuan Xi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-02": {
+      "members": [
+        {
+          "name": "Feiyang Wu",
+          "gender": ""
+        },
+        {
+          "name": "Kaibin Lu",
+          "gender": ""
+        },
+        {
+          "name": "Xirui Liu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-15": {
+      "members": [
+        {
+          "name": "Yixiong Gao",
+          "gender": ""
+        },
+        {
+          "name": "Shangkun Zheng",
+          "gender": ""
+        },
+        {
+          "name": "Yachao Yan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-08": {
+      "members": [
+        {
+          "name": "Kefeng You",
+          "gender": ""
+        },
+        {
+          "name": "Yufan Liu",
+          "gender": ""
+        },
+        {
+          "name": "Jie Zhu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-07": {
+      "members": [
+        {
+          "name": "jingshengliu",
+          "gender": ""
+        },
+        {
+          "name": "pengxiao",
+          "gender": ""
+        },
+        {
+          "name": "yaoguan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-14": {
+      "members": [
+        {
+          "name": "Yunxiang Zhao",
+          "gender": ""
+        },
+        {
+          "name": "Zhihui Liu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-14": {
+      "members": [
+        {
+          "name": "Botu Lyu",
+          "gender": ""
+        },
+        {
+          "name": "Zhiyao Yan",
+          "gender": ""
+        },
+        {
+          "name": "Ning Zhou",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-07": {
+      "members": [
+        {
+          "name": "Zonghan Yang",
+          "gender": ""
+        },
+        {
+          "name": "Dong Yang",
+          "gender": ""
+        },
+        {
+          "name": "Cong Ding",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-09": {
+      "members": [
+        {
+          "name": "Ruijie Su",
+          "gender": ""
+        },
+        {
+          "name": "Tian Qiu",
+          "gender": ""
+        },
+        {
+          "name": "Yu Liu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-12": {
+      "members": [
+        {
+          "name": "Qipeng Kuang",
+          "gender": ""
+        },
+        {
+          "name": "Haoming Xian",
+          "gender": ""
+        },
+        {
+          "name": "Hui Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-07": {
+      "members": [
+        {
+          "name": "Hangyu LIANG",
+          "gender": ""
+        },
+        {
+          "name": "Zida CHEN",
+          "gender": ""
+        },
+        {
+          "name": "Haoyang CHEN",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-09": {
+      "members": [
+        {
+          "name": "Zhaoxu Liu",
+          "gender": ""
+        },
+        {
+          "name": "Qinhan Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Jie Luo",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-01": {
+      "members": [
+        {
+          "name": "Keqi Li",
+          "gender": ""
+        },
+        {
+          "name": "Taoyu Zhong",
+          "gender": ""
+        },
+        {
+          "name": "Jiahao Zou",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-12": {
+      "members": [
+        {
+          "name": "Binghan Cheng",
+          "gender": ""
+        },
+        {
+          "name": "Zhiyuan Shen",
+          "gender": ""
+        },
+        {
+          "name": "Tianjun Yuan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-12": {
+      "members": [
+        {
+          "name": "Ruize Sun",
+          "gender": ""
+        },
+        {
+          "name": "Yichen Li",
+          "gender": ""
+        },
+        {
+          "name": "Haotian Xu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-13": {
+      "members": [
+        {
+          "name": "Siu Lok Yin",
+          "gender": ""
+        },
+        {
+          "name": "Kwan Yung Ho",
+          "gender": ""
+        },
+        {
+          "name": "Choy Tsz Chai Berton",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-02": {
+      "members": [
+        {
+          "name": "Bei Liu",
+          "gender": ""
+        },
+        {
+          "name": "Li Xu",
+          "gender": ""
+        },
+        {
+          "name": "Ruiji Chu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-09": {
+      "members": [
+        {
+          "name": "Youwen Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Naihui Jiang",
+          "gender": ""
+        },
+        {
+          "name": "YuJi Bai",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-18": {
+      "members": [
+        {
+          "name": "YUHAO HE",
+          "gender": ""
+        },
+        {
+          "name": "Qiyuan Ren",
+          "gender": ""
+        },
+        {
+          "name": "jianghui yu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-08": {
+      "members": [
+        {
+          "name": "Zenan Kang",
+          "gender": ""
+        },
+        {
+          "name": "Junchen Ge",
+          "gender": ""
+        },
+        {
+          "name": "Zhendong Chen",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-18": {
+      "members": [
+        {
+          "name": "Le Thanh Nguyen Nguyen",
+          "gender": ""
+        },
+        {
+          "name": "Thanapon Maiseaumsook",
+          "gender": ""
+        },
+        {
+          "name": "Yik Fung Cheung",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-04": {
+      "members": [
+        {
+          "name": "Adiyatumur Batjargal",
+          "gender": ""
+        },
+        {
+          "name": "Munkh-Orgil Boldbaatar",
+          "gender": ""
+        },
+        {
+          "name": "Bold-Ochir Munkhbat",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-14": {
+      "members": [
+        {
+          "name": "Junhuan Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Yucheng Zhu",
+          "gender": ""
+        },
+        {
+          "name": "Chang Wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-13": {
+      "members": [
+        {
+          "name": "YongZe Yan",
+          "gender": ""
+        },
+        {
+          "name": "Haoxuan Yuan",
+          "gender": ""
+        },
+        {
+          "name": "Jiaqian Huang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-04": {
+      "members": [
+        {
+          "name": "Mingfei Xia",
+          "gender": ""
+        },
+        {
+          "name": "Mingtian Yang",
+          "gender": ""
+        },
+        {
+          "name": "Haoyuan Wu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-02": {
+      "members": [
+        {
+          "name": "Ming Wang",
+          "gender": ""
+        },
+        {
+          "name": "Liang Dai",
+          "gender": ""
+        },
+        {
+          "name": "Jieyang Lu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-24": {
+      "members": [
+        {
+          "name": "Zhenyu Xu",
+          "gender": ""
+        },
+        {
+          "name": "Yuhan Cao",
+          "gender": ""
+        },
+        {
+          "name": "Pengcheng Wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-16": {
+      "members": [
+        {
+          "name": "Wenkai Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Jingnan Li",
+          "gender": ""
+        },
+        {
+          "name": "Wenlong Xie",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-18": {
+      "members": [
+        {
+          "name": "LiQiang Shang",
+          "gender": ""
+        },
+        {
+          "name": "Bowen Lv",
+          "gender": ""
+        },
+        {
+          "name": "Feifan Yang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-14": {
+      "members": [
+        {
+          "name": "Yiwei Zhao",
+          "gender": ""
+        },
+        {
+          "name": "Yiting Liu",
+          "gender": ""
+        },
+        {
+          "name": "Heng Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-17": {
+      "members": [
+        {
+          "name": "Nuowei Feng",
+          "gender": ""
+        },
+        {
+          "name": "Dingkui Kang",
+          "gender": ""
+        },
+        {
+          "name": "Xinghan Chen",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-13": {
+      "members": [
+        {
+          "name": "Tselmeg Khurelchuluun",
+          "gender": ""
+        },
+        {
+          "name": "Tamir Jamiyangarav",
+          "gender": ""
+        },
+        {
+          "name": "Temuulen Javkhlanbaatar",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-08": {
+      "members": [
+        {
+          "name": "Huanqing Zheng",
+          "gender": ""
+        },
+        {
+          "name": "Yibing Zhao",
+          "gender": ""
+        },
+        {
+          "name": "Xinsen Guo",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-06": {
+      "members": [
+        {
+          "name": "Xinpeng Li",
+          "gender": ""
+        },
+        {
+          "name": "Sheng Zhong",
+          "gender": ""
+        },
+        {
+          "name": "Shenmao Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-03": {
+      "members": [
+        {
+          "name": "Yijie Xue",
+          "gender": ""
+        },
+        {
+          "name": "Yuhang Guo",
+          "gender": ""
+        },
+        {
+          "name": "Yanran Zhang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-11": {
+      "members": [
+        {
+          "name": "Wong Cheuk Kiu",
+          "gender": ""
+        },
+        {
+          "name": "Lung Ping Him",
+          "gender": ""
+        },
+        {
+          "name": "Tan Jian Lang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-18": {
+      "members": [
+        {
+          "name": "Xulei Sun",
+          "gender": ""
+        },
+        {
+          "name": "Yueran Yin",
+          "gender": ""
+        },
+        {
+          "name": "Yujia Zeng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-04": {
+      "members": [
+        {
+          "name": "Qingshan Xu",
+          "gender": ""
+        },
+        {
+          "name": "Xingyao Li",
+          "gender": ""
+        },
+        {
+          "name": "Yubin Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-20": {
+      "members": [
+        {
+          "name": "Qican Liao",
+          "gender": ""
+        },
+        {
+          "name": "Jianyu Chen",
+          "gender": ""
+        },
+        {
+          "name": "Yufeng Zhuang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-30": {
+      "members": [
+        {
+          "name": "Zehan Lin",
+          "gender": ""
+        },
+        {
+          "name": "Kang Chen",
+          "gender": ""
+        },
+        {
+          "name": "Zining Yu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-16": {
+      "members": [
+        {
+          "name": "Chengyu Shi",
+          "gender": ""
+        },
+        {
+          "name": "Weijun Zeng",
+          "gender": ""
+        },
+        {
+          "name": "Junkai Qiu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-04": {
+      "members": [
+        {
+          "name": "Ruijie Yang",
+          "gender": ""
+        },
+        {
+          "name": "Junhui Jiang",
+          "gender": ""
+        },
+        {
+          "name": "Kai Tang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-14": {
+      "members": [
+        {
+          "name": "Jiongjun Liu",
+          "gender": ""
+        },
+        {
+          "name": "Mingcheng He",
+          "gender": ""
+        },
+        {
+          "name": "ZeYang Wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-15": {
+      "members": [
+        {
+          "name": "Hai Huang",
+          "gender": ""
+        },
+        {
+          "name": "Zhilong Lin",
+          "gender": ""
+        },
+        {
+          "name": "Tianshuo Lin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-17": {
+      "members": [
+        {
+          "name": "Xiao Li",
+          "gender": ""
+        },
+        {
+          "name": "Yunzhong Cai",
+          "gender": ""
+        },
+        {
+          "name": "Chengxuan Zou",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-01": {
+      "members": [
+        {
+          "name": "Bohan Yang",
+          "gender": ""
+        },
+        {
+          "name": "Yue Guan",
+          "gender": ""
+        },
+        {
+          "name": "Xiangru Qi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-10": {
+      "members": [
+        {
+          "name": "Yuting Li",
+          "gender": ""
+        },
+        {
+          "name": "Yue Su",
+          "gender": ""
+        },
+        {
+          "name": "Yuanxin Wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-15": {
+      "members": [
+        {
+          "name": "Kelu Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Zhengbo Huang",
+          "gender": ""
+        },
+        {
+          "name": "Jianrong Hai",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-06": {
+      "members": [
+        {
+          "name": "Shaohuai Zheng",
+          "gender": ""
+        },
+        {
+          "name": "Zhichen Yang",
+          "gender": ""
+        },
+        {
+          "name": "Yitao Guo",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-10": {
+      "members": [
+        {
+          "name": "Shengxuan Duan",
+          "gender": ""
+        },
+        {
+          "name": "Li QiYun",
+          "gender": ""
+        },
+        {
+          "name": "JunXian Lan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-29": {
+      "members": [
+        {
+          "name": "Haonan Shi",
+          "gender": ""
+        },
+        {
+          "name": "Weiwen Xie",
+          "gender": ""
+        },
+        {
+          "name": "Lanxuan Wu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-13": {
+      "members": [
+        {
+          "name": "Zihao Zhang",
+          "gender": ""
+        },
+        {
+          "name": "zhang yiwen",
+          "gender": ""
+        },
+        {
+          "name": "Rui Peng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-01": {
+      "members": [
+        {
+          "name": "Kexin Jin",
+          "gender": ""
+        },
+        {
+          "name": "Yue Yin",
+          "gender": ""
+        },
+        {
+          "name": "Fu Zheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-05": {
+      "members": [
+        {
+          "name": "Hao Wang",
+          "gender": ""
+        },
+        {
+          "name": "Yanliang Liu",
+          "gender": ""
+        },
+        {
+          "name": "Yang Gao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-17": {
+      "members": [
+        {
+          "name": "Hans Ericson Yang",
+          "gender": ""
+        },
+        {
+          "name": "Ka Wa WONG",
+          "gender": ""
+        },
+        {
+          "name": "Kui Wang CHOI",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-08": {
+      "members": [
+        {
+          "name": "Gang Chen",
+          "gender": ""
+        },
+        {
+          "name": "Qihang Zhong",
+          "gender": ""
+        },
+        {
+          "name": "Xuanjie Jiang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-21": {
+      "members": [
+        {
+          "name": "Jingwei Lin",
+          "gender": ""
+        },
+        {
+          "name": "Yecheng Xie",
+          "gender": ""
+        },
+        {
+          "name": "Liheng Wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-09": {
+      "members": [
+        {
+          "name": "Jinxiang Huang",
+          "gender": ""
+        },
+        {
+          "name": "SiWei Huang",
+          "gender": ""
+        },
+        {
+          "name": "Hanwen Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-09": {
+      "members": [
+        {
+          "name": "Yechen Yu",
+          "gender": ""
+        },
+        {
+          "name": "Yifeng Li",
+          "gender": ""
+        },
+        {
+          "name": "Chen Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-11": {
+      "members": [
+        {
+          "name": "junchao wang",
+          "gender": ""
+        },
+        {
+          "name": "yang wenhao",
+          "gender": ""
+        },
+        {
+          "name": "Shihai Wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-06": {
+      "members": [
+        {
+          "name": "Ziyi Fu",
+          "gender": ""
+        },
+        {
+          "name": "Xin Yu",
+          "gender": ""
+        },
+        {
+          "name": "Ziting Gan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-13": {
+      "members": [
+        {
+          "name": "Wanli Dong",
+          "gender": ""
+        },
+        {
+          "name": "Hongbo Zhao",
+          "gender": ""
+        },
+        {
+          "name": "Chuanzheng Shi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-11": {
+      "members": [
+        {
+          "name": "Yaokai You",
+          "gender": ""
+        },
+        {
+          "name": "Zhengnan Cai",
+          "gender": ""
+        },
+        {
+          "name": "Xiaopeng Qi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-06": {
+      "members": [
+        {
+          "name": "Yiyun Li",
+          "gender": ""
+        },
+        {
+          "name": "Shuchang Huang",
+          "gender": ""
+        },
+        {
+          "name": "Shengbiao Lu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-16": {
+      "members": [
+        {
+          "name": "XiBei Zou",
+          "gender": ""
+        },
+        {
+          "name": "Yihan Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Zhiqi Xia",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-17": {
+      "members": [
+        {
+          "name": "Zhongyuan Ji",
+          "gender": ""
+        },
+        {
+          "name": "Longting Cheng",
+          "gender": ""
+        },
+        {
+          "name": "Bozhao Feng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-07": {
+      "members": [
+        {
+          "name": "Jiaoyang Mo",
+          "gender": ""
+        },
+        {
+          "name": "Huu Quyen Dang",
+          "gender": ""
+        },
+        {
+          "name": "Xinyan Zhou",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-15": {
+      "members": [
+        {
+          "name": "Jiajun Liang",
+          "gender": ""
+        },
+        {
+          "name": "Xi Yuan",
+          "gender": ""
+        },
+        {
+          "name": "Ziqi Ye",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-28": {
+      "members": [
+        {
+          "name": "Enwei Le",
+          "gender": ""
+        },
+        {
+          "name": "Shixin Ye",
+          "gender": ""
+        },
+        {
+          "name": "Rongxiang Guo",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-15": {
+      "members": [
+        {
+          "name": "Zhanpeng Xu",
+          "gender": ""
+        },
+        {
+          "name": "Huang DaZhi",
+          "gender": ""
+        },
+        {
+          "name": "Jia Yi Chen",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-18": {
+      "members": [
+        {
+          "name": "Ziyang Chen",
+          "gender": ""
+        },
+        {
+          "name": "Qihua He",
+          "gender": ""
+        },
+        {
+          "name": "Jiaxu Chen",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-16": {
+      "members": [
+        {
+          "name": "Hanqi Qiao",
+          "gender": ""
+        },
+        {
+          "name": "Siyuan Li",
+          "gender": ""
+        },
+        {
+          "name": "Bokai Ma",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-06": {
+      "members": [
+        {
+          "name": "Haojie Song",
+          "gender": ""
+        },
+        {
+          "name": "Xiaotao Liu",
+          "gender": ""
+        },
+        {
+          "name": "Junzhe Zhu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-18": {
+      "members": [
+        {
+          "name": "Linhan Zhou",
+          "gender": ""
+        },
+        {
+          "name": "Yuman Zhou",
+          "gender": ""
+        },
+        {
+          "name": "Jinhang Wu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-14": {
+      "members": [
+        {
+          "name": "Haoyu Zhou",
+          "gender": ""
+        },
+        {
+          "name": "Fuzheng Wang",
+          "gender": ""
+        },
+        {
+          "name": "Minghao Zhu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-15": {
+      "members": [
+        {
+          "name": "zexian wang",
+          "gender": ""
+        },
+        {
+          "name": "Sitong Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Kaiwen Yang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-10": {
+      "members": [
+        {
+          "name": "Hongjie Lu",
+          "gender": ""
+        },
+        {
+          "name": "Hetian Chen",
+          "gender": ""
+        },
+        {
+          "name": "Haoyu Cai",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-11": {
+      "members": [
+        {
+          "name": "Yikai Zhao",
+          "gender": ""
+        },
+        {
+          "name": "Yanran Li",
+          "gender": ""
+        },
+        {
+          "name": "Dejun Wan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-03": {
+      "members": [
+        {
+          "name": "Bowen Li",
+          "gender": ""
+        },
+        {
+          "name": "Yunqi Sun",
+          "gender": ""
+        },
+        {
+          "name": "Jianrui Wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-03": {
+      "members": [
+        {
+          "name": "Zhiheng Xiao",
+          "gender": ""
+        },
+        {
+          "name": "Jing Pu",
+          "gender": ""
+        },
+        {
+          "name": "Jiahang Zhu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-14": {
+      "members": [
+        {
+          "name": "GUOQING MO",
+          "gender": ""
+        },
+        {
+          "name": "Guang Yu",
+          "gender": ""
+        },
+        {
+          "name": "Zhenhui Zeng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-08": {
+      "members": [
+        {
+          "name": "Tianqi Duan",
+          "gender": ""
+        },
+        {
+          "name": "Xiao Zhong",
+          "gender": ""
+        },
+        {
+          "name": "Leixin Zeng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-17": {
+      "members": [
+        {
+          "name": "Zhudi Chen",
+          "gender": ""
+        },
+        {
+          "name": "Yingshi Luan",
+          "gender": ""
+        },
+        {
+          "name": "Pincong Zou",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-13": {
+      "members": [
+        {
+          "name": "Siheng Fang",
+          "gender": ""
+        },
+        {
+          "name": "Hongjian Ma",
+          "gender": ""
+        },
+        {
+          "name": "Yi Liu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-15": {
+      "members": [
+        {
+          "name": "Ziyi Wei",
+          "gender": ""
+        },
+        {
+          "name": "YaoBin Yang",
+          "gender": ""
+        },
+        {
+          "name": "Di Yuan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-16": {
+      "members": [
+        {
+          "name": "Hanyou Zheng",
+          "gender": ""
+        },
+        {
+          "name": "Chi Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Jialiang Gu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-06": {
+      "members": [
+        {
+          "name": "Mut Fei Lin",
+          "gender": ""
+        },
+        {
+          "name": "Yuwen Li",
+          "gender": ""
+        },
+        {
+          "name": "Chentong Hu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-07": {
+      "members": [
+        {
+          "name": "Kin Yi Chau",
+          "gender": ""
+        },
+        {
+          "name": "Ho Yik Tsun Bastien",
+          "gender": ""
+        },
+        {
+          "name": "Yanze Yang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-01": {
+      "members": [
+        {
+          "name": "Jianmin Xian",
+          "gender": ""
+        },
+        {
+          "name": "Hao Sun",
+          "gender": ""
+        },
+        {
+          "name": "Cheng Gong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-09": {
+      "members": [
+        {
+          "name": "Jie Liu",
+          "gender": ""
+        },
+        {
+          "name": "Jiaoyuan Liang",
+          "gender": ""
+        },
+        {
+          "name": "Yanjun Liang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-05": {
+      "members": [
+        {
+          "name": "Li Ke",
+          "gender": ""
+        },
+        {
+          "name": "Nianzu Zhou",
+          "gender": ""
+        },
+        {
+          "name": "Xuncong Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-05": {
+      "members": [
+        {
+          "name": "Yunke Lei",
+          "gender": ""
+        },
+        {
+          "name": "Qi Ran",
+          "gender": ""
+        },
+        {
+          "name": "Wenwei Lin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-05": {
+      "members": [
+        {
+          "name": "Ziheng Huang",
+          "gender": ""
+        },
+        {
+          "name": "Yuanbo Xu",
+          "gender": ""
+        },
+        {
+          "name": "Chenxu Wei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-03": {
+      "members": [
+        {
+          "name": "Junhe Ge",
+          "gender": ""
+        },
+        {
+          "name": "Jiashen Wen",
+          "gender": ""
+        },
+        {
+          "name": "Junqi Xiao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-02": {
+      "members": [
+        {
+          "name": "Yikai Wang",
+          "gender": ""
+        },
+        {
+          "name": "Lin Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Zuyu Chen",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-04": {
+      "members": [
+        {
+          "name": "Yaheng Wang",
+          "gender": ""
+        },
+        {
+          "name": "Shuohan Huang",
+          "gender": ""
+        },
+        {
+          "name": "Jiahua He",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-17": {
+      "members": [
+        {
+          "name": "Linyi Dai",
+          "gender": ""
+        },
+        {
+          "name": "Pavel Nikolaitchev",
+          "gender": ""
+        },
+        {
+          "name": "Artemii Mavlitov",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-04": {
+      "members": [
+        {
+          "name": "HANG CHI NG",
+          "gender": ""
+        },
+        {
+          "name": "ZIYAN WANG",
+          "gender": ""
+        },
+        {
+          "name": "POK HONG LAM",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-10": {
+      "members": [
+        {
+          "name": "Siyuan Wei",
+          "gender": ""
+        },
+        {
+          "name": "Zihe Wei",
+          "gender": ""
+        },
+        {
+          "name": "Yeming Qin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-07": {
+      "members": [
+        {
+          "name": "Haodong Cai",
+          "gender": ""
+        },
+        {
+          "name": "Yeqing Peng",
+          "gender": ""
+        },
+        {
+          "name": "Zhenlin Liu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-09": {
+      "members": [
+        {
+          "name": "Mingsen Wan",
+          "gender": ""
+        },
+        {
+          "name": "Tianqi Ran",
+          "gender": ""
+        },
+        {
+          "name": "Yongjie He",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-06": {
+      "members": [
+        {
+          "name": "Zhuo Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Minlu He",
+          "gender": ""
+        },
+        {
+          "name": "Congding Wen",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-03": {
+      "members": [
+        {
+          "name": "Jiachen Zhong",
+          "gender": ""
+        },
+        {
+          "name": "Enji Xiong",
+          "gender": ""
+        },
+        {
+          "name": "Feng Liang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-04": {
+      "members": [
+        {
+          "name": "Qinzheng He",
+          "gender": ""
+        },
+        {
+          "name": "Junyue Chen",
+          "gender": ""
+        },
+        {
+          "name": "Feng Jiang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-13": {
+      "members": [
+        {
+          "name": "Chao Tang",
+          "gender": ""
+        },
+        {
+          "name": "Wangle Guo",
+          "gender": ""
+        },
+        {
+          "name": "Gengqi Yuan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-10": {
+      "members": [
+        {
+          "name": "Houmin Sun",
+          "gender": ""
+        },
+        {
+          "name": "Zi Hu",
+          "gender": ""
+        },
+        {
+          "name": "Feiyang Zhong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-01": {
+      "members": [
+        {
+          "name": "Miao Qin",
+          "gender": ""
+        },
+        {
+          "name": "Biqi Lin",
+          "gender": ""
+        },
+        {
+          "name": "Jiahang Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-13": {
+      "members": [
+        {
+          "name": "Hongyan Feng",
+          "gender": ""
+        },
+        {
+          "name": "Yucheng Jiang",
+          "gender": ""
+        },
+        {
+          "name": "Jimmy Wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-04": {
+      "members": [
+        {
+          "name": "Chao Wang",
+          "gender": ""
+        },
+        {
+          "name": "Jin Chen",
+          "gender": ""
+        },
+        {
+          "name": "Che Liu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-08": {
+      "members": [
+        {
+          "name": "cao qian",
+          "gender": ""
+        },
+        {
+          "name": "Yufan Huang",
+          "gender": ""
+        },
+        {
+          "name": "Hesong Xie",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-03": {
+      "members": [
+        {
+          "name": "Guiquan Qi",
+          "gender": ""
+        },
+        {
+          "name": "Tao Luo",
+          "gender": ""
+        },
+        {
+          "name": "Yue Yin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-08": {
+      "members": [
+        {
+          "name": "Zhu Zhuang",
+          "gender": ""
+        },
+        {
+          "name": "Li Wei",
+          "gender": ""
+        },
+        {
+          "name": "Jiawen Qiu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-14": {
+      "members": [
+        {
+          "name": "Sunghak Heo",
+          "gender": ""
+        },
+        {
+          "name": "Yuqi Wang",
+          "gender": ""
+        },
+        {
+          "name": "Jingbo HUANG",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-10": {
+      "members": [
+        {
+          "name": "NENG CHAN ZOU",
+          "gender": ""
+        },
+        {
+          "name": "Hio To LO",
+          "gender": ""
+        },
+        {
+          "name": "Chi Him Kuan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-26": {
+      "members": [
+        {
+          "name": "Gao Jiawei",
+          "gender": ""
+        },
+        {
+          "name": "Changyu Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Zhangyang Yan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-07": {
+      "members": [
+        {
+          "name": "Xiyan Liao",
+          "gender": ""
+        },
+        {
+          "name": "Fusen Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Xuehong Lu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-12": {
+      "members": [
+        {
+          "name": "MinJun Chen",
+          "gender": ""
+        },
+        {
+          "name": "Zheng Dong",
+          "gender": ""
+        },
+        {
+          "name": "YingKai Liu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-03": {
+      "members": [
+        {
+          "name": "Jianjian Ding",
+          "gender": ""
+        },
+        {
+          "name": "Junrui Chen",
+          "gender": ""
+        },
+        {
+          "name": "Hongsheng Cai",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-12": {
+      "members": [
+        {
+          "name": "Fan Jiang",
+          "gender": ""
+        },
+        {
+          "name": "Chengxi Li",
+          "gender": ""
+        },
+        {
+          "name": "Muyao Tao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-03": {
+      "members": [
+        {
+          "name": "Zhi Hao Chen",
+          "gender": ""
+        },
+        {
+          "name": "Bo Weng",
+          "gender": ""
+        },
+        {
+          "name": "Jun Ming Chen",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-03": {
+      "members": [
+        {
+          "name": "Wenhang Xiao",
+          "gender": ""
+        },
+        {
+          "name": "Zhuangzhuang Li",
+          "gender": ""
+        },
+        {
+          "name": "Xin Xu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-11": {
+      "members": [
+        {
+          "name": "Jiayi Su",
+          "gender": ""
+        },
+        {
+          "name": "Liu Jintao",
+          "gender": ""
+        },
+        {
+          "name": "Zhou Zhang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-02": {
+      "members": [
+        {
+          "name": "Yuhong Li",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Zixuan",
+          "gender": ""
+        },
+        {
+          "name": "Qian Ziheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-16": {
+      "members": [
+        {
+          "name": "Rongchang Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Ye Pu",
+          "gender": ""
+        },
+        {
+          "name": "Yaolin Chang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-05": {
+      "members": [
+        {
+          "name": "Zijie Li",
+          "gender": ""
+        },
+        {
+          "name": "shenzhong yao",
+          "gender": ""
+        },
+        {
+          "name": "Jin dong Xu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-12": {
+      "members": [
+        {
+          "name": "IN IAT LI",
+          "gender": ""
+        },
+        {
+          "name": "JIA HAO LIANG",
+          "gender": ""
+        },
+        {
+          "name": "CHAK SENG TO",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-18": {
+      "members": [
+        {
+          "name": "Fangjia Ji",
+          "gender": ""
+        },
+        {
+          "name": "Yan Tong",
+          "gender": ""
+        },
+        {
+          "name": "Wen Ren",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-05": {
+      "members": [
+        {
+          "name": "Chenhao HONG",
+          "gender": ""
+        },
+        {
+          "name": "Liyou GAO",
+          "gender": ""
+        },
+        {
+          "name": "Fan Wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-15": {
+      "members": [
+        {
+          "name": "Mengyang Lai",
+          "gender": ""
+        },
+        {
+          "name": "Hongyi Ma",
+          "gender": ""
+        },
+        {
+          "name": "Qihao Zhang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-01": {
+      "members": [
+        {
+          "name": "Xinyue Tang",
+          "gender": ""
+        },
+        {
+          "name": "Jiarui Cheng",
+          "gender": ""
+        },
+        {
+          "name": "Haojie Sun",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-06": {
+      "members": [
+        {
+          "name": "Deyu Cai",
+          "gender": ""
+        },
+        {
+          "name": "Fangbo Ni",
+          "gender": ""
+        },
+        {
+          "name": "Luyao Lyu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-11": {
+      "members": [
+        {
+          "name": "Yanjun Shen",
+          "gender": ""
+        },
+        {
+          "name": "Ruixi Sun",
+          "gender": ""
+        },
+        {
+          "name": "Haihan Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-11": {
+      "members": [
+        {
+          "name": "Yue Xi",
+          "gender": ""
+        },
+        {
+          "name": "Miaoyue Gao",
+          "gender": ""
+        },
+        {
+          "name": "Jiajun Mai",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-02": {
+      "members": [
+        {
+          "name": "Liyuan Chen",
+          "gender": ""
+        },
+        {
+          "name": "Miaoyang Chang",
+          "gender": ""
+        },
+        {
+          "name": "Tiangang Zheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-05": {
+      "members": [
+        {
+          "name": "Xintao Wang",
+          "gender": ""
+        },
+        {
+          "name": "YANGSHEN PAN",
+          "gender": ""
+        },
+        {
+          "name": "NGOU HIN CHEANG",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC303-08": {
+      "members": [
+        {
+          "name": "Jingqi Zhao",
+          "gender": ""
+        },
+        {
+          "name": "Zhiwei Cheng",
+          "gender": ""
+        },
+        {
+          "name": "Zihan Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC301-01": {
+      "members": [
+        {
+          "name": "Tailin Song",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-16": {
+      "members": [
+        {
+          "name": "Jiechai Lin",
+          "gender": ""
+        },
+        {
+          "name": "Ziheng Liu",
+          "gender": ""
+        },
+        {
+          "name": "Zihua Mo",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-09": {
+      "members": [
+        {
+          "name": "Qi Luo",
+          "gender": ""
+        },
+        {
+          "name": "Zexin Huang",
+          "gender": ""
+        },
+        {
+          "name": "Yifeng Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD301-10": {
+      "members": [
+        {
+          "name": "Ruolin Zhu",
+          "gender": ""
+        },
+        {
+          "name": "Yuyang Lu",
+          "gender": ""
+        },
+        {
+          "name": "Yang He",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-22": {
+      "members": [
+        {
+          "name": "Tianshen Li",
+          "gender": ""
+        },
+        {
+          "name": "Fengxi Zhou",
+          "gender": ""
+        },
+        {
+          "name": "Suwan Lu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD304-16": {
+      "members": [
+        {
+          "name": "Shuai Hu",
+          "gender": ""
+        },
+        {
+          "name": "Shuo Shi",
+          "gender": ""
+        },
+        {
+          "name": "Zhaowei Wan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC302-23": {
+      "members": [
+        {
+          "name": "jinnuo zhao",
+          "gender": ""
+        },
+        {
+          "name": "ye junxian",
+          "gender": ""
+        },
+        {
+          "name": "huang zhi yuan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-02": {
+      "members": [
+        {
+          "name": "Ao Zheng",
+          "gender": ""
+        },
+        {
+          "name": "Zhangguang Yu",
+          "gender": ""
+        },
+        {
+          "name": "Ziwei Wu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-05": {
+      "members": [
+        {
+          "name": "Dejian Ye",
+          "gender": ""
+        },
+        {
+          "name": "Jianchun Zheng",
+          "gender": ""
+        },
+        {
+          "name": "Nancheng Chen",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-06": {
+      "members": [
+        {
+          "name": "Wuyou Yin",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Xujing",
+          "gender": ""
+        },
+        {
+          "name": "Jiang Meng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-12": {
+      "members": [
+        {
+          "name": "Munkhbagana Munkhtur",
+          "gender": ""
+        },
+        {
+          "name": "Boldbaatar Galsanjamts",
+          "gender": ""
+        },
+        {
+          "name": "Davkharbayar Nemekhbayar",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-09": {
+      "members": [
+        {
+          "name": "Jiajie Jiang",
+          "gender": ""
+        },
+        {
+          "name": "Yi Deng",
+          "gender": ""
+        },
+        {
+          "name": "Xinyu Lei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD303-12": {
+      "members": [
+        {
+          "name": "Hongming Fang",
+          "gender": ""
+        },
+        {
+          "name": "Ma Di",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC304-07": {
+      "members": [
+        {
+          "name": "Lin ZiHang",
+          "gender": ""
+        },
+        {
+          "name": "Zhou Yujie",
+          "gender": ""
+        },
+        {
+          "name": "Fu Hao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "BC305-17": {
+      "members": [
+        {
+          "name": "Yang Kada",
+          "gender": ""
+        },
+        {
+          "name": "Chen Junxi",
+          "gender": ""
+        },
+        {
+          "name": "Wang Jing",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-17": {
+      "members": [
+        {
+          "name": "Yujie Luo",
+          "gender": ""
+        },
+        {
+          "name": "Boyu Lu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "CD302-11": {
+      "members": [
+        {
+          "name": "Mingxu Zhu",
+          "gender": ""
+        },
+        {
+          "name": "Muhan Hao",
+          "gender": ""
+        },
+        {
+          "name": "Fangyuan Jian",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    }
+  }
+}

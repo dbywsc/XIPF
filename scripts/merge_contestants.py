@@ -2,7 +2,7 @@
 
 Run after `build.py`. Reads contestant_merges.json and merges the
 specified contestants in dist/, updating contestant JSONs, contest
-references, and summary.json.
+references, and the split summary files (contestants.json, search_index.json).
 
 Usage:
     python3 scripts/merge_contestants.py
@@ -63,7 +63,8 @@ def merge():
         data = load(fp)
         lookup[(data["name"], data["organization"])] = (data["id"], fp)
 
-    summary = load(DIST_DIR / "summary.json")
+    contestants = load(DIST_DIR / "contestants.json")
+    search_index = load(DIST_DIR / "search_index.json")
 
     merged_count = 0
     source_ids_to_remove: set[str] = set()
@@ -134,30 +135,31 @@ def merge():
         if s_path.exists():
             s_path.unlink()
 
-    # Update summary
+    # Update contestants summary
     current_ids = {load(fp)["id"] for fp in contestants_dir.glob("*.json")}
-    summary["contestants"] = [
-        c for c in summary["contestants"] if c["id"] in current_ids
+    contestants = [
+        c for c in contestants if c["id"] in current_ids
     ]
 
     # Update record counts and medals for merged targets
-    for c in summary["contestants"]:
+    for c in contestants:
         if c["id"] in id_remap.values():
-            cf = contestants_dir / f"{c['id']}.json"
-            if cf.exists():
-                data = load(cf)
+            cf_flag = contestants_dir / f"{c['id']}.json"
+            if cf_flag.exists():
+                data = load(cf_flag)
                 c["record_count"] = len(data["records"])
                 c["medals"] = data["medal_summary"]
                 c["org"] = data["organization"]
                 c["org_id"] = data.get("org_id", "")
 
     # Rebuild search index
-    summary["search_index"] = [
+    search_index = [
         {"name": c["name"], "type": "contestant", "id": c["id"]}
-        for c in summary["contestants"]
-    ] + [e for e in summary["search_index"] if e["type"] != "contestant"]
+        for c in contestants
+    ] + [e for e in search_index if e["type"] != "contestant"]
 
-    save(DIST_DIR / "summary.json", summary)
+    save(DIST_DIR / "contestants.json", contestants)
+    save(DIST_DIR / "search_index.json", search_index)
 
     print(f"\nMerge done: {merged_count} contestant(s) merged, "
           f"{len(source_ids_to_remove)} file(s) removed.")

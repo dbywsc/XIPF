@@ -1,5 +1,6 @@
 import { createApp } from 'vue'
 import { createRouter, createWebHashHistory } from 'vue-router'
+import 'katex/dist/katex.min.css'
 import App from './App.vue'
 
 import Home from './pages/Home.vue'
@@ -11,6 +12,7 @@ import Contest from './pages/Contest.vue'
 import Contests from './pages/Contests.vue'
 
 import Import from './pages/Import.vue'
+import Rules from './pages/Rules.vue'
 
 const routes = [
   { path: '/', component: Home },
@@ -21,6 +23,7 @@ const routes = [
   { path: '/contest/:id', component: Contest },
   { path: '/contests', component: Contests },
   { path: '/import', component: Import },
+  { path: '/rules', component: Rules },
 ]
 
 const router = createRouter({

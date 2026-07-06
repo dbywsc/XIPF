@@ -1,0 +1,3201 @@
+{
+  "teams": {
+    "电子科技大学_UESTC_Life_and_Lemons": {
+      "members": [
+        {
+          "name": "wang yetao",
+          "gender": ""
+        },
+        {
+          "name": "Lin Weibo",
+          "gender": ""
+        },
+        {
+          "name": "He Zhu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "清华大学_Daddy": {
+      "members": [
+        {
+          "name": "Zhang Hengjie",
+          "gender": ""
+        },
+        {
+          "name": "Ren Zhizhou",
+          "gender": ""
+        },
+        {
+          "name": "Wang Jianhao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "清华大学_Boy Next Door": {
+      "members": [
+        {
+          "name": "Zou Xiaoyao",
+          "gender": ""
+        },
+        {
+          "name": "Dong Kefan",
+          "gender": ""
+        },
+        {
+          "name": "Ren Hanlin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "上海交通大学_Gungnir": {
+      "members": [
+        {
+          "name": "jin zhihan",
+          "gender": ""
+        },
+        {
+          "name": "Zhou Zihan",
+          "gender": ""
+        },
+        {
+          "name": "Xu Zhenjia",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江大学_Siunaus": {
+      "members": [
+        {
+          "name": "Zhao Yueqi",
+          "gender": ""
+        },
+        {
+          "name": "Wang Xiajun",
+          "gender": ""
+        },
+        {
+          "name": "Jin Mengge",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "清华大学_Philosophyz": {
+      "members": [
+        {
+          "name": "Yang Yibin",
+          "gender": ""
+        },
+        {
+          "name": "Xu Hanxiang",
+          "gender": ""
+        },
+        {
+          "name": "Wang Yifan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "福州大学________": {
+      "members": [
+        {
+          "name": "Zou Peng",
+          "gender": ""
+        },
+        {
+          "name": "XIAODONG GUO",
+          "gender": ""
+        },
+        {
+          "name": "yifan Zhuo",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中山大学_SYSU_AsHighAsHonor": {
+      "members": [
+        {
+          "name": "wu tongwen",
+          "gender": ""
+        },
+        {
+          "name": "Sixiang Yang",
+          "gender": ""
+        },
+        {
+          "name": "liu minghang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "杭州电子科技大学_HDU-SupportOrNot": {
+      "members": [
+        {
+          "name": "NAN Lihao",
+          "gender": ""
+        },
+        {
+          "name": "Chen Peng",
+          "gender": ""
+        },
+        {
+          "name": "CHEN Songyang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江大学_TaZoF": {
+      "members": [
+        {
+          "name": "Weng Caizhi",
+          "gender": ""
+        },
+        {
+          "name": "Zhou Jiayu",
+          "gender": ""
+        },
+        {
+          "name": "FAN HaoZheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "广东工业大学_Travel_Poorly": {
+      "members": [
+        {
+          "name": "Lin Xuanzhu",
+          "gender": ""
+        },
+        {
+          "name": "Tang Mingkai",
+          "gender": ""
+        },
+        {
+          "name": "Yang Fuqiang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江师范大学_NoPenalty": {
+      "members": [
+        {
+          "name": "Lu Jinmin",
+          "gender": ""
+        },
+        {
+          "name": "Ye Yifan",
+          "gender": ""
+        },
+        {
+          "name": "Zhuang Jiaqi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "香港中文大学_ACellent": {
+      "members": [
+        {
+          "name": "POON Lik Hang",
+          "gender": ""
+        },
+        {
+          "name": "Yik Wai Pan",
+          "gender": ""
+        },
+        {
+          "name": "Ho Ngan Hang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京市第八十中学_shenmegui": {
+      "members": [],
+      "organization_override": null
+    },
+    "浙江大学城市学院_Tempest": {
+      "members": [
+        {
+          "name": "Yang Jiacheng",
+          "gender": ""
+        },
+        {
+          "name": "Yan Jiangzhe",
+          "gender": ""
+        },
+        {
+          "name": "Zhao Yan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "复旦大学_Animism": {
+      "members": [
+        {
+          "name": "Luo Qiyao",
+          "gender": ""
+        },
+        {
+          "name": "Wang Peng",
+          "gender": ""
+        },
+        {
+          "name": "Guo Yu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京大学_WanTong Beauty": {
+      "members": [],
+      "organization_override": null
+    },
+    "山东师范大学_WAHAHAHA": {
+      "members": [
+        {
+          "name": "Wu Junyan",
+          "gender": ""
+        },
+        {
+          "name": "Fan Zhenhua",
+          "gender": ""
+        },
+        {
+          "name": "Song Xinjie",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中山大学_SYSU_NoProblemToPass": {
+      "members": [
+        {
+          "name": "li yang",
+          "gender": ""
+        },
+        {
+          "name": "yan zixi",
+          "gender": ""
+        },
+        {
+          "name": "Wang Tianyu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "大连理工大学_Poruna Cabeza": {
+      "members": [
+        {
+          "name": "Huang Yufan",
+          "gender": ""
+        },
+        {
+          "name": "jin hangyu",
+          "gender": ""
+        },
+        {
+          "name": "Zhang shoukui",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京邮电大学_BUPT_KAOLENGMIAN": {
+      "members": [
+        {
+          "name": "Li Shihao",
+          "gender": ""
+        },
+        {
+          "name": "Liu yitian",
+          "gender": ""
+        },
+        {
+          "name": "Liu Yudong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "杭州电子科技大学_HDU-Gatling": {
+      "members": [
+        {
+          "name": "ZHU Jiahao",
+          "gender": ""
+        },
+        {
+          "name": "GAO Hanlin",
+          "gender": ""
+        },
+        {
+          "name": "JIANG Zite",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨工业大学_HIT_accepted with a smile": {
+      "members": [
+        {
+          "name": "Ma Tingting",
+          "gender": ""
+        },
+        {
+          "name": "Chen Haifeng",
+          "gender": ""
+        },
+        {
+          "name": "yao shun",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华东师范大学_Hard-working programmers": {
+      "members": [
+        {
+          "name": "Xie Tao",
+          "gender": ""
+        },
+        {
+          "name": "Huang Chengyang",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Yuge",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中山大学_SYSU_HereWeStand": {
+      "members": [
+        {
+          "name": "Li Bangning",
+          "gender": ""
+        },
+        {
+          "name": "Liu Minghao",
+          "gender": ""
+        },
+        {
+          "name": "Gao Xin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北师范大学_Matrix": {
+      "members": [
+        {
+          "name": "Xiao Yao",
+          "gender": ""
+        },
+        {
+          "name": "Lai Qidong",
+          "gender": ""
+        },
+        {
+          "name": "Lu Zhongyi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨工业大学_HIT_Artist": {
+      "members": [
+        {
+          "name": "Pu Yi",
+          "gender": ""
+        },
+        {
+          "name": "Peng Zehao",
+          "gender": ""
+        },
+        {
+          "name": "Qu Ziqi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京大学_Kana LiSA": {
+      "members": [
+        {
+          "name": "Meng Lingzhe",
+          "gender": ""
+        },
+        {
+          "name": "Sun Yuxin",
+          "gender": ""
+        },
+        {
+          "name": "Cai Peicheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江大学_rkmxtxwd": {
+      "members": [
+        {
+          "name": "Wang Yucheng",
+          "gender": ""
+        },
+        {
+          "name": "Cai Jianan",
+          "gender": ""
+        },
+        {
+          "name": "Hua Yiwei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西安电子科技大学_EXCITING": {
+      "members": [
+        {
+          "name": "Honghao Wang",
+          "gender": ""
+        },
+        {
+          "name": "Li Benzheng",
+          "gender": ""
+        },
+        {
+          "name": "Liu Wei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京邮电大学_BUPT_Gregtech": {
+      "members": [
+        {
+          "name": "Zhang KaiChen",
+          "gender": ""
+        },
+        {
+          "name": "Dong Ran",
+          "gender": ""
+        },
+        {
+          "name": "Pan HeXiang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "武汉大学_Preludes": {
+      "members": [
+        {
+          "name": "Wang Ruida",
+          "gender": ""
+        },
+        {
+          "name": "Wu Shenghui",
+          "gender": ""
+        },
+        {
+          "name": "Liu Aohan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "复旦大学_OathKeeper": {
+      "members": [
+        {
+          "name": "Tao Ye",
+          "gender": ""
+        },
+        {
+          "name": "Qize Jiang",
+          "gender": ""
+        },
+        {
+          "name": "Zhou Fengzhe",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京航空航天大学_deticxe": {
+      "members": [
+        {
+          "name": "Yang Zichen",
+          "gender": ""
+        },
+        {
+          "name": "Feng Weitao",
+          "gender": ""
+        },
+        {
+          "name": "He Yue",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京邮电大学_BUPT_Thanatos": {
+      "members": [
+        {
+          "name": "Wu Yifei",
+          "gender": ""
+        },
+        {
+          "name": "Cui Yiding",
+          "gender": ""
+        },
+        {
+          "name": "Liu Wei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华中师范大学_ExcuseMe": {
+      "members": [
+        {
+          "name": "Chen Wenjia",
+          "gender": ""
+        },
+        {
+          "name": "zhang ziqi",
+          "gender": ""
+        },
+        {
+          "name": "Wei ZiQing",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西北工业大学_Magic Travel": {
+      "members": [
+        {
+          "name": "Zhang Lin",
+          "gender": ""
+        },
+        {
+          "name": "Dong Jiachen",
+          "gender": ""
+        },
+        {
+          "name": "Wang Zihao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "重庆大学_Fans of TaoSama": {
+      "members": [
+        {
+          "name": "wang chenchen",
+          "gender": ""
+        },
+        {
+          "name": "Guo Ziyao",
+          "gender": ""
+        },
+        {
+          "name": "liang xianfeng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南开大学_Paean": {
+      "members": [
+        {
+          "name": "Wu Zhuanhao",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Junzhao",
+          "gender": ""
+        },
+        {
+          "name": "gong shu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "苏州大学_Long Leg Long": {
+      "members": [
+        {
+          "name": "Bai Yan",
+          "gender": ""
+        },
+        {
+          "name": "Zhu Yongnan",
+          "gender": ""
+        },
+        {
+          "name": "Tang Jianheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "杭州电子科技大学_HDU-Balala": {
+      "members": [
+        {
+          "name": "yu yang",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Mingsheng",
+          "gender": ""
+        },
+        {
+          "name": "Liu Zhian",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国地质大学（北京）_listen WAs": {
+      "members": [
+        {
+          "name": "Zhining Zhu",
+          "gender": ""
+        },
+        {
+          "name": "Jiacheng Zhao",
+          "gender": ""
+        },
+        {
+          "name": "Zou Zhuojun",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国科学技术大学_Yuan Lei": {
+      "members": [
+        {
+          "name": "Zhao Hongzhu",
+          "gender": ""
+        },
+        {
+          "name": "You Lingjing",
+          "gender": ""
+        },
+        {
+          "name": "Yang Junhan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江工业大学_LCM": {
+      "members": [
+        {
+          "name": "chen xinxin",
+          "gender": ""
+        },
+        {
+          "name": "Ma Anqi",
+          "gender": ""
+        },
+        {
+          "name": "Lintong Li",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京师范大学_Everest": {
+      "members": [
+        {
+          "name": "He Zexue",
+          "gender": ""
+        },
+        {
+          "name": "Li Zhechen",
+          "gender": ""
+        },
+        {
+          "name": "Bu Fan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "福州大学_NewDrivers": {
+      "members": [
+        {
+          "name": "jinxin Hong",
+          "gender": ""
+        },
+        {
+          "name": "Jinwang Xu",
+          "gender": ""
+        },
+        {
+          "name": "Haohui Zheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国科学院大学_Threw You Rem": {
+      "members": [
+        {
+          "name": "Wang Zhenzhen",
+          "gender": ""
+        },
+        {
+          "name": "Ju Fusong",
+          "gender": ""
+        },
+        {
+          "name": "Gao Ang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北大学_AcFun": {
+      "members": [
+        {
+          "name": "Cen Rong",
+          "gender": ""
+        },
+        {
+          "name": "Qu Sichang",
+          "gender": ""
+        },
+        {
+          "name": "Xu Wangzihao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国科学技术大学_Our Dad": {
+      "members": [
+        {
+          "name": "lin yao",
+          "gender": ""
+        },
+        {
+          "name": "ding li",
+          "gender": ""
+        },
+        {
+          "name": "Li Dinglong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "蒙古科技大学_cornerStone": {
+      "members": [
+        {
+          "name": "Tegshbaikh BIlguun",
+          "gender": ""
+        },
+        {
+          "name": "Ganzorig Chinbat",
+          "gender": ""
+        },
+        {
+          "name": "Gantulga Enkh-Amar",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国人民大学_Kingbase_Breakthrough": {
+      "members": [
+        {
+          "name": "Liang Junkai",
+          "gender": ""
+        },
+        {
+          "name": "wang fei",
+          "gender": ""
+        },
+        {
+          "name": "Zhao Yuanpei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京航空航天大学_ACMakeMeHappier": {
+      "members": [
+        {
+          "name": "Huang HongMing",
+          "gender": ""
+        },
+        {
+          "name": "Lin Ziyi",
+          "gender": ""
+        },
+        {
+          "name": "Li Bo",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京理工大学_NoWaDays": {
+      "members": [
+        {
+          "name": "Dai Xingjian",
+          "gender": ""
+        },
+        {
+          "name": "Sun Weixiang",
+          "gender": ""
+        },
+        {
+          "name": "Hui Le",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国人民大学_Kingbase_Yorozuya": {
+      "members": [
+        {
+          "name": "Feng Jiahui",
+          "gender": ""
+        },
+        {
+          "name": "Piao Chengzhi",
+          "gender": ""
+        },
+        {
+          "name": "Yang Yang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "吉林大学_Harmonia": {
+      "members": [
+        {
+          "name": "Zhou Zhi",
+          "gender": ""
+        },
+        {
+          "name": "Hong Qijun",
+          "gender": ""
+        },
+        {
+          "name": "Li Kangning",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湖南大学_TEMP_ID": {
+      "members": [
+        {
+          "name": "kun yan",
+          "gender": ""
+        },
+        {
+          "name": "Anqi Chen",
+          "gender": ""
+        },
+        {
+          "name": "Guohao Zhou",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华南农业大学_SCAU_Need_One_More": {
+      "members": [
+        {
+          "name": "Zhou Weining",
+          "gender": ""
+        },
+        {
+          "name": "Tan Zhikang",
+          "gender": ""
+        },
+        {
+          "name": "wu yiwei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京科技大学_time zero": {
+      "members": [
+        {
+          "name": "Liu ZhengYu",
+          "gender": ""
+        },
+        {
+          "name": "Li Hongyang",
+          "gender": ""
+        },
+        {
+          "name": "Xu Jingwei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华南理工大学_AC all the way": {
+      "members": [
+        {
+          "name": "Xia Lianghao",
+          "gender": ""
+        },
+        {
+          "name": "Zeng Shiyuan",
+          "gender": ""
+        },
+        {
+          "name": "Xu Hongjie",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "成都信息工程大学_Game b4 Marrying": {
+      "members": [
+        {
+          "name": "weicheng zeng",
+          "gender": ""
+        },
+        {
+          "name": "Xiaoling Zhou",
+          "gender": ""
+        },
+        {
+          "name": "Ronghao Du",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "上海交通大学_Metis": {
+      "members": [
+        {
+          "name": "Long Sishan",
+          "gender": ""
+        },
+        {
+          "name": "Cai Jingyi",
+          "gender": ""
+        },
+        {
+          "name": "Xie Yutong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京理工大学_STYX HELIX": {
+      "members": [
+        {
+          "name": "DaYou Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Liu Xiao",
+          "gender": ""
+        },
+        {
+          "name": "Xuancheng huang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "武汉科技大学_cheerkrystal": {
+      "members": [
+        {
+          "name": "Xu Songjia",
+          "gender": ""
+        },
+        {
+          "name": "Lv Qiwen",
+          "gender": ""
+        },
+        {
+          "name": "Lv Qian",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华中科技大学_hust_waslayer": {
+      "members": [
+        {
+          "name": "Ning Ding",
+          "gender": ""
+        },
+        {
+          "name": "Yuyang Din",
+          "gender": ""
+        },
+        {
+          "name": "Sun Zhenyu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "深圳大学_SZU_MiaoPass": {
+      "members": [
+        {
+          "name": "Liu Guojie",
+          "gender": ""
+        },
+        {
+          "name": "Fu Yifei",
+          "gender": ""
+        },
+        {
+          "name": "Huang Zhiwei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江理工大学_We love dove": {
+      "members": [
+        {
+          "name": "li linjie",
+          "gender": ""
+        },
+        {
+          "name": "Ye Zhaodan",
+          "gender": ""
+        },
+        {
+          "name": "Zimin Chen",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "合肥工业大学_cukiller": {
+      "members": [
+        {
+          "name": "zhong changyuan",
+          "gender": ""
+        },
+        {
+          "name": "Cao Yi",
+          "gender": ""
+        },
+        {
+          "name": "xiang jikai",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京理工大学_AI": {
+      "members": [
+        {
+          "name": "Wu Lidan",
+          "gender": ""
+        },
+        {
+          "name": "Tian Xin",
+          "gender": ""
+        },
+        {
+          "name": "Ren Shaolin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长沙理工大学_Otaku ha Kimoi": {
+      "members": [
+        {
+          "name": "Shang YiLong",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Hao",
+          "gender": ""
+        },
+        {
+          "name": "Zhou zhequan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京理工大学_Crows": {
+      "members": [
+        {
+          "name": "yikang luo",
+          "gender": ""
+        },
+        {
+          "name": "Huang Shaoqin",
+          "gender": ""
+        },
+        {
+          "name": "Wu Enze",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西安交通大学_make a small news": {
+      "members": [
+        {
+          "name": "Zhang Zijie",
+          "gender": ""
+        },
+        {
+          "name": "Haisong Liu",
+          "gender": ""
+        },
+        {
+          "name": "Dong Yuxin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华南理工大学_WeAreATeam": {
+      "members": [
+        {
+          "name": "Xie Weikun",
+          "gender": ""
+        },
+        {
+          "name": "Fu Shaopeng",
+          "gender": ""
+        },
+        {
+          "name": "Ma Kaihao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南阳理工学院_palindrome": {
+      "members": [
+        {
+          "name": "Xunjia Zhao",
+          "gender": ""
+        },
+        {
+          "name": "kai gu",
+          "gender": ""
+        },
+        {
+          "name": "Jinxin Huang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江师范大学_FaceWhite": {
+      "members": [
+        {
+          "name": "zheng shu",
+          "gender": ""
+        },
+        {
+          "name": "lin naijie",
+          "gender": ""
+        },
+        {
+          "name": "Dong Yi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "山东大学（威海）_NextStation": {
+      "members": [
+        {
+          "name": "Xue Lantian",
+          "gender": ""
+        },
+        {
+          "name": "Min Yuecong",
+          "gender": ""
+        },
+        {
+          "name": "Qi miao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "上海大学_Atmosphere": {
+      "members": [
+        {
+          "name": "Lai Zenan",
+          "gender": ""
+        },
+        {
+          "name": "Liu yucheng",
+          "gender": ""
+        },
+        {
+          "name": "Xu Jilan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江师范大学_Thanks": {
+      "members": [
+        {
+          "name": "shen qi",
+          "gender": ""
+        },
+        {
+          "name": "zekai Ye",
+          "gender": ""
+        },
+        {
+          "name": "Chen zuxin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "厦门大学_XMU_Beijing2016": {
+      "members": [
+        {
+          "name": "Wu Shengsen",
+          "gender": ""
+        },
+        {
+          "name": "Deng ShiYan",
+          "gender": ""
+        },
+        {
+          "name": "Chen Yihong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "天津大学_TJU_master_driver": {
+      "members": [
+        {
+          "name": "Tian Yuan",
+          "gender": ""
+        },
+        {
+          "name": "Sun Yingzhou",
+          "gender": ""
+        },
+        {
+          "name": "Jia Tianhao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "河南理工大学_StarFarming": {
+      "members": [
+        {
+          "name": "Yonglei Zhang",
+          "gender": ""
+        },
+        {
+          "name": "tian Ouyang",
+          "gender": ""
+        },
+        {
+          "name": "Yinggang Wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长安大学_Wrong Answer on Test 4": {
+      "members": [
+        {
+          "name": "Wu Tingwei",
+          "gender": ""
+        },
+        {
+          "name": "Jiang Jiayu",
+          "gender": ""
+        },
+        {
+          "name": "Yu Guanyi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江理工大学_new bee": {
+      "members": [
+        {
+          "name": "Yan Dali",
+          "gender": ""
+        },
+        {
+          "name": "zheng yu",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Ziyang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "电子科技大学_UESTC_Void": {
+      "members": [
+        {
+          "name": "Chen Feitong",
+          "gender": ""
+        },
+        {
+          "name": "Wang Dongkai",
+          "gender": ""
+        },
+        {
+          "name": "zhong wang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京航空航天大学_骑士": {
+      "members": [
+        {
+          "name": "fei zichu",
+          "gender": ""
+        },
+        {
+          "name": "Jingsheng Gao",
+          "gender": ""
+        },
+        {
+          "name": "Chen Zehan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北农业大学_The philosophy teacher": {
+      "members": [
+        {
+          "name": "Jiang Jin",
+          "gender": ""
+        },
+        {
+          "name": "Zheng Xin",
+          "gender": ""
+        },
+        {
+          "name": "Yuan Mengyang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华南农业大学_SCAU_AKautomatons": {
+      "members": [
+        {
+          "name": "he zhenhao",
+          "gender": ""
+        },
+        {
+          "name": "Zheng Jianjia",
+          "gender": ""
+        },
+        {
+          "name": "Deng Jinxi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江财经大学_I am angry_zufe": {
+      "members": [
+        {
+          "name": "chixiang liu",
+          "gender": ""
+        },
+        {
+          "name": "Shi Haihong",
+          "gender": ""
+        },
+        {
+          "name": "Xiang RunYe",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京大学_Anonymous": {
+      "members": [],
+      "organization_override": null
+    },
+    "南京邮电大学_Goforworld": {
+      "members": [
+        {
+          "name": "Zou Zixin",
+          "gender": ""
+        },
+        {
+          "name": "huang chengbo",
+          "gender": ""
+        },
+        {
+          "name": "Chen Zhiyuan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "Unknown_unknown-team-90": {
+      "members": [
+        {
+          "name": "Wang Zhimin",
+          "gender": ""
+        },
+        {
+          "name": "Chai Tianrui",
+          "gender": ""
+        },
+        {
+          "name": "Fang Dengfei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江工业大学_miao~pa~si~pa~si": {
+      "members": [
+        {
+          "name": "Miao Xinming",
+          "gender": ""
+        },
+        {
+          "name": "Liu Yuyun",
+          "gender": ""
+        },
+        {
+          "name": "huang kun",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湖南工业大学_until the end": {
+      "members": [
+        {
+          "name": "Liu huan",
+          "gender": ""
+        },
+        {
+          "name": "cai jinhao",
+          "gender": ""
+        },
+        {
+          "name": "Yuting Gao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东华大学_Scarlet Witch": {
+      "members": [
+        {
+          "name": "Wang Cong",
+          "gender": ""
+        },
+        {
+          "name": "Zhao Wanting",
+          "gender": ""
+        },
+        {
+          "name": "Zhu Yuanyang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国地质大学（北京）_Old captains in bay of Bengal": {
+      "members": [
+        {
+          "name": "Wang Dequan",
+          "gender": ""
+        },
+        {
+          "name": "Qu Wentian",
+          "gender": ""
+        },
+        {
+          "name": "Du Kanghui",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "蒙古国立大学_SEAS": {
+      "members": [
+        {
+          "name": "Gombojav Bat-Orshih",
+          "gender": ""
+        },
+        {
+          "name": "Batsaikhan Javkhlan",
+          "gender": ""
+        },
+        {
+          "name": "Boldbaatar Tamir",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湖南科技大学_Hnust_LCS": {
+      "members": [
+        {
+          "name": "Wang Zhijie",
+          "gender": ""
+        },
+        {
+          "name": "Wang Chun",
+          "gender": ""
+        },
+        {
+          "name": "Yuan Quan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华南理工大学_Eason": {
+      "members": [
+        {
+          "name": "Chen Xingyi",
+          "gender": ""
+        },
+        {
+          "name": "Shunhong Hu",
+          "gender": ""
+        },
+        {
+          "name": "Chen Chen",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北大学_TheHardWayToGoal": {
+      "members": [
+        {
+          "name": "Tang Rongshan",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Heshuang",
+          "gender": ""
+        },
+        {
+          "name": "Liu Xiaochen",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国传媒大学_Jingle": {
+      "members": [
+        {
+          "name": "Chen XinYuan",
+          "gender": ""
+        },
+        {
+          "name": "Sun Chonghui",
+          "gender": ""
+        },
+        {
+          "name": "Wang Xuezhu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "青岛大学_I_Good_Vegetable_A": {
+      "members": [
+        {
+          "name": "Liu Yongkang",
+          "gender": ""
+        },
+        {
+          "name": "Lv Chufan",
+          "gender": ""
+        },
+        {
+          "name": "Li Haiqian",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "四川大学_Prajna": {
+      "members": [
+        {
+          "name": "Peng Chen",
+          "gender": ""
+        },
+        {
+          "name": "Li Yiyuan",
+          "gender": ""
+        },
+        {
+          "name": "Shuai Yang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京交通大学_Zero": {
+      "members": [
+        {
+          "name": "Wang Zhibo",
+          "gender": ""
+        },
+        {
+          "name": "ZHANG Yanxiao",
+          "gender": ""
+        },
+        {
+          "name": "GAO Hongjie",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北林业大学_leifeng": {
+      "members": [
+        {
+          "name": "Zhang Mengzhi",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Chao",
+          "gender": ""
+        },
+        {
+          "name": "Shen TianRui",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "广州大学_one key ak": {
+      "members": [
+        {
+          "name": "Du Hangken",
+          "gender": ""
+        },
+        {
+          "name": "Wu WeiQiang",
+          "gender": ""
+        },
+        {
+          "name": "Gao Xiaosi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "解放军信息工程大学_Three faces of mengbi": {
+      "members": [
+        {
+          "name": "wang kaihua",
+          "gender": ""
+        },
+        {
+          "name": "chen shi",
+          "gender": ""
+        },
+        {
+          "name": "zeng cheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "电子科技大学_UESTC_Codehero": {
+      "members": [
+        {
+          "name": "Wang Yuren",
+          "gender": ""
+        },
+        {
+          "name": "Li Zhengyu",
+          "gender": ""
+        },
+        {
+          "name": "YiDe XIN",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "成都东软学院_NSU1": {
+      "members": [
+        {
+          "name": "jiang yilong",
+          "gender": ""
+        },
+        {
+          "name": "Li Pengfei",
+          "gender": ""
+        },
+        {
+          "name": "Gu SiXue",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "吉林大学_Apocalypse": {
+      "members": [
+        {
+          "name": "Liu Xinzhu",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Min",
+          "gender": ""
+        },
+        {
+          "name": "Dai Danqing",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京化工大学_Fujiwara Takumi de su ga": {
+      "members": [
+        {
+          "name": "Yan Nan",
+          "gender": ""
+        },
+        {
+          "name": "Li Yichao",
+          "gender": ""
+        },
+        {
+          "name": "Guo yiting",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华东理工大学_dreamcoder": {
+      "members": [
+        {
+          "name": "Zeng Jianjun",
+          "gender": ""
+        },
+        {
+          "name": "Jin Peng",
+          "gender": ""
+        },
+        {
+          "name": "Lin Yikan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南华大学_LittleStudents@USC": {
+      "members": [
+        {
+          "name": "zhang chen",
+          "gender": ""
+        },
+        {
+          "name": "zhou zhou",
+          "gender": ""
+        },
+        {
+          "name": "Liang Zheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京航空航天大学_sto orz": {
+      "members": [
+        {
+          "name": "Xie Yaoyao",
+          "gender": ""
+        },
+        {
+          "name": "Zhu Jin",
+          "gender": ""
+        },
+        {
+          "name": "Li Hebeizi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北师范大学_WSW": {
+      "members": [
+        {
+          "name": "Yu Kun",
+          "gender": ""
+        },
+        {
+          "name": "Wang Xueying",
+          "gender": ""
+        },
+        {
+          "name": "Lin Yuqin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湘潭大学_so much fire": {
+      "members": [
+        {
+          "name": "Wu Tongqing",
+          "gender": ""
+        },
+        {
+          "name": "Yu Jiaxin",
+          "gender": ""
+        },
+        {
+          "name": "Xiang Wei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "杭州电子科技大学信息工程学院_wobuhuipin": {
+      "members": [
+        {
+          "name": "wang yufeng",
+          "gender": ""
+        },
+        {
+          "name": "Zhou Chenhao",
+          "gender": ""
+        },
+        {
+          "name": "ruan linfeng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "河海大学_No Response": {
+      "members": [
+        {
+          "name": "zhang chao",
+          "gender": ""
+        },
+        {
+          "name": "Luo Rongzhen",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Qingheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "福建工程学院_cornetto": {
+      "members": [],
+      "organization_override": null
+    },
+    "郑州轻工业学院_趁机低头": {
+      "members": [
+        {
+          "name": "shi junyao",
+          "gender": ""
+        },
+        {
+          "name": "Zhao Wencan",
+          "gender": ""
+        },
+        {
+          "name": "Dai Meiliang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "香港大学_HKU_ST": {
+      "members": [
+        {
+          "name": "Lyu Fengdeng",
+          "gender": ""
+        },
+        {
+          "name": "Huang Qingwei",
+          "gender": ""
+        },
+        {
+          "name": "Kong Angus",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "黑龙江大学_Together": {
+      "members": [
+        {
+          "name": "wei zhang",
+          "gender": ""
+        },
+        {
+          "name": "Zheng Sheng",
+          "gender": ""
+        },
+        {
+          "name": "xu shenbao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "Unknown_unknown-team-121": {
+      "members": [
+        {
+          "name": "tianxin wang",
+          "gender": ""
+        },
+        {
+          "name": "xuehan wu",
+          "gender": ""
+        },
+        {
+          "name": "run yu jiang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "上海科技大学_Accepted": {
+      "members": [
+        {
+          "name": "Zhou Yang",
+          "gender": ""
+        },
+        {
+          "name": "Xu Dufeiyang",
+          "gender": ""
+        },
+        {
+          "name": "Shen Zheqi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长春工业大学_luckyboy": {
+      "members": [],
+      "organization_override": null
+    },
+    "中国人民大学_Kingbase_SSR": {
+      "members": [
+        {
+          "name": "Wang Shijun",
+          "gender": ""
+        },
+        {
+          "name": "Xue Yang",
+          "gender": ""
+        },
+        {
+          "name": "Liao Yulei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长春理工大学_Low head to dalao": {
+      "members": [
+        {
+          "name": "Zhu Yutian",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Zhaojie",
+          "gender": ""
+        },
+        {
+          "name": "Gao Zhikai",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华北电力大学_OrzOrz": {
+      "members": [
+        {
+          "name": "pengwei Zhou",
+          "gender": ""
+        },
+        {
+          "name": "yuchen Zhang",
+          "gender": ""
+        },
+        {
+          "name": "yi cheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "福州大学_Big Chicken Bar": {
+      "members": [],
+      "organization_override": null
+    },
+    "中国石油大学（华东）_Crazy": {
+      "members": [
+        {
+          "name": "Ji Hanxue",
+          "gender": ""
+        },
+        {
+          "name": "Gao Yuxin",
+          "gender": ""
+        },
+        {
+          "name": "Zhou Qihan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京林业大学_跑得最快的队": {
+      "members": [
+        {
+          "name": "xie yongbin",
+          "gender": ""
+        },
+        {
+          "name": "zhu wei",
+          "gender": ""
+        },
+        {
+          "name": "Hu Yiqun",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "天津大学_tju_Cutecute": {
+      "members": [
+        {
+          "name": "Wu Duo",
+          "gender": ""
+        },
+        {
+          "name": "Yun Hao",
+          "gender": ""
+        },
+        {
+          "name": "wang haichi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京林业大学_按Q回城": {
+      "members": [
+        {
+          "name": "Liu chaoyi",
+          "gender": ""
+        },
+        {
+          "name": "jia zijian",
+          "gender": ""
+        },
+        {
+          "name": "Zhangbiao Yi",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江大学宁波理工学院_ANOHANA": {
+      "members": [
+        {
+          "name": "Yan Mengjie",
+          "gender": ""
+        },
+        {
+          "name": "Ye Sen",
+          "gender": ""
+        },
+        {
+          "name": "Shi Runfeng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华中科技大学_GBTWW": {
+      "members": [
+        {
+          "name": "yuan yingdong",
+          "gender": ""
+        },
+        {
+          "name": "Wu Mincong",
+          "gender": ""
+        },
+        {
+          "name": "Hu Jiacheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "青岛大学_fair lady": {
+      "members": [
+        {
+          "name": "yang yumeng",
+          "gender": ""
+        },
+        {
+          "name": "zhang ruojing",
+          "gender": ""
+        },
+        {
+          "name": "zhang yufeng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "重庆邮电大学_bullet": {
+      "members": [],
+      "organization_override": null
+    },
+    "山东科技大学_Majestic": {
+      "members": [
+        {
+          "name": "cheng xiaohua",
+          "gender": ""
+        },
+        {
+          "name": "niu yuqing",
+          "gender": ""
+        },
+        {
+          "name": "li haoze",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西北农林科技大学_apple pen": {
+      "members": [
+        {
+          "name": "Guodong Zhu",
+          "gender": ""
+        },
+        {
+          "name": "Feng Tianxiao",
+          "gender": ""
+        },
+        {
+          "name": "Ren Silin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "江南大学_What is SSR??!": {
+      "members": [
+        {
+          "name": "Zhao Yi",
+          "gender": ""
+        },
+        {
+          "name": "Lin Yuyun",
+          "gender": ""
+        },
+        {
+          "name": "ZhiYuan Xia",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨工业大学（威海）_Innocence": {
+      "members": [
+        {
+          "name": "qi yatao",
+          "gender": ""
+        },
+        {
+          "name": "Chai Ke",
+          "gender": ""
+        },
+        {
+          "name": "Xiang Lingzhao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华中农业大学_Burry_My_Love": {
+      "members": [
+        {
+          "name": "Cheng Xin",
+          "gender": ""
+        },
+        {
+          "name": "Huang Zikuan",
+          "gender": ""
+        },
+        {
+          "name": "Chen Jin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "山东大学_SDU_PAKA": {
+      "members": [
+        {
+          "name": "Shen Songqing",
+          "gender": ""
+        },
+        {
+          "name": "Cheng Xuanang",
+          "gender": ""
+        },
+        {
+          "name": "Li JiCheng",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京师范大学珠海分校_Qingdao\\'s Friends Are You OK?": {
+      "members": [
+        {
+          "name": "Chen Sijia",
+          "gender": ""
+        },
+        {
+          "name": "Qiu Tuoxian",
+          "gender": ""
+        },
+        {
+          "name": "Sun Yijing",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "江西理工大学_miss": {
+      "members": [
+        {
+          "name": "tao jank",
+          "gender": ""
+        },
+        {
+          "name": "ai jiangjun",
+          "gender": ""
+        },
+        {
+          "name": "xiao liang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "福建农林大学_Azeroth": {
+      "members": [
+        {
+          "name": "Chen Yunjie",
+          "gender": ""
+        },
+        {
+          "name": "Xiao Kaicong",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Xu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "杭州师范大学_Nico": {
+      "members": [
+        {
+          "name": "Cai Chengjie",
+          "gender": ""
+        },
+        {
+          "name": "Hu Jiacheng",
+          "gender": ""
+        },
+        {
+          "name": "Lin Ouya",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "重庆邮电大学_Call me your Queen Majesty！": {
+      "members": [
+        {
+          "name": "Ling Zheng",
+          "gender": ""
+        },
+        {
+          "name": "Ting Ting Zhou",
+          "gender": ""
+        },
+        {
+          "name": "Qi Xing Min",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中北大学_Thinking": {
+      "members": [
+        {
+          "name": "Zhang Fujin",
+          "gender": ""
+        },
+        {
+          "name": "Wang Gang",
+          "gender": ""
+        },
+        {
+          "name": "nie laishan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中南大学_plus one second": {
+      "members": [
+        {
+          "name": "lu mingwei",
+          "gender": ""
+        },
+        {
+          "name": "yue hongwei",
+          "gender": ""
+        },
+        {
+          "name": "zheng xianxian",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "郑州大学_登登等灯凳登等灯": {
+      "members": [
+        {
+          "name": "Fan Yixiao",
+          "gender": ""
+        },
+        {
+          "name": "Tang Jintao",
+          "gender": ""
+        },
+        {
+          "name": "Shen Jingfei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西北大学_AVIATO": {
+      "members": [
+        {
+          "name": "Zhang Zichen",
+          "gender": ""
+        },
+        {
+          "name": "zhang kuiyuan",
+          "gender": ""
+        },
+        {
+          "name": "cheng ke",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "山东理工大学_404 not found": {
+      "members": [
+        {
+          "name": "Hongfeng Li",
+          "gender": ""
+        },
+        {
+          "name": "Song Jinxue",
+          "gender": ""
+        },
+        {
+          "name": "Jia Xiaonan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "武汉科技大学_Eternal": {
+      "members": [
+        {
+          "name": "Wenfeng He",
+          "gender": ""
+        },
+        {
+          "name": "Wang Runxin",
+          "gender": ""
+        },
+        {
+          "name": "Wang Jieshu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "天津工业大学_what\\'s up?": {
+      "members": [
+        {
+          "name": "Chen Cheng",
+          "gender": ""
+        },
+        {
+          "name": "Liu Kuan",
+          "gender": ""
+        },
+        {
+          "name": "zhang guanhong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华东交通大学_ProTea": {
+      "members": [
+        {
+          "name": "Wang Zhongyong",
+          "gender": ""
+        },
+        {
+          "name": "Hou Shengdong",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Rongfa",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国石油大学（华东）_cropper": {
+      "members": [
+        {
+          "name": "Lan Yang",
+          "gender": ""
+        },
+        {
+          "name": "Yang Zhibin",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Wei",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长沙学院_At sixes and sevens": {
+      "members": [],
+      "organization_override": null
+    },
+    "东北大学_why so serious?": {
+      "members": [
+        {
+          "name": "Wu Zhuocheng",
+          "gender": ""
+        },
+        {
+          "name": "Li Site",
+          "gender": ""
+        },
+        {
+          "name": "Chen Yongrui",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "国防科技大学_Star Sky": {
+      "members": [
+        {
+          "name": "ren zihao",
+          "gender": ""
+        },
+        {
+          "name": "Meng Xiangyu",
+          "gender": ""
+        },
+        {
+          "name": "Jiang Ze",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "宁波大学_yxc": {
+      "members": [
+        {
+          "name": "ding mingcheng",
+          "gender": ""
+        },
+        {
+          "name": "chai kai",
+          "gender": ""
+        },
+        {
+          "name": "zhou jian",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华东师范大学_ThreeCats": {
+      "members": [
+        {
+          "name": "Zhao Chenxu",
+          "gender": ""
+        },
+        {
+          "name": "Zhao Hongyan",
+          "gender": ""
+        },
+        {
+          "name": "zou yuanyuan",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西南民族大学_ENZO": {
+      "members": [
+        {
+          "name": "Hu Chengwei",
+          "gender": ""
+        },
+        {
+          "name": "Cao Zimo",
+          "gender": ""
+        },
+        {
+          "name": "Wang Jinyu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京交通大学_the name can not be empty": {
+      "members": [
+        {
+          "name": "LI Bo",
+          "gender": ""
+        },
+        {
+          "name": "Li Ruosen",
+          "gender": ""
+        },
+        {
+          "name": "Wang Tianshu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "郑州师范学院_a boat on the weiminghu lake": {
+      "members": [
+        {
+          "name": "fu junjun",
+          "gender": ""
+        },
+        {
+          "name": "nie shaofei",
+          "gender": ""
+        },
+        {
+          "name": "zhen zhao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "山东理工大学_the End of Infinity": {
+      "members": [
+        {
+          "name": "Chen Yankai",
+          "gender": ""
+        },
+        {
+          "name": "Liu Xu",
+          "gender": ""
+        },
+        {
+          "name": "Wang Yunjing",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "上海大学_handsome": {
+      "members": [
+        {
+          "name": "Yinghui Zhao",
+          "gender": ""
+        },
+        {
+          "name": "Gao Song",
+          "gender": ""
+        },
+        {
+          "name": "Zhongyong Jin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国科学院大学_Blibbering Humdinger": {
+      "members": [
+        {
+          "name": "Lan Qingfeng",
+          "gender": ""
+        },
+        {
+          "name": "Tan Hongze",
+          "gender": ""
+        },
+        {
+          "name": "Zhu Tianyao",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江中医药大学_ZCMU-BJ": {
+      "members": [
+        {
+          "name": "Huang Zhe",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Chuancheng",
+          "gender": ""
+        },
+        {
+          "name": "Chen Feihu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "闽南师范大学_Network-flows": {
+      "members": [
+        {
+          "name": "Liu Zhengyu",
+          "gender": ""
+        },
+        {
+          "name": "Yi Xueying",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Cebo",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西南科技大学_Latte": {
+      "members": [],
+      "organization_override": null
+    },
+    "北京师范大学_PlusOneACForMyQ": {
+      "members": [
+        {
+          "name": "MinJie Li",
+          "gender": ""
+        },
+        {
+          "name": "Yu Zhang",
+          "gender": ""
+        },
+        {
+          "name": "Qingsong Lv",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西安邮电大学_XUPT_Three": {
+      "members": [
+        {
+          "name": "wang yifei",
+          "gender": ""
+        },
+        {
+          "name": "yuan jiayu",
+          "gender": ""
+        },
+        {
+          "name": "chu dongfang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨理工大学_AC_Men": {
+      "members": [
+        {
+          "name": "Tianyu Jiang",
+          "gender": ""
+        },
+        {
+          "name": "Yuefeng Sun",
+          "gender": ""
+        },
+        {
+          "name": "Fengrui Yang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "福建师范大学_2young2simple": {
+      "members": [
+        {
+          "name": "Liang Ruiyang",
+          "gender": ""
+        },
+        {
+          "name": "Chen Yu",
+          "gender": ""
+        },
+        {
+          "name": "Pan Ting",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "云南师范大学_There is no team": {
+      "members": [
+        {
+          "name": "Ou tingxiao",
+          "gender": ""
+        },
+        {
+          "name": "Li zhenjie",
+          "gender": ""
+        },
+        {
+          "name": "Li caidong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "天津理工大学_天降正义": {
+      "members": [
+        {
+          "name": "YaoKun Xu",
+          "gender": ""
+        },
+        {
+          "name": "DeLiang Fan",
+          "gender": ""
+        },
+        {
+          "name": "Zhong Luo",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京大学_Unnamed": {
+      "members": [],
+      "organization_override": null
+    },
+    "厦门理工学院_Sorry I can\\'t speak English": {
+      "members": [
+        {
+          "name": "Wang Yanmei",
+          "gender": ""
+        },
+        {
+          "name": "Yan HuiHuang",
+          "gender": ""
+        },
+        {
+          "name": "Shi ZhangWang",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北师范大学_SilverGhost": {
+      "members": [
+        {
+          "name": "Lv MengYao",
+          "gender": ""
+        },
+        {
+          "name": "Peng Cong",
+          "gender": ""
+        },
+        {
+          "name": "Liang Xin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "解放军理工大学_Fiery sun 2": {
+      "members": [
+        {
+          "name": "杨 森",
+          "gender": ""
+        },
+        {
+          "name": "Van Anh Nguyen",
+          "gender": ""
+        },
+        {
+          "name": "胡 琪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "江西财经大学_typhoon": {
+      "members": [
+        {
+          "name": "mao ying Tang",
+          "gender": ""
+        },
+        {
+          "name": "xin liao",
+          "gender": ""
+        },
+        {
+          "name": "li wanrong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "常州大学_NaCl.Cu": {
+      "members": [
+        {
+          "name": "zhou mengting",
+          "gender": ""
+        },
+        {
+          "name": "zhou hao",
+          "gender": ""
+        },
+        {
+          "name": "huang zhixin",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京信息科技大学_why Minguo is as lovely as us": {
+      "members": [
+        {
+          "name": "enyi Huang",
+          "gender": ""
+        },
+        {
+          "name": "Jin Haijia",
+          "gender": ""
+        },
+        {
+          "name": "Li Jia",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "江西理工大学（南昌）_orangedie": {
+      "members": [
+        {
+          "name": "wang menghan",
+          "gender": ""
+        },
+        {
+          "name": "hao wu",
+          "gender": ""
+        },
+        {
+          "name": "Li JunXian",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "大连理工大学_Providence": {
+      "members": [
+        {
+          "name": "Liu Xikai",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Heng",
+          "gender": ""
+        },
+        {
+          "name": "Liu Qingzhou",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "江西财经大学_Iron Bar": {
+      "members": [],
+      "organization_override": null
+    },
+    "北京农学院_I am angry": {
+      "members": [
+        {
+          "name": "Yang Jianli",
+          "gender": ""
+        },
+        {
+          "name": "Hu Jianpeng",
+          "gender": ""
+        },
+        {
+          "name": "song yubing",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京邮电大学_Casual but not Random": {
+      "members": [
+        {
+          "name": "Dong Cong",
+          "gender": ""
+        },
+        {
+          "name": "Huang Yanan",
+          "gender": ""
+        },
+        {
+          "name": "Zhang Peiying",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国地质大学（武汉）_Kings Lee": {
+      "members": [
+        {
+          "name": "Li Xuan",
+          "gender": ""
+        },
+        {
+          "name": "Wang aimin",
+          "gender": ""
+        },
+        {
+          "name": "Li Dong",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湖北工业大学_XinSiJi": {
+      "members": [
+        {
+          "name": "Chen Siyi",
+          "gender": ""
+        },
+        {
+          "name": "Yan zijun",
+          "gender": ""
+        },
+        {
+          "name": "xiao jianye",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国农业大学_CAU1": {
+      "members": [
+        {
+          "name": "Fu YuFan",
+          "gender": ""
+        },
+        {
+          "name": "Chen Wanqi",
+          "gender": ""
+        },
+        {
+          "name": "Wu Wenjun",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "大连海事大学_DLMU_spark team": {
+      "members": [
+        {
+          "name": "Qiurun Cai",
+          "gender": ""
+        },
+        {
+          "name": "he yu",
+          "gender": ""
+        },
+        {
+          "name": "Su Qiaolian",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湘潭大学_World Peace": {
+      "members": [
+        {
+          "name": "GE GUO",
+          "gender": ""
+        },
+        {
+          "name": "Yunxia Kang",
+          "gender": ""
+        },
+        {
+          "name": "ruijie sun",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "合肥工业大学宣城校区_Lord_Voldemort": {
+      "members": [],
+      "organization_override": null
+    },
+    "华南师范大学_SCNU_Theory_Of_Computation": {
+      "members": [
+        {
+          "name": "Maobin Lu",
+          "gender": ""
+        },
+        {
+          "name": "Li Jianchong",
+          "gender": ""
+        },
+        {
+          "name": "Huang Siming",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "云南师范大学_Above nothing": {
+      "members": [
+        {
+          "name": "Zhou jingxin",
+          "gender": ""
+        },
+        {
+          "name": "Wang lu",
+          "gender": ""
+        },
+        {
+          "name": "Nie jinyu",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北方工业大学_NCUT": {
+      "members": [],
+      "organization_override": null
+    },
+    "空军工程大学_BattleBall": {
+      "members": [
+        {
+          "name": "Zhang Zhenjiang",
+          "gender": ""
+        },
+        {
+          "name": "Chang Sen",
+          "gender": ""
+        },
+        {
+          "name": "Huang He",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "贵州师范学院_sousoude": {
+      "members": [
+        {
+          "name": "Zou Yongjie",
+          "gender": ""
+        },
+        {
+          "name": "Xu Fangyi",
+          "gender": ""
+        },
+        {
+          "name": "Yang Ying",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    }
+  }
+}

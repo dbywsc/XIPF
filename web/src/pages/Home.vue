@@ -1,325 +1,98 @@
 <script setup lang="ts">
-import { ref, watch, onMounted } from 'vue'
-import { useRouter } from 'vue-router'
-import { getSummary, type ContestSummary, type OrgSummary } from '@/lib/api'
-import { initSearch, searchContestant, searchOrg } from '@/lib/search'
+import { ref, onMounted } from 'vue'
 
-const router = useRouter()
-const contests = ref<ContestSummary[]>([])
-const orgs = ref<OrgSummary[]>([])
-const loading = ref(true)
-const cq = ref(''), sq = ref('')
-const cr = ref<any[]>([]), sr = ref<any[]>([])
-const bulletin = ref<{ title: string; items: { text: string }[] } | null>(null)
+const mounted = ref(false)
+const announcement = ref<{ title: string; items: { text: string }[] } | null>(null)
 
 onMounted(async () => {
-  await initSearch()
-  const d = await getSummary()
-  contests.value = d.contests
-  orgs.value = d.organizations.sort((a: any, b: any) =>
-    ((b.champion_冠军 || 0) - (a.champion_冠军 || 0)) ||
-    ((b.champion_亚军 || 0) - (a.champion_亚军 || 0)) ||
-    ((b.champion_季军 || 0) - (a.champion_季军 || 0)) ||
-    ((b.gold || 0) - (a.gold || 0)) ||
-    ((b.silver || 0) - (a.silver || 0)) ||
-    ((b.bronze || 0) - (a.bronze || 0))
-  ).slice(0, 50)
-  loading.value = false
+  mounted.value = true
   try {
     const resp = await fetch(import.meta.env.BASE_URL + 'data/announcement.json')
-    if (resp.ok) {
-      const data = await resp.json()
-      if (data.title && data.items?.length) {
-        bulletin.value = data
-      }
-    }
-  } catch { }
+    announcement.value = await resp.json()
+  } catch {}
 })
-
-watch(cq, (q) => { cr.value = searchContestant(q) })
-watch(sq, (q) => { sr.value = searchOrg(q) })
 </script>
 
 <template>
-  <div class="home">
-    <!-- Hero Search -->
-    <section class="hero">
-      <div class="hero-content">
-        <h1 class="hero-title">大学生程序设计竞赛数据平台</h1>
-        <p class="hero-sub">追踪 ICPC / CCPC 参赛数据，探索学校与选手表现</p>
-        <div class="search-row">
-          <div class="search-wrap">
-            <svg class="search-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-            <input v-model="cq" type="text" placeholder="搜索选手..." />
-            <div v-if="cr.length" class="dd">
-              <div v-for="r in cr" :key="r.id" @click="router.push(`/contestant/${r.id}`); cq = ''">
-                {{ r.name }}
-                <span class="tag">选手</span>
-              </div>
-            </div>
-          </div>
-          <div class="search-wrap">
-            <svg class="search-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-            <input v-model="sq" type="text" placeholder="搜索学校..." />
-            <div v-if="sr.length" class="dd">
-              <div v-for="r in sr" :key="r.id" @click="router.push(`/org/${r.id}`); sq = ''">
-                {{ r.name }}
-                <span class="tag">学校</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Bulletin Board -->
-    <section v-if="bulletin" class="card bulletin">
-      <div class="bulletin-head">
-        <svg class="bulletin-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
-        <h2>{{ bulletin.title }}</h2>
-      </div>
-      <ul class="bulletin-list">
-        <li v-for="(item, i) in bulletin.items" :key="i">
-          <span class="bulletin-dot"></span>
-          {{ item.text }}
-        </li>
-      </ul>
-    </section>
-
-    <!-- Main Grid -->
-    <div class="cols">
-      <!-- Contests -->
-      <section class="card panel">
-        <div class="panel-head">
-          <h2>近期比赛</h2>
-          <router-link to="/contests" class="see-all">全部 &rarr;</router-link>
-        </div>
-        <div v-if="loading" class="skel-wrap">
-          <div class="skeleton" v-for="i in 5" :key="i" style="height:18px;margin-bottom:10px;width:100%"></div>
-        </div>
-        <table v-else class="table">
-          <thead>
-            <tr>
-              <th>日期</th>
-              <th>名称</th>
-              <th class="text-right">队伍</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr v-for="c in contests" :key="c.id" class="animate-in" :style="{ animationDelay: `${contests.indexOf(c) * 30}ms` }">
-              <td class="num date-cell">{{ c.date || '-' }}</td>
-              <td class="title-cell"><router-link :to="`/contest/${c.id}`">{{ c.title }}</router-link></td>
-              <td class="num text-right">{{ c.team_count }}</td>
-            </tr>
-          </tbody>
-        </table>
-      </section>
-
-      <!-- Orgs -->
-      <section class="card panel">
-        <div class="panel-head">
-          <h2>学校排行</h2>
-          <router-link to="/orgs" class="see-all">全部 &rarr;</router-link>
-        </div>
-        <div v-if="loading" class="skel-wrap">
-          <div class="skeleton" v-for="i in 5" :key="i" style="height:18px;margin-bottom:10px;width:100%"></div>
-        </div>
-        <table v-else class="table">
-          <thead>
-            <tr>
-              <th>#</th>
-              <th>学校</th>
-              <th class="text-right">冠</th>
-              <th class="text-right">亚</th>
-              <th class="text-right">季</th>
-              <th class="text-right">金</th>
-              <th class="text-right">银</th>
-              <th class="text-right">铜</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr v-for="(o, i) in orgs" :key="o.id" class="animate-in" :style="{ animationDelay: `${i * 30}ms` }">
-              <td class="num rank-cell">{{ i + 1 }}</td>
-              <td><router-link :to="`/org/${o.id}`">{{ o.name }}</router-link></td>
-              <td class="num text-right">{{ o.champion_冠军 || 0 }}</td>
-              <td class="num text-right">{{ o.champion_亚军 || 0 }}</td>
-              <td class="num text-right">{{ o.champion_季军 || 0 }}</td>
-              <td class="num text-right">{{ o.gold }}</td>
-              <td class="num text-right">{{ o.silver }}</td>
-              <td class="num text-right">{{ o.bronze }}</td>
-            </tr>
-          </tbody>
-        </table>
-      </section>
+<div class="home" :class="{ loaded: mounted }">
+  <!-- Announcement -->
+  <div v-if="announcement?.items?.length" class="announce">
+    <div class="announce-inner">
+      <svg class="announce-icon" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>
+      <span class="announce-text">{{ announcement.items[0].text }}</span>
     </div>
   </div>
+
+  <!-- Hero -->
+  <div class="hero">
+    <div class="hero-label"><span class="hero-line"></span><span>XIPF Platform</span></div>
+    <h1>大学生程序设计竞赛<br>数据平台</h1>
+    <p class="hero-sub">追踪 ICPC / CCPC 选手与学校的竞技实力</p>
+  </div>
+
+  <!-- Quick Links -->
+  <div class="quick">
+    <router-link to="/contests" class="qc">
+      <div class="qc-icon">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
+      </div>
+      <span class="qc-title">比赛列表</span>
+      <span class="qc-desc">浏览所有比赛</span>
+    </router-link>
+    <router-link to="/orgs" class="qc">
+      <div class="qc-icon">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+      </div>
+      <span class="qc-title">学校排行</span>
+      <span class="qc-desc">各高校实力排名</span>
+    </router-link>
+    <router-link to="/contestants" class="qc">
+      <div class="qc-icon">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+      </div>
+      <span class="qc-title">选手排行</span>
+      <span class="qc-desc">Rating 排名总览</span>
+    </router-link>
+    <router-link to="/rules" class="qc">
+      <div class="qc-icon">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+      </div>
+      <span class="qc-title">积分规则</span>
+      <span class="qc-desc">算法详解</span>
+    </router-link>
+  </div>
+</div>
 </template>
 
 <style scoped>
-.home { display: flex; flex-direction: column; gap: 32px; }
+.home{display:flex;flex-direction:column;padding:60px 0 60px;max-width:1040px;margin:0 auto}
 
-/* Hero */
-.hero {
-  padding: 16px 0 8px;
-  text-align: center;
-}
-.hero-title {
-  font-size: 28px;
-  font-weight: 700;
-  letter-spacing: -0.5px;
-  color: var(--text);
-  margin-bottom: 8px;
-}
-.hero-sub {
-  font-size: 15px;
-  color: var(--text-secondary);
-  margin-bottom: 24px;
-}
+/* ── Announcement ── */
+.announce{margin-bottom:24px;opacity:0;animation:heroIn .6s cubic-bezier(.16,1,.3,1) forwards}
+.announce-inner{display:flex;align-items:center;gap:10px;padding:11px 18px;background:var(--bg2);border:1px solid var(--line);border-radius:var(--r)}
+.announce-icon{color:var(--fg3);flex-shrink:0}
+.announce-text{font-size:13.5px;color:var(--fg2);line-height:1.5}
 
-/* Search */
-.search-row {
-  display: flex;
-  gap: 12px;
-  max-width: 560px;
-  margin: 0 auto;
-}
-.search-wrap {
-  position: relative;
-  flex: 1;
-}
-.search-icon {
-  position: absolute;
-  left: 14px;
-  top: 50%;
-  transform: translateY(-50%);
-  color: var(--text-muted);
-  pointer-events: none;
-}
-.search-wrap input {
-  width: 100%;
-  padding: 12px 18px 12px 40px;
-  font-size: 15px;
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  outline: none;
-  background: var(--card);
-  color: var(--text);
-  font-family: inherit;
-  transition: all var(--transition);
-}
-.search-wrap input::placeholder { color: var(--text-muted); }
-.search-wrap input:focus {
-  border-color: var(--primary-border);
-  box-shadow: 0 0 0 3px var(--primary-bg);
-}
+/* ── Hero ── */
+.hero{margin-bottom:48px}
+.hero-label{display:flex;align-items:center;gap:12px;margin-bottom:18px;opacity:0;animation:heroIn .6s .05s cubic-bezier(.16,1,.3,1) forwards}
+.hero-line{display:block;width:28px;height:1px;background:var(--fg4)}
+.hero-label span{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:2px;color:var(--fg3)}
+.hero h1{font-size:48px;font-weight:750;letter-spacing:-.8px;line-height:1.1;margin-bottom:14px;color:var(--fg);opacity:0;animation:heroIn .7s .1s cubic-bezier(.16,1,.3,1) forwards}
+.hero-sub{font-size:15.5px;color:var(--fg2);max-width:500px;line-height:1.65;opacity:0;animation:heroIn .7s .2s cubic-bezier(.16,1,.3,1) forwards}
+@keyframes heroIn{from{opacity:0;transform:translateY(20px);filter:blur(4px)}to{opacity:1;transform:translateY(0);filter:blur(0)}}
 
-/* Dropdown */
-.dd {
-  position: absolute;
-  top: calc(100% + 6px);
-  left: 0;
-  right: 0;
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
-  z-index: 100;
-  overflow: hidden;
-}
-[data-theme="dark"] .dd {
-  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
-}
-.dd div {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 18px;
-  cursor: pointer;
-  color: var(--text);
-  font-size: 14px;
-  border-bottom: 1px solid var(--border-light);
-  transition: background var(--transition);
-}
-.dd div:last-child { border-bottom: none; }
-.dd div:hover { background: var(--card-hover); }
-.tag {
-  font-size: 10px;
-  padding: 2px 8px;
-  border-radius: 99px;
-  background: var(--primary-bg);
-  color: var(--primary);
-  font-weight: 500;
-}
+/* ── Quick Cards ── */
+.quick{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;opacity:0;animation:heroIn .7s .3s cubic-bezier(.16,1,.3,1) forwards}
+.qc{display:flex;flex-direction:column;gap:8px;padding:20px;border:1px solid var(--line);border-radius:12px;background:var(--bg4);transition:all .3s cubic-bezier(.16,1,.3,1);position:relative;overflow:hidden}
+.qc::before{content:'';position:absolute;inset:0;background:var(--accent-glow);opacity:0;transition:opacity .35s}
+.qc:hover{border-color:var(--line2);transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,0.08)}
+.qc:hover::before{opacity:1}
+.qc-icon{width:38px;height:38px;border-radius:10px;display:flex;align-items:center;justify-content:center;color:var(--fg2);background:var(--bg3);transition:all .3s;position:relative}
+.qc:hover .qc-icon{color:var(--accent);background:var(--accent-glow)}
+.qc-title{font-size:15px;font-weight:600;color:var(--fg);position:relative;letter-spacing:-.2px}
+.qc-desc{font-size:12.5px;color:var(--fg3);line-height:1.4;position:relative}
 
-/* Bulletin */
-.bulletin {
-  overflow: hidden;
-  border-left: 3px solid var(--primary);
-}
-.bulletin-head {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 20px 24px 0;
-}
-.bulletin-head h2 {
-  font-size: 15px;
-  font-weight: 600;
-  color: var(--text);
-}
-.bulletin-icon {
-  flex-shrink: 0;
-  color: var(--primary);
-}
-.bulletin-list {
-  list-style: none;
-  padding: 14px 24px 20px;
-}
-.bulletin-list li {
-  display: flex;
-  align-items: baseline;
-  gap: 10px;
-  padding: 7px 0;
-  font-size: 14px;
-  color: var(--text-secondary);
-  line-height: 1.6;
-}
-.bulletin-dot {
-  flex-shrink: 0;
-  width: 5px;
-  height: 5px;
-  border-radius: 50%;
-  background: var(--primary);
-  margin-top: 7px;
-  opacity: 0.6;
-}
-
-/* Panels */
-.panel { overflow: hidden; }
-.panel-head {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px 24px;
-  border-bottom: 1px solid var(--border-light);
-}
-.panel-head h2 { font-size: 16px; font-weight: 600; color: var(--text); }
-.see-all { font-size: 13px; color: var(--text-muted); font-weight: 500; }
-.see-all:hover { color: var(--primary); opacity: 1; }
-.skel-wrap { padding: 16px 24px; }
-.date-cell { color: var(--text-secondary); }
-.title-cell a { color: var(--text); font-weight: 500; }
-.title-cell a:hover { color: var(--primary); opacity: 1; }
-.rank-cell { color: var(--text-muted); font-weight: 500; }
-
-/* Grid */
-.cols {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 24px;
-}
-@media (max-width: 768px) {
-  .cols { grid-template-columns: 1fr; }
-  .hero-title { font-size: 22px; }
-}
+@media(max-width:768px){.home{padding:40px 0 40px}.hero h1{font-size:32px}.quick{grid-template-columns:repeat(2,1fr)}.qc{padding:16px}.qc-desc{display:none}}
+@media(max-width:480px){.hero h1{font-size:26px}.quick{gap:8px}.qc{padding:14px}}
 </style>

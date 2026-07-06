@@ -59,6 +59,8 @@ class Contest:
     gold_count: int = 0
     silver_count: int = 0
     bronze_count: int = 0
+    tier: str = ""  # final / regional / invitational / provincial / preliminary
+    no_awards: bool = False  # True if source data has no real award info
 
 
 @dataclass
@@ -75,6 +77,7 @@ class ContestRecord:
     champion: str = ""  # "冠军", "亚军", "季军", or ""
     solved: int = 0
     penalty: int = 0
+    tier: str = ""  # final / regional / invitational / provincial
 
 
 @dataclass
@@ -94,6 +97,25 @@ class Contestant:
             "champion": cc.get("冠军", 0), "runner_up": cc.get("亚军", 0), "third": cc.get("季军", 0),
             "gold": c["gold"], "silver": c["silver"], "bronze": c["bronze"],
         }
+
+    @property
+    def medal_summary_by_tier(self) -> dict:
+        """Per-tier medal counts: {tier: {champion, runner_up, third, gold, silver, bronze}}."""
+        tiers = ["final", "regional", "invitational", "provincial", "preliminary"]
+        result = {}
+        for tier in tiers:
+            recs = [r for r in self.records if r.tier == tier]
+            c = Counter(r.medal for r in recs if r.medal)
+            cc = Counter(r.champion for r in recs if r.champion)
+            result[tier] = {
+                "champion": cc.get("冠军", 0),
+                "runner_up": cc.get("亚军", 0),
+                "third": cc.get("季军", 0),
+                "gold": c.get("gold", 0),
+                "silver": c.get("silver", 0),
+                "bronze": c.get("bronze", 0),
+            }
+        return result
 
 
 @dataclass

@@ -1,6 +1,6 @@
 {
   "teams": {
-    "T001": {
+    "A1-05": {
       "members": [
         {
           "name": "刘海峰",
@@ -17,7 +17,7 @@
       ],
       "organization_override": null
     },
-    "T002": {
+    "A1-20": {
       "members": [
         {
           "name": "严子轩",
@@ -34,7 +34,7 @@
       ],
       "organization_override": null
     },
-    "T003": {
+    "A5-09": {
       "members": [
         {
           "name": "胡金勇",
@@ -51,7 +51,7 @@
       ],
       "organization_override": null
     },
-    "T003_1": {
+    "A5-20": {
       "members": [
         {
           "name": "张瑞珉",
@@ -68,7 +68,7 @@
       ],
       "organization_override": null
     },
-    "T004": {
+    "C5-09": {
       "members": [
         {
           "name": "杨子弘",
@@ -85,7 +85,7 @@
       ],
       "organization_override": null
     },
-    "T006": {
+    "B5-11": {
       "members": [
         {
           "name": "邓承羽",
@@ -102,7 +102,7 @@
       ],
       "organization_override": null
     },
-    "T007": {
+    "B5-18": {
       "members": [
         {
           "name": "程楷轩",
@@ -119,7 +119,7 @@
       ],
       "organization_override": null
     },
-    "T008": {
+    "C2-03": {
       "members": [
         {
           "name": "朱文杰",
@@ -136,7 +136,7 @@
       ],
       "organization_override": null
     },
-    "T009": {
+    "B5-01": {
       "members": [
         {
           "name": "杨添盛",
@@ -153,7 +153,7 @@
       ],
       "organization_override": null
     },
-    "T010": {
+    "A3-01": {
       "members": [
         {
           "name": "孙梓航",
@@ -170,7 +170,7 @@
       ],
       "organization_override": null
     },
-    "T011": {
+    "A2-03": {
       "members": [
         {
           "name": "陶钧",
@@ -187,7 +187,7 @@
       ],
       "organization_override": null
     },
-    "T012": {
+    "B4-22": {
       "members": [
         {
           "name": "姚瑞阳",
@@ -204,7 +204,7 @@
       ],
       "organization_override": null
     },
-    "T013": {
+    "C1-14": {
       "members": [
         {
           "name": "缪凌锴",
@@ -221,7 +221,7 @@
       ],
       "organization_override": null
     },
-    "T014": {
+    "A5-19": {
       "members": [
         {
           "name": "陈纪亮鼎",
@@ -238,7 +238,7 @@
       ],
       "organization_override": null
     },
-    "T015": {
+    "A1-18": {
       "members": [
         {
           "name": "高近仁",
@@ -255,7 +255,7 @@
       ],
       "organization_override": null
     },
-    "T005": {
+    "C2-18": {
       "members": [
         {
           "name": "张晋杰",
@@ -272,7 +272,7 @@
       ],
       "organization_override": null
     },
-    "T006_1": {
+    "B5-06": {
       "members": [
         {
           "name": "秦绍竣",
@@ -289,7 +289,7 @@
       ],
       "organization_override": null
     },
-    "T007_1": {
+    "A4-03": {
       "members": [
         {
           "name": "程棋晖",
@@ -306,7 +306,7 @@
       ],
       "organization_override": null
     },
-    "T019": {
+    "C1-06": {
       "members": [
         {
           "name": "斯嘉智",
@@ -323,7 +323,7 @@
       ],
       "organization_override": null
     },
-    "T020": {
+    "C4-20": {
       "members": [
         {
           "name": "陈聂",
@@ -340,7 +340,7 @@
       ],
       "organization_override": null
     },
-    "T021": {
+    "C2-06": {
       "members": [
         {
           "name": "张子漠",
@@ -357,7 +357,7 @@
       ],
       "organization_override": null
     },
-    "T022": {
+    "B5-04": {
       "members": [
         {
           "name": "黄晨熠",
@@ -374,7 +374,7 @@
       ],
       "organization_override": null
     },
-    "T023": {
+    "B3-13": {
       "members": [
         {
           "name": "陈可佳",
@@ -391,7 +391,7 @@
       ],
       "organization_override": null
     },
-    "T024": {
+    "A1-01": {
       "members": [
         {
           "name": "陈泓宇",
@@ -408,7 +408,7 @@
       ],
       "organization_override": null
     },
-    "T008_1": {
+    "A3-07": {
       "members": [
         {
           "name": "洪家庆",
@@ -425,7 +425,7 @@
       ],
       "organization_override": null
     },
-    "T009_1": {
+    "C1-01": {
       "members": [
         {
           "name": "林瑞康",
@@ -442,7 +442,7 @@
       ],
       "organization_override": null
     },
-    "T027": {
+    "A4-06": {
       "members": [
         {
           "name": "张润泽",
@@ -459,7 +459,7 @@
       ],
       "organization_override": null
     },
-    "T028": {
+    "B5-12": {
       "members": [
         {
           "name": "姚宇翔",
@@ -476,7 +476,7 @@
       ],
       "organization_override": null
     },
-    "T029": {
+    "C5-14": {
       "members": [
         {
           "name": "刘易麟",
@@ -493,7 +493,7 @@
       ],
       "organization_override": null
     },
-    "T010_1": {
+    "C3-17": {
       "members": [
         {
           "name": "王怡钧",
@@ -510,7 +510,7 @@
       ],
       "organization_override": null
     },
-    "T031": {
+    "C5-10": {
       "members": [
         {
           "name": "许烨恒",
@@ -527,7 +527,7 @@
       ],
       "organization_override": null
     },
-    "T032": {
+    "C1-15": {
       "members": [
         {
           "name": "赵铁囝",
@@ -544,7 +544,7 @@
       ],
       "organization_override": null
     },
-    "T033": {
+    "C1-02": {
       "members": [
         {
           "name": "郑锦翼",
@@ -561,7 +561,7 @@
       ],
       "organization_override": null
     },
-    "T011_1": {
+    "A5-14": {
       "members": [
         {
           "name": "钟啸",
@@ -578,7 +578,7 @@
       ],
       "organization_override": null
     },
-    "T035": {
+    "B2-13": {
       "members": [
         {
           "name": "李贝瑀",
@@ -595,7 +595,7 @@
       ],
       "organization_override": null
     },
-    "T012_1": {
+    "A2-22": {
       "members": [
         {
           "name": "周泳良",
@@ -612,7 +612,7 @@
       ],
       "organization_override": null
     },
-    "T037": {
+    "B5-15": {
       "members": [
         {
           "name": "赵崧维",
@@ -629,7 +629,7 @@
       ],
       "organization_override": null
     },
-    "T038": {
+    "A5-03": {
       "members": [
         {
           "name": "周莫非",
@@ -646,7 +646,7 @@
       ],
       "organization_override": null
     },
-    "T013_1": {
+    "A5-16": {
       "members": [
         {
           "name": "房辰燏",
@@ -663,7 +663,7 @@
       ],
       "organization_override": null
     },
-    "T040": {
+    "C5-17": {
       "members": [
         {
           "name": "古皓羽",
@@ -680,7 +680,7 @@
       ],
       "organization_override": null
     },
-    "T014_1": {
+    "A3-22": {
       "members": [
         {
           "name": "陈俊睿",
@@ -697,7 +697,7 @@
       ],
       "organization_override": null
     },
-    "T042": {
+    "C1-09": {
       "members": [
         {
           "name": "涂竣博",
@@ -714,7 +714,7 @@
       ],
       "organization_override": null
     },
-    "T043": {
+    "C1-17": {
       "members": [
         {
           "name": "边逸城",
@@ -731,7 +731,7 @@
       ],
       "organization_override": null
     },
-    "T015_1": {
+    "C1-11": {
       "members": [
         {
           "name": "曹家硕",
@@ -748,7 +748,7 @@
       ],
       "organization_override": null
     },
-    "T045": {
+    "A1-08": {
       "members": [
         {
           "name": "陈煜轩",
@@ -765,7 +765,7 @@
       ],
       "organization_override": null
     },
-    "T046": {
+    "B1-16": {
       "members": [
         {
           "name": "王泰然",
@@ -782,7 +782,7 @@
       ],
       "organization_override": null
     },
-    "T047": {
+    "B1-02": {
       "members": [
         {
           "name": "金倬汉",
@@ -799,7 +799,7 @@
       ],
       "organization_override": null
     },
-    "T016": {
+    "C4-13": {
       "members": [
         {
           "name": "张麟",
@@ -816,7 +816,7 @@
       ],
       "organization_override": null
     },
-    "T017": {
+    "A3-16": {
       "members": [
         {
           "name": "匡显然",
@@ -833,7 +833,7 @@
       ],
       "organization_override": null
     },
-    "T050": {
+    "C5-12": {
       "members": [
         {
           "name": "江牧川",
@@ -850,7 +850,7 @@
       ],
       "organization_override": null
     },
-    "T051": {
+    "B5-19": {
       "members": [
         {
           "name": "王马瑞",
@@ -867,7 +867,7 @@
       ],
       "organization_override": null
     },
-    "T018": {
+    "C2-02": {
       "members": [
         {
           "name": "董万里",
@@ -884,7 +884,7 @@
       ],
       "organization_override": null
     },
-    "T019_1": {
+    "B2-08": {
       "members": [
         {
           "name": "董柯演",
@@ -901,7 +901,7 @@
       ],
       "organization_override": null
     },
-    "T020_1": {
+    "C3-03": {
       "members": [
         {
           "name": "马云霄",
@@ -918,7 +918,7 @@
       ],
       "organization_override": null
     },
-    "T021_1": {
+    "C2-22": {
       "members": [
         {
           "name": "高胜寒",
@@ -935,7 +935,7 @@
       ],
       "organization_override": null
     },
-    "T022_1": {
+    "A1-04": {
       "members": [
         {
           "name": "吴伟涛",
@@ -952,7 +952,7 @@
       ],
       "organization_override": null
     },
-    "T057": {
+    "C3-06": {
       "members": [
         {
           "name": "杨文昊",
@@ -969,7 +969,7 @@
       ],
       "organization_override": null
     },
-    "T023_1": {
+    "B3-10": {
       "members": [
         {
           "name": "王普立",
@@ -986,7 +986,7 @@
       ],
       "organization_override": null
     },
-    "T024_1": {
+    "A4-19": {
       "members": [
         {
           "name": "蒋帅泉",
@@ -1003,7 +1003,7 @@
       ],
       "organization_override": null
     },
-    "T025": {
+    "B1-08": {
       "members": [
         {
           "name": "陈师贤",
@@ -1020,7 +1020,7 @@
       ],
       "organization_override": null
     },
-    "T061": {
+    "B5-22": {
       "members": [
         {
           "name": "叶奕阳",
@@ -1037,7 +1037,7 @@
       ],
       "organization_override": null
     },
-    "T026": {
+    "C5-13": {
       "members": [
         {
           "name": "邵嘉奇",
@@ -1054,7 +1054,7 @@
       ],
       "organization_override": null
     },
-    "T027_1": {
+    "B2-05": {
       "members": [
         {
           "name": "叶子琦",
@@ -1071,7 +1071,7 @@
       ],
       "organization_override": null
     },
-    "T064": {
+    "C1-05": {
       "members": [
         {
           "name": "李馨雨",
@@ -1088,7 +1088,7 @@
       ],
       "organization_override": null
     },
-    "T065": {
+    "A1-11": {
       "members": [
         {
           "name": "莫栋涛",
@@ -1105,7 +1105,7 @@
       ],
       "organization_override": null
     },
-    "T066": {
+    "B2-22": {
       "members": [
         {
           "name": "赵子瑜",
@@ -1122,7 +1122,7 @@
       ],
       "organization_override": null
     },
-    "T028_1": {
+    "A2-17": {
       "members": [
         {
           "name": "李堂辉",
@@ -1139,7 +1139,7 @@
       ],
       "organization_override": null
     },
-    "T068": {
+    "C3-10": {
       "members": [
         {
           "name": "徐锐",
@@ -1156,7 +1156,7 @@
       ],
       "organization_override": null
     },
-    "T029_1": {
+    "C5-18": {
       "members": [
         {
           "name": "杨逸轩",
@@ -1173,7 +1173,7 @@
       ],
       "organization_override": null
     },
-    "T030": {
+    "B5-13": {
       "members": [
         {
           "name": "冼健民",
@@ -1190,7 +1190,7 @@
       ],
       "organization_override": null
     },
-    "T031_1": {
+    "B3-19": {
       "members": [
         {
           "name": "吴语",
@@ -1207,7 +1207,7 @@
       ],
       "organization_override": null
     },
-    "T032_1": {
+    "C2-21": {
       "members": [
         {
           "name": "边上策",
@@ -1224,7 +1224,7 @@
       ],
       "organization_override": null
     },
-    "T033_1": {
+    "B3-15": {
       "members": [
         {
           "name": "梁嘉坤",
@@ -1241,7 +1241,7 @@
       ],
       "organization_override": null
     },
-    "T034": {
+    "A2-05": {
       "members": [
         {
           "name": "高润琪",
@@ -1258,7 +1258,7 @@
       ],
       "organization_override": null
     },
-    "T035_1": {
+    "B2-11": {
       "members": [
         {
           "name": "刘雨葳",
@@ -1275,7 +1275,7 @@
       ],
       "organization_override": null
     },
-    "T036": {
+    "A5-07": {
       "members": [
         {
           "name": "李霖峰",
@@ -1292,7 +1292,7 @@
       ],
       "organization_override": null
     },
-    "T037_1": {
+    "A1-10": {
       "members": [
         {
           "name": "黄祯",
@@ -1309,7 +1309,7 @@
       ],
       "organization_override": null
     },
-    "T078": {
+    "B4-01": {
       "members": [
         {
           "name": "李钧",
@@ -1326,7 +1326,7 @@
       ],
       "organization_override": null
     },
-    "T038_1": {
+    "B3-07": {
       "members": [
         {
           "name": "林晨浩",
@@ -1343,7 +1343,7 @@
       ],
       "organization_override": null
     },
-    "T039": {
+    "B3-18": {
       "members": [
         {
           "name": "栗雨",
@@ -1360,7 +1360,7 @@
       ],
       "organization_override": null
     },
-    "T040_1": {
+    "B1-06": {
       "members": [
         {
           "name": "阚子淳",
@@ -1377,7 +1377,7 @@
       ],
       "organization_override": null
     },
-    "T041": {
+    "B3-20": {
       "members": [
         {
           "name": "谭逸朗",
@@ -1394,7 +1394,7 @@
       ],
       "organization_override": null
     },
-    "T042_1": {
+    "B1-09": {
       "members": [
         {
           "name": "潘喆",
@@ -1411,7 +1411,7 @@
       ],
       "organization_override": null
     },
-    "T043_1": {
+    "C5-03": {
       "members": [
         {
           "name": "万博文",
@@ -1428,7 +1428,7 @@
       ],
       "organization_override": null
     },
-    "T044": {
+    "C4-02": {
       "members": [
         {
           "name": "杨扬骁",
@@ -1445,7 +1445,7 @@
       ],
       "organization_override": null
     },
-    "T045_1": {
+    "C1-16": {
       "members": [
         {
           "name": "崔晨曦",
@@ -1462,7 +1462,7 @@
       ],
       "organization_override": null
     },
-    "T046_1": {
+    "B3-01": {
       "members": [
         {
           "name": "王一鸣",
@@ -1479,7 +1479,7 @@
       ],
       "organization_override": null
     },
-    "T047_1": {
+    "A1-07": {
       "members": [
         {
           "name": "陆思成",
@@ -1496,7 +1496,7 @@
       ],
       "organization_override": null
     },
-    "T048": {
+    "C1-13": {
       "members": [
         {
           "name": "邱思宇",
@@ -1513,7 +1513,7 @@
       ],
       "organization_override": null
     },
-    "T049": {
+    "C2-05": {
       "members": [
         {
           "name": "王梓乔",
@@ -1530,7 +1530,7 @@
       ],
       "organization_override": null
     },
-    "T050_1": {
+    "C1-07": {
       "members": [
         {
           "name": "陈佳俊",
@@ -1547,7 +1547,7 @@
       ],
       "organization_override": null
     },
-    "T051_1": {
+    "A2-06": {
       "members": [
         {
           "name": "陈卓",
@@ -1564,7 +1564,7 @@
       ],
       "organization_override": null
     },
-    "T052": {
+    "C2-17": {
       "members": [
         {
           "name": "成秉翰",
@@ -1581,7 +1581,7 @@
       ],
       "organization_override": null
     },
-    "T053": {
+    "B1-19": {
       "members": [
         {
           "name": "林川翔",
@@ -1598,7 +1598,7 @@
       ],
       "organization_override": null
     },
-    "T054": {
+    "C1-12": {
       "members": [
         {
           "name": "孙瑜宁",
@@ -1615,7 +1615,7 @@
       ],
       "organization_override": null
     },
-    "T055": {
+    "A4-02": {
       "members": [
         {
           "name": "杜霖",
@@ -1632,7 +1632,7 @@
       ],
       "organization_override": null
     },
-    "T056": {
+    "B3-11": {
       "members": [
         {
           "name": "陈笔政",
@@ -1649,7 +1649,7 @@
       ],
       "organization_override": null
     },
-    "T057_1": {
+    "A5-17": {
       "members": [
         {
           "name": "刘兆洲",
@@ -1666,7 +1666,7 @@
       ],
       "organization_override": null
     },
-    "T099": {
+    "C5-02": {
       "members": [
         {
           "name": "邱晋熙",
@@ -1683,7 +1683,7 @@
       ],
       "organization_override": null
     },
-    "T058": {
+    "C3-08": {
       "members": [
         {
           "name": "朱潇庸",
@@ -1700,7 +1700,7 @@
       ],
       "organization_override": null
     },
-    "T059": {
+    "B2-21": {
       "members": [
         {
           "name": "方松杰",
@@ -1717,7 +1717,7 @@
       ],
       "organization_override": null
     },
-    "T060": {
+    "C3-01": {
       "members": [
         {
           "name": "章若晨",
@@ -1734,7 +1734,7 @@
       ],
       "organization_override": null
     },
-    "T061_1": {
+    "A5-13": {
       "members": [
         {
           "name": "沈子焱",
@@ -1751,7 +1751,7 @@
       ],
       "organization_override": null
     },
-    "T062": {
+    "B3-09": {
       "members": [
         {
           "name": "杨皓宇",
@@ -1768,7 +1768,7 @@
       ],
       "organization_override": null
     },
-    "T063": {
+    "B5-02": {
       "members": [
         {
           "name": "刘葆骐",
@@ -1785,7 +1785,7 @@
       ],
       "organization_override": null
     },
-    "T064_1": {
+    "A3-06": {
       "members": [
         {
           "name": "徐贤涛",
@@ -1802,7 +1802,7 @@
       ],
       "organization_override": null
     },
-    "T107": {
+    "A5-10": {
       "members": [
         {
           "name": "沈圣添",
@@ -1819,7 +1819,7 @@
       ],
       "organization_override": null
     },
-    "T065_1": {
+    "A3-09": {
       "members": [
         {
           "name": "刘弈廷",
@@ -1836,7 +1836,7 @@
       ],
       "organization_override": null
     },
-    "T066_1": {
+    "B2-16": {
       "members": [
         {
           "name": "陈孙一硕",
@@ -1853,7 +1853,7 @@
       ],
       "organization_override": null
     },
-    "T067": {
+    "A2-19": {
       "members": [
         {
           "name": "张天伦",
@@ -1870,7 +1870,7 @@
       ],
       "organization_override": null
     },
-    "T068_1": {
+    "A2-14": {
       "members": [
         {
           "name": "于凯",
@@ -1887,7 +1887,7 @@
       ],
       "organization_override": null
     },
-    "T069": {
+    "A5-11": {
       "members": [
         {
           "name": "张贝西彦",
@@ -1904,7 +1904,7 @@
       ],
       "organization_override": null
     },
-    "T070": {
+    "B1-17": {
       "members": [
         {
           "name": "梁子龙",
@@ -1921,7 +1921,7 @@
       ],
       "organization_override": null
     },
-    "T071": {
+    "C1-22": {
       "members": [
         {
           "name": "陈子墨",
@@ -1938,7 +1938,7 @@
       ],
       "organization_override": null
     },
-    "T072": {
+    "A1-22": {
       "members": [
         {
           "name": "刘俊泽",
@@ -1955,7 +1955,7 @@
       ],
       "organization_override": null
     },
-    "T073": {
+    "B4-02": {
       "members": [
         {
           "name": "许润峰",
@@ -1972,7 +1972,7 @@
       ],
       "organization_override": null
     },
-    "T074": {
+    "C2-09": {
       "members": [
         {
           "name": "邢亦修",
@@ -1989,7 +1989,7 @@
       ],
       "organization_override": null
     },
-    "T118": {
+    "B1-12": {
       "members": [
         {
           "name": "于善恩",
@@ -2006,7 +2006,7 @@
       ],
       "organization_override": null
     },
-    "T075": {
+    "A4-21": {
       "members": [
         {
           "name": "吴晨阳",
@@ -2023,7 +2023,7 @@
       ],
       "organization_override": null
     },
-    "T076": {
+    "A5-02": {
       "members": [
         {
           "name": "郭旺乐",
@@ -2040,7 +2040,7 @@
       ],
       "organization_override": null
     },
-    "T077": {
+    "B2-20": {
       "members": [
         {
           "name": "王腾昊",
@@ -2057,7 +2057,7 @@
       ],
       "organization_override": null
     },
-    "T078_1": {
+    "B5-17": {
       "members": [
         {
           "name": "张洋鸣",
@@ -2074,7 +2074,7 @@
       ],
       "organization_override": null
     },
-    "T079": {
+    "B3-08": {
       "members": [
         {
           "name": "林星宇",
@@ -2091,7 +2091,7 @@
       ],
       "organization_override": null
     },
-    "T124": {
+    "C1-18": {
       "members": [
         {
           "name": "梁意森",
@@ -2108,7 +2108,7 @@
       ],
       "organization_override": null
     },
-    "T080": {
+    "B3-22": {
       "members": [
         {
           "name": "刘志翔",
@@ -2125,7 +2125,7 @@
       ],
       "organization_override": null
     },
-    "T081": {
+    "B4-09": {
       "members": [
         {
           "name": "韦彦祖",
@@ -2142,7 +2142,7 @@
       ],
       "organization_override": null
     },
-    "T082": {
+    "B2-07": {
       "members": [
         {
           "name": "施卓凡",
@@ -2159,7 +2159,7 @@
       ],
       "organization_override": null
     },
-    "T083": {
+    "A2-11": {
       "members": [
         {
           "name": "江雅奥",
@@ -2176,7 +2176,7 @@
       ],
       "organization_override": null
     },
-    "T084": {
+    "A3-08": {
       "members": [
         {
           "name": "孙传炜",
@@ -2193,7 +2193,7 @@
       ],
       "organization_override": null
     },
-    "T085": {
+    "B4-14": {
       "members": [
         {
           "name": "韩明轩",
@@ -2210,7 +2210,7 @@
       ],
       "organization_override": null
     },
-    "T086": {
+    "C4-01": {
       "members": [
         {
           "name": "谢世杰",
@@ -2227,7 +2227,7 @@
       ],
       "organization_override": null
     },
-    "T087": {
+    "B3-14": {
       "members": [
         {
           "name": "刘烨通",
@@ -2244,7 +2244,7 @@
       ],
       "organization_override": null
     },
-    "T088": {
+    "A2-08": {
       "members": [
         {
           "name": "张博轩",
@@ -2261,7 +2261,7 @@
       ],
       "organization_override": null
     },
-    "T089": {
+    "B1-15": {
       "members": [
         {
           "name": "张震宇",
@@ -2278,7 +2278,7 @@
       ],
       "organization_override": null
     },
-    "T090": {
+    "C3-16": {
       "members": [
         {
           "name": "洪韩毅",
@@ -2295,7 +2295,7 @@
       ],
       "organization_override": null
     },
-    "T091": {
+    "C4-04": {
       "members": [
         {
           "name": "何超",
@@ -2312,7 +2312,7 @@
       ],
       "organization_override": null
     },
-    "T092": {
+    "A2-09": {
       "members": [
         {
           "name": "蔡泽俊",
@@ -2329,7 +2329,7 @@
       ],
       "organization_override": null
     },
-    "T093": {
+    "C3-19": {
       "members": [
         {
           "name": "林志龙",
@@ -2346,7 +2346,7 @@
       ],
       "organization_override": null
     },
-    "T094": {
+    "B5-08": {
       "members": [
         {
           "name": "吴岚轩",
@@ -2363,7 +2363,7 @@
       ],
       "organization_override": null
     },
-    "T095": {
+    "B2-19": {
       "members": [
         {
           "name": "李武",
@@ -2380,7 +2380,7 @@
       ],
       "organization_override": null
     },
-    "T141": {
+    "B1-22": {
       "members": [
         {
           "name": "尚尔聪",
@@ -2397,7 +2397,7 @@
       ],
       "organization_override": null
     },
-    "T096": {
+    "C4-15": {
       "members": [
         {
           "name": "王玺荣",
@@ -2414,7 +2414,7 @@
       ],
       "organization_override": null
     },
-    "T097": {
+    "C5-08": {
       "members": [
         {
           "name": "欧阳家杰",
@@ -2431,7 +2431,7 @@
       ],
       "organization_override": null
     },
-    "T098": {
+    "A4-20": {
       "members": [
         {
           "name": "毋至晨",
@@ -2448,7 +2448,7 @@
       ],
       "organization_override": null
     },
-    "T099_1": {
+    "A2-02": {
       "members": [
         {
           "name": "秦浩越",
@@ -2465,7 +2465,7 @@
       ],
       "organization_override": null
     },
-    "T100": {
+    "C1-04": {
       "members": [
         {
           "name": "林卓毅",
@@ -2482,7 +2482,7 @@
       ],
       "organization_override": null
     },
-    "T101": {
+    "A3-21": {
       "members": [
         {
           "name": "龚向阳",
@@ -2499,7 +2499,7 @@
       ],
       "organization_override": null
     },
-    "T102": {
+    "A1-19": {
       "members": [
         {
           "name": "钟启航",
@@ -2516,7 +2516,7 @@
       ],
       "organization_override": null
     },
-    "T103": {
+    "C2-11": {
       "members": [
         {
           "name": "佘亦纲",
@@ -2533,7 +2533,7 @@
       ],
       "organization_override": null
     },
-    "T104": {
+    "C2-04": {
       "members": [
         {
           "name": "连伟成",
@@ -2550,7 +2550,7 @@
       ],
       "organization_override": null
     },
-    "T105": {
+    "B3-12": {
       "members": [
         {
           "name": "杨家斌",
@@ -2567,7 +2567,7 @@
       ],
       "organization_override": null
     },
-    "T106": {
+    "B5-14": {
       "members": [
         {
           "name": "陈政柱",
@@ -2584,7 +2584,7 @@
       ],
       "organization_override": null
     },
-    "T107_1": {
+    "B2-18": {
       "members": [
         {
           "name": "桑浩翔",
@@ -2601,7 +2601,7 @@
       ],
       "organization_override": null
     },
-    "T108": {
+    "C2-12": {
       "members": [
         {
           "name": "郑坚淳",
@@ -2618,7 +2618,7 @@
       ],
       "organization_override": null
     },
-    "T109": {
+    "C4-17": {
       "members": [
         {
           "name": "汤星宇",
@@ -2635,7 +2635,7 @@
       ],
       "organization_override": null
     },
-    "T110": {
+    "C2-13": {
       "members": [
         {
           "name": "胡峰贤",
@@ -2652,7 +2652,7 @@
       ],
       "organization_override": null
     },
-    "T157": {
+    "B3-02": {
       "members": [
         {
           "name": "买鑫鑫",
@@ -2669,7 +2669,7 @@
       ],
       "organization_override": null
     },
-    "T111": {
+    "C4-14": {
       "members": [
         {
           "name": "张力翔",
@@ -2686,7 +2686,7 @@
       ],
       "organization_override": null
     },
-    "T112": {
+    "A4-14": {
       "members": [
         {
           "name": "黄颂凯",
@@ -2703,7 +2703,7 @@
       ],
       "organization_override": null
     },
-    "T113": {
+    "A2-12": {
       "members": [
         {
           "name": "关越",
@@ -2720,7 +2720,7 @@
       ],
       "organization_override": null
     },
-    "T114": {
+    "B4-03": {
       "members": [
         {
           "name": "潘文驰",
@@ -2737,7 +2737,7 @@
       ],
       "organization_override": null
     },
-    "T115": {
+    "B1-04": {
       "members": [
         {
           "name": "邱启涵",
@@ -2754,7 +2754,7 @@
       ],
       "organization_override": null
     },
-    "T116": {
+    "A4-08": {
       "members": [
         {
           "name": "赵迪",
@@ -2771,7 +2771,7 @@
       ],
       "organization_override": null
     },
-    "T117": {
+    "C4-11": {
       "members": [
         {
           "name": "郭申申",
@@ -2788,7 +2788,7 @@
       ],
       "organization_override": null
     },
-    "T118_1": {
+    "B1-21": {
       "members": [
         {
           "name": "陈智谦",
@@ -2805,7 +2805,7 @@
       ],
       "organization_override": null
     },
-    "T119": {
+    "C2-08": {
       "members": [
         {
           "name": "刘圣丰",
@@ -2822,7 +2822,7 @@
       ],
       "organization_override": null
     },
-    "T120": {
+    "C1-10": {
       "members": [
         {
           "name": "范志博",
@@ -2839,7 +2839,7 @@
       ],
       "organization_override": null
     },
-    "T121": {
+    "A2-21": {
       "members": [
         {
           "name": "燕雅超",
@@ -2856,7 +2856,7 @@
       ],
       "organization_override": null
     },
-    "T122": {
+    "A2-01": {
       "members": [
         {
           "name": "郑安乔元",
@@ -2873,7 +2873,7 @@
       ],
       "organization_override": null
     },
-    "T123": {
+    "C4-12": {
       "members": [
         {
           "name": "晏鹏昊",
@@ -2890,7 +2890,7 @@
       ],
       "organization_override": null
     },
-    "T124_1": {
+    "B5-16": {
       "members": [
         {
           "name": "朱睿哲",
@@ -2907,7 +2907,7 @@
       ],
       "organization_override": null
     },
-    "T125": {
+    "A1-02": {
       "members": [
         {
           "name": "吴凤卓",
@@ -2924,7 +2924,7 @@
       ],
       "organization_override": null
     },
-    "T126": {
+    "A5-21": {
       "members": [
         {
           "name": "刘璨",
@@ -2941,7 +2941,7 @@
       ],
       "organization_override": null
     },
-    "T127": {
+    "B2-06": {
       "members": [
         {
           "name": "黎朔鸣",
@@ -2958,7 +2958,7 @@
       ],
       "organization_override": null
     },
-    "T128": {
+    "A4-15": {
       "members": [
         {
           "name": "翁博",
@@ -2975,7 +2975,7 @@
       ],
       "organization_override": null
     },
-    "T129": {
+    "B2-17": {
       "members": [
         {
           "name": "牛东云",
@@ -2992,7 +2992,7 @@
       ],
       "organization_override": null
     },
-    "T130": {
+    "A2-10": {
       "members": [
         {
           "name": "马博浩",
@@ -3009,7 +3009,7 @@
       ],
       "organization_override": null
     },
-    "T131": {
+    "B3-21": {
       "members": [
         {
           "name": "魏子钇",
@@ -3026,7 +3026,7 @@
       ],
       "organization_override": null
     },
-    "T132": {
+    "C4-10": {
       "members": [
         {
           "name": "李萌",
@@ -3043,7 +3043,7 @@
       ],
       "organization_override": null
     },
-    "T133": {
+    "A2-16": {
       "members": [
         {
           "name": "黄尔嘉",
@@ -3060,7 +3060,7 @@
       ],
       "organization_override": null
     },
-    "T134": {
+    "B1-11": {
       "members": [
         {
           "name": "王加文",
@@ -3077,7 +3077,7 @@
       ],
       "organization_override": null
     },
-    "T135": {
+    "A1-09": {
       "members": [
         {
           "name": "徐金涛",
@@ -3094,7 +3094,7 @@
       ],
       "organization_override": null
     },
-    "T183": {
+    "B5-03": {
       "members": [
         {
           "name": "张翌灿",
@@ -3111,7 +3111,7 @@
       ],
       "organization_override": null
     },
-    "T136": {
+    "A5-18": {
       "members": [
         {
           "name": "侯炳旭",
@@ -3128,7 +3128,7 @@
       ],
       "organization_override": null
     },
-    "T137": {
+    "B3-04": {
       "members": [
         {
           "name": "杨晨",
@@ -3145,7 +3145,7 @@
       ],
       "organization_override": null
     },
-    "T138": {
+    "C3-14": {
       "members": [
         {
           "name": "刘一鸣",
@@ -3162,7 +3162,7 @@
       ],
       "organization_override": null
     },
-    "T139": {
+    "A3-10": {
       "members": [
         {
           "name": "苏锦翔",
@@ -3179,7 +3179,7 @@
       ],
       "organization_override": null
     },
-    "T140": {
+    "A5-05": {
       "members": [
         {
           "name": "邓力豪",
@@ -3196,7 +3196,7 @@
       ],
       "organization_override": null
     },
-    "T141_1": {
+    "B4-06": {
       "members": [
         {
           "name": "郑奥",
@@ -3213,7 +3213,7 @@
       ],
       "organization_override": null
     },
-    "T142": {
+    "A3-20": {
       "members": [
         {
           "name": "敬佳宝",
@@ -3230,7 +3230,7 @@
       ],
       "organization_override": null
     },
-    "T143": {
+    "A5-01": {
       "members": [
         {
           "name": "李海瑜",
@@ -3247,7 +3247,7 @@
       ],
       "organization_override": null
     },
-    "T144": {
+    "A5-06": {
       "members": [
         {
           "name": "黄恩豪",
@@ -3264,7 +3264,7 @@
       ],
       "organization_override": null
     },
-    "T145": {
+    "A4-04": {
       "members": [
         {
           "name": "张容嘉",
@@ -3281,7 +3281,7 @@
       ],
       "organization_override": null
     },
-    "T146": {
+    "B1-03": {
       "members": [
         {
           "name": "杨拓丹",
@@ -3298,7 +3298,7 @@
       ],
       "organization_override": null
     },
-    "T147": {
+    "C2-19": {
       "members": [
         {
           "name": "方同俊",
@@ -3315,7 +3315,7 @@
       ],
       "organization_override": null
     },
-    "T148": {
+    "A4-17": {
       "members": [
         {
           "name": "黄海",
@@ -3332,7 +3332,7 @@
       ],
       "organization_override": null
     },
-    "T149": {
+    "C4-05": {
       "members": [
         {
           "name": "秦修元",
@@ -3349,7 +3349,7 @@
       ],
       "organization_override": null
     },
-    "T150": {
+    "A4-18": {
       "members": [
         {
           "name": "陈诺",
@@ -3366,7 +3366,7 @@
       ],
       "organization_override": null
     },
-    "T151": {
+    "C5-20": {
       "members": [
         {
           "name": "李健阳",
@@ -3383,7 +3383,7 @@
       ],
       "organization_override": null
     },
-    "T152": {
+    "C4-07": {
       "members": [
         {
           "name": "余兴正",
@@ -3400,7 +3400,7 @@
       ],
       "organization_override": null
     },
-    "T153": {
+    "C3-22": {
       "members": [
         {
           "name": "陈瑾",
@@ -3417,7 +3417,7 @@
       ],
       "organization_override": null
     },
-    "T154": {
+    "A2-13": {
       "members": [
         {
           "name": "李知夏",
@@ -3434,7 +3434,7 @@
       ],
       "organization_override": null
     },
-    "T155": {
+    "A3-03": {
       "members": [
         {
           "name": "赵欣颖",
@@ -3451,7 +3451,7 @@
       ],
       "organization_override": null
     },
-    "T156": {
+    "C5-04": {
       "members": [
         {
           "name": "马君宇",
@@ -3468,7 +3468,7 @@
       ],
       "organization_override": null
     },
-    "T157_1": {
+    "C4-09": {
       "members": [
         {
           "name": "雷云辉",
@@ -3485,7 +3485,7 @@
       ],
       "organization_override": null
     },
-    "T158": {
+    "A3-15": {
       "members": [
         {
           "name": "蔡居宏",
@@ -3502,7 +3502,7 @@
       ],
       "organization_override": null
     },
-    "T159": {
+    "B4-08": {
       "members": [
         {
           "name": "勾治华",
@@ -3519,7 +3519,7 @@
       ],
       "organization_override": null
     },
-    "T160": {
+    "C1-21": {
       "members": [
         {
           "name": "郑川建",
@@ -3536,7 +3536,7 @@
       ],
       "organization_override": null
     },
-    "T161": {
+    "C1-20": {
       "members": [
         {
           "name": "邹卓昂",
@@ -3553,7 +3553,7 @@
       ],
       "organization_override": null
     },
-    "T162": {
+    "C3-05": {
       "members": [
         {
           "name": "李鑫",
@@ -3570,7 +3570,7 @@
       ],
       "organization_override": null
     },
-    "T163": {
+    "A5-15": {
       "members": [
         {
           "name": "周嘉琪",
@@ -3587,7 +3587,7 @@
       ],
       "organization_override": null
     },
-    "T164": {
+    "B2-02": {
       "members": [
         {
           "name": "余睿涵",
@@ -3604,7 +3604,7 @@
       ],
       "organization_override": null
     },
-    "T165": {
+    "A3-04": {
       "members": [
         {
           "name": "胡明哲",
@@ -3621,7 +3621,7 @@
       ],
       "organization_override": null
     },
-    "T166": {
+    "C5-06": {
       "members": [
         {
           "name": "文昊",
@@ -3638,7 +3638,7 @@
       ],
       "organization_override": null
     },
-    "T167": {
+    "C2-14": {
       "members": [
         {
           "name": "连振翔",
@@ -3655,7 +3655,7 @@
       ],
       "organization_override": null
     },
-    "T168": {
+    "A2-04": {
       "members": [
         {
           "name": "郑岳桓",
@@ -3672,7 +3672,7 @@
       ],
       "organization_override": null
     },
-    "T169": {
+    "A1-14": {
       "members": [
         {
           "name": "郑天罡",
@@ -3689,7 +3689,7 @@
       ],
       "organization_override": null
     },
-    "T170": {
+    "C3-11": {
       "members": [
         {
           "name": "陈俊良",
@@ -3706,7 +3706,7 @@
       ],
       "organization_override": null
     },
-    "T171": {
+    "A3-14": {
       "members": [
         {
           "name": "胡书睿",
@@ -3723,7 +3723,7 @@
       ],
       "organization_override": null
     },
-    "T172": {
+    "B2-03": {
       "members": [
         {
           "name": "钱祺亮",
@@ -3740,7 +3740,7 @@
       ],
       "organization_override": null
     },
-    "T173": {
+    "C5-01": {
       "members": [
         {
           "name": "冯嘉华",
@@ -3757,7 +3757,7 @@
       ],
       "organization_override": null
     },
-    "T174": {
+    "C5-19": {
       "members": [
         {
           "name": "杨熠鑫",
@@ -3774,7 +3774,7 @@
       ],
       "organization_override": null
     },
-    "T175": {
+    "B3-03": {
       "members": [
         {
           "name": "陈凯鹏",
@@ -3791,7 +3791,7 @@
       ],
       "organization_override": null
     },
-    "T176": {
+    "B3-06": {
       "members": [
         {
           "name": "姚依涛",
@@ -3808,7 +3808,7 @@
       ],
       "organization_override": null
     },
-    "T177": {
+    "B1-13": {
       "members": [
         {
           "name": "黄达聪",
@@ -3825,7 +3825,7 @@
       ],
       "organization_override": null
     },
-    "T178": {
+    "A4-16": {
       "members": [
         {
           "name": "薛笑运",
@@ -3842,7 +3842,7 @@
       ],
       "organization_override": null
     },
-    "T179": {
+    "B1-18": {
       "members": [
         {
           "name": "曾正基",
@@ -3859,7 +3859,7 @@
       ],
       "organization_override": null
     },
-    "T180": {
+    "B1-10": {
       "members": [
         {
           "name": "徐炳戌",
@@ -3876,7 +3876,7 @@
       ],
       "organization_override": null
     },
-    "T181": {
+    "B4-11": {
       "members": [
         {
           "name": "王友亮",
@@ -3893,7 +3893,7 @@
       ],
       "organization_override": null
     },
-    "T182": {
+    "C1-19": {
       "members": [
         {
           "name": "黄子洋",
@@ -3910,7 +3910,7 @@
       ],
       "organization_override": null
     },
-    "T183_1": {
+    "B5-20": {
       "members": [
         {
           "name": "丁留安",
@@ -3927,7 +3927,7 @@
       ],
       "organization_override": null
     },
-    "T184": {
+    "A3-18": {
       "members": [
         {
           "name": "李锐",
@@ -3944,7 +3944,7 @@
       ],
       "organization_override": null
     },
-    "T185": {
+    "A1-06": {
       "members": [
         {
           "name": "李尧斐",
@@ -3961,7 +3961,7 @@
       ],
       "organization_override": null
     },
-    "T186": {
+    "C2-07": {
       "members": [
         {
           "name": "王喆",
@@ -3978,7 +3978,7 @@
       ],
       "organization_override": null
     },
-    "T187": {
+    "B2-15": {
       "members": [
         {
           "name": "曹永强",
@@ -3995,7 +3995,7 @@
       ],
       "organization_override": null
     },
-    "T188": {
+    "A1-17": {
       "members": [
         {
           "name": "孙天成",
@@ -4012,7 +4012,7 @@
       ],
       "organization_override": null
     },
-    "T189": {
+    "C3-18": {
       "members": [
         {
           "name": "徐易",
@@ -4029,7 +4029,7 @@
       ],
       "organization_override": null
     },
-    "T190": {
+    "B1-20": {
       "members": [
         {
           "name": "李逢浩",
@@ -4046,7 +4046,7 @@
       ],
       "organization_override": null
     },
-    "T191": {
+    "A4-09": {
       "members": [
         {
           "name": "徐子健",
@@ -4063,7 +4063,7 @@
       ],
       "organization_override": null
     },
-    "T192": {
+    "B3-16": {
       "members": [
         {
           "name": "费文强",
@@ -4080,7 +4080,7 @@
       ],
       "organization_override": null
     },
-    "T193": {
+    "A3-12": {
       "members": [
         {
           "name": "郄启",
@@ -4097,7 +4097,7 @@
       ],
       "organization_override": null
     },
-    "T194": {
+    "C3-12": {
       "members": [
         {
           "name": "张敬义",
@@ -4114,7 +4114,7 @@
       ],
       "organization_override": null
     },
-    "T195": {
+    "C3-21": {
       "members": [
         {
           "name": "马哲涵",
@@ -4131,7 +4131,7 @@
       ],
       "organization_override": null
     },
-    "T196": {
+    "C5-07": {
       "members": [
         {
           "name": "王雅楠",
@@ -4148,7 +4148,7 @@
       ],
       "organization_override": null
     },
-    "T197": {
+    "B5-09": {
       "members": [
         {
           "name": "张万里",
@@ -4165,7 +4165,7 @@
       ],
       "organization_override": null
     },
-    "T198": {
+    "A4-10": {
       "members": [
         {
           "name": "施昺琛",
@@ -4182,7 +4182,7 @@
       ],
       "organization_override": null
     },
-    "T199": {
+    "A5-22": {
       "members": [
         {
           "name": "王杰",
@@ -4199,7 +4199,7 @@
       ],
       "organization_override": null
     },
-    "T200": {
+    "C2-16": {
       "members": [
         {
           "name": "张立",
@@ -4216,7 +4216,7 @@
       ],
       "organization_override": null
     },
-    "T201": {
+    "A1-03": {
       "members": [
         {
           "name": "吴迪",
@@ -4233,7 +4233,7 @@
       ],
       "organization_override": null
     },
-    "T202": {
+    "C5-15": {
       "members": [
         {
           "name": "张佳俊",
@@ -4250,7 +4250,7 @@
       ],
       "organization_override": null
     },
-    "T203": {
+    "C3-07": {
       "members": [
         {
           "name": "罗赐曦",
@@ -4267,7 +4267,7 @@
       ],
       "organization_override": null
     },
-    "T204": {
+    "C3-13": {
       "members": [
         {
           "name": "廖洋",
@@ -4284,7 +4284,7 @@
       ],
       "organization_override": null
     },
-    "T253": {
+    "C5-05": {
       "members": [
         {
           "name": "鲁家睿",
@@ -4301,7 +4301,7 @@
       ],
       "organization_override": null
     },
-    "T205": {
+    "A1-13": {
       "members": [
         {
           "name": "斯乐轩",
@@ -4318,7 +4318,7 @@
       ],
       "organization_override": null
     },
-    "T206": {
+    "A3-19": {
       "members": [
         {
           "name": "李想",
@@ -4335,7 +4335,7 @@
       ],
       "organization_override": null
     },
-    "T207": {
+    "C4-18": {
       "members": [
         {
           "name": "赵燚",
@@ -4352,7 +4352,7 @@
       ],
       "organization_override": null
     },
-    "T208": {
+    "A3-11": {
       "members": [
         {
           "name": "陈文定",
@@ -4369,7 +4369,7 @@
       ],
       "organization_override": null
     },
-    "T209": {
+    "A4-13": {
       "members": [
         {
           "name": "吴俊威",
@@ -4386,7 +4386,7 @@
       ],
       "organization_override": null
     },
-    "T210": {
+    "B1-05": {
       "members": [
         {
           "name": "莫少杰",
@@ -4403,7 +4403,7 @@
       ],
       "organization_override": null
     },
-    "T211": {
+    "A1-12": {
       "members": [
         {
           "name": "彭靖轩",
@@ -4420,7 +4420,7 @@
       ],
       "organization_override": null
     },
-    "T212": {
+    "A3-05": {
       "members": [
         {
           "name": "郭臣希",
@@ -4437,7 +4437,7 @@
       ],
       "organization_override": null
     },
-    "T213": {
+    "B4-20": {
       "members": [
         {
           "name": "蓝新",
@@ -4454,7 +4454,7 @@
       ],
       "organization_override": null
     },
-    "T214": {
+    "C3-02": {
       "members": [
         {
           "name": "王盛宇",
@@ -4471,7 +4471,7 @@
       ],
       "organization_override": null
     },
-    "T215": {
+    "B1-01": {
       "members": [
         {
           "name": "王建捷",
@@ -4488,7 +4488,7 @@
       ],
       "organization_override": null
     },
-    "T216": {
+    "B2-09": {
       "members": [
         {
           "name": "余延鳐",
@@ -4505,7 +4505,7 @@
       ],
       "organization_override": null
     },
-    "T217": {
+    "C4-03": {
       "members": [
         {
           "name": "朱子睿",
@@ -4522,7 +4522,7 @@
       ],
       "organization_override": null
     },
-    "T218": {
+    "B2-10": {
       "members": [
         {
           "name": "周子康",
@@ -4539,7 +4539,7 @@
       ],
       "organization_override": null
     },
-    "T219": {
+    "B3-17": {
       "members": [
         {
           "name": "吴志威",
@@ -4556,7 +4556,7 @@
       ],
       "organization_override": null
     },
-    "T220": {
+    "C4-16": {
       "members": [
         {
           "name": "杨浩",
@@ -4573,7 +4573,7 @@
       ],
       "organization_override": null
     },
-    "T221": {
+    "B5-21": {
       "members": [
         {
           "name": "于文硕",
@@ -4590,7 +4590,7 @@
       ],
       "organization_override": null
     },
-    "T222": {
+    "B2-01": {
       "members": [
         {
           "name": "聂启盛",
@@ -4607,7 +4607,7 @@
       ],
       "organization_override": null
     },
-    "T223": {
+    "A4-22": {
       "members": [
         {
           "name": "刘川德",
@@ -4624,7 +4624,7 @@
       ],
       "organization_override": null
     },
-    "T224": {
+    "C2-20": {
       "members": [
         {
           "name": "李嘉乐",
@@ -4641,7 +4641,7 @@
       ],
       "organization_override": null
     },
-    "T225": {
+    "B4-05": {
       "members": [
         {
           "name": "刘钧然",
@@ -4658,7 +4658,7 @@
       ],
       "organization_override": null
     },
-    "T226": {
+    "B4-16": {
       "members": [
         {
           "name": "廖浩然",
@@ -4675,7 +4675,7 @@
       ],
       "organization_override": null
     },
-    "T227": {
+    "B2-14": {
       "members": [
         {
           "name": "张进",
@@ -4692,7 +4692,7 @@
       ],
       "organization_override": null
     },
-    "T228": {
+    "C2-10": {
       "members": [
         {
           "name": "宋秉轩",
@@ -4709,7 +4709,7 @@
       ],
       "organization_override": null
     },
-    "T229": {
+    "B4-19": {
       "members": [
         {
           "name": "俞淳宝",
@@ -4726,7 +4726,7 @@
       ],
       "organization_override": null
     },
-    "T230": {
+    "B4-07": {
       "members": [
         {
           "name": "蔡成泽",
@@ -4743,7 +4743,7 @@
       ],
       "organization_override": null
     },
-    "T231": {
+    "C4-19": {
       "members": [
         {
           "name": "刘庆",
@@ -4760,7 +4760,7 @@
       ],
       "organization_override": null
     },
-    "T232": {
+    "B5-10": {
       "members": [
         {
           "name": "谢彬",
@@ -4777,7 +4777,7 @@
       ],
       "organization_override": null
     },
-    "T233": {
+    "A2-18": {
       "members": [
         {
           "name": "何海扬",
@@ -4794,7 +4794,7 @@
       ],
       "organization_override": null
     },
-    "T234": {
+    "C4-06": {
       "members": [
         {
           "name": "方超鹏",
@@ -4811,7 +4811,7 @@
       ],
       "organization_override": null
     },
-    "T235": {
+    "A3-17": {
       "members": [
         {
           "name": "陈海洋",
@@ -4828,7 +4828,7 @@
       ],
       "organization_override": null
     },
-    "T236": {
+    "A2-15": {
       "members": [
         {
           "name": "陈思琪",
@@ -4845,7 +4845,7 @@
       ],
       "organization_override": null
     },
-    "T237": {
+    "C3-04": {
       "members": [
         {
           "name": "匡睿",
@@ -4862,7 +4862,7 @@
       ],
       "organization_override": null
     },
-    "T238": {
+    "B4-13": {
       "members": [
         {
           "name": "吴天雨",
@@ -4879,7 +4879,7 @@
       ],
       "organization_override": null
     },
-    "T239": {
+    "C5-11": {
       "members": [
         {
           "name": "袁超",
@@ -4896,7 +4896,7 @@
       ],
       "organization_override": null
     },
-    "T240": {
+    "C4-08": {
       "members": [
         {
           "name": "杨鹏瑞",
@@ -4913,7 +4913,7 @@
       ],
       "organization_override": null
     },
-    "T241": {
+    "A4-01": {
       "members": [
         {
           "name": "俞泽延",
@@ -4930,7 +4930,7 @@
       ],
       "organization_override": null
     },
-    "T242": {
+    "B5-07": {
       "members": [
         {
           "name": "王泽君",
@@ -4947,7 +4947,7 @@
       ],
       "organization_override": null
     },
-    "T243": {
+    "A1-21": {
       "members": [
         {
           "name": "孟闯",
@@ -4964,7 +4964,7 @@
       ],
       "organization_override": null
     },
-    "T244": {
+    "A4-12": {
       "members": [
         {
           "name": "李丹琳",
@@ -4981,7 +4981,7 @@
       ],
       "organization_override": null
     },
-    "T245": {
+    "B2-04": {
       "members": [
         {
           "name": "黄瑞莎",
@@ -4998,7 +4998,7 @@
       ],
       "organization_override": null
     },
-    "T246": {
+    "B5-05": {
       "members": [
         {
           "name": "王琦睿",
@@ -5015,7 +5015,7 @@
       ],
       "organization_override": null
     },
-    "T247": {
+    "B4-10": {
       "members": [
         {
           "name": "王海彬",
@@ -5032,7 +5032,7 @@
       ],
       "organization_override": null
     },
-    "T248": {
+    "A3-13": {
       "members": [
         {
           "name": "李方凯",
@@ -5049,7 +5049,7 @@
       ],
       "organization_override": null
     },
-    "T249": {
+    "C2-01": {
       "members": [
         {
           "name": "陈雨泉",
@@ -5066,7 +5066,7 @@
       ],
       "organization_override": null
     },
-    "T250": {
+    "C2-15": {
       "members": [
         {
           "name": "沈嘉美",
@@ -5083,7 +5083,7 @@
       ],
       "organization_override": null
     },
-    "T251": {
+    "B4-04": {
       "members": [
         {
           "name": "曾好",
@@ -5100,7 +5100,7 @@
       ],
       "organization_override": null
     },
-    "T252": {
+    "C5-16": {
       "members": [
         {
           "name": "邵嘉丰",
@@ -5117,7 +5117,7 @@
       ],
       "organization_override": null
     },
-    "T253_1": {
+    "A1-15": {
       "members": [
         {
           "name": "徐欣悦",
@@ -5134,7 +5134,7 @@
       ],
       "organization_override": null
     },
-    "T254": {
+    "B4-15": {
       "members": [
         {
           "name": "余涛",
@@ -5151,7 +5151,7 @@
       ],
       "organization_override": null
     },
-    "T255": {
+    "A4-05": {
       "members": [
         {
           "name": "李嘉熙",
@@ -5168,7 +5168,7 @@
       ],
       "organization_override": null
     },
-    "T256": {
+    "B2-12": {
       "members": [
         {
           "name": "彭永康",
@@ -5185,7 +5185,7 @@
       ],
       "organization_override": null
     },
-    "T257": {
+    "B1-14": {
       "members": [
         {
           "name": "陈峰玮",
@@ -5202,7 +5202,7 @@
       ],
       "organization_override": null
     },
-    "T258": {
+    "C1-08": {
       "members": [
         {
           "name": "张钧朝",
@@ -5219,7 +5219,7 @@
       ],
       "organization_override": null
     },
-    "T259": {
+    "B4-21": {
       "members": [
         {
           "name": "钱旻灏",
@@ -5236,7 +5236,7 @@
       ],
       "organization_override": null
     },
-    "T260": {
+    "C3-15": {
       "members": [
         {
           "name": "黄泽麟",
@@ -5253,7 +5253,7 @@
       ],
       "organization_override": null
     },
-    "T310": {
+    "A5-12": {
       "members": [
         {
           "name": "黄一宸",
@@ -5270,7 +5270,7 @@
       ],
       "organization_override": null
     },
-    "T261": {
+    "A5-08": {
       "members": [
         {
           "name": "黄从恺",
@@ -5287,7 +5287,7 @@
       ],
       "organization_override": null
     },
-    "T262": {
+    "A5-04": {
       "members": [
         {
           "name": "王雨喆",
@@ -5304,7 +5304,7 @@
       ],
       "organization_override": null
     },
-    "T263": {
+    "A1-16": {
       "members": [
         {
           "name": "邵正阳",
@@ -5321,7 +5321,7 @@
       ],
       "organization_override": null
     },
-    "T264": {
+    "A3-02": {
       "members": [
         {
           "name": "胡力中",
@@ -5338,7 +5338,7 @@
       ],
       "organization_override": null
     },
-    "T265": {
+    "A4-11": {
       "members": [
         {
           "name": "康嘉浩",
@@ -5355,7 +5355,7 @@
       ],
       "organization_override": null
     },
-    "T266": {
+    "C1-03": {
       "members": [
         {
           "name": "卓陈名喆",
@@ -5372,7 +5372,7 @@
       ],
       "organization_override": null
     },
-    "T267": {
+    "B4-18": {
       "members": [
         {
           "name": "陈博恒",
@@ -5389,7 +5389,7 @@
       ],
       "organization_override": null
     },
-    "T268": {
+    "B4-12": {
       "members": [
         {
           "name": "李鑫业",
@@ -5406,7 +5406,7 @@
       ],
       "organization_override": null
     },
-    "T269": {
+    "B1-07": {
       "members": [
         {
           "name": "陈理元",
@@ -5423,7 +5423,7 @@
       ],
       "organization_override": null
     },
-    "T270": {
+    "A2-20": {
       "members": [
         {
           "name": "杨欢欢",
@@ -5440,7 +5440,7 @@
       ],
       "organization_override": null
     },
-    "T271": {
+    "B3-05": {
       "members": [
         {
           "name": "姜来",
@@ -5457,7 +5457,7 @@
       ],
       "organization_override": null
     },
-    "T272": {
+    "A2-07": {
       "members": [
         {
           "name": "谢韵",
@@ -5474,7 +5474,7 @@
       ],
       "organization_override": null
     },
-    "T273": {
+    "B4-17": {
       "members": [
         {
           "name": "黄鑫",
@@ -5491,7 +5491,7 @@
       ],
       "organization_override": null
     },
-    "T274": {
+    "C3-20": {
       "members": [
         {
           "name": "盛子儒",
@@ -5508,7 +5508,7 @@
       ],
       "organization_override": null
     },
-    "T275": {
+    "A4-07": {
       "members": [
         {
           "name": "陈畅源",
@@ -5525,7 +5525,7 @@
       ],
       "organization_override": null
     },
-    "T276": {
+    "C3-09": {
       "members": [
         {
           "name": "罗博航",

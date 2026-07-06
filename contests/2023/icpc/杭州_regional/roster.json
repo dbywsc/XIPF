@@ -1,0 +1,8199 @@
+{
+  "teams": {
+    "2023-icpc-hz-7-team": {
+      "members": [
+        {
+          "name": "冯施源",
+          "gender": ""
+        },
+        {
+          "name": "彭博",
+          "gender": ""
+        },
+        {
+          "name": "钱易",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-282-team": {
+      "members": [
+        {
+          "name": "周航锐",
+          "gender": ""
+        },
+        {
+          "name": "唐绍轩",
+          "gender": ""
+        },
+        {
+          "name": "许庭强",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-129-team": {
+      "members": [
+        {
+          "name": "吴泽岳",
+          "gender": ""
+        },
+        {
+          "name": "孙恒喆",
+          "gender": ""
+        },
+        {
+          "name": "陈昕阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-268-team": {
+      "members": [
+        {
+          "name": "刘恒熙",
+          "gender": ""
+        },
+        {
+          "name": "汪直方",
+          "gender": ""
+        },
+        {
+          "name": "郑熠",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-145-team": {
+      "members": [
+        {
+          "name": "叶开",
+          "gender": ""
+        },
+        {
+          "name": "周康阳",
+          "gender": ""
+        },
+        {
+          "name": "沈吉滪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-144-team": {
+      "members": [
+        {
+          "name": "张恒毅",
+          "gender": ""
+        },
+        {
+          "name": "陈诺",
+          "gender": ""
+        },
+        {
+          "name": "黄思远",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-9-team": {
+      "members": [
+        {
+          "name": "张文哲",
+          "gender": ""
+        },
+        {
+          "name": "范绪杰",
+          "gender": ""
+        },
+        {
+          "name": "陈潇然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-89-team": {
+      "members": [
+        {
+          "name": "杜瑜皓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-281-team": {
+      "members": [
+        {
+          "name": "叶昊星",
+          "gender": ""
+        },
+        {
+          "name": "徐哲安",
+          "gender": ""
+        },
+        {
+          "name": "谭淇心",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-132-team": {
+      "members": [
+        {
+          "name": "章绍嘉",
+          "gender": ""
+        },
+        {
+          "name": "陈玉彬",
+          "gender": ""
+        },
+        {
+          "name": "陈铭凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-123-team": {
+      "members": [
+        {
+          "name": "史皓嘉",
+          "gender": ""
+        },
+        {
+          "name": "王茂骅",
+          "gender": ""
+        },
+        {
+          "name": "范斯喆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-19-team": {
+      "members": [
+        {
+          "name": "夏鹤鸣",
+          "gender": ""
+        },
+        {
+          "name": "斯修远",
+          "gender": ""
+        },
+        {
+          "name": "郭昱哲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-63-team": {
+      "members": [
+        {
+          "name": "徐越昊",
+          "gender": ""
+        },
+        {
+          "name": "苏焜",
+          "gender": ""
+        },
+        {
+          "name": "陈少皇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-353-team": {
+      "members": [
+        {
+          "name": "侯哲昊",
+          "gender": ""
+        },
+        {
+          "name": "朱振傲",
+          "gender": ""
+        },
+        {
+          "name": "闫卢昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-458-team": {
+      "members": [
+        {
+          "name": "周翟恩和",
+          "gender": ""
+        },
+        {
+          "name": "洪文杰",
+          "gender": ""
+        },
+        {
+          "name": "郭一航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-26-team": {
+      "members": [
+        {
+          "name": "朱子林",
+          "gender": ""
+        },
+        {
+          "name": "林恺",
+          "gender": ""
+        },
+        {
+          "name": "邹知秋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-308-team": {
+      "members": [
+        {
+          "name": "张建军",
+          "gender": ""
+        },
+        {
+          "name": "张明驰",
+          "gender": ""
+        },
+        {
+          "name": "杨宗翰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-230-team": {
+      "members": [
+        {
+          "name": "何俞均",
+          "gender": ""
+        },
+        {
+          "name": "冯照航",
+          "gender": ""
+        },
+        {
+          "name": "洪朝阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-203-team": {
+      "members": [
+        {
+          "name": "余欣妍",
+          "gender": ""
+        },
+        {
+          "name": "贾子涵",
+          "gender": ""
+        },
+        {
+          "name": "麦骏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-131-team": {
+      "members": [
+        {
+          "name": "张君游",
+          "gender": ""
+        },
+        {
+          "name": "汪苏轶",
+          "gender": ""
+        },
+        {
+          "name": "章启莘",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-56-team": {
+      "members": [
+        {
+          "name": "李尚融",
+          "gender": ""
+        },
+        {
+          "name": "李林泽",
+          "gender": ""
+        },
+        {
+          "name": "程智涛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-266-team": {
+      "members": [
+        {
+          "name": "余杰",
+          "gender": ""
+        },
+        {
+          "name": "张锦程",
+          "gender": ""
+        },
+        {
+          "name": "房俊哲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-186-team": {
+      "members": [
+        {
+          "name": "何柱",
+          "gender": ""
+        },
+        {
+          "name": "林维博",
+          "gender": ""
+        },
+        {
+          "name": "蒋仕彪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-235-team": {
+      "members": [
+        {
+          "name": "林荣恩",
+          "gender": ""
+        },
+        {
+          "name": "郑欣",
+          "gender": ""
+        },
+        {
+          "name": "陈弘毅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-146-team": {
+      "members": [
+        {
+          "name": "周莫非",
+          "gender": ""
+        },
+        {
+          "name": "朱翔宇",
+          "gender": ""
+        },
+        {
+          "name": "章弥炫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-425-team": {
+      "members": [
+        {
+          "name": "汪致远",
+          "gender": ""
+        },
+        {
+          "name": "赵晟昊",
+          "gender": ""
+        },
+        {
+          "name": "黄建恒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-88-team": {
+      "members": [
+        {
+          "name": "李昕然",
+          "gender": ""
+        },
+        {
+          "name": "胡赵阳",
+          "gender": ""
+        },
+        {
+          "name": "黄洛天",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-279-team": {
+      "members": [
+        {
+          "name": "张艺缤",
+          "gender": ""
+        },
+        {
+          "name": "迟凯文",
+          "gender": ""
+        },
+        {
+          "name": "韩豫葳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-130-team": {
+      "members": [
+        {
+          "name": "周以山",
+          "gender": ""
+        },
+        {
+          "name": "姜宇辰",
+          "gender": ""
+        },
+        {
+          "name": "徐司丞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-135-team": {
+      "members": [
+        {
+          "name": "尹吴潇",
+          "gender": ""
+        },
+        {
+          "name": "戴志炜",
+          "gender": ""
+        },
+        {
+          "name": "赵政和",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-14-team": {
+      "members": [
+        {
+          "name": "吴湛宇",
+          "gender": ""
+        },
+        {
+          "name": "权尚浩然",
+          "gender": ""
+        },
+        {
+          "name": "王宇龙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-163-team": {
+      "members": [
+        {
+          "name": "廖曙康",
+          "gender": ""
+        },
+        {
+          "name": "朱名扬",
+          "gender": ""
+        },
+        {
+          "name": "苏杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-244-team": {
+      "members": [
+        {
+          "name": "何平",
+          "gender": ""
+        },
+        {
+          "name": "金朝哲",
+          "gender": ""
+        },
+        {
+          "name": "陈涣焕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-386-team": {
+      "members": [
+        {
+          "name": "余喆涵",
+          "gender": ""
+        },
+        {
+          "name": "闫方昭",
+          "gender": ""
+        },
+        {
+          "name": "高义雄",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-477-team": {
+      "members": [
+        {
+          "name": "刘志源",
+          "gender": ""
+        },
+        {
+          "name": "古鸣浩",
+          "gender": ""
+        },
+        {
+          "name": "赵肖睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-419-team": {
+      "members": [
+        {
+          "name": "叶瑞阳",
+          "gender": ""
+        },
+        {
+          "name": "罗志炜",
+          "gender": ""
+        },
+        {
+          "name": "陈泓睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-391-team": {
+      "members": [
+        {
+          "name": "姜宣丞",
+          "gender": ""
+        },
+        {
+          "name": "衛家熙",
+          "gender": ""
+        },
+        {
+          "name": "黃梓謙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-12-team": {
+      "members": [
+        {
+          "name": "唐怡浜",
+          "gender": ""
+        },
+        {
+          "name": "崔绍锞",
+          "gender": ""
+        },
+        {
+          "name": "金炼凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-305-team": {
+      "members": [
+        {
+          "name": "张景博",
+          "gender": ""
+        },
+        {
+          "name": "胡豪达",
+          "gender": ""
+        },
+        {
+          "name": "范晓泽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-346-team": {
+      "members": [
+        {
+          "name": "卢凯宾",
+          "gender": ""
+        },
+        {
+          "name": "水熙锐",
+          "gender": ""
+        },
+        {
+          "name": "谷嘉良",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-459-team": {
+      "members": [
+        {
+          "name": "阎昶澍",
+          "gender": ""
+        },
+        {
+          "name": "陈聆祎",
+          "gender": ""
+        },
+        {
+          "name": "陈骆鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-15-team": {
+      "members": [
+        {
+          "name": "王大禹",
+          "gender": ""
+        },
+        {
+          "name": "董和军",
+          "gender": ""
+        },
+        {
+          "name": "蒋槟阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-306-team": {
+      "members": [
+        {
+          "name": "刘泳霖",
+          "gender": ""
+        },
+        {
+          "name": "戴之恒",
+          "gender": ""
+        },
+        {
+          "name": "李青峰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-190-team": {
+      "members": [
+        {
+          "name": "刘东阳",
+          "gender": ""
+        },
+        {
+          "name": "陈开宇",
+          "gender": ""
+        },
+        {
+          "name": "黄浚源",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-289-team": {
+      "members": [
+        {
+          "name": "严一涵",
+          "gender": ""
+        },
+        {
+          "name": "尚棋浩",
+          "gender": ""
+        },
+        {
+          "name": "张胜熙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-400-team": {
+      "members": [
+        {
+          "name": "叶梓成",
+          "gender": ""
+        },
+        {
+          "name": "李彦奎",
+          "gender": ""
+        },
+        {
+          "name": "陈诗翰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-18-team": {
+      "members": [
+        {
+          "name": "姜皓",
+          "gender": ""
+        },
+        {
+          "name": "朱智睿",
+          "gender": ""
+        },
+        {
+          "name": "齐思恺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-138-team": {
+      "members": [
+        {
+          "name": "尹凯乐",
+          "gender": ""
+        },
+        {
+          "name": "杨鑫",
+          "gender": ""
+        },
+        {
+          "name": "柳徐吉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-198-team": {
+      "members": [
+        {
+          "name": "于之航",
+          "gender": ""
+        },
+        {
+          "name": "王一丁",
+          "gender": ""
+        },
+        {
+          "name": "陈俊甫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-390-team": {
+      "members": [
+        {
+          "name": "忙秋阳",
+          "gender": ""
+        },
+        {
+          "name": "林一诺",
+          "gender": ""
+        },
+        {
+          "name": "郭青硕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-408-team": {
+      "members": [
+        {
+          "name": "方韬瑜",
+          "gender": ""
+        },
+        {
+          "name": "楼晨",
+          "gender": ""
+        },
+        {
+          "name": "沈昕哲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-214-team": {
+      "members": [
+        {
+          "name": "张天福",
+          "gender": ""
+        },
+        {
+          "name": "陈哲",
+          "gender": ""
+        },
+        {
+          "name": "颜玮琦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-297-team": {
+      "members": [
+        {
+          "name": "史靖玮",
+          "gender": ""
+        },
+        {
+          "name": "姜聿时",
+          "gender": ""
+        },
+        {
+          "name": "郭士纳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-174-team": {
+      "members": [
+        {
+          "name": "王良晶",
+          "gender": ""
+        },
+        {
+          "name": "邓鋆",
+          "gender": ""
+        },
+        {
+          "name": "邹宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-189-team": {
+      "members": [
+        {
+          "name": "俞仲遥",
+          "gender": ""
+        },
+        {
+          "name": "喻珈",
+          "gender": ""
+        },
+        {
+          "name": "李根",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-6-team": {
+      "members": [
+        {
+          "name": "汪之茗",
+          "gender": ""
+        },
+        {
+          "name": "郑皓元",
+          "gender": ""
+        },
+        {
+          "name": "闫昕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-387-team": {
+      "members": [
+        {
+          "name": "Mukhammadarif Sakhmoldin",
+          "gender": ""
+        },
+        {
+          "name": "Raiymbek Baishuak",
+          "gender": ""
+        },
+        {
+          "name": "Taimas Korganbayev",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-280-team": {
+      "members": [
+        {
+          "name": "肖云帆",
+          "gender": ""
+        },
+        {
+          "name": "荆国浩",
+          "gender": ""
+        },
+        {
+          "name": "顾万钧",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-236-team": {
+      "members": [
+        {
+          "name": "王崧睿",
+          "gender": ""
+        },
+        {
+          "name": "谭泽晖",
+          "gender": ""
+        },
+        {
+          "name": "黄文睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-124-team": {
+      "members": [
+        {
+          "name": "吴旻逸",
+          "gender": ""
+        },
+        {
+          "name": "徐子萱",
+          "gender": ""
+        },
+        {
+          "name": "沈福麟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-96-team": {
+      "members": [
+        {
+          "name": "毛艺婷",
+          "gender": ""
+        },
+        {
+          "name": "蔡健泓",
+          "gender": ""
+        },
+        {
+          "name": "邱泽敏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-217-team": {
+      "members": [
+        {
+          "name": "宋雨辰",
+          "gender": ""
+        },
+        {
+          "name": "杨宁远",
+          "gender": ""
+        },
+        {
+          "name": "袁天骏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-339-team": {
+      "members": [
+        {
+          "name": "储德明",
+          "gender": ""
+        },
+        {
+          "name": "姜梓恒",
+          "gender": ""
+        },
+        {
+          "name": "朱泽凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-270-team": {
+      "members": [
+        {
+          "name": "兰宇平",
+          "gender": ""
+        },
+        {
+          "name": "司马晨",
+          "gender": ""
+        },
+        {
+          "name": "林鑫淼",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-143-team": {
+      "members": [
+        {
+          "name": "姜子米",
+          "gender": ""
+        },
+        {
+          "name": "林诚凯",
+          "gender": ""
+        },
+        {
+          "name": "胡筝",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-125-team": {
+      "members": [
+        {
+          "name": "徐中天",
+          "gender": ""
+        },
+        {
+          "name": "潘大卫",
+          "gender": ""
+        },
+        {
+          "name": "王喆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-59-team": {
+      "members": [
+        {
+          "name": "吕书武",
+          "gender": ""
+        },
+        {
+          "name": "吴骏驰",
+          "gender": ""
+        },
+        {
+          "name": "徐以恒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-479-team": {
+      "members": [
+        {
+          "name": "吴景图",
+          "gender": ""
+        },
+        {
+          "name": "梁梓豪",
+          "gender": ""
+        },
+        {
+          "name": "欧梓洋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-460-team": {
+      "members": [
+        {
+          "name": "周瓯翔",
+          "gender": ""
+        },
+        {
+          "name": "方驰正",
+          "gender": ""
+        },
+        {
+          "name": "陈卫星",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-392-team": {
+      "members": [
+        {
+          "name": "吳有孚",
+          "gender": ""
+        },
+        {
+          "name": "袁樂勤",
+          "gender": ""
+        },
+        {
+          "name": "謝昶豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-133-team": {
+      "members": [
+        {
+          "name": "徐墨凡",
+          "gender": ""
+        },
+        {
+          "name": "徐铭扬",
+          "gender": ""
+        },
+        {
+          "name": "陈姿颖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-245-team": {
+      "members": [
+        {
+          "name": "吴俐伽",
+          "gender": ""
+        },
+        {
+          "name": "蔡佳铭",
+          "gender": ""
+        },
+        {
+          "name": "郭佳樊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-323-team": {
+      "members": [
+        {
+          "name": "刘却桓",
+          "gender": ""
+        },
+        {
+          "name": "朱奕杰",
+          "gender": ""
+        },
+        {
+          "name": "黄云垄",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-340-team": {
+      "members": [
+        {
+          "name": "刘依扬",
+          "gender": ""
+        },
+        {
+          "name": "孙治弘",
+          "gender": ""
+        },
+        {
+          "name": "张乐天",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-377-team": {
+      "members": [
+        {
+          "name": "来冠男",
+          "gender": ""
+        },
+        {
+          "name": "杨文昊",
+          "gender": ""
+        },
+        {
+          "name": "王俊超",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-8-team": {
+      "members": [
+        {
+          "name": "任柯瑾",
+          "gender": ""
+        },
+        {
+          "name": "林帮才",
+          "gender": ""
+        },
+        {
+          "name": "肖千与",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-57-team": {
+      "members": [
+        {
+          "name": "彭帅康",
+          "gender": ""
+        },
+        {
+          "name": "李奕聪",
+          "gender": ""
+        },
+        {
+          "name": "陈奕可",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-288-team": {
+      "members": [
+        {
+          "name": "俞程",
+          "gender": ""
+        },
+        {
+          "name": "许蕴朴",
+          "gender": ""
+        },
+        {
+          "name": "陈子载",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-441-team": {
+      "members": [
+        {
+          "name": "俞思远",
+          "gender": ""
+        },
+        {
+          "name": "周启鸿",
+          "gender": ""
+        },
+        {
+          "name": "竺夏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-111-team": {
+      "members": [
+        {
+          "name": "王宜平",
+          "gender": ""
+        },
+        {
+          "name": "陈云龙",
+          "gender": ""
+        },
+        {
+          "name": "陈思阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-16-team": {
+      "members": [
+        {
+          "name": "徐文博",
+          "gender": ""
+        },
+        {
+          "name": "曾梓勋",
+          "gender": ""
+        },
+        {
+          "name": "黄东琦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-83-team": {
+      "members": [
+        {
+          "name": "江滢怡",
+          "gender": ""
+        },
+        {
+          "name": "游世伟",
+          "gender": ""
+        },
+        {
+          "name": "王奕然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-110-team": {
+      "members": [
+        {
+          "name": "叶程鹏",
+          "gender": ""
+        },
+        {
+          "name": "王续烨",
+          "gender": ""
+        },
+        {
+          "name": "邱思宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-482-team": {
+      "members": [
+        {
+          "name": "买琮文",
+          "gender": ""
+        },
+        {
+          "name": "刘博",
+          "gender": ""
+        },
+        {
+          "name": "贾文婷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-404-team": {
+      "members": [
+        {
+          "name": "周杨涛",
+          "gender": ""
+        },
+        {
+          "name": "彭烨青",
+          "gender": ""
+        },
+        {
+          "name": "辜湘利",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-179-team": {
+      "members": [
+        {
+          "name": "余梓灏",
+          "gender": ""
+        },
+        {
+          "name": "梁耀威",
+          "gender": ""
+        },
+        {
+          "name": "陈漫璟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-105-team": {
+      "members": [
+        {
+          "name": "李泽锴",
+          "gender": ""
+        },
+        {
+          "name": "王荣航",
+          "gender": ""
+        },
+        {
+          "name": "蒋卓彧",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-87-team": {
+      "members": [
+        {
+          "name": "刘澈",
+          "gender": ""
+        },
+        {
+          "name": "吴思鸿",
+          "gender": ""
+        },
+        {
+          "name": "张润哲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-366-team": {
+      "members": [
+        {
+          "name": "周品良",
+          "gender": ""
+        },
+        {
+          "name": "杨一帆",
+          "gender": ""
+        },
+        {
+          "name": "贺睿杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-347-team": {
+      "members": [
+        {
+          "name": "李澍",
+          "gender": ""
+        },
+        {
+          "name": "熊师飏",
+          "gender": ""
+        },
+        {
+          "name": "赵天毅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-324-team": {
+      "members": [
+        {
+          "name": "丁宗康",
+          "gender": ""
+        },
+        {
+          "name": "尹人令",
+          "gender": ""
+        },
+        {
+          "name": "王鹏超",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-69-team": {
+      "members": [
+        {
+          "name": "刘青山",
+          "gender": ""
+        },
+        {
+          "name": "杨韵清",
+          "gender": ""
+        },
+        {
+          "name": "黄城帆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-215-team": {
+      "members": [
+        {
+          "name": "徐崇瑜",
+          "gender": ""
+        },
+        {
+          "name": "杨书宇",
+          "gender": ""
+        },
+        {
+          "name": "陈佳润",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-285-team": {
+      "members": [
+        {
+          "name": "张昊雨",
+          "gender": ""
+        },
+        {
+          "name": "耿浩天",
+          "gender": ""
+        },
+        {
+          "name": "董家豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-378-team": {
+      "members": [
+        {
+          "name": "傅祥斌",
+          "gender": ""
+        },
+        {
+          "name": "徐畅",
+          "gender": ""
+        },
+        {
+          "name": "马博涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-436-team": {
+      "members": [
+        {
+          "name": "张煜",
+          "gender": ""
+        },
+        {
+          "name": "章可仲",
+          "gender": ""
+        },
+        {
+          "name": "郑可",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-334-team": {
+      "members": [
+        {
+          "name": "安玺儒",
+          "gender": ""
+        },
+        {
+          "name": "庄瀚镕",
+          "gender": ""
+        },
+        {
+          "name": "蒋锐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-76-team": {
+      "members": [
+        {
+          "name": "蔡璧润",
+          "gender": ""
+        },
+        {
+          "name": "越静怡",
+          "gender": ""
+        },
+        {
+          "name": "黄佳鋐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-65-team": {
+      "members": [
+        {
+          "name": "司伟业",
+          "gender": ""
+        },
+        {
+          "name": "李不凡",
+          "gender": ""
+        },
+        {
+          "name": "董淑睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-82-team": {
+      "members": [
+        {
+          "name": "林东颖",
+          "gender": ""
+        },
+        {
+          "name": "王子豪",
+          "gender": ""
+        },
+        {
+          "name": "蔡长波",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-62-team": {
+      "members": [
+        {
+          "name": "王啸烽",
+          "gender": ""
+        },
+        {
+          "name": "王涵聪",
+          "gender": ""
+        },
+        {
+          "name": "邹宇轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-152-team": {
+      "members": [
+        {
+          "name": "刘志恒",
+          "gender": ""
+        },
+        {
+          "name": "翟一可",
+          "gender": ""
+        },
+        {
+          "name": "陈哲良",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-328-team": {
+      "members": [
+        {
+          "name": "周骁逸",
+          "gender": ""
+        },
+        {
+          "name": "王宇轩",
+          "gender": ""
+        },
+        {
+          "name": "简嘉瑶",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-35-team": {
+      "members": [
+        {
+          "name": "崔家瑞",
+          "gender": ""
+        },
+        {
+          "name": "罗毅锐",
+          "gender": ""
+        },
+        {
+          "name": "谢骞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-175-team": {
+      "members": [
+        {
+          "name": "程籽实",
+          "gender": ""
+        },
+        {
+          "name": "谈笑枫",
+          "gender": ""
+        },
+        {
+          "name": "谢书骁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-286-team": {
+      "members": [
+        {
+          "name": "宿子腾",
+          "gender": ""
+        },
+        {
+          "name": "杨昀淇",
+          "gender": ""
+        },
+        {
+          "name": "詹靖杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-437-team": {
+      "members": [
+        {
+          "name": "嵇纹垲",
+          "gender": ""
+        },
+        {
+          "name": "林宸",
+          "gender": ""
+        },
+        {
+          "name": "陈炯荣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-480-team": {
+      "members": [
+        {
+          "name": "吴明禹",
+          "gender": ""
+        },
+        {
+          "name": "肖淇",
+          "gender": ""
+        },
+        {
+          "name": "韩冠东",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-438-team": {
+      "members": [
+        {
+          "name": "俞天琦",
+          "gender": ""
+        },
+        {
+          "name": "周启旋",
+          "gender": ""
+        },
+        {
+          "name": "朱晨峰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-32-team": {
+      "members": [
+        {
+          "name": "任飞",
+          "gender": ""
+        },
+        {
+          "name": "李知拙",
+          "gender": ""
+        },
+        {
+          "name": "黄旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-232-team": {
+      "members": [
+        {
+          "name": "张嘉妤",
+          "gender": ""
+        },
+        {
+          "name": "钟乐",
+          "gender": ""
+        },
+        {
+          "name": "陈峦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-411-team": {
+      "members": [
+        {
+          "name": "方晨",
+          "gender": ""
+        },
+        {
+          "name": "涂荣基",
+          "gender": ""
+        },
+        {
+          "name": "胡铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-98-team": {
+      "members": [
+        {
+          "name": "李周祥",
+          "gender": ""
+        },
+        {
+          "name": "李崇彰",
+          "gender": ""
+        },
+        {
+          "name": "陈松盛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-364-team": {
+      "members": [
+        {
+          "name": "刘一可",
+          "gender": ""
+        },
+        {
+          "name": "洪家庆",
+          "gender": ""
+        },
+        {
+          "name": "许孜诚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-330-team": {
+      "members": [
+        {
+          "name": "任敏浩",
+          "gender": ""
+        },
+        {
+          "name": "孙宇飞",
+          "gender": ""
+        },
+        {
+          "name": "陈景钧",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-234-team": {
+      "members": [
+        {
+          "name": "周相羽",
+          "gender": ""
+        },
+        {
+          "name": "朱家辰",
+          "gender": ""
+        },
+        {
+          "name": "贺卓宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-307-team": {
+      "members": [
+        {
+          "name": "吴之琛",
+          "gender": ""
+        },
+        {
+          "name": "曹倍铭",
+          "gender": ""
+        },
+        {
+          "name": "赵鹏宏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-304-team": {
+      "members": [
+        {
+          "name": "何禹喧",
+          "gender": ""
+        },
+        {
+          "name": "徐华源",
+          "gender": ""
+        },
+        {
+          "name": "林暄远",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-333-team": {
+      "members": [
+        {
+          "name": "李国鸿",
+          "gender": ""
+        },
+        {
+          "name": "许哲诚",
+          "gender": ""
+        },
+        {
+          "name": "陈晟骞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-221-team": {
+      "members": [
+        {
+          "name": "史旨",
+          "gender": ""
+        },
+        {
+          "name": "殷勇杰",
+          "gender": ""
+        },
+        {
+          "name": "雷震宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-382-team": {
+      "members": [
+        {
+          "name": "何明成",
+          "gender": ""
+        },
+        {
+          "name": "刘炅珺",
+          "gender": ""
+        },
+        {
+          "name": "游克峰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-117-team": {
+      "members": [
+        {
+          "name": "易子杰",
+          "gender": ""
+        },
+        {
+          "name": "李昕烨",
+          "gender": ""
+        },
+        {
+          "name": "许展翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-243-team": {
+      "members": [
+        {
+          "name": "丁则文",
+          "gender": ""
+        },
+        {
+          "name": "何丰辰",
+          "gender": ""
+        },
+        {
+          "name": "王一萌",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-34-team": {
+      "members": [
+        {
+          "name": "卢安来",
+          "gender": ""
+        },
+        {
+          "name": "孙伟哲",
+          "gender": ""
+        },
+        {
+          "name": "王冀恒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-86-team": {
+      "members": [
+        {
+          "name": "周子羽",
+          "gender": ""
+        },
+        {
+          "name": "李航成",
+          "gender": ""
+        },
+        {
+          "name": "罗意明",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-356-team": {
+      "members": [
+        {
+          "name": "周正",
+          "gender": ""
+        },
+        {
+          "name": "徐铭逸",
+          "gender": ""
+        },
+        {
+          "name": "邹品聪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-435-team": {
+      "members": [
+        {
+          "name": "姜梓堉",
+          "gender": ""
+        },
+        {
+          "name": "张启琛",
+          "gender": ""
+        },
+        {
+          "name": "朱新捷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-474-team": {
+      "members": [
+        {
+          "name": "朱天乐",
+          "gender": ""
+        },
+        {
+          "name": "李渔",
+          "gender": ""
+        },
+        {
+          "name": "高雨涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-237-team": {
+      "members": [
+        {
+          "name": "潘谟天",
+          "gender": ""
+        },
+        {
+          "name": "陆华均",
+          "gender": ""
+        },
+        {
+          "name": "陈梓睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-429-team": {
+      "members": [
+        {
+          "name": "梁展博",
+          "gender": ""
+        },
+        {
+          "name": "范思哲",
+          "gender": ""
+        },
+        {
+          "name": "陶俊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-319-team": {
+      "members": [
+        {
+          "name": "何元捷",
+          "gender": ""
+        },
+        {
+          "name": "张艺轩",
+          "gender": ""
+        },
+        {
+          "name": "郑博瀚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-5-team": {
+      "members": [
+        {
+          "name": "周易",
+          "gender": ""
+        },
+        {
+          "name": "王思诚",
+          "gender": ""
+        },
+        {
+          "name": "郑元兴",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-310-team": {
+      "members": [
+        {
+          "name": "吴佳霖",
+          "gender": ""
+        },
+        {
+          "name": "张皓宇",
+          "gender": ""
+        },
+        {
+          "name": "董柯演",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-418-team": {
+      "members": [
+        {
+          "name": "张济威",
+          "gender": ""
+        },
+        {
+          "name": "蒋瑞丰",
+          "gender": ""
+        },
+        {
+          "name": "陈信言",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-360-team": {
+      "members": [
+        {
+          "name": "朱星宇",
+          "gender": ""
+        },
+        {
+          "name": "王靖恒",
+          "gender": ""
+        },
+        {
+          "name": "黄旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-193-team": {
+      "members": [
+        {
+          "name": "张国涛",
+          "gender": ""
+        },
+        {
+          "name": "邓洁",
+          "gender": ""
+        },
+        {
+          "name": "陈程",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-208-team": {
+      "members": [
+        {
+          "name": "张道正",
+          "gender": ""
+        },
+        {
+          "name": "林海昊",
+          "gender": ""
+        },
+        {
+          "name": "赵安杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-224-team": {
+      "members": [
+        {
+          "name": "李春阳",
+          "gender": ""
+        },
+        {
+          "name": "许博",
+          "gender": ""
+        },
+        {
+          "name": "陈新阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-248-team": {
+      "members": [
+        {
+          "name": "洪伟",
+          "gender": ""
+        },
+        {
+          "name": "潘小康",
+          "gender": ""
+        },
+        {
+          "name": "管润达",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-4-team": {
+      "members": [
+        {
+          "name": "戴铃涛",
+          "gender": ""
+        },
+        {
+          "name": "林仁杰",
+          "gender": ""
+        },
+        {
+          "name": "翟智伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-320-team": {
+      "members": [
+        {
+          "name": "林泽扬",
+          "gender": ""
+        },
+        {
+          "name": "潘键颖",
+          "gender": ""
+        },
+        {
+          "name": "黄瑛琪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-23-team": {
+      "members": [
+        {
+          "name": "袁奕晨",
+          "gender": ""
+        },
+        {
+          "name": "费承昱",
+          "gender": ""
+        },
+        {
+          "name": "黄子越",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-256-team": {
+      "members": [
+        {
+          "name": "赵思远",
+          "gender": ""
+        },
+        {
+          "name": "车昱辉",
+          "gender": ""
+        },
+        {
+          "name": "郭军凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-2-team": {
+      "members": [
+        {
+          "name": "刘同奇",
+          "gender": ""
+        },
+        {
+          "name": "王环",
+          "gender": ""
+        },
+        {
+          "name": "胡柯青",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-165-team": {
+      "members": [
+        {
+          "name": "梁韧",
+          "gender": ""
+        },
+        {
+          "name": "金烜宇",
+          "gender": ""
+        },
+        {
+          "name": "陈睿轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-147-team": {
+      "members": [
+        {
+          "name": "吴林瑄",
+          "gender": ""
+        },
+        {
+          "name": "唐天行",
+          "gender": ""
+        },
+        {
+          "name": "桂阳熠",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-188-team": {
+      "members": [
+        {
+          "name": "李梓扬",
+          "gender": ""
+        },
+        {
+          "name": "林博珩",
+          "gender": ""
+        },
+        {
+          "name": "邱卓珩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-258-team": {
+      "members": [
+        {
+          "name": "周杰",
+          "gender": ""
+        },
+        {
+          "name": "张世梁",
+          "gender": ""
+        },
+        {
+          "name": "陆玺州",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-58-team": {
+      "members": [
+        {
+          "name": "王振波",
+          "gender": ""
+        },
+        {
+          "name": "郑力文",
+          "gender": ""
+        },
+        {
+          "name": "魏祥翰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-293-team": {
+      "members": [
+        {
+          "name": "张森",
+          "gender": ""
+        },
+        {
+          "name": "潘清源",
+          "gender": ""
+        },
+        {
+          "name": "王震",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-70-team": {
+      "members": [
+        {
+          "name": "孙逸凡",
+          "gender": ""
+        },
+        {
+          "name": "李玟剑",
+          "gender": ""
+        },
+        {
+          "name": "郭旭阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-136-team": {
+      "members": [
+        {
+          "name": "余梓诚",
+          "gender": ""
+        },
+        {
+          "name": "傅景康",
+          "gender": ""
+        },
+        {
+          "name": "徐熙来",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-348-team": {
+      "members": [
+        {
+          "name": "张涵",
+          "gender": ""
+        },
+        {
+          "name": "潘非",
+          "gender": ""
+        },
+        {
+          "name": "黄子君",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-478-team": {
+      "members": [
+        {
+          "name": "王泓皓",
+          "gender": ""
+        },
+        {
+          "name": "罗金浩",
+          "gender": ""
+        },
+        {
+          "name": "陈峻宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-226-team": {
+      "members": [
+        {
+          "name": "吴佳炜",
+          "gender": ""
+        },
+        {
+          "name": "李书羽",
+          "gender": ""
+        },
+        {
+          "name": "赵赟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-309-team": {
+      "members": [
+        {
+          "name": "俞喆川",
+          "gender": ""
+        },
+        {
+          "name": "杨子烆",
+          "gender": ""
+        },
+        {
+          "name": "钱靖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-457-team": {
+      "members": [
+        {
+          "name": "朱晨曦",
+          "gender": ""
+        },
+        {
+          "name": "蔡俊成",
+          "gender": ""
+        },
+        {
+          "name": "高雍涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-379-team": {
+      "members": [
+        {
+          "name": "毛锦阳",
+          "gender": ""
+        },
+        {
+          "name": "谢承志",
+          "gender": ""
+        },
+        {
+          "name": "陈凯南",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-13-team": {
+      "members": [
+        {
+          "name": "孙健钧",
+          "gender": ""
+        },
+        {
+          "name": "李澎瑞",
+          "gender": ""
+        },
+        {
+          "name": "黄伟宁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-483-team": {
+      "members": [
+        {
+          "name": "单均浩",
+          "gender": ""
+        },
+        {
+          "name": "唐铭泽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-155-team": {
+      "members": [
+        {
+          "name": "刘叠",
+          "gender": ""
+        },
+        {
+          "name": "高以宁",
+          "gender": ""
+        },
+        {
+          "name": "黄鹏宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-11-team": {
+      "members": [
+        {
+          "name": "佟祥正",
+          "gender": ""
+        },
+        {
+          "name": "易思铭",
+          "gender": ""
+        },
+        {
+          "name": "管丹辰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-352-team": {
+      "members": [
+        {
+          "name": "刘泽宇",
+          "gender": ""
+        },
+        {
+          "name": "巫殷凯",
+          "gender": ""
+        },
+        {
+          "name": "胡书诚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-114-team": {
+      "members": [
+        {
+          "name": "李潭啸",
+          "gender": ""
+        },
+        {
+          "name": "蔡易轩",
+          "gender": ""
+        },
+        {
+          "name": "高俊垚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-412-team": {
+      "members": [
+        {
+          "name": "叶国钊",
+          "gender": ""
+        },
+        {
+          "name": "张宏剑",
+          "gender": ""
+        },
+        {
+          "name": "朱新宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-231-team": {
+      "members": [
+        {
+          "name": "李田",
+          "gender": ""
+        },
+        {
+          "name": "杨博乔",
+          "gender": ""
+        },
+        {
+          "name": "汪汇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-29-team": {
+      "members": [
+        {
+          "name": "傅俊林",
+          "gender": ""
+        },
+        {
+          "name": "颜方志",
+          "gender": ""
+        },
+        {
+          "name": "高延子鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-363-team": {
+      "members": [
+        {
+          "name": "张宝升",
+          "gender": ""
+        },
+        {
+          "name": "方亦晨",
+          "gender": ""
+        },
+        {
+          "name": "黄万平",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-80-team": {
+      "members": [
+        {
+          "name": "丁杰",
+          "gender": ""
+        },
+        {
+          "name": "李盈盈",
+          "gender": ""
+        },
+        {
+          "name": "林奕鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-359-team": {
+      "members": [
+        {
+          "name": "何贯中",
+          "gender": ""
+        },
+        {
+          "name": "蒋叶桢",
+          "gender": ""
+        },
+        {
+          "name": "陈俊丞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-264-team": {
+      "members": [
+        {
+          "name": "胡值闻",
+          "gender": ""
+        },
+        {
+          "name": "吴凯晟",
+          "gender": ""
+        },
+        {
+          "name": "蒋轶波",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-199-team": {
+      "members": [
+        {
+          "name": "周建政",
+          "gender": ""
+        },
+        {
+          "name": "文凯",
+          "gender": ""
+        },
+        {
+          "name": "魏褚鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-112-team": {
+      "members": [
+        {
+          "name": "朱峰",
+          "gender": ""
+        },
+        {
+          "name": "王羽婷",
+          "gender": ""
+        },
+        {
+          "name": "谢书泱",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-367-team": {
+      "members": [
+        {
+          "name": "胡沛玮",
+          "gender": ""
+        },
+        {
+          "name": "金钰奇",
+          "gender": ""
+        },
+        {
+          "name": "马铭源",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-355-team": {
+      "members": [
+        {
+          "name": "邱佳伟",
+          "gender": ""
+        },
+        {
+          "name": "陈一鸣",
+          "gender": ""
+        },
+        {
+          "name": "黄凯佳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-164-team": {
+      "members": [
+        {
+          "name": "万佳文",
+          "gender": ""
+        },
+        {
+          "name": "文帅",
+          "gender": ""
+        },
+        {
+          "name": "项嘉森",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-394-team": {
+      "members": [
+        {
+          "name": "万鑫",
+          "gender": ""
+        },
+        {
+          "name": "彭蔚祺",
+          "gender": ""
+        },
+        {
+          "name": "魏志高",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-316-team": {
+      "members": [
+        {
+          "name": "曹婉楠",
+          "gender": ""
+        },
+        {
+          "name": "陈俊明",
+          "gender": ""
+        },
+        {
+          "name": "陈婷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-109-team": {
+      "members": [
+        {
+          "name": "冯小石",
+          "gender": ""
+        },
+        {
+          "name": "宿斯玮",
+          "gender": ""
+        },
+        {
+          "name": "张良正",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-358-team": {
+      "members": [
+        {
+          "name": "张子漠",
+          "gender": ""
+        },
+        {
+          "name": "林耿哲",
+          "gender": ""
+        },
+        {
+          "name": "黄鸿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-269-team": {
+      "members": [
+        {
+          "name": "吕扬盛",
+          "gender": ""
+        },
+        {
+          "name": "王泽宇",
+          "gender": ""
+        },
+        {
+          "name": "陈科朋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-207-team": {
+      "members": [
+        {
+          "name": "熊宇非",
+          "gender": ""
+        },
+        {
+          "name": "王志鹏",
+          "gender": ""
+        },
+        {
+          "name": "蒋佳良",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-365-team": {
+      "members": [
+        {
+          "name": "曹思宇",
+          "gender": ""
+        },
+        {
+          "name": "杨丰源",
+          "gender": ""
+        },
+        {
+          "name": "胡扬帆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-106-team": {
+      "members": [
+        {
+          "name": "刘宇林",
+          "gender": ""
+        },
+        {
+          "name": "李云昊",
+          "gender": ""
+        },
+        {
+          "name": "苏弘烨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-420-team": {
+      "members": [
+        {
+          "name": "徐洋",
+          "gender": ""
+        },
+        {
+          "name": "江银",
+          "gender": ""
+        },
+        {
+          "name": "赵恺捷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-325-team": {
+      "members": [
+        {
+          "name": "张博成",
+          "gender": ""
+        },
+        {
+          "name": "张梓浩",
+          "gender": ""
+        },
+        {
+          "name": "钟诚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-267-team": {
+      "members": [
+        {
+          "name": "胡砚枫",
+          "gender": ""
+        },
+        {
+          "name": "那峥",
+          "gender": ""
+        },
+        {
+          "name": "邱祺皓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-177-team": {
+      "members": [
+        {
+          "name": "刘凯源",
+          "gender": ""
+        },
+        {
+          "name": "汪鼎尊",
+          "gender": ""
+        },
+        {
+          "name": "罗持",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-180-team": {
+      "members": [
+        {
+          "name": "刘家罗",
+          "gender": ""
+        },
+        {
+          "name": "沈畅",
+          "gender": ""
+        },
+        {
+          "name": "王乐然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-139-team": {
+      "members": [
+        {
+          "name": "余家帅",
+          "gender": ""
+        },
+        {
+          "name": "刘书凡",
+          "gender": ""
+        },
+        {
+          "name": "戴泽耀",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-140-team": {
+      "members": [
+        {
+          "name": "戴钒宇",
+          "gender": ""
+        },
+        {
+          "name": "王图南",
+          "gender": ""
+        },
+        {
+          "name": "童春琦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-25-team": {
+      "members": [
+        {
+          "name": "于瀚文",
+          "gender": ""
+        },
+        {
+          "name": "张程",
+          "gender": ""
+        },
+        {
+          "name": "李坚辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-85-team": {
+      "members": [
+        {
+          "name": "何友瑭",
+          "gender": ""
+        },
+        {
+          "name": "邹畅",
+          "gender": ""
+        },
+        {
+          "name": "陈佳鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-142-team": {
+      "members": [
+        {
+          "name": "杨嘉福",
+          "gender": ""
+        },
+        {
+          "name": "殷吴辉",
+          "gender": ""
+        },
+        {
+          "name": "陈科舟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-90-team": {
+      "members": [
+        {
+          "name": "林敏彬",
+          "gender": ""
+        },
+        {
+          "name": "潘锦炫",
+          "gender": ""
+        },
+        {
+          "name": "钟迪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-81-team": {
+      "members": [
+        {
+          "name": "倪墨",
+          "gender": ""
+        },
+        {
+          "name": "吴清伟",
+          "gender": ""
+        },
+        {
+          "name": "陈宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-168-team": {
+      "members": [
+        {
+          "name": "倪祺祺",
+          "gender": ""
+        },
+        {
+          "name": "杨泽旭",
+          "gender": ""
+        },
+        {
+          "name": "马嘉豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-50-team": {
+      "members": [
+        {
+          "name": "叶文祺",
+          "gender": ""
+        },
+        {
+          "name": "许多",
+          "gender": ""
+        },
+        {
+          "name": "许润峰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-233-team": {
+      "members": [
+        {
+          "name": "王圣宇",
+          "gender": ""
+        },
+        {
+          "name": "王政星",
+          "gender": ""
+        },
+        {
+          "name": "羊新旺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-45-team": {
+      "members": [
+        {
+          "name": "葛轩铭",
+          "gender": ""
+        },
+        {
+          "name": "陈泆君",
+          "gender": ""
+        },
+        {
+          "name": "鲁永卓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-187-team": {
+      "members": [
+        {
+          "name": "周陆延",
+          "gender": ""
+        },
+        {
+          "name": "章宏宇",
+          "gender": ""
+        },
+        {
+          "name": "黄子益",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-287-team": {
+      "members": [
+        {
+          "name": "滕家良",
+          "gender": ""
+        },
+        {
+          "name": "程前",
+          "gender": ""
+        },
+        {
+          "name": "童慎豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-445-team": {
+      "members": [
+        {
+          "name": "古晨峰",
+          "gender": ""
+        },
+        {
+          "name": "赵圣元",
+          "gender": ""
+        },
+        {
+          "name": "邱宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-178-team": {
+      "members": [
+        {
+          "name": "姜朝顺",
+          "gender": ""
+        },
+        {
+          "name": "孙书航",
+          "gender": ""
+        },
+        {
+          "name": "许青阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-115-team": {
+      "members": [
+        {
+          "name": "吴泽楷",
+          "gender": ""
+        },
+        {
+          "name": "唐楷杰",
+          "gender": ""
+        },
+        {
+          "name": "潘思成",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-46-team": {
+      "members": [
+        {
+          "name": "冯宇航",
+          "gender": ""
+        },
+        {
+          "name": "张一鸣",
+          "gender": ""
+        },
+        {
+          "name": "许骏扬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-118-team": {
+      "members": [
+        {
+          "name": "凌晟博",
+          "gender": ""
+        },
+        {
+          "name": "刘松语",
+          "gender": ""
+        },
+        {
+          "name": "顾红卫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-218-team": {
+      "members": [
+        {
+          "name": "吕澎",
+          "gender": ""
+        },
+        {
+          "name": "郑宇航",
+          "gender": ""
+        },
+        {
+          "name": "马良",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-472-team": {
+      "members": [
+        {
+          "name": "何炳琨",
+          "gender": ""
+        },
+        {
+          "name": "吕飞扬",
+          "gender": ""
+        },
+        {
+          "name": "马思博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-119-team": {
+      "members": [
+        {
+          "name": "刘泽旭",
+          "gender": ""
+        },
+        {
+          "name": "李晶洋",
+          "gender": ""
+        },
+        {
+          "name": "牛梓旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-161-team": {
+      "members": [
+        {
+          "name": "申皓民",
+          "gender": ""
+        },
+        {
+          "name": "盛凌峰",
+          "gender": ""
+        },
+        {
+          "name": "管帅林",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-350-team": {
+      "members": [
+        {
+          "name": "张子亮",
+          "gender": ""
+        },
+        {
+          "name": "朱俊杰",
+          "gender": ""
+        },
+        {
+          "name": "樊景文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-53-team": {
+      "members": [
+        {
+          "name": "李泽与",
+          "gender": ""
+        },
+        {
+          "name": "谭傲",
+          "gender": ""
+        },
+        {
+          "name": "赵一鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-158-team": {
+      "members": [
+        {
+          "name": "代玉鑫",
+          "gender": ""
+        },
+        {
+          "name": "李继伟",
+          "gender": ""
+        },
+        {
+          "name": "杨阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-454-team": {
+      "members": [
+        {
+          "name": "刘子杭",
+          "gender": ""
+        },
+        {
+          "name": "张民权",
+          "gender": ""
+        },
+        {
+          "name": "陈敏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-17-team": {
+      "members": [
+        {
+          "name": "付晓",
+          "gender": ""
+        },
+        {
+          "name": "薛墨寒",
+          "gender": ""
+        },
+        {
+          "name": "邱若昕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-73-team": {
+      "members": [
+        {
+          "name": "何辰玮",
+          "gender": ""
+        },
+        {
+          "name": "刘一鸣",
+          "gender": ""
+        },
+        {
+          "name": "王俊迪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-200-team": {
+      "members": [
+        {
+          "name": "吴杰",
+          "gender": ""
+        },
+        {
+          "name": "林贝宁",
+          "gender": ""
+        },
+        {
+          "name": "蔡万杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-113-team": {
+      "members": [
+        {
+          "name": "李嘉淇",
+          "gender": ""
+        },
+        {
+          "name": "陈识曲",
+          "gender": ""
+        },
+        {
+          "name": "骆天赐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-184-team": {
+      "members": [
+        {
+          "name": "温雅杰",
+          "gender": ""
+        },
+        {
+          "name": "许棋皓",
+          "gender": ""
+        },
+        {
+          "name": "陈泽勇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-298-team": {
+      "members": [
+        {
+          "name": "松浩然",
+          "gender": ""
+        },
+        {
+          "name": "耿鹏成",
+          "gender": ""
+        },
+        {
+          "name": "雷文轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-341-team": {
+      "members": [
+        {
+          "name": "夏思恺",
+          "gender": ""
+        },
+        {
+          "name": "张博文",
+          "gender": ""
+        },
+        {
+          "name": "汪清濯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-149-team": {
+      "members": [
+        {
+          "name": "何昕悦",
+          "gender": ""
+        },
+        {
+          "name": "张益",
+          "gender": ""
+        },
+        {
+          "name": "胡菽颖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-153-team": {
+      "members": [
+        {
+          "name": "刘洋",
+          "gender": ""
+        },
+        {
+          "name": "吕林泽",
+          "gender": ""
+        },
+        {
+          "name": "黄兆彬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-197-team": {
+      "members": [
+        {
+          "name": "刘昱",
+          "gender": ""
+        },
+        {
+          "name": "苏睿杰",
+          "gender": ""
+        },
+        {
+          "name": "邱天",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-471-team": {
+      "members": [
+        {
+          "name": "于梓萱",
+          "gender": ""
+        },
+        {
+          "name": "周昊",
+          "gender": ""
+        },
+        {
+          "name": "娄永康",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-78-team": {
+      "members": [
+        {
+          "name": "蒋恒艺",
+          "gender": ""
+        },
+        {
+          "name": "谢力航",
+          "gender": ""
+        },
+        {
+          "name": "陈有锴",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-373-team": {
+      "members": [
+        {
+          "name": "张煜森",
+          "gender": ""
+        },
+        {
+          "name": "杨莫凡",
+          "gender": ""
+        },
+        {
+          "name": "罗强",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-462-team": {
+      "members": [
+        {
+          "name": "唐睿",
+          "gender": ""
+        },
+        {
+          "name": "胡格致",
+          "gender": ""
+        },
+        {
+          "name": "黄铮舸",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-154-team": {
+      "members": [
+        {
+          "name": "李金刚",
+          "gender": ""
+        },
+        {
+          "name": "毛子豪",
+          "gender": ""
+        },
+        {
+          "name": "程崇正",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-182-team": {
+      "members": [
+        {
+          "name": "廖灿鑫",
+          "gender": ""
+        },
+        {
+          "name": "朱龙百",
+          "gender": ""
+        },
+        {
+          "name": "梁嘉俊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-451-team": {
+      "members": [
+        {
+          "name": "曾子尧",
+          "gender": ""
+        },
+        {
+          "name": "许桥飞",
+          "gender": ""
+        },
+        {
+          "name": "陈佳豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-413-team": {
+      "members": [
+        {
+          "name": "冯裕钵",
+          "gender": ""
+        },
+        {
+          "name": "徐海天",
+          "gender": ""
+        },
+        {
+          "name": "陈启亮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-216-team": {
+      "members": [
+        {
+          "name": "叶印东",
+          "gender": ""
+        },
+        {
+          "name": "梁润昊",
+          "gender": ""
+        },
+        {
+          "name": "项灏洋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-212-team": {
+      "members": [
+        {
+          "name": "孙文凯",
+          "gender": ""
+        },
+        {
+          "name": "张帆",
+          "gender": ""
+        },
+        {
+          "name": "潘仕翰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-369-team": {
+      "members": [
+        {
+          "name": "叶嘉宁",
+          "gender": ""
+        },
+        {
+          "name": "田朕铭",
+          "gender": ""
+        },
+        {
+          "name": "郭子威",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-99-team": {
+      "members": [
+        {
+          "name": "吴昊原",
+          "gender": ""
+        },
+        {
+          "name": "林树沛",
+          "gender": ""
+        },
+        {
+          "name": "柯俊宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-60-team": {
+      "members": [
+        {
+          "name": "杨嘉杰",
+          "gender": ""
+        },
+        {
+          "name": "樊洪源",
+          "gender": ""
+        },
+        {
+          "name": "齐浩均",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-271-team": {
+      "members": [
+        {
+          "name": "李熔豪",
+          "gender": ""
+        },
+        {
+          "name": "许城涛",
+          "gender": ""
+        },
+        {
+          "name": "赵佶鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-134-team": {
+      "members": [
+        {
+          "name": "俞越",
+          "gender": ""
+        },
+        {
+          "name": "周靖凯",
+          "gender": ""
+        },
+        {
+          "name": "黄光升",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-389-team": {
+      "members": [
+        {
+          "name": "刘戴乐",
+          "gender": ""
+        },
+        {
+          "name": "梁骆城",
+          "gender": ""
+        },
+        {
+          "name": "邵辰航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-424-team": {
+      "members": [
+        {
+          "name": "余晨睿",
+          "gender": ""
+        },
+        {
+          "name": "张旭锋",
+          "gender": ""
+        },
+        {
+          "name": "洪志伦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-20-team": {
+      "members": [
+        {
+          "name": "李辰璋",
+          "gender": ""
+        },
+        {
+          "name": "田瑞铭",
+          "gender": ""
+        },
+        {
+          "name": "荣翰佶",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-331-team": {
+      "members": [
+        {
+          "name": "柯豪",
+          "gender": ""
+        },
+        {
+          "name": "瞿柏铖",
+          "gender": ""
+        },
+        {
+          "name": "陆嘉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-370-team": {
+      "members": [
+        {
+          "name": "刘伟业",
+          "gender": ""
+        },
+        {
+          "name": "吴优",
+          "gender": ""
+        },
+        {
+          "name": "郝春博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-183-team": {
+      "members": [
+        {
+          "name": "侯俊宇",
+          "gender": ""
+        },
+        {
+          "name": "蔡海鹏",
+          "gender": ""
+        },
+        {
+          "name": "陈育瀚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-253-team": {
+      "members": [
+        {
+          "name": "田晓亮",
+          "gender": ""
+        },
+        {
+          "name": "金益凡",
+          "gender": ""
+        },
+        {
+          "name": "陈华柯焱",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-22-team": {
+      "members": [
+        {
+          "name": "何开煜",
+          "gender": ""
+        },
+        {
+          "name": "陈宽宽",
+          "gender": ""
+        },
+        {
+          "name": "陈铎友",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-276-team": {
+      "members": [
+        {
+          "name": "侯佳文",
+          "gender": ""
+        },
+        {
+          "name": "朱文杰",
+          "gender": ""
+        },
+        {
+          "name": "高英翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-398-team": {
+      "members": [
+        {
+          "name": "张金阳",
+          "gender": ""
+        },
+        {
+          "name": "胡嘉兴",
+          "gender": ""
+        },
+        {
+          "name": "赵旨政",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-254-team": {
+      "members": [
+        {
+          "name": "杨有成",
+          "gender": ""
+        },
+        {
+          "name": "葛涛宁",
+          "gender": ""
+        },
+        {
+          "name": "陈天意",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-104-team": {
+      "members": [
+        {
+          "name": "张安航",
+          "gender": ""
+        },
+        {
+          "name": "张蓝天",
+          "gender": ""
+        },
+        {
+          "name": "蒋文涛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-141-team": {
+      "members": [
+        {
+          "name": "尤馨然",
+          "gender": ""
+        },
+        {
+          "name": "林丰",
+          "gender": ""
+        },
+        {
+          "name": "蔡宇欣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-108-team": {
+      "members": [
+        {
+          "name": "孙江吉",
+          "gender": ""
+        },
+        {
+          "name": "蒋渡",
+          "gender": ""
+        },
+        {
+          "name": "赵新凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-475-team": {
+      "members": [
+        {
+          "name": "刘时胜",
+          "gender": ""
+        },
+        {
+          "name": "项升辉",
+          "gender": ""
+        },
+        {
+          "name": "高俊杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-450-team": {
+      "members": [
+        {
+          "name": "徐胜铭",
+          "gender": ""
+        },
+        {
+          "name": "李长祥",
+          "gender": ""
+        },
+        {
+          "name": "焦铭扬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-79-team": {
+      "members": [
+        {
+          "name": "周奕帆",
+          "gender": ""
+        },
+        {
+          "name": "林泰良",
+          "gender": ""
+        },
+        {
+          "name": "林骅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-43-team": {
+      "members": [
+        {
+          "name": "樊易龙",
+          "gender": ""
+        },
+        {
+          "name": "郑家成",
+          "gender": ""
+        },
+        {
+          "name": "马孜藤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-107-team": {
+      "members": [
+        {
+          "name": "叶凯鹏",
+          "gender": ""
+        },
+        {
+          "name": "李简平",
+          "gender": ""
+        },
+        {
+          "name": "王亦凡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-318-team": {
+      "members": [
+        {
+          "name": "佘洽聪",
+          "gender": ""
+        },
+        {
+          "name": "吴岱琳",
+          "gender": ""
+        },
+        {
+          "name": "王荟斐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-192-team": {
+      "members": [
+        {
+          "name": "史承钰",
+          "gender": ""
+        },
+        {
+          "name": "姚辰恺",
+          "gender": ""
+        },
+        {
+          "name": "蒋国华",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-150-team": {
+      "members": [
+        {
+          "name": "汪一明",
+          "gender": ""
+        },
+        {
+          "name": "汪少鸿",
+          "gender": ""
+        },
+        {
+          "name": "王星力",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-315-team": {
+      "members": [
+        {
+          "name": "王司晨",
+          "gender": ""
+        },
+        {
+          "name": "荣钰洁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-255-team": {
+      "members": [
+        {
+          "name": "刘志豪",
+          "gender": ""
+        },
+        {
+          "name": "袁熙",
+          "gender": ""
+        },
+        {
+          "name": "陈冠修",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-100-team": {
+      "members": [
+        {
+          "name": "吴梓涵",
+          "gender": ""
+        },
+        {
+          "name": "梁金成",
+          "gender": ""
+        },
+        {
+          "name": "谢艺瀚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-463-team": {
+      "members": [
+        {
+          "name": "楼云韬",
+          "gender": ""
+        },
+        {
+          "name": "粟昱龙",
+          "gender": ""
+        },
+        {
+          "name": "许天祺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-196-team": {
+      "members": [
+        {
+          "name": "吴浩钟",
+          "gender": ""
+        },
+        {
+          "name": "孔泉智",
+          "gender": ""
+        },
+        {
+          "name": "涂嘉一",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-206-team": {
+      "members": [
+        {
+          "name": "蔡创昇",
+          "gender": ""
+        },
+        {
+          "name": "袁锐涛",
+          "gender": ""
+        },
+        {
+          "name": "颜朝杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-421-team": {
+      "members": [
+        {
+          "name": "朱家辉",
+          "gender": ""
+        },
+        {
+          "name": "虞锴宸",
+          "gender": ""
+        },
+        {
+          "name": "郭歆雨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-24-team": {
+      "members": [
+        {
+          "name": "李奕霖",
+          "gender": ""
+        },
+        {
+          "name": "杨钊毅",
+          "gender": ""
+        },
+        {
+          "name": "盛明磊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-467-team": {
+      "members": [
+        {
+          "name": "孔子豪",
+          "gender": ""
+        },
+        {
+          "name": "崔凌宵",
+          "gender": ""
+        },
+        {
+          "name": "陆浩楠",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-68-team": {
+      "members": [
+        {
+          "name": "代金宇",
+          "gender": ""
+        },
+        {
+          "name": "叶磊",
+          "gender": ""
+        },
+        {
+          "name": "黄海",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-423-team": {
+      "members": [
+        {
+          "name": "余瑞",
+          "gender": ""
+        },
+        {
+          "name": "张皓杰",
+          "gender": ""
+        },
+        {
+          "name": "麦文鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-223-team": {
+      "members": [
+        {
+          "name": "白宇",
+          "gender": ""
+        },
+        {
+          "name": "郭泽楷",
+          "gender": ""
+        },
+        {
+          "name": "黄斌强",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-195-team": {
+      "members": [
+        {
+          "name": "刘柯炜",
+          "gender": ""
+        },
+        {
+          "name": "吴观华",
+          "gender": ""
+        },
+        {
+          "name": "张恒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-220-team": {
+      "members": [
+        {
+          "name": "唐杨",
+          "gender": ""
+        },
+        {
+          "name": "李汶涛",
+          "gender": ""
+        },
+        {
+          "name": "苏海东",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-103-team": {
+      "members": [
+        {
+          "name": "张岩",
+          "gender": ""
+        },
+        {
+          "name": "穆俊霖",
+          "gender": ""
+        },
+        {
+          "name": "高嘉阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-312-team": {
+      "members": [
+        {
+          "name": "吴慧一",
+          "gender": ""
+        },
+        {
+          "name": "范康鑫",
+          "gender": ""
+        },
+        {
+          "name": "郑柏成",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-372-team": {
+      "members": [
+        {
+          "name": "梁乐彬",
+          "gender": ""
+        },
+        {
+          "name": "莫人兆",
+          "gender": ""
+        },
+        {
+          "name": "邹嘉豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-430-team": {
+      "members": [
+        {
+          "name": "卢一鸣",
+          "gender": ""
+        },
+        {
+          "name": "江子豪",
+          "gender": ""
+        },
+        {
+          "name": "陈宏毅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-469-team": {
+      "members": [
+        {
+          "name": "张宇衡",
+          "gender": ""
+        },
+        {
+          "name": "胡博文",
+          "gender": ""
+        },
+        {
+          "name": "陈礼邦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-357-team": {
+      "members": [
+        {
+          "name": "张申庚",
+          "gender": ""
+        },
+        {
+          "name": "陆淳杰",
+          "gender": ""
+        },
+        {
+          "name": "黄振豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-211-team": {
+      "members": [
+        {
+          "name": "付仁杰",
+          "gender": ""
+        },
+        {
+          "name": "朱金康",
+          "gender": ""
+        },
+        {
+          "name": "邱欣健",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-261-team": {
+      "members": [
+        {
+          "name": "李心豪",
+          "gender": ""
+        },
+        {
+          "name": "潘致远",
+          "gender": ""
+        },
+        {
+          "name": "舒炜琳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-338-team": {
+      "members": [
+        {
+          "name": "姚崇宇",
+          "gender": ""
+        },
+        {
+          "name": "陈铭硕",
+          "gender": ""
+        },
+        {
+          "name": "黄天轶",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-362-team": {
+      "members": [
+        {
+          "name": "孙振元",
+          "gender": ""
+        },
+        {
+          "name": "胡宇航",
+          "gender": ""
+        },
+        {
+          "name": "赵人毅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-181-team": {
+      "members": [
+        {
+          "name": "李亨",
+          "gender": ""
+        },
+        {
+          "name": "王文俊",
+          "gender": ""
+        },
+        {
+          "name": "钟宇超",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-122-team": {
+      "members": [
+        {
+          "name": "刘家萌",
+          "gender": ""
+        },
+        {
+          "name": "马光贤",
+          "gender": ""
+        },
+        {
+          "name": "黄子岩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-249-team": {
+      "members": [
+        {
+          "name": "夏涛",
+          "gender": ""
+        },
+        {
+          "name": "李嘉松",
+          "gender": ""
+        },
+        {
+          "name": "秦睿智",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-405-team": {
+      "members": [
+        {
+          "name": "林仙",
+          "gender": ""
+        },
+        {
+          "name": "洪兆宇",
+          "gender": ""
+        },
+        {
+          "name": "谢信基",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-71-team": {
+      "members": [
+        {
+          "name": "张宇杰",
+          "gender": ""
+        },
+        {
+          "name": "范涛",
+          "gender": ""
+        },
+        {
+          "name": "董政",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-371-team": {
+      "members": [
+        {
+          "name": "要凌峰",
+          "gender": ""
+        },
+        {
+          "name": "陈玟",
+          "gender": ""
+        },
+        {
+          "name": "马修远",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-301-team": {
+      "members": [
+        {
+          "name": "张学鹏",
+          "gender": ""
+        },
+        {
+          "name": "房辰燏",
+          "gender": ""
+        },
+        {
+          "name": "连昊宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-246-team": {
+      "members": [
+        {
+          "name": "喻灯",
+          "gender": ""
+        },
+        {
+          "name": "缪若凡",
+          "gender": ""
+        },
+        {
+          "name": "马诗航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-91-team": {
+      "members": [
+        {
+          "name": "庞翔",
+          "gender": ""
+        },
+        {
+          "name": "李安灏",
+          "gender": ""
+        },
+        {
+          "name": "梁展榕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-345-team": {
+      "members": [
+        {
+          "name": "张世杰",
+          "gender": ""
+        },
+        {
+          "name": "朱怿翔",
+          "gender": ""
+        },
+        {
+          "name": "杨德曙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-126-team": {
+      "members": [
+        {
+          "name": "吕珅",
+          "gender": ""
+        },
+        {
+          "name": "方政",
+          "gender": ""
+        },
+        {
+          "name": "胡瑞一",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-273-team": {
+      "members": [
+        {
+          "name": "张明超",
+          "gender": ""
+        },
+        {
+          "name": "杨梓睿",
+          "gender": ""
+        },
+        {
+          "name": "郑博维",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-433-team": {
+      "members": [
+        {
+          "name": "杨悦",
+          "gender": ""
+        },
+        {
+          "name": "章宇科",
+          "gender": ""
+        },
+        {
+          "name": "金沈扬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-93-team": {
+      "members": [
+        {
+          "name": "向宇飞",
+          "gender": ""
+        },
+        {
+          "name": "陈煜祺",
+          "gender": ""
+        },
+        {
+          "name": "黄浩天",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-303-team": {
+      "members": [
+        {
+          "name": "姜添翼",
+          "gender": ""
+        },
+        {
+          "name": "蒋玮杰",
+          "gender": ""
+        },
+        {
+          "name": "魏钰鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-228-team": {
+      "members": [
+        {
+          "name": "汤正泰",
+          "gender": ""
+        },
+        {
+          "name": "陈鹏",
+          "gender": ""
+        },
+        {
+          "name": "黄心磊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-296-team": {
+      "members": [
+        {
+          "name": "成思明",
+          "gender": ""
+        },
+        {
+          "name": "段焜元",
+          "gender": ""
+        },
+        {
+          "name": "葛建琦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-321-team": {
+      "members": [
+        {
+          "name": "全梦翔",
+          "gender": ""
+        },
+        {
+          "name": "吴少荣",
+          "gender": ""
+        },
+        {
+          "name": "王新铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-343-team": {
+      "members": [
+        {
+          "name": "张宇濠",
+          "gender": ""
+        },
+        {
+          "name": "毛烨超",
+          "gender": ""
+        },
+        {
+          "name": "莫皓翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-393-team": {
+      "members": [
+        {
+          "name": "張譯丰",
+          "gender": ""
+        },
+        {
+          "name": "翁澤輝",
+          "gender": ""
+        },
+        {
+          "name": "鍾懷哲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-302-team": {
+      "members": [
+        {
+          "name": "张德辉",
+          "gender": ""
+        },
+        {
+          "name": "罗慧康",
+          "gender": ""
+        },
+        {
+          "name": "胡涛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-259-team": {
+      "members": [
+        {
+          "name": "曹高磊",
+          "gender": ""
+        },
+        {
+          "name": "邱志恩",
+          "gender": ""
+        },
+        {
+          "name": "韩忆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-407-team": {
+      "members": [
+        {
+          "name": "张洋鸣",
+          "gender": ""
+        },
+        {
+          "name": "潘宇昊",
+          "gender": ""
+        },
+        {
+          "name": "鲁俊杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-376-team": {
+      "members": [
+        {
+          "name": "朱睿辰",
+          "gender": ""
+        },
+        {
+          "name": "沈皓天",
+          "gender": ""
+        },
+        {
+          "name": "贾熠飞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-431-team": {
+      "members": [
+        {
+          "name": "余首荣",
+          "gender": ""
+        },
+        {
+          "name": "姜楠",
+          "gender": ""
+        },
+        {
+          "name": "干佳立",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-213-team": {
+      "members": [
+        {
+          "name": "汪佳盛",
+          "gender": ""
+        },
+        {
+          "name": "邓皓文",
+          "gender": ""
+        },
+        {
+          "name": "陈绿海",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-395-team": {
+      "members": [
+        {
+          "name": "卓越",
+          "gender": ""
+        },
+        {
+          "name": "叶祖晨",
+          "gender": ""
+        },
+        {
+          "name": "贺正高",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-456-team": {
+      "members": [
+        {
+          "name": "叶浩",
+          "gender": ""
+        },
+        {
+          "name": "徐建博",
+          "gender": ""
+        },
+        {
+          "name": "郑景元",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-72-team": {
+      "members": [
+        {
+          "name": "张一林",
+          "gender": ""
+        },
+        {
+          "name": "汪骏宇",
+          "gender": ""
+        },
+        {
+          "name": "陈乐扬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-67-team": {
+      "members": [
+        {
+          "name": "王心雨",
+          "gender": ""
+        },
+        {
+          "name": "缪弘毅",
+          "gender": ""
+        },
+        {
+          "name": "贺金龙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-401-team": {
+      "members": [
+        {
+          "name": "刘力铮",
+          "gender": ""
+        },
+        {
+          "name": "周志昊",
+          "gender": ""
+        },
+        {
+          "name": "高凌豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-169-team": {
+      "members": [
+        {
+          "name": "席超博",
+          "gender": ""
+        },
+        {
+          "name": "洪响",
+          "gender": ""
+        },
+        {
+          "name": "高锋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-291-team": {
+      "members": [
+        {
+          "name": "庄文轩",
+          "gender": ""
+        },
+        {
+          "name": "董芳安",
+          "gender": ""
+        },
+        {
+          "name": "马建宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-3-team": {
+      "members": [
+        {
+          "name": "张允成",
+          "gender": ""
+        },
+        {
+          "name": "桑浩翔",
+          "gender": ""
+        },
+        {
+          "name": "胡明道",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-241-team": {
+      "members": [
+        {
+          "name": "刘明杰",
+          "gender": ""
+        },
+        {
+          "name": "袁尔杭",
+          "gender": ""
+        },
+        {
+          "name": "陈泓谙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-84-team": {
+      "members": [
+        {
+          "name": "叶苏文",
+          "gender": ""
+        },
+        {
+          "name": "张美星",
+          "gender": ""
+        },
+        {
+          "name": "陈博宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-44-team": {
+      "members": [
+        {
+          "name": "张恩宁",
+          "gender": ""
+        },
+        {
+          "name": "游越涵",
+          "gender": ""
+        },
+        {
+          "name": "高云",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-55-team": {
+      "members": [
+        {
+          "name": "杨镇熙",
+          "gender": ""
+        },
+        {
+          "name": "王珅",
+          "gender": ""
+        },
+        {
+          "name": "陈嘉佑",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-461-team": {
+      "members": [
+        {
+          "name": "吕安哲",
+          "gender": ""
+        },
+        {
+          "name": "尤俊翔",
+          "gender": ""
+        },
+        {
+          "name": "石曜铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-439-team": {
+      "members": [
+        {
+          "name": "丁逸飞",
+          "gender": ""
+        },
+        {
+          "name": "王乐琦",
+          "gender": ""
+        },
+        {
+          "name": "郑依佳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-446-team": {
+      "members": [
+        {
+          "name": "司传钊",
+          "gender": ""
+        },
+        {
+          "name": "赵永斌",
+          "gender": ""
+        },
+        {
+          "name": "郑皓阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-239-team": {
+      "members": [
+        {
+          "name": "林龙河",
+          "gender": ""
+        },
+        {
+          "name": "陈岩",
+          "gender": ""
+        },
+        {
+          "name": "高锐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-120-team": {
+      "members": [
+        {
+          "name": "林浩",
+          "gender": ""
+        },
+        {
+          "name": "沈锦轩",
+          "gender": ""
+        },
+        {
+          "name": "陈圻昇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-51-team": {
+      "members": [
+        {
+          "name": "付宇新",
+          "gender": ""
+        },
+        {
+          "name": "朱春林",
+          "gender": ""
+        },
+        {
+          "name": "林地波",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-54-team": {
+      "members": [
+        {
+          "name": "侯嘉贺",
+          "gender": ""
+        },
+        {
+          "name": "张娄瑞",
+          "gender": ""
+        },
+        {
+          "name": "马硕达",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-64-team": {
+      "members": [
+        {
+          "name": "刘格显",
+          "gender": ""
+        },
+        {
+          "name": "房田峰",
+          "gender": ""
+        },
+        {
+          "name": "贺康",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-452-team": {
+      "members": [
+        {
+          "name": "孟华龙",
+          "gender": ""
+        },
+        {
+          "name": "强天行",
+          "gender": ""
+        },
+        {
+          "name": "王学海",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-61-team": {
+      "members": [
+        {
+          "name": "徐海",
+          "gender": ""
+        },
+        {
+          "name": "林星希",
+          "gender": ""
+        },
+        {
+          "name": "韩重",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-442-team": {
+      "members": [
+        {
+          "name": "卢颖",
+          "gender": ""
+        },
+        {
+          "name": "张杨晨昱",
+          "gender": ""
+        },
+        {
+          "name": "徐诚翰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-380-team": {
+      "members": [
+        {
+          "name": "王翔宇",
+          "gender": ""
+        },
+        {
+          "name": "蔡新洁",
+          "gender": ""
+        },
+        {
+          "name": "马杰成",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-416-team": {
+      "members": [
+        {
+          "name": "孙梦思",
+          "gender": ""
+        },
+        {
+          "name": "胡晨瑜",
+          "gender": ""
+        },
+        {
+          "name": "袁嘉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-101-team": {
+      "members": [
+        {
+          "name": "廖俊杰",
+          "gender": ""
+        },
+        {
+          "name": "罗伟康",
+          "gender": ""
+        },
+        {
+          "name": "谭翰煨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-39-team": {
+      "members": [
+        {
+          "name": "向悦帆",
+          "gender": ""
+        },
+        {
+          "name": "艾锋炎",
+          "gender": ""
+        },
+        {
+          "name": "陈嘉怡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-402-team": {
+      "members": [
+        {
+          "name": "刘文越",
+          "gender": ""
+        },
+        {
+          "name": "安天宇",
+          "gender": ""
+        },
+        {
+          "name": "郑程浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-396-team": {
+      "members": [
+        {
+          "name": "夏清伟",
+          "gender": ""
+        },
+        {
+          "name": "郑淇耀",
+          "gender": ""
+        },
+        {
+          "name": "韩锦豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-97-team": {
+      "members": [
+        {
+          "name": "罗梓元",
+          "gender": ""
+        },
+        {
+          "name": "钟钧仰",
+          "gender": ""
+        },
+        {
+          "name": "陈惠琼",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-250-team": {
+      "members": [
+        {
+          "name": "戴鸿哲",
+          "gender": ""
+        },
+        {
+          "name": "石金轩",
+          "gender": ""
+        },
+        {
+          "name": "陈宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-238-team": {
+      "members": [
+        {
+          "name": "叶劭伟",
+          "gender": ""
+        },
+        {
+          "name": "杨苏陇",
+          "gender": ""
+        },
+        {
+          "name": "钱致宁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-252-team": {
+      "members": [
+        {
+          "name": "孙靖辉",
+          "gender": ""
+        },
+        {
+          "name": "张烨民",
+          "gender": ""
+        },
+        {
+          "name": "陶陆天",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-162-team": {
+      "members": [
+        {
+          "name": "周新城",
+          "gender": ""
+        },
+        {
+          "name": "张世东",
+          "gender": ""
+        },
+        {
+          "name": "林新晨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-225-team": {
+      "members": [
+        {
+          "name": "丁汉彬",
+          "gender": ""
+        },
+        {
+          "name": "卢艺鸿",
+          "gender": ""
+        },
+        {
+          "name": "郭雷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-227-team": {
+      "members": [
+        {
+          "name": "徐英杰",
+          "gender": ""
+        },
+        {
+          "name": "杨喆",
+          "gender": ""
+        },
+        {
+          "name": "熊廷杨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-251-team": {
+      "members": [
+        {
+          "name": "崔晨曦",
+          "gender": ""
+        },
+        {
+          "name": "库致远",
+          "gender": ""
+        },
+        {
+          "name": "韩炜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-448-team": {
+      "members": [
+        {
+          "name": "原宇博",
+          "gender": ""
+        },
+        {
+          "name": "王俊伟",
+          "gender": ""
+        },
+        {
+          "name": "蒋嬴兆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-94-team": {
+      "members": [
+        {
+          "name": "李苇森",
+          "gender": ""
+        },
+        {
+          "name": "谢合松",
+          "gender": ""
+        },
+        {
+          "name": "黄宇凡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-36-team": {
+      "members": [
+        {
+          "name": "吴梓豪",
+          "gender": ""
+        },
+        {
+          "name": "陆佳炜",
+          "gender": ""
+        },
+        {
+          "name": "陆苏皖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-156-team": {
+      "members": [
+        {
+          "name": "王郅明",
+          "gender": ""
+        },
+        {
+          "name": "罗峻函",
+          "gender": ""
+        },
+        {
+          "name": "马庆凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-410-team": {
+      "members": [
+        {
+          "name": "叶浩杰",
+          "gender": ""
+        },
+        {
+          "name": "陈湘铭",
+          "gender": ""
+        },
+        {
+          "name": "黄炘",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-432-team": {
+      "members": [
+        {
+          "name": "崔嘉屹",
+          "gender": ""
+        },
+        {
+          "name": "杨一郎",
+          "gender": ""
+        },
+        {
+          "name": "章心阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-31-team": {
+      "members": [
+        {
+          "name": "房承烨",
+          "gender": ""
+        },
+        {
+          "name": "汤锦煌",
+          "gender": ""
+        },
+        {
+          "name": "金成厚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-368-team": {
+      "members": [
+        {
+          "name": "刘嘉戎",
+          "gender": ""
+        },
+        {
+          "name": "周剑鑫",
+          "gender": ""
+        },
+        {
+          "name": "贾若非",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-151-team": {
+      "members": [
+        {
+          "name": "杨佳豪",
+          "gender": ""
+        },
+        {
+          "name": "赵一玮",
+          "gender": ""
+        },
+        {
+          "name": "高泽文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-21-team": {
+      "members": [
+        {
+          "name": "杜宜宸",
+          "gender": ""
+        },
+        {
+          "name": "王君斐",
+          "gender": ""
+        },
+        {
+          "name": "陈可致",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-263-team": {
+      "members": [
+        {
+          "name": "吴祺昊",
+          "gender": ""
+        },
+        {
+          "name": "朱怡晨",
+          "gender": ""
+        },
+        {
+          "name": "赖诗亮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-415-team": {
+      "members": [
+        {
+          "name": "刘嘉炜",
+          "gender": ""
+        },
+        {
+          "name": "刘晨鑫",
+          "gender": ""
+        },
+        {
+          "name": "李力超",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-10-team": {
+      "members": [
+        {
+          "name": "林子沐",
+          "gender": ""
+        },
+        {
+          "name": "陈嘉树",
+          "gender": ""
+        },
+        {
+          "name": "黄湛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-329-team": {
+      "members": [
+        {
+          "name": "林凯伦",
+          "gender": ""
+        },
+        {
+          "name": "牟其霖",
+          "gender": ""
+        },
+        {
+          "name": "韩守坤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-464-team": {
+      "members": [
+        {
+          "name": "刘传",
+          "gender": ""
+        },
+        {
+          "name": "董翰元",
+          "gender": ""
+        },
+        {
+          "name": "钱晨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-37-team": {
+      "members": [
+        {
+          "name": "何智恒",
+          "gender": ""
+        },
+        {
+          "name": "李纪松",
+          "gender": ""
+        },
+        {
+          "name": "黄虹樱",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-173-team": {
+      "members": [
+        {
+          "name": "刘浩然",
+          "gender": ""
+        },
+        {
+          "name": "曾剑涛",
+          "gender": ""
+        },
+        {
+          "name": "胡文波",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-202-team": {
+      "members": [
+        {
+          "name": "余川华",
+          "gender": ""
+        },
+        {
+          "name": "葛广一",
+          "gender": ""
+        },
+        {
+          "name": "韦金亮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-317-team": {
+      "members": [
+        {
+          "name": "雷昀珂",
+          "gender": ""
+        },
+        {
+          "name": "黄亮铭",
+          "gender": ""
+        },
+        {
+          "name": "龙睿志",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-406-team": {
+      "members": [
+        {
+          "name": "代泽民",
+          "gender": ""
+        },
+        {
+          "name": "郭申申",
+          "gender": ""
+        },
+        {
+          "name": "高翔历",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-422-team": {
+      "members": [
+        {
+          "name": "何治强",
+          "gender": ""
+        },
+        {
+          "name": "朱楠",
+          "gender": ""
+        },
+        {
+          "name": "黄行健",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-409-team": {
+      "members": [
+        {
+          "name": "孙梓轩",
+          "gender": ""
+        },
+        {
+          "name": "宫辰烨",
+          "gender": ""
+        },
+        {
+          "name": "杨宇轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-327-team": {
+      "members": [
+        {
+          "name": "姜涛",
+          "gender": ""
+        },
+        {
+          "name": "蔡福临",
+          "gender": ""
+        },
+        {
+          "name": "陈灵波",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-52-team": {
+      "members": [
+        {
+          "name": "蒋文博",
+          "gender": ""
+        },
+        {
+          "name": "魏恒彬",
+          "gender": ""
+        },
+        {
+          "name": "黄禹铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-397-team": {
+      "members": [
+        {
+          "name": "孟小芃",
+          "gender": ""
+        },
+        {
+          "name": "张立",
+          "gender": ""
+        },
+        {
+          "name": "欧力铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-473-team": {
+      "members": [
+        {
+          "name": "余润霖",
+          "gender": ""
+        },
+        {
+          "name": "李明业",
+          "gender": ""
+        },
+        {
+          "name": "黄博言",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-148-team": {
+      "members": [
+        {
+          "name": "王腾昊",
+          "gender": ""
+        },
+        {
+          "name": "舒雨飞",
+          "gender": ""
+        },
+        {
+          "name": "韩昆桦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-277-team": {
+      "members": [
+        {
+          "name": "贾梦威",
+          "gender": ""
+        },
+        {
+          "name": "闫秀宇",
+          "gender": ""
+        },
+        {
+          "name": "高鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-381-team": {
+      "members": [
+        {
+          "name": "徐明山",
+          "gender": ""
+        },
+        {
+          "name": "易曾晓",
+          "gender": ""
+        },
+        {
+          "name": "林嘉俊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-240-team": {
+      "members": [
+        {
+          "name": "桑浩然",
+          "gender": ""
+        },
+        {
+          "name": "黄子源",
+          "gender": ""
+        },
+        {
+          "name": "黄耘青",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-295-team": {
+      "members": [
+        {
+          "name": "张浥青",
+          "gender": ""
+        },
+        {
+          "name": "朱俊伟",
+          "gender": ""
+        },
+        {
+          "name": "王晓迪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-66-team": {
+      "members": [
+        {
+          "name": "盖永瑞",
+          "gender": ""
+        },
+        {
+          "name": "闫志涛",
+          "gender": ""
+        },
+        {
+          "name": "阎硕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-278-team": {
+      "members": [
+        {
+          "name": "吴迪",
+          "gender": ""
+        },
+        {
+          "name": "李德辰",
+          "gender": ""
+        },
+        {
+          "name": "穆帅宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-247-team": {
+      "members": [
+        {
+          "name": "周云垚",
+          "gender": ""
+        },
+        {
+          "name": "杨圣涵",
+          "gender": ""
+        },
+        {
+          "name": "陆扬帆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-38-team": {
+      "members": [
+        {
+          "name": "徐晨阳",
+          "gender": ""
+        },
+        {
+          "name": "朱冠侨",
+          "gender": ""
+        },
+        {
+          "name": "耿梓益",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-222-team": {
+      "members": [
+        {
+          "name": "王宁",
+          "gender": ""
+        },
+        {
+          "name": "贾磊",
+          "gender": ""
+        },
+        {
+          "name": "魏新杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-384-team": {
+      "members": [
+        {
+          "name": "买鑫鑫",
+          "gender": ""
+        },
+        {
+          "name": "韦慧欣",
+          "gender": ""
+        },
+        {
+          "name": "龚科宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-157-team": {
+      "members": [
+        {
+          "name": "胡锦阳",
+          "gender": ""
+        },
+        {
+          "name": "赵嘉驰",
+          "gender": ""
+        },
+        {
+          "name": "隋永奇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-403-team": {
+      "members": [
+        {
+          "name": "庾艺馨",
+          "gender": ""
+        },
+        {
+          "name": "李澹",
+          "gender": ""
+        },
+        {
+          "name": "郎震",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-428-team": {
+      "members": [
+        {
+          "name": "叶佳俊",
+          "gender": ""
+        },
+        {
+          "name": "郭锦涛",
+          "gender": ""
+        },
+        {
+          "name": "项锦鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-172-team": {
+      "members": [
+        {
+          "name": "尹尚龙",
+          "gender": ""
+        },
+        {
+          "name": "张海洋",
+          "gender": ""
+        },
+        {
+          "name": "陈密",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-191-team": {
+      "members": [
+        {
+          "name": "宗毅",
+          "gender": ""
+        },
+        {
+          "name": "朱振祎",
+          "gender": ""
+        },
+        {
+          "name": "邱前瑞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-127-team": {
+      "members": [
+        {
+          "name": "何启华",
+          "gender": ""
+        },
+        {
+          "name": "陆泓宇",
+          "gender": ""
+        },
+        {
+          "name": "陈荧荧",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-1-team": {
+      "members": [
+        {
+          "name": "Dugarjantsan Bilguun",
+          "gender": ""
+        },
+        {
+          "name": "Enkh-Ochir Erdenebat",
+          "gender": ""
+        },
+        {
+          "name": "Surenjamts Tsedevsuren",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-300-team": {
+      "members": [
+        {
+          "name": "史佳朋",
+          "gender": ""
+        },
+        {
+          "name": "施安然",
+          "gender": ""
+        },
+        {
+          "name": "黎思源",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-116-team": {
+      "members": [
+        {
+          "name": "王子康",
+          "gender": ""
+        },
+        {
+          "name": "王庆涛",
+          "gender": ""
+        },
+        {
+          "name": "禚周浩然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-374-team": {
+      "members": [
+        {
+          "name": "吴晨阳",
+          "gender": ""
+        },
+        {
+          "name": "李佐彤",
+          "gender": ""
+        },
+        {
+          "name": "贺浩轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-47-team": {
+      "members": [
+        {
+          "name": "张翔",
+          "gender": ""
+        },
+        {
+          "name": "戴军",
+          "gender": ""
+        },
+        {
+          "name": "李洪宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-351-team": {
+      "members": [
+        {
+          "name": "曹予严",
+          "gender": ""
+        },
+        {
+          "name": "邹昊天",
+          "gender": ""
+        },
+        {
+          "name": "陈华思源",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-388-team": {
+      "members": [
+        {
+          "name": "江璘鋆",
+          "gender": ""
+        },
+        {
+          "name": "范正炜",
+          "gender": ""
+        },
+        {
+          "name": "赵若森",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-294-team": {
+      "members": [
+        {
+          "name": "张艺颖",
+          "gender": ""
+        },
+        {
+          "name": "李骋",
+          "gender": ""
+        },
+        {
+          "name": "黑乃骁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-399-team": {
+      "members": [
+        {
+          "name": "李嘉豪",
+          "gender": ""
+        },
+        {
+          "name": "王圣喆",
+          "gender": ""
+        },
+        {
+          "name": "王玉浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-28-team": {
+      "members": [
+        {
+          "name": "叶睿聪",
+          "gender": ""
+        },
+        {
+          "name": "张锦秀",
+          "gender": ""
+        },
+        {
+          "name": "谢若扬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-455-team": {
+      "members": [
+        {
+          "name": "许波波",
+          "gender": ""
+        },
+        {
+          "name": "陈家齐",
+          "gender": ""
+        },
+        {
+          "name": "陈忠鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-205-team": {
+      "members": [
+        {
+          "name": "刘星辰",
+          "gender": ""
+        },
+        {
+          "name": "宋佳宇",
+          "gender": ""
+        },
+        {
+          "name": "林荫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-40-team": {
+      "members": [
+        {
+          "name": "周汇森",
+          "gender": ""
+        },
+        {
+          "name": "杨牧野",
+          "gender": ""
+        },
+        {
+          "name": "柴俊杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-77-team": {
+      "members": [
+        {
+          "name": "吴伟豪",
+          "gender": ""
+        },
+        {
+          "name": "周俊杰",
+          "gender": ""
+        },
+        {
+          "name": "李超",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-95-team": {
+      "members": [
+        {
+          "name": "徐展鹏",
+          "gender": ""
+        },
+        {
+          "name": "杨煌",
+          "gender": ""
+        },
+        {
+          "name": "陈嘉亿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-275-team": {
+      "members": [
+        {
+          "name": "安晓曼",
+          "gender": ""
+        },
+        {
+          "name": "李坤鹏",
+          "gender": ""
+        },
+        {
+          "name": "白骏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-33-team": {
+      "members": [
+        {
+          "name": "曾巍",
+          "gender": ""
+        },
+        {
+          "name": "田苗",
+          "gender": ""
+        },
+        {
+          "name": "蔡禹煊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-170-team": {
+      "members": [
+        {
+          "name": "付海洋",
+          "gender": ""
+        },
+        {
+          "name": "刘亦凡",
+          "gender": ""
+        },
+        {
+          "name": "周子豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-219-team": {
+      "members": [
+        {
+          "name": "李欣杭",
+          "gender": ""
+        },
+        {
+          "name": "梁宇昊",
+          "gender": ""
+        },
+        {
+          "name": "王若譞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-48-team": {
+      "members": [
+        {
+          "name": "杨卡达",
+          "gender": ""
+        },
+        {
+          "name": "葛昌威",
+          "gender": ""
+        },
+        {
+          "name": "陈俊曦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-274-team": {
+      "members": [
+        {
+          "name": "刘子恒",
+          "gender": ""
+        },
+        {
+          "name": "廉昌业",
+          "gender": ""
+        },
+        {
+          "name": "魏文泽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-242-team": {
+      "members": [
+        {
+          "name": "昌宣辰",
+          "gender": ""
+        },
+        {
+          "name": "梁松松",
+          "gender": ""
+        },
+        {
+          "name": "滕林",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-311-team": {
+      "members": [
+        {
+          "name": "周亚男",
+          "gender": ""
+        },
+        {
+          "name": "康丁魁",
+          "gender": ""
+        },
+        {
+          "name": "林日清",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-361-team": {
+      "members": [
+        {
+          "name": "俞凯嘉",
+          "gender": ""
+        },
+        {
+          "name": "刘畅",
+          "gender": ""
+        },
+        {
+          "name": "张益伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-283-team": {
+      "members": [
+        {
+          "name": "励家磊",
+          "gender": ""
+        },
+        {
+          "name": "张能祎",
+          "gender": ""
+        },
+        {
+          "name": "陈福栊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-449-team": {
+      "members": [
+        {
+          "name": "李明",
+          "gender": ""
+        },
+        {
+          "name": "李瑾熠",
+          "gender": ""
+        },
+        {
+          "name": "袁震",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-167-team": {
+      "members": [
+        {
+          "name": "李南翃",
+          "gender": ""
+        },
+        {
+          "name": "李杰",
+          "gender": ""
+        },
+        {
+          "name": "黄常申",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-257-team": {
+      "members": [
+        {
+          "name": "姚知言",
+          "gender": ""
+        },
+        {
+          "name": "徐文斌",
+          "gender": ""
+        },
+        {
+          "name": "马琦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-414-team": {
+      "members": [
+        {
+          "name": "傅昕禾",
+          "gender": ""
+        },
+        {
+          "name": "柳程",
+          "gender": ""
+        },
+        {
+          "name": "王恩宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-326-team": {
+      "members": [
+        {
+          "name": "于韬",
+          "gender": ""
+        },
+        {
+          "name": "梅育彰",
+          "gender": ""
+        },
+        {
+          "name": "郑智文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-481-team": {
+      "members": [
+        {
+          "name": "徐铮",
+          "gender": ""
+        },
+        {
+          "name": "李浩",
+          "gender": ""
+        },
+        {
+          "name": "费奕霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-444-team": {
+      "members": [
+        {
+          "name": "余成曙",
+          "gender": ""
+        },
+        {
+          "name": "冯致远",
+          "gender": ""
+        },
+        {
+          "name": "金理宏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-262-team": {
+      "members": [
+        {
+          "name": "严齐航",
+          "gender": ""
+        },
+        {
+          "name": "胡健山",
+          "gender": ""
+        },
+        {
+          "name": "陈一波",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-210-team": {
+      "members": [
+        {
+          "name": "廖凌翔",
+          "gender": ""
+        },
+        {
+          "name": "王海峰",
+          "gender": ""
+        },
+        {
+          "name": "黄亦诚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-465-team": {
+      "members": [
+        {
+          "name": "严川浙",
+          "gender": ""
+        },
+        {
+          "name": "吴仰喆",
+          "gender": ""
+        },
+        {
+          "name": "肖永烨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-292-team": {
+      "members": [
+        {
+          "name": "于佳良",
+          "gender": ""
+        },
+        {
+          "name": "孟正",
+          "gender": ""
+        },
+        {
+          "name": "许维杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-434-team": {
+      "members": [
+        {
+          "name": "王啸洋",
+          "gender": ""
+        },
+        {
+          "name": "饶雁",
+          "gender": ""
+        },
+        {
+          "name": "黄炫榕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-476-team": {
+      "members": [
+        {
+          "name": "庞彪",
+          "gender": ""
+        },
+        {
+          "name": "张皓博",
+          "gender": ""
+        },
+        {
+          "name": "连煜博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-75-team": {
+      "members": [
+        {
+          "name": "周子航",
+          "gender": ""
+        },
+        {
+          "name": "姚泓宇",
+          "gender": ""
+        },
+        {
+          "name": "陶旦华",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-349-team": {
+      "members": [
+        {
+          "name": "夏楷耀",
+          "gender": ""
+        },
+        {
+          "name": "彭真",
+          "gender": ""
+        },
+        {
+          "name": "徐威",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-92-team": {
+      "members": [
+        {
+          "name": "彭康杰",
+          "gender": ""
+        },
+        {
+          "name": "林智谦",
+          "gender": ""
+        },
+        {
+          "name": "黄文朗",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-344-team": {
+      "members": [
+        {
+          "name": "卢忠正",
+          "gender": ""
+        },
+        {
+          "name": "卢恒煜",
+          "gender": ""
+        },
+        {
+          "name": "黄力垚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-229-team": {
+      "members": [
+        {
+          "name": "刘佳明",
+          "gender": ""
+        },
+        {
+          "name": "李强圣",
+          "gender": ""
+        },
+        {
+          "name": "李政通",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-299-team": {
+      "members": [
+        {
+          "name": "张志远",
+          "gender": ""
+        },
+        {
+          "name": "曾宇成",
+          "gender": ""
+        },
+        {
+          "name": "李舒怀",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-272-team": {
+      "members": [
+        {
+          "name": "蒋志发",
+          "gender": ""
+        },
+        {
+          "name": "陆涵宁",
+          "gender": ""
+        },
+        {
+          "name": "陈依婷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-335-team": {
+      "members": [
+        {
+          "name": "王永峰",
+          "gender": ""
+        },
+        {
+          "name": "赵海川",
+          "gender": ""
+        },
+        {
+          "name": "陈市",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-443-team": {
+      "members": [
+        {
+          "name": "丁陈晨",
+          "gender": ""
+        },
+        {
+          "name": "梁禹",
+          "gender": ""
+        },
+        {
+          "name": "贺佳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-49-team": {
+      "members": [
+        {
+          "name": "李增星",
+          "gender": ""
+        },
+        {
+          "name": "李家乐",
+          "gender": ""
+        },
+        {
+          "name": "王涛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-194-team": {
+      "members": [
+        {
+          "name": "杨宇俊",
+          "gender": ""
+        },
+        {
+          "name": "粟立锋",
+          "gender": ""
+        },
+        {
+          "name": "龙文浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-171-team": {
+      "members": [
+        {
+          "name": "周航圣",
+          "gender": ""
+        },
+        {
+          "name": "李佳杰",
+          "gender": ""
+        },
+        {
+          "name": "王胜钊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-74-team": {
+      "members": [
+        {
+          "name": "刘玮辰",
+          "gender": ""
+        },
+        {
+          "name": "潘亦新",
+          "gender": ""
+        },
+        {
+          "name": "王续丰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-342-team": {
+      "members": [
+        {
+          "name": "刘圣洋",
+          "gender": ""
+        },
+        {
+          "name": "刘战",
+          "gender": ""
+        },
+        {
+          "name": "徐力杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-466-team": {
+      "members": [
+        {
+          "name": "杨文强",
+          "gender": ""
+        },
+        {
+          "name": "罗炳淳",
+          "gender": ""
+        },
+        {
+          "name": "雷杰淙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-336-team": {
+      "members": [
+        {
+          "name": "刘潇迪",
+          "gender": ""
+        },
+        {
+          "name": "成冰阳",
+          "gender": ""
+        },
+        {
+          "name": "白佳明",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-332-team": {
+      "members": [
+        {
+          "name": "程俊鑫",
+          "gender": ""
+        },
+        {
+          "name": "荀思杰",
+          "gender": ""
+        },
+        {
+          "name": "许星宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-159-team": {
+      "members": [
+        {
+          "name": "刘保智",
+          "gender": ""
+        },
+        {
+          "name": "游俊爽",
+          "gender": ""
+        },
+        {
+          "name": "翁佳杭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-160-team": {
+      "members": [
+        {
+          "name": "张忆周",
+          "gender": ""
+        },
+        {
+          "name": "杨思腾",
+          "gender": ""
+        },
+        {
+          "name": "陈奕澄",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-265-team": {
+      "members": [
+        {
+          "name": "席帅",
+          "gender": ""
+        },
+        {
+          "name": "徐恩祥",
+          "gender": ""
+        },
+        {
+          "name": "耿龙斌",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-176-team": {
+      "members": [
+        {
+          "name": "夏翔",
+          "gender": ""
+        },
+        {
+          "name": "朱怡情",
+          "gender": ""
+        },
+        {
+          "name": "李俊辰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-209-team": {
+      "members": [
+        {
+          "name": "周政",
+          "gender": ""
+        },
+        {
+          "name": "欧阳岩",
+          "gender": ""
+        },
+        {
+          "name": "陈则鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-354-team": {
+      "members": [
+        {
+          "name": "熊子豪",
+          "gender": ""
+        },
+        {
+          "name": "贾锐哲",
+          "gender": ""
+        },
+        {
+          "name": "魏翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-185-team": {
+      "members": [
+        {
+          "name": "鄭創基",
+          "gender": ""
+        },
+        {
+          "name": "黄庆彰",
+          "gender": ""
+        },
+        {
+          "name": "黄鸿彬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-337-team": {
+      "members": [
+        {
+          "name": "岑禹希",
+          "gender": ""
+        },
+        {
+          "name": "杨子一",
+          "gender": ""
+        },
+        {
+          "name": "翟钧麟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-41-team": {
+      "members": [
+        {
+          "name": "李宇杰",
+          "gender": ""
+        },
+        {
+          "name": "潘奕成",
+          "gender": ""
+        },
+        {
+          "name": "胡鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-314-team": {
+      "members": [
+        {
+          "name": "戴治成",
+          "gender": ""
+        },
+        {
+          "name": "谢正韬",
+          "gender": ""
+        },
+        {
+          "name": "陈舒怡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-440-team": {
+      "members": [
+        {
+          "name": "何丰毅",
+          "gender": ""
+        },
+        {
+          "name": "王力澜",
+          "gender": ""
+        },
+        {
+          "name": "蒋杨泽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-284-team": {
+      "members": [
+        {
+          "name": "杨梦洁",
+          "gender": ""
+        },
+        {
+          "name": "陶柏杉",
+          "gender": ""
+        },
+        {
+          "name": "高文昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-426-team": {
+      "members": [
+        {
+          "name": "吕艾尔",
+          "gender": ""
+        },
+        {
+          "name": "朱佳辉",
+          "gender": ""
+        },
+        {
+          "name": "金汝霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-385-team": {
+      "members": [
+        {
+          "name": "刘迅",
+          "gender": ""
+        },
+        {
+          "name": "张绪宸",
+          "gender": ""
+        },
+        {
+          "name": "李虹",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-470-team": {
+      "members": [
+        {
+          "name": "宋家乐",
+          "gender": ""
+        },
+        {
+          "name": "林昱辰",
+          "gender": ""
+        },
+        {
+          "name": "肖金雪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-313-team": {
+      "members": [
+        {
+          "name": "叶其浩",
+          "gender": ""
+        },
+        {
+          "name": "吴俊楠",
+          "gender": ""
+        },
+        {
+          "name": "张益恒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-447-team": {
+      "members": [
+        {
+          "name": "张佳新",
+          "gender": ""
+        },
+        {
+          "name": "张淏",
+          "gender": ""
+        },
+        {
+          "name": "王已卓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-137-team": {
+      "members": [
+        {
+          "name": "周越",
+          "gender": ""
+        },
+        {
+          "name": "邱佳丰",
+          "gender": ""
+        },
+        {
+          "name": "鲍鼎丞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-453-team": {
+      "members": [
+        {
+          "name": "崔同航",
+          "gender": ""
+        },
+        {
+          "name": "梁方洲",
+          "gender": ""
+        },
+        {
+          "name": "许传銮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-322-team": {
+      "members": [
+        {
+          "name": "李天宇",
+          "gender": ""
+        },
+        {
+          "name": "王垚",
+          "gender": ""
+        },
+        {
+          "name": "申世铎",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-166-team": {
+      "members": [
+        {
+          "name": "徐程",
+          "gender": ""
+        },
+        {
+          "name": "郭烨铖",
+          "gender": ""
+        },
+        {
+          "name": "高天宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-290-team": {
+      "members": [
+        {
+          "name": "卢明煜",
+          "gender": ""
+        },
+        {
+          "name": "张华越",
+          "gender": ""
+        },
+        {
+          "name": "李志强",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-102-team": {
+      "members": [
+        {
+          "name": "曾昱恺",
+          "gender": ""
+        },
+        {
+          "name": "童然玮",
+          "gender": ""
+        },
+        {
+          "name": "魏廷锋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-128-team": {
+      "members": [
+        {
+          "name": "吴勇",
+          "gender": ""
+        },
+        {
+          "name": "李毅云",
+          "gender": ""
+        },
+        {
+          "name": "白子余",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-468-team": {
+      "members": [
+        {
+          "name": "张正博",
+          "gender": ""
+        },
+        {
+          "name": "王郑乐",
+          "gender": ""
+        },
+        {
+          "name": "陈孜治",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-27-team": {
+      "members": [
+        {
+          "name": "李国胜",
+          "gender": ""
+        },
+        {
+          "name": "翁彦峰",
+          "gender": ""
+        },
+        {
+          "name": "肖正阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-383-team": {
+      "members": [
+        {
+          "name": "刘鑫",
+          "gender": ""
+        },
+        {
+          "name": "张毅",
+          "gender": ""
+        },
+        {
+          "name": "黄锡恩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-30-team": {
+      "members": [
+        {
+          "name": "李俊霖",
+          "gender": ""
+        },
+        {
+          "name": "蔡钦成",
+          "gender": ""
+        },
+        {
+          "name": "高健勇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-42-team": {
+      "members": [
+        {
+          "name": "何佳恒",
+          "gender": ""
+        },
+        {
+          "name": "刘志伟",
+          "gender": ""
+        },
+        {
+          "name": "李河俊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-121-team": {
+      "members": [
+        {
+          "name": "刘如意",
+          "gender": ""
+        },
+        {
+          "name": "白福星",
+          "gender": ""
+        },
+        {
+          "name": "董哲朋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-201-team": {
+      "members": [
+        {
+          "name": "王佳琪",
+          "gender": ""
+        },
+        {
+          "name": "郝勇",
+          "gender": ""
+        },
+        {
+          "name": "陈伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-204-team": {
+      "members": [
+        {
+          "name": "刘泰极",
+          "gender": ""
+        },
+        {
+          "name": "王子峻",
+          "gender": ""
+        },
+        {
+          "name": "莫祖祥",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-260-team": {
+      "members": [
+        {
+          "name": "王志浩",
+          "gender": ""
+        },
+        {
+          "name": "郭凌宇",
+          "gender": ""
+        },
+        {
+          "name": "高琪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-375-team": {
+      "members": [
+        {
+          "name": "何鑫桂",
+          "gender": ""
+        },
+        {
+          "name": "姚明博",
+          "gender": ""
+        },
+        {
+          "name": "黄恩典",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-417-team": {
+      "members": [
+        {
+          "name": "杨雪伊",
+          "gender": ""
+        },
+        {
+          "name": "王智健",
+          "gender": ""
+        },
+        {
+          "name": "邓嘉赫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "2023-icpc-hz-427-team": {
+      "members": [
+        {
+          "name": "戚伊梅",
+          "gender": ""
+        },
+        {
+          "name": "朱嘉琪",
+          "gender": ""
+        },
+        {
+          "name": "陈仁宁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    }
+  }
+}

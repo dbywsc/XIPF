@@ -2,31 +2,48 @@
 
 Xcpc Invitational Programming contest Finder
 
-记录选手们在邀请赛和省赛中的获奖情况
+大学生程序设计竞赛数据平台，追踪 ICPC / CCPC 选手与学校的竞技实力。
+
+> **数据来源：** 本项目所有比赛数据均来自 [algoux/srk-collection](https://github.com/algoux/srk-collection)，
+> 该仓库收集了 ICPC/CCPC 的标准榜单数据（SRK 格式）。
+>
+> **评级算法：** 基于 [xcpcrating](https://github.com/Hei-MaoM/xcpcrating) Elo 评级系统。
 
 ## 架构
 
 ```
-contests/          ← 原始数据（CSV / XLSX）
-     │
-     ↓  python scripts/import_data.py
-     │
-JSON 数据          ← 中间格式
-     │
-     ↓  python scripts/build.py
-     │
+srk-collection/    ← SRK 格式原始数据（来自 algoux/srk-collection）
+      │
+      ↓  python scripts/srk_to_xipf.py
+      │
+contests/          ← XIPF 中间格式（contest_data.json + roster.json）
+      │
+      ↓  python scripts/build.py
+      │
 dist/              ← 静态 JSON（前端直接读取）
-     │
-     ↓  Vue 3 SPA（纯前端 / GitHub Pages）
+      │
+      ↓  Vue 3 SPA（纯前端 / GitHub Pages）
 ```
 
 - 数据以文件形式存放，Git 版本控制
 - Python 构建脚本处理为静态 JSON
-- Vue 3 前端纯客户端渲染，托管于 GitHub Pages（免费）
+- Vue 3 前端纯客户端渲染，部署于自有服务器
+
+## 功能
+
+- 首页：公告栏 + 快捷导航入口
+- 比赛列表：按年份和级别（决赛/区域赛/邀请赛/省赛）分组浏览
+- 比赛详情：队伍排名、奖项、Rating 变化，支持队伍名/选手名/学校名搜索
+- 选手主页：个人 Rating 曲线图、按级别分组的参赛记录
+- 学校主页：Rating、获奖统计、选手列表（可搜索）、比赛记录（校排/总校数 + Rating 变化）
+- 学校排行：按 Rating 排序，支持搜索
+- 选手排行：按 Rating 排序，支持搜索和分页加载
+- 积分规则：xcpcrating Elo 算法公式与参数说明
+- 深色/浅色模式切换
 
 ## 快速开始
 
-**注意：** 本项目所有代码均由 Claude + Deepseek 完成。
+**注意：** 本项目所有代码均由 Opencode + Deepseek 完成。
 
 **环境要求**：Python 3.9+、Node.js 18+
 
@@ -34,11 +51,16 @@ dist/              ← 静态 JSON（前端直接读取）
 # 安装 Python 依赖
 pip install openpyxl
 
-# 导入数据（支持 .xlsx / .csv）
-python scripts/import_data.py path/to/contest.xlsx --date=2026-05-24
+# 从 SRK 格式导入数据
+python scripts/srk_to_xipf.py srk-collection-master/official/ccpc/ccpc2025/ccpc2025invitational-nanchang.srk.json \
+  --year=2025 --type=ccpc --slug=南昌_invitational
 
-# 构建
+# 构建数据
 python scripts/build.py
+
+# 创建数据目录并复制
+mkdir -p web/public/data
+cp -r dist/* web/public/data/
 
 # 启动前端
 cd web
@@ -48,62 +70,55 @@ npm run dev
 
 打开 http://localhost:5173 即可浏览。
 
-## 数据导入
+## 部署到服务器
 
-### CLI
+前端构建产物在 `web/dist/` 目录，部署到任意静态文件服务器即可。
+
+### Nginx 部署
 
 ```bash
-# CCPC 官方 XLSX（自动识别邀请赛/省赛/女队）
-python scripts/import_data.py contest.xlsx --date=2026-06-01
+# 1. 构建项目（或从 GitHub Actions Artifact 下载）
+python scripts/build.py
+mkdir -p web/public/data && cp -r dist/* web/public/data/
+cd web && npm install && npm run build
 
-# CSV（Tab 分隔）
-# 格式：Rank  OrgRank  Organization  Team  Member1  Member2  Member3  Unofficial  Girl  Prize
-python scripts/import_data.py contest.csv --date=2026-06-01
+# 2. 上传到服务器
+rsync -avz web/dist/ user@server:/var/www/xipf/
+
+# 3. 使用项目自带 nginx 配置
+cp nginx.conf /etc/nginx/sites-available/xipf
+# 编辑 nginx.conf，修改 server_name 和 root 路径
+ln -s /etc/nginx/sites-available/xipf /etc/nginx/sites-enabled/
+nginx -t && systemctl reload nginx
 ```
 
-### Web
-
-启动前端后访问「导入」页面，拖拽上传 XLSX 或 CSV，自动解析并下载 JSON 文件。放入 `contests/YYYY/城市名/` 后重新构建即可。
+项目中已包含 `nginx.conf` 配置模板，含 gzip 压缩、预压缩文件支持、缓存头和安全头。
 
 ## 目录结构
 
 ```
-├── contests/                          # 原始数据
+├── contests/                           # XIPF 比赛数据
+│   ├── 2016/                           # 按年份组织
+│   ├── ...
 │   └── 2026/
-│       └── 秦皇岛_invitational/
-│           ├── contest_data.json      # 比赛数据（导入生成）
-│           └── roster.json            # 队员名册
-├── organizations.json                 # 学校归一化（自动生成）
+├── organizations.json                  # 学校归一化映射
 ├── scripts/
-│   ├── import_data.py                 # 数据导入（CSV / XLSX）
-│   ├── build.py                       # 构建静态 JSON
-│   ├── validate.py                    # 数据校验（CI）
-│   ├── models.py                      # 数据模型
-│   └── bootstrap_orgs.py             # 学校名自动归类
-├── web/                               # Vue 3 前端
+│   ├── srk_to_xipf.py                  # SRK → XIPF 转换工具
+│   ├── build.py                        # 构建静态 JSON
+│   └── models.py                       # 数据模型
+├── web/                                # Vue 3 前端
 │   └── src/pages/
-│       ├── Home.vue                   # 首页（双搜索框）
-│       ├── Contest.vue                # 比赛详情（可展开队员）
-│       ├── Contestant.vue             # 选手主页
-│       ├── Organization.vue           # 学校主页
-│       ├── Contests.vue              # 全部比赛
-│       ├── Organizations.vue         # 全部学校
-│       ├── Contestants.vue           # 全部选手
-│       └── Import.vue                # 在线导入
-├── dist/                              # 构建产物（不提交 Git）
-└── .github/workflows/                 # CI/CD
-    ├── validate.yml                   # PR 校验
-    └── deploy.yml                     # 自动部署
+│       ├── Home.vue                    # 首页
+│       ├── Contests.vue                # 比赛列表
+│       ├── Contest.vue                 # 比赛详情
+│       ├── Contestants.vue             # 选手排行
+│       ├── Contestant.vue              # 选手主页
+│       ├── Organizations.vue           # 学校排行
+│       ├── Organization.vue            # 学校主页
+│       └── Rules.vue                   # 积分规则
+├── dist/                               # 构建产物（不提交 Git）
+└── .github/workflows/                  # CI/CD
 ```
-
-## 贡献数据
-
-1. Fork 本仓库
-2. 在 `contests/YYYY/城市名_类型/` 下放入数据文件，或运行 `python scripts/import_data.py`
-3. 运行 `python scripts/build.py` 验证
-4. 提交 Pull Request
-
-详见 [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## 技术栈
 
@@ -111,9 +126,12 @@ python scripts/import_data.py contest.csv --date=2026-06-01
 |----|------|
 | 数据处理 | Python 3 + openpyxl |
 | 前端 | Vue 3 + TypeScript + Vite |
+| 样式 | CSS 自定义属性（深色/浅色主题） |
 | 搜索 | Fuse.js（客户端全文搜索） |
-| 部署 | GitHub Pages（免费） |
-| 数据格式 | JSON（静态文件） |
+| 数学渲染 | KaTeX |
+| 部署 | Nginx / 静态文件服务器 |
+| 数据来源 | [algoux/srk-collection](https://github.com/algoux/srk-collection) |
+| 评级算法 | [xcpcrating](https://github.com/Hei-MaoM/xcpcrating) |
 
 ## License
 

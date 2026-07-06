@@ -1,0 +1,3098 @@
+{
+  "teams": {
+    "team-dongbei-q04": {
+      "members": [
+        {
+          "name": "苏焜",
+          "gender": ""
+        },
+        {
+          "name": "谢天石",
+          "gender": ""
+        },
+        {
+          "name": "张佳栋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-b02": {
+      "members": [
+        {
+          "name": "于之航",
+          "gender": ""
+        },
+        {
+          "name": "陈鹏旭",
+          "gender": ""
+        },
+        {
+          "name": "徐梓博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-k02": {
+      "members": [
+        {
+          "name": "张彭凯",
+          "gender": ""
+        },
+        {
+          "name": "丁文涛",
+          "gender": ""
+        },
+        {
+          "name": "秦浩森",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-p06": {
+      "members": [
+        {
+          "name": "杜沛键",
+          "gender": ""
+        },
+        {
+          "name": "谢书泱",
+          "gender": ""
+        },
+        {
+          "name": "邱思宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-o02": {
+      "members": [
+        {
+          "name": "毛祥宇",
+          "gender": ""
+        },
+        {
+          "name": "钟剑辉",
+          "gender": ""
+        },
+        {
+          "name": "刘炜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-c10": {
+      "members": [
+        {
+          "name": "田宇丰",
+          "gender": ""
+        },
+        {
+          "name": "张城玮",
+          "gender": ""
+        },
+        {
+          "name": "卢景行",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-c05": {
+      "members": [
+        {
+          "name": "鞠学深",
+          "gender": ""
+        },
+        {
+          "name": "李雨隆",
+          "gender": ""
+        },
+        {
+          "name": "刘勋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-j05": {
+      "members": [
+        {
+          "name": "刘昱",
+          "gender": ""
+        },
+        {
+          "name": "王宗凡",
+          "gender": ""
+        },
+        {
+          "name": "欧阳承风",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-f09": {
+      "members": [
+        {
+          "name": "周文琦",
+          "gender": ""
+        },
+        {
+          "name": "张步豪",
+          "gender": ""
+        },
+        {
+          "name": "郭宇政",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-r08": {
+      "members": [
+        {
+          "name": "张轶哲",
+          "gender": ""
+        },
+        {
+          "name": "卜方昱",
+          "gender": ""
+        },
+        {
+          "name": "安逸",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-f07": {
+      "members": [
+        {
+          "name": "张力文",
+          "gender": ""
+        },
+        {
+          "name": "刘子涵",
+          "gender": ""
+        },
+        {
+          "name": "李书航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-d02": {
+      "members": [
+        {
+          "name": "杨一鸣",
+          "gender": ""
+        },
+        {
+          "name": "刘子恒",
+          "gender": ""
+        },
+        {
+          "name": "苗挺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-n10": {
+      "members": [
+        {
+          "name": "唐德睿",
+          "gender": ""
+        },
+        {
+          "name": "毛胜超",
+          "gender": ""
+        },
+        {
+          "name": "石津豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-l02": {
+      "members": [
+        {
+          "name": "王百汇",
+          "gender": ""
+        },
+        {
+          "name": "卢逸衡",
+          "gender": ""
+        },
+        {
+          "name": "张俊城",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-m08": {
+      "members": [
+        {
+          "name": "刘兆洲",
+          "gender": ""
+        },
+        {
+          "name": "时佳骏",
+          "gender": ""
+        },
+        {
+          "name": "李泽与",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-n04": {
+      "members": [
+        {
+          "name": "黄炳睿",
+          "gender": ""
+        },
+        {
+          "name": "唐海原",
+          "gender": ""
+        },
+        {
+          "name": "周易非",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-p05": {
+      "members": [
+        {
+          "name": "拱垲",
+          "gender": ""
+        },
+        {
+          "name": "张健哲",
+          "gender": ""
+        },
+        {
+          "name": "袁英麒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-l06": {
+      "members": [
+        {
+          "name": "张蕴豪",
+          "gender": ""
+        },
+        {
+          "name": "郭佳明",
+          "gender": ""
+        },
+        {
+          "name": "李乐雨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-g11": {
+      "members": [
+        {
+          "name": "朱道阳",
+          "gender": ""
+        },
+        {
+          "name": "张珈铭",
+          "gender": ""
+        },
+        {
+          "name": "赵文浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-i05": {
+      "members": [
+        {
+          "name": "赵新凯",
+          "gender": ""
+        },
+        {
+          "name": "闫力仁",
+          "gender": ""
+        },
+        {
+          "name": "蒋子力",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-i01": {
+      "members": [
+        {
+          "name": "王春龙",
+          "gender": ""
+        },
+        {
+          "name": "冉渝旭",
+          "gender": ""
+        },
+        {
+          "name": "陈子权",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-a08": {
+      "members": [
+        {
+          "name": "于翔",
+          "gender": ""
+        },
+        {
+          "name": "孔泉智",
+          "gender": ""
+        },
+        {
+          "name": "范俊廷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-g03": {
+      "members": [
+        {
+          "name": "邱天",
+          "gender": ""
+        },
+        {
+          "name": "席乐媛",
+          "gender": ""
+        },
+        {
+          "name": "栗铭远",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-m10": {
+      "members": [
+        {
+          "name": "姜郑康",
+          "gender": ""
+        },
+        {
+          "name": "李嘉弘",
+          "gender": ""
+        },
+        {
+          "name": "卢思吉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-a01": {
+      "members": [
+        {
+          "name": "郭奕辰",
+          "gender": ""
+        },
+        {
+          "name": "李昀轩",
+          "gender": ""
+        },
+        {
+          "name": "汪天浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-r01": {
+      "members": [
+        {
+          "name": "姚天健",
+          "gender": ""
+        },
+        {
+          "name": "唐忠盛",
+          "gender": ""
+        },
+        {
+          "name": "李心言",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-n02": {
+      "members": [
+        {
+          "name": "刘明卓",
+          "gender": ""
+        },
+        {
+          "name": "郭健桓",
+          "gender": ""
+        },
+        {
+          "name": "刘靖文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-f05": {
+      "members": [
+        {
+          "name": "罗卫泽",
+          "gender": ""
+        },
+        {
+          "name": "徐瑞奇",
+          "gender": ""
+        },
+        {
+          "name": "骆柏荣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-c07": {
+      "members": [
+        {
+          "name": "秦子溪",
+          "gender": ""
+        },
+        {
+          "name": "袁家铭",
+          "gender": ""
+        },
+        {
+          "name": "肖逸涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-q08": {
+      "members": [
+        {
+          "name": "康德润",
+          "gender": ""
+        },
+        {
+          "name": "刘雅奇",
+          "gender": ""
+        },
+        {
+          "name": "朱明昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-f08": {
+      "members": [
+        {
+          "name": "蒋渡",
+          "gender": ""
+        },
+        {
+          "name": "孙江吉",
+          "gender": ""
+        },
+        {
+          "name": "万德俊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-d06": {
+      "members": [
+        {
+          "name": "曹瀚文",
+          "gender": ""
+        },
+        {
+          "name": "司辰飞",
+          "gender": ""
+        },
+        {
+          "name": "雷云辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-m02": {
+      "members": [
+        {
+          "name": "周凡城",
+          "gender": ""
+        },
+        {
+          "name": "刘书宇",
+          "gender": ""
+        },
+        {
+          "name": "李伯轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-b09": {
+      "members": [
+        {
+          "name": "乌汗图",
+          "gender": ""
+        },
+        {
+          "name": "徐永琦",
+          "gender": ""
+        },
+        {
+          "name": "王玲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-g04": {
+      "members": [
+        {
+          "name": "陈子谦",
+          "gender": ""
+        },
+        {
+          "name": "成子鸣",
+          "gender": ""
+        },
+        {
+          "name": "邹田惠雨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-l05": {
+      "members": [
+        {
+          "name": "边政",
+          "gender": ""
+        },
+        {
+          "name": "赵烺",
+          "gender": ""
+        },
+        {
+          "name": "袁进",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-k07": {
+      "members": [
+        {
+          "name": "李君炜",
+          "gender": ""
+        },
+        {
+          "name": "吴天予",
+          "gender": ""
+        },
+        {
+          "name": "杜松煜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-h07": {
+      "members": [
+        {
+          "name": "岳宗博",
+          "gender": ""
+        },
+        {
+          "name": "戴维",
+          "gender": ""
+        },
+        {
+          "name": "孔佑鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-l03": {
+      "members": [
+        {
+          "name": "刘腾予",
+          "gender": ""
+        },
+        {
+          "name": "齐思博宇",
+          "gender": ""
+        },
+        {
+          "name": "苏汉升",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-r03": {
+      "members": [
+        {
+          "name": "金迪",
+          "gender": ""
+        },
+        {
+          "name": "祝宏睿",
+          "gender": ""
+        },
+        {
+          "name": "宋秉轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-a03": {
+      "members": [
+        {
+          "name": "王荃",
+          "gender": ""
+        },
+        {
+          "name": "姜启言",
+          "gender": ""
+        },
+        {
+          "name": "陈安艺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-f03": {
+      "members": [
+        {
+          "name": "王慈恩",
+          "gender": ""
+        },
+        {
+          "name": "张昊",
+          "gender": ""
+        },
+        {
+          "name": "周浩宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-a02": {
+      "members": [
+        {
+          "name": "陈嘉彬",
+          "gender": ""
+        },
+        {
+          "name": "徐智鸿",
+          "gender": ""
+        },
+        {
+          "name": "马诗哲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-c09": {
+      "members": [
+        {
+          "name": "夏天",
+          "gender": ""
+        },
+        {
+          "name": "刘宸硕",
+          "gender": ""
+        },
+        {
+          "name": "龙敖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-e08": {
+      "members": [
+        {
+          "name": "张慧祥",
+          "gender": ""
+        },
+        {
+          "name": "韩茗",
+          "gender": ""
+        },
+        {
+          "name": "周博昂",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-q07": {
+      "members": [
+        {
+          "name": "汪锦怡",
+          "gender": ""
+        },
+        {
+          "name": "王玥琪",
+          "gender": ""
+        },
+        {
+          "name": "李欣桐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-m09": {
+      "members": [
+        {
+          "name": "陈鑫",
+          "gender": ""
+        },
+        {
+          "name": "黄忆杭",
+          "gender": ""
+        },
+        {
+          "name": "林如愿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-g07": {
+      "members": [
+        {
+          "name": "聂天一",
+          "gender": ""
+        },
+        {
+          "name": "秦修艺",
+          "gender": ""
+        },
+        {
+          "name": "斯晗杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-n06": {
+      "members": [
+        {
+          "name": "王渝迪",
+          "gender": ""
+        },
+        {
+          "name": "王耀辉",
+          "gender": ""
+        },
+        {
+          "name": "陈志诚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-i04": {
+      "members": [
+        {
+          "name": "许靖",
+          "gender": ""
+        },
+        {
+          "name": "李卓恒",
+          "gender": ""
+        },
+        {
+          "name": "郑宇胜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-f01": {
+      "members": [
+        {
+          "name": "谢杨宇涛",
+          "gender": ""
+        },
+        {
+          "name": "张启锐",
+          "gender": ""
+        },
+        {
+          "name": "郭航航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-f10": {
+      "members": [
+        {
+          "name": "段宇航",
+          "gender": ""
+        },
+        {
+          "name": "张松涛",
+          "gender": ""
+        },
+        {
+          "name": "乔家博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-g10": {
+      "members": [
+        {
+          "name": "黄福鑫",
+          "gender": ""
+        },
+        {
+          "name": "贾皓然",
+          "gender": ""
+        },
+        {
+          "name": "张修齐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-h05": {
+      "members": [
+        {
+          "name": "王若婷",
+          "gender": ""
+        },
+        {
+          "name": "黄毅颖",
+          "gender": ""
+        },
+        {
+          "name": "陆晨凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-p08": {
+      "members": [
+        {
+          "name": "覃茂钦",
+          "gender": ""
+        },
+        {
+          "name": "杜思源",
+          "gender": ""
+        },
+        {
+          "name": "王赞溪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-b05": {
+      "members": [
+        {
+          "name": "李泽东",
+          "gender": ""
+        },
+        {
+          "name": "徐子煊",
+          "gender": ""
+        },
+        {
+          "name": "张艺凡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-n03": {
+      "members": [
+        {
+          "name": "岳柯印",
+          "gender": ""
+        },
+        {
+          "name": "曲泽瑞",
+          "gender": ""
+        },
+        {
+          "name": "王怀哲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-e10": {
+      "members": [
+        {
+          "name": "何旭",
+          "gender": ""
+        },
+        {
+          "name": "林辰旭",
+          "gender": ""
+        },
+        {
+          "name": "林钰博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-k08": {
+      "members": [
+        {
+          "name": "宋昊霖",
+          "gender": ""
+        },
+        {
+          "name": "刘欣晨",
+          "gender": ""
+        },
+        {
+          "name": "陈星旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-a10": {
+      "members": [
+        {
+          "name": "潘岩",
+          "gender": ""
+        },
+        {
+          "name": "金龙杰",
+          "gender": ""
+        },
+        {
+          "name": "苏紫辰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-a09": {
+      "members": [
+        {
+          "name": "张稷穗",
+          "gender": ""
+        },
+        {
+          "name": "赵新睿",
+          "gender": ""
+        },
+        {
+          "name": "缪弘毅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-q03": {
+      "members": [
+        {
+          "name": "章传亮",
+          "gender": ""
+        },
+        {
+          "name": "谌致远",
+          "gender": ""
+        },
+        {
+          "name": "靳博翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-l10": {
+      "members": [
+        {
+          "name": "勾业翔",
+          "gender": ""
+        },
+        {
+          "name": "李欣刚",
+          "gender": ""
+        },
+        {
+          "name": "赵鹏程",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-k06": {
+      "members": [
+        {
+          "name": "梁震宇",
+          "gender": ""
+        },
+        {
+          "name": "赵晨曦",
+          "gender": ""
+        },
+        {
+          "name": "张聿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-o04": {
+      "members": [
+        {
+          "name": "叶俊捷",
+          "gender": ""
+        },
+        {
+          "name": "吴贻炫",
+          "gender": ""
+        },
+        {
+          "name": "王昱显",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-o07": {
+      "members": [
+        {
+          "name": "韩一鸣",
+          "gender": ""
+        },
+        {
+          "name": "沈宇泽",
+          "gender": ""
+        },
+        {
+          "name": "章晨波",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-i07": {
+      "members": [
+        {
+          "name": "宋文杰",
+          "gender": ""
+        },
+        {
+          "name": "王梓睿",
+          "gender": ""
+        },
+        {
+          "name": "姜正硕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-l01": {
+      "members": [
+        {
+          "name": "满统勋",
+          "gender": ""
+        },
+        {
+          "name": "何宇航",
+          "gender": ""
+        },
+        {
+          "name": "刘晋源",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-h03": {
+      "members": [
+        {
+          "name": "陈柯嵩",
+          "gender": ""
+        },
+        {
+          "name": "饶晟烨",
+          "gender": ""
+        },
+        {
+          "name": "刘明昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-h10": {
+      "members": [
+        {
+          "name": "吴璇",
+          "gender": ""
+        },
+        {
+          "name": "肖翰林",
+          "gender": ""
+        },
+        {
+          "name": "刘宇轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-q02": {
+      "members": [
+        {
+          "name": "杨依潼",
+          "gender": ""
+        },
+        {
+          "name": "郑卫",
+          "gender": ""
+        },
+        {
+          "name": "幸豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-d05": {
+      "members": [
+        {
+          "name": "金东俊",
+          "gender": ""
+        },
+        {
+          "name": "程子寒",
+          "gender": ""
+        },
+        {
+          "name": "张皓志",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-m01": {
+      "members": [
+        {
+          "name": "李克强",
+          "gender": ""
+        },
+        {
+          "name": "杨鑫山",
+          "gender": ""
+        },
+        {
+          "name": "戴云磊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-d04": {
+      "members": [
+        {
+          "name": "孙锦华",
+          "gender": ""
+        },
+        {
+          "name": "宋俊岐",
+          "gender": ""
+        },
+        {
+          "name": "宋润",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-c03": {
+      "members": [
+        {
+          "name": "李源泉",
+          "gender": ""
+        },
+        {
+          "name": "童家瑶",
+          "gender": ""
+        },
+        {
+          "name": "廖贝贝",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-p04": {
+      "members": [
+        {
+          "name": "李婉婷",
+          "gender": ""
+        },
+        {
+          "name": "何谣",
+          "gender": ""
+        },
+        {
+          "name": "何易航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-j03": {
+      "members": [
+        {
+          "name": "刘钧然",
+          "gender": ""
+        },
+        {
+          "name": "杜福君",
+          "gender": ""
+        },
+        {
+          "name": "左秉昕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-d09": {
+      "members": [
+        {
+          "name": "李耀",
+          "gender": ""
+        },
+        {
+          "name": "李中然",
+          "gender": ""
+        },
+        {
+          "name": "孙庆鹤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-j10": {
+      "members": [
+        {
+          "name": "乐则阳",
+          "gender": ""
+        },
+        {
+          "name": "张恒诚",
+          "gender": ""
+        },
+        {
+          "name": "尹冠霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-q06": {
+      "members": [
+        {
+          "name": "张延川",
+          "gender": ""
+        },
+        {
+          "name": "李国良",
+          "gender": ""
+        },
+        {
+          "name": "刘欣斋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-b06": {
+      "members": [
+        {
+          "name": "郑世凯",
+          "gender": ""
+        },
+        {
+          "name": "刘骐锋",
+          "gender": ""
+        },
+        {
+          "name": "朱治雨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-o09": {
+      "members": [
+        {
+          "name": "张可馨",
+          "gender": ""
+        },
+        {
+          "name": "庞亚东",
+          "gender": ""
+        },
+        {
+          "name": "唐翊轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-c01": {
+      "members": [
+        {
+          "name": "杨蕊竹",
+          "gender": ""
+        },
+        {
+          "name": "李权澎",
+          "gender": ""
+        },
+        {
+          "name": "徐新雨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-j11": {
+      "members": [
+        {
+          "name": "何恩培",
+          "gender": ""
+        },
+        {
+          "name": "王琦睿",
+          "gender": ""
+        },
+        {
+          "name": "史宇轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-j04": {
+      "members": [
+        {
+          "name": "郑文辉",
+          "gender": ""
+        },
+        {
+          "name": "刘旭航",
+          "gender": ""
+        },
+        {
+          "name": "高文林",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-e06": {
+      "members": [
+        {
+          "name": "张彦泽",
+          "gender": ""
+        },
+        {
+          "name": "王禹丁",
+          "gender": ""
+        },
+        {
+          "name": "卢涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-o05": {
+      "members": [
+        {
+          "name": "乔星翰",
+          "gender": ""
+        },
+        {
+          "name": "阳灿",
+          "gender": ""
+        },
+        {
+          "name": "郑启超",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-k01": {
+      "members": [
+        {
+          "name": "林铭辉",
+          "gender": ""
+        },
+        {
+          "name": "王喆",
+          "gender": ""
+        },
+        {
+          "name": "刘凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-m03": {
+      "members": [
+        {
+          "name": "钟姝伶",
+          "gender": ""
+        },
+        {
+          "name": "庄锦浩",
+          "gender": ""
+        },
+        {
+          "name": "韩洋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-c08": {
+      "members": [
+        {
+          "name": "刘天为",
+          "gender": ""
+        },
+        {
+          "name": "李令辉",
+          "gender": ""
+        },
+        {
+          "name": "刘艺轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-a05": {
+      "members": [
+        {
+          "name": "连振翔",
+          "gender": ""
+        },
+        {
+          "name": "倪子钧",
+          "gender": ""
+        },
+        {
+          "name": "钟志烨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-j08": {
+      "members": [
+        {
+          "name": "席佳阳",
+          "gender": ""
+        },
+        {
+          "name": "高赫",
+          "gender": ""
+        },
+        {
+          "name": "白瑞秋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-i10": {
+      "members": [
+        {
+          "name": "孙张畅",
+          "gender": ""
+        },
+        {
+          "name": "王傲",
+          "gender": ""
+        },
+        {
+          "name": "金庆涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-o03": {
+      "members": [
+        {
+          "name": "刘陈一",
+          "gender": ""
+        },
+        {
+          "name": "姜凯棋",
+          "gender": ""
+        },
+        {
+          "name": "王尔玉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-d10": {
+      "members": [
+        {
+          "name": "唐鸿远",
+          "gender": ""
+        },
+        {
+          "name": "胡旭洋",
+          "gender": ""
+        },
+        {
+          "name": "刘奇逸",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-g05": {
+      "members": [
+        {
+          "name": "王一安",
+          "gender": ""
+        },
+        {
+          "name": "何宇翰",
+          "gender": ""
+        },
+        {
+          "name": "苏飞阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-h04": {
+      "members": [
+        {
+          "name": "黄韧琦",
+          "gender": ""
+        },
+        {
+          "name": "秦宏伟",
+          "gender": ""
+        },
+        {
+          "name": "曹赵杨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-p09": {
+      "members": [
+        {
+          "name": "袁朝硕",
+          "gender": ""
+        },
+        {
+          "name": "金浩然",
+          "gender": ""
+        },
+        {
+          "name": "王秉全",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-m05": {
+      "members": [
+        {
+          "name": "张俊才",
+          "gender": ""
+        },
+        {
+          "name": "李金瑞",
+          "gender": ""
+        },
+        {
+          "name": "罗昊洋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-k10": {
+      "members": [
+        {
+          "name": "杨鹏瑞",
+          "gender": ""
+        },
+        {
+          "name": "刘洪运",
+          "gender": ""
+        },
+        {
+          "name": "罗祥",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-g09": {
+      "members": [
+        {
+          "name": "李景气",
+          "gender": ""
+        },
+        {
+          "name": "张艳琪",
+          "gender": ""
+        },
+        {
+          "name": "贾博文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-d03": {
+      "members": [
+        {
+          "name": "项奥博",
+          "gender": ""
+        },
+        {
+          "name": "李星辰",
+          "gender": ""
+        },
+        {
+          "name": "马泽儒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-o01": {
+      "members": [
+        {
+          "name": "王子懿",
+          "gender": ""
+        },
+        {
+          "name": "邱建航",
+          "gender": ""
+        },
+        {
+          "name": "雷景文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-i03": {
+      "members": [
+        {
+          "name": "朱赛容",
+          "gender": ""
+        },
+        {
+          "name": "刘基淯",
+          "gender": ""
+        },
+        {
+          "name": "杨宇轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-e02": {
+      "members": [
+        {
+          "name": "王泽恺",
+          "gender": ""
+        },
+        {
+          "name": "黄子扬",
+          "gender": ""
+        },
+        {
+          "name": "罗星宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-p01": {
+      "members": [
+        {
+          "name": "李世海",
+          "gender": ""
+        },
+        {
+          "name": "何添毓",
+          "gender": ""
+        },
+        {
+          "name": "李响",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-f02": {
+      "members": [
+        {
+          "name": "乔雨琪",
+          "gender": ""
+        },
+        {
+          "name": "谢锦绣",
+          "gender": ""
+        },
+        {
+          "name": "阚思涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-r06": {
+      "members": [
+        {
+          "name": "樊茂",
+          "gender": ""
+        },
+        {
+          "name": "孙佳伟",
+          "gender": ""
+        },
+        {
+          "name": "姚鑫晨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-e07": {
+      "members": [
+        {
+          "name": "杨潇林",
+          "gender": ""
+        },
+        {
+          "name": "连军凯",
+          "gender": ""
+        },
+        {
+          "name": "刘世鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-k05": {
+      "members": [
+        {
+          "name": "刘益翔",
+          "gender": ""
+        },
+        {
+          "name": "孙瑜",
+          "gender": ""
+        },
+        {
+          "name": "赵紫昂",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-p02": {
+      "members": [
+        {
+          "name": "池庚容",
+          "gender": ""
+        },
+        {
+          "name": "余乐鑫",
+          "gender": ""
+        },
+        {
+          "name": "李昆霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-j06": {
+      "members": [
+        {
+          "name": "周春旭",
+          "gender": ""
+        },
+        {
+          "name": "孟成豪",
+          "gender": ""
+        },
+        {
+          "name": "杨锦辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-d08": {
+      "members": [
+        {
+          "name": "杨锴",
+          "gender": ""
+        },
+        {
+          "name": "郭语琪",
+          "gender": ""
+        },
+        {
+          "name": "赵金妍",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-a06": {
+      "members": [
+        {
+          "name": "谭皓",
+          "gender": ""
+        },
+        {
+          "name": "田博文",
+          "gender": ""
+        },
+        {
+          "name": "陈建坤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-l04": {
+      "members": [
+        {
+          "name": "刘毅",
+          "gender": ""
+        },
+        {
+          "name": "袁晨旭",
+          "gender": ""
+        },
+        {
+          "name": "徐震",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-h08": {
+      "members": [
+        {
+          "name": "姜继童",
+          "gender": ""
+        },
+        {
+          "name": "王锦玉",
+          "gender": ""
+        },
+        {
+          "name": "卢周",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-b07": {
+      "members": [
+        {
+          "name": "袁瑞廷",
+          "gender": ""
+        },
+        {
+          "name": "蒋逸豪",
+          "gender": ""
+        },
+        {
+          "name": "李嘉鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-r07": {
+      "members": [
+        {
+          "name": "雍徽",
+          "gender": ""
+        },
+        {
+          "name": "刘玉博",
+          "gender": ""
+        },
+        {
+          "name": "侯建宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-r02": {
+      "members": [
+        {
+          "name": "覃俊鑫",
+          "gender": ""
+        },
+        {
+          "name": "孙荣狄",
+          "gender": ""
+        },
+        {
+          "name": "张嘉柠",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-n05": {
+      "members": [
+        {
+          "name": "钟展鑫",
+          "gender": ""
+        },
+        {
+          "name": "孙晓辉",
+          "gender": ""
+        },
+        {
+          "name": "王一鸣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-l08": {
+      "members": [
+        {
+          "name": "黄展鹏",
+          "gender": ""
+        },
+        {
+          "name": "许晟笛",
+          "gender": ""
+        },
+        {
+          "name": "张渠帅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-b01": {
+      "members": [
+        {
+          "name": "姚宇增",
+          "gender": ""
+        },
+        {
+          "name": "全菁菁",
+          "gender": ""
+        },
+        {
+          "name": "李雨涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-o06": {
+      "members": [
+        {
+          "name": "陈彦达",
+          "gender": ""
+        },
+        {
+          "name": "叶柏驿",
+          "gender": ""
+        },
+        {
+          "name": "徐鹏程",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-q01": {
+      "members": [
+        {
+          "name": "单诏军",
+          "gender": ""
+        },
+        {
+          "name": "严梓彬",
+          "gender": ""
+        },
+        {
+          "name": "龚浩喆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-b10": {
+      "members": [
+        {
+          "name": "贝明轩",
+          "gender": ""
+        },
+        {
+          "name": "张天时",
+          "gender": ""
+        },
+        {
+          "name": "杨博翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-e11": {
+      "members": [
+        {
+          "name": "郭保麟",
+          "gender": ""
+        },
+        {
+          "name": "曹瑞婷",
+          "gender": ""
+        },
+        {
+          "name": "鲍方乐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-f06": {
+      "members": [
+        {
+          "name": "赵嘉琳",
+          "gender": ""
+        },
+        {
+          "name": "董福惠",
+          "gender": ""
+        },
+        {
+          "name": "向俊杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-i08": {
+      "members": [
+        {
+          "name": "苏鹏天",
+          "gender": ""
+        },
+        {
+          "name": "王康",
+          "gender": ""
+        },
+        {
+          "name": "程新然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-e04": {
+      "members": [
+        {
+          "name": "王晓彤",
+          "gender": ""
+        },
+        {
+          "name": "戚嘉玥",
+          "gender": ""
+        },
+        {
+          "name": "于鑫淼",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-m06": {
+      "members": [
+        {
+          "name": "段咏杰",
+          "gender": ""
+        },
+        {
+          "name": "惠炳阳",
+          "gender": ""
+        },
+        {
+          "name": "李泉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-e05": {
+      "members": [
+        {
+          "name": "马君豪",
+          "gender": ""
+        },
+        {
+          "name": "刘明昊",
+          "gender": ""
+        },
+        {
+          "name": "刘博文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-j02": {
+      "members": [
+        {
+          "name": "徐江源",
+          "gender": ""
+        },
+        {
+          "name": "邹谋宇",
+          "gender": ""
+        },
+        {
+          "name": "张康志",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-k03": {
+      "members": [
+        {
+          "name": "邵梓煊",
+          "gender": ""
+        },
+        {
+          "name": "齐梓航",
+          "gender": ""
+        },
+        {
+          "name": "郑明骁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-r05": {
+      "members": [
+        {
+          "name": "相静",
+          "gender": ""
+        },
+        {
+          "name": "尹世光",
+          "gender": ""
+        },
+        {
+          "name": "王志宽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-q05": {
+      "members": [
+        {
+          "name": "尧峻毅",
+          "gender": ""
+        },
+        {
+          "name": "刘国涵",
+          "gender": ""
+        },
+        {
+          "name": "聂子运",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-k04": {
+      "members": [
+        {
+          "name": "梁宝岚",
+          "gender": ""
+        },
+        {
+          "name": "王江睿",
+          "gender": ""
+        },
+        {
+          "name": "潘禹霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-i09": {
+      "members": [
+        {
+          "name": "李沅迪",
+          "gender": ""
+        },
+        {
+          "name": "景万兴",
+          "gender": ""
+        },
+        {
+          "name": "郏家瑞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-i11": {
+      "members": [
+        {
+          "name": "叶明源",
+          "gender": ""
+        },
+        {
+          "name": "马军",
+          "gender": ""
+        },
+        {
+          "name": "程广宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-k11": {
+      "members": [
+        {
+          "name": "王子睿",
+          "gender": ""
+        },
+        {
+          "name": "杨晓晓",
+          "gender": ""
+        },
+        {
+          "name": "周子豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-b03": {
+      "members": [
+        {
+          "name": "李郑波",
+          "gender": ""
+        },
+        {
+          "name": "张公明",
+          "gender": ""
+        },
+        {
+          "name": "刘金瑞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-h01": {
+      "members": [
+        {
+          "name": "李长丰",
+          "gender": ""
+        },
+        {
+          "name": "郭煜兴",
+          "gender": ""
+        },
+        {
+          "name": "张建威",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-f04": {
+      "members": [
+        {
+          "name": "张卓然",
+          "gender": ""
+        },
+        {
+          "name": "陈朋",
+          "gender": ""
+        },
+        {
+          "name": "隋鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-n01": {
+      "members": [
+        {
+          "name": "郭镇坤",
+          "gender": ""
+        },
+        {
+          "name": "孙会钢",
+          "gender": ""
+        },
+        {
+          "name": "何柏树",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-f11": {
+      "members": [
+        {
+          "name": "杨子剑",
+          "gender": ""
+        },
+        {
+          "name": "樊怡哲",
+          "gender": ""
+        },
+        {
+          "name": "黄鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-n07": {
+      "members": [
+        {
+          "name": "刘思宇",
+          "gender": ""
+        },
+        {
+          "name": "李佳峻",
+          "gender": ""
+        },
+        {
+          "name": "康婕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-b04": {
+      "members": [
+        {
+          "name": "卢毅康",
+          "gender": ""
+        },
+        {
+          "name": "贾雨欣",
+          "gender": ""
+        },
+        {
+          "name": "岑意顺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-e01": {
+      "members": [
+        {
+          "name": "姜霁轩",
+          "gender": ""
+        },
+        {
+          "name": "李锡俊",
+          "gender": ""
+        },
+        {
+          "name": "张杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-m07": {
+      "members": [
+        {
+          "name": "刘倩",
+          "gender": ""
+        },
+        {
+          "name": "杜志航",
+          "gender": ""
+        },
+        {
+          "name": "陈子昂",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-o08": {
+      "members": [
+        {
+          "name": "王梓畅",
+          "gender": ""
+        },
+        {
+          "name": "王卫兵",
+          "gender": ""
+        },
+        {
+          "name": "周士竣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-g06": {
+      "members": [
+        {
+          "name": "魏天齐",
+          "gender": ""
+        },
+        {
+          "name": "陈林",
+          "gender": ""
+        },
+        {
+          "name": "吴康睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-e03": {
+      "members": [
+        {
+          "name": "石圣男",
+          "gender": ""
+        },
+        {
+          "name": "张裕",
+          "gender": ""
+        },
+        {
+          "name": "李艾曦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-l07": {
+      "members": [
+        {
+          "name": "董喾",
+          "gender": ""
+        },
+        {
+          "name": "郭伟兴",
+          "gender": ""
+        },
+        {
+          "name": "陈紫骁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-c02": {
+      "members": [
+        {
+          "name": "何永恒",
+          "gender": ""
+        },
+        {
+          "name": "苏星雨",
+          "gender": ""
+        },
+        {
+          "name": "蒋卓君",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-p07": {
+      "members": [
+        {
+          "name": "孟祥豪",
+          "gender": ""
+        },
+        {
+          "name": "郭展廷",
+          "gender": ""
+        },
+        {
+          "name": "张珑轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-j09": {
+      "members": [
+        {
+          "name": "郝镇蓬",
+          "gender": ""
+        },
+        {
+          "name": "沈庆嵘",
+          "gender": ""
+        },
+        {
+          "name": "于欣驰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-n09": {
+      "members": [
+        {
+          "name": "陈晓涵",
+          "gender": ""
+        },
+        {
+          "name": "吴双宇",
+          "gender": ""
+        },
+        {
+          "name": "白岚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-d01": {
+      "members": [
+        {
+          "name": "王祚成",
+          "gender": ""
+        },
+        {
+          "name": "陈科畅",
+          "gender": ""
+        },
+        {
+          "name": "蒋汉山",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-m04": {
+      "members": [
+        {
+          "name": "张瑞家",
+          "gender": ""
+        },
+        {
+          "name": "胡雪灵",
+          "gender": ""
+        },
+        {
+          "name": "谢奇妍",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-h02": {
+      "members": [
+        {
+          "name": "熊洁",
+          "gender": ""
+        },
+        {
+          "name": "李金圣",
+          "gender": ""
+        },
+        {
+          "name": "程思潺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-k09": {
+      "members": [
+        {
+          "name": "马健坤",
+          "gender": ""
+        },
+        {
+          "name": "黄政霖",
+          "gender": ""
+        },
+        {
+          "name": "周铂民",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-g01": {
+      "members": [
+        {
+          "name": "李昊宸",
+          "gender": ""
+        },
+        {
+          "name": "吴保杭",
+          "gender": ""
+        },
+        {
+          "name": "管余麒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-a07": {
+      "members": [
+        {
+          "name": "周可鹏飞",
+          "gender": ""
+        },
+        {
+          "name": "张海洋",
+          "gender": ""
+        },
+        {
+          "name": "孙帅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-i02": {
+      "members": [
+        {
+          "name": "邓辰",
+          "gender": ""
+        },
+        {
+          "name": "李雪",
+          "gender": ""
+        },
+        {
+          "name": "李弈宁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-l11": {
+      "members": [
+        {
+          "name": "王锴",
+          "gender": ""
+        },
+        {
+          "name": "陈昱璁",
+          "gender": ""
+        },
+        {
+          "name": "李崇阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-h09": {
+      "members": [
+        {
+          "name": "夏心宇",
+          "gender": ""
+        },
+        {
+          "name": "许奇",
+          "gender": ""
+        },
+        {
+          "name": "李金洋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-n08": {
+      "members": [
+        {
+          "name": "薛劭朴",
+          "gender": ""
+        },
+        {
+          "name": "裴一沣",
+          "gender": ""
+        },
+        {
+          "name": "禹潇潇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-a04": {
+      "members": [
+        {
+          "name": "金依乐",
+          "gender": ""
+        },
+        {
+          "name": "赵恒泽",
+          "gender": ""
+        },
+        {
+          "name": "江维清",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-h06": {
+      "members": [
+        {
+          "name": "王靖涵",
+          "gender": ""
+        },
+        {
+          "name": "林冠泽",
+          "gender": ""
+        },
+        {
+          "name": "史晨熙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-c04": {
+      "members": [
+        {
+          "name": "邵冠麟",
+          "gender": ""
+        },
+        {
+          "name": "胡又",
+          "gender": ""
+        },
+        {
+          "name": "王欣亮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-c06": {
+      "members": [
+        {
+          "name": "王志轩",
+          "gender": ""
+        },
+        {
+          "name": "曲香硕",
+          "gender": ""
+        },
+        {
+          "name": "王绍宁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-h11": {
+      "members": [
+        {
+          "name": "戴亚哲",
+          "gender": ""
+        },
+        {
+          "name": "胡圣佳",
+          "gender": ""
+        },
+        {
+          "name": "刘子壮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-l09": {
+      "members": [
+        {
+          "name": "余敬泽",
+          "gender": ""
+        },
+        {
+          "name": "吴联成",
+          "gender": ""
+        },
+        {
+          "name": "姜香南",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-j01": {
+      "members": [
+        {
+          "name": "宋亚宁",
+          "gender": ""
+        },
+        {
+          "name": "祝圣钦",
+          "gender": ""
+        },
+        {
+          "name": "李光辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-i06": {
+      "members": [
+        {
+          "name": "陈婉莹",
+          "gender": ""
+        },
+        {
+          "name": "王子健",
+          "gender": ""
+        },
+        {
+          "name": "袁泽坤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-g08": {
+      "members": [
+        {
+          "name": "李铭轩",
+          "gender": ""
+        },
+        {
+          "name": "宋昀澳",
+          "gender": ""
+        },
+        {
+          "name": "于乐浔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-g02": {
+      "members": [
+        {
+          "name": "林键伟",
+          "gender": ""
+        },
+        {
+          "name": "张怀栋",
+          "gender": ""
+        },
+        {
+          "name": "刘士琦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-j07": {
+      "members": [
+        {
+          "name": "崔云皓",
+          "gender": ""
+        },
+        {
+          "name": "刘超",
+          "gender": ""
+        },
+        {
+          "name": "覃怀武",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-r04": {
+      "members": [
+        {
+          "name": "黄彦泽",
+          "gender": ""
+        },
+        {
+          "name": "李昊轩",
+          "gender": ""
+        },
+        {
+          "name": "李博昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-p03": {
+      "members": [
+        {
+          "name": "阿卜杜力木阿卜杜热扎克",
+          "gender": ""
+        },
+        {
+          "name": "尹洲鹏",
+          "gender": ""
+        },
+        {
+          "name": "唐天宜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-e09": {
+      "members": [
+        {
+          "name": "梁骞茹",
+          "gender": ""
+        },
+        {
+          "name": "李炫佑",
+          "gender": ""
+        },
+        {
+          "name": "宋敏琪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-d07": {
+      "members": [
+        {
+          "name": "彭博文",
+          "gender": ""
+        },
+        {
+          "name": "母佳欢",
+          "gender": ""
+        },
+        {
+          "name": "隋昕航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "team-dongbei-b08": {
+      "members": [
+        {
+          "name": "孙乐儒",
+          "gender": ""
+        },
+        {
+          "name": "王悦",
+          "gender": ""
+        },
+        {
+          "name": "李雨垚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    }
+  }
+}

@@ -1,0 +1,3798 @@
+{
+  "teams": {
+    "北京大学_三人齐心，坐断钢筋": {
+      "members": [
+        {
+          "name": "吉如一",
+          "gender": ""
+        },
+        {
+          "name": "洪华敦",
+          "gender": ""
+        },
+        {
+          "name": "丁力煌",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "*wannafly企业_king fat good": {
+      "members": [],
+      "organization_override": null
+    },
+    "南京大学_咖啡鸡": {
+      "members": [
+        {
+          "name": "凌浩",
+          "gender": ""
+        },
+        {
+          "name": "刘弘洋",
+          "gender": ""
+        },
+        {
+          "name": "张扬播",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京大学_逆序欧拉回路": {
+      "members": [
+        {
+          "name": "陆宇暄",
+          "gender": ""
+        },
+        {
+          "name": "吴瑾昭",
+          "gender": ""
+        },
+        {
+          "name": "张宇博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江大学_Legilimens": {
+      "members": [
+        {
+          "name": "陈靖邦",
+          "gender": ""
+        },
+        {
+          "name": "叶梓成",
+          "gender": ""
+        },
+        {
+          "name": "刘明锐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江大学_YaSHa": {
+      "members": [
+        {
+          "name": "黄洋逸",
+          "gender": ""
+        },
+        {
+          "name": "刘一辰",
+          "gender": ""
+        },
+        {
+          "name": "邓浩然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "清华大学_燃烧我的编译器": {
+      "members": [
+        {
+          "name": "张晨",
+          "gender": ""
+        },
+        {
+          "name": "谢兴宇",
+          "gender": ""
+        },
+        {
+          "name": "孙文厚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "福州大学_小黄鸭": {
+      "members": [
+        {
+          "name": "吴媛媛",
+          "gender": ""
+        },
+        {
+          "name": "尹泽锋",
+          "gender": ""
+        },
+        {
+          "name": "傅滨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "复旦大学_西瓜王": {
+      "members": [
+        {
+          "name": "王飒",
+          "gender": ""
+        },
+        {
+          "name": "耿明睿",
+          "gender": ""
+        },
+        {
+          "name": "薛振梁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京大学_Calabash!": {
+      "members": [
+        {
+          "name": "陈劭源",
+          "gender": ""
+        },
+        {
+          "name": "王冬杨",
+          "gender": ""
+        },
+        {
+          "name": "王淳扬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中山大学_中山大学_领航者": {
+      "members": [
+        {
+          "name": "林一诺",
+          "gender": ""
+        },
+        {
+          "name": "李洋",
+          "gender": ""
+        },
+        {
+          "name": "邓明昱",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京航空航天大学_赫拉克勒斯": {
+      "members": [
+        {
+          "name": "黄聿超",
+          "gender": ""
+        },
+        {
+          "name": "黄振",
+          "gender": ""
+        },
+        {
+          "name": "王天行",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京航空航天大学_除了AC": {
+      "members": [
+        {
+          "name": "郭镕昊",
+          "gender": ""
+        },
+        {
+          "name": "王嘉翼",
+          "gender": ""
+        },
+        {
+          "name": "姜圣虎",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "吉林大学_黑框眼镜": {
+      "members": [
+        {
+          "name": "周植",
+          "gender": ""
+        },
+        {
+          "name": "张虎",
+          "gender": ""
+        },
+        {
+          "name": "王登泰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "同济大学_荠蒻": {
+      "members": [
+        {
+          "name": "刘毅韬",
+          "gender": ""
+        },
+        {
+          "name": "欧阳小伟",
+          "gender": ""
+        },
+        {
+          "name": "任秋宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京航空航天大学_从不刷题队": {
+      "members": [
+        {
+          "name": "周环宇",
+          "gender": ""
+        },
+        {
+          "name": "向宏毅",
+          "gender": ""
+        },
+        {
+          "name": "何铭睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江大学_Helianthus": {
+      "members": [
+        {
+          "name": "李彦奎",
+          "gender": ""
+        },
+        {
+          "name": "李广林",
+          "gender": ""
+        },
+        {
+          "name": "吕耀维",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京交通大学_猜歌群": {
+      "members": [
+        {
+          "name": "何卫锋",
+          "gender": ""
+        },
+        {
+          "name": "郑黎明",
+          "gender": ""
+        },
+        {
+          "name": "王天舒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江理工大学_打完这仗回校养老": {
+      "members": [
+        {
+          "name": "潘灵伟",
+          "gender": ""
+        },
+        {
+          "name": "胡震元",
+          "gender": ""
+        },
+        {
+          "name": "王宣凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京师范大学_法老汇": {
+      "members": [
+        {
+          "name": "孙科",
+          "gender": ""
+        },
+        {
+          "name": "高健扬",
+          "gender": ""
+        },
+        {
+          "name": "吕青松",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨工业大学_工程制图": {
+      "members": [
+        {
+          "name": "王安杰",
+          "gender": ""
+        },
+        {
+          "name": "吴逸飞",
+          "gender": ""
+        },
+        {
+          "name": "罗泽建",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "清华大学_西方复读机": {
+      "members": [
+        {
+          "name": "何广荣",
+          "gender": ""
+        },
+        {
+          "name": "樊志睿",
+          "gender": ""
+        },
+        {
+          "name": "梁家铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "武汉大学_我能摸摸你的奖杯吗": {
+      "members": [
+        {
+          "name": "刘沛良",
+          "gender": ""
+        },
+        {
+          "name": "于斯同",
+          "gender": ""
+        },
+        {
+          "name": "唐凯亮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北大学_测试账号": {
+      "members": [
+        {
+          "name": "武嘉鑫",
+          "gender": ""
+        },
+        {
+          "name": "陈久健",
+          "gender": ""
+        },
+        {
+          "name": "李柏雨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "复旦大学_广告位招租": {
+      "members": [
+        {
+          "name": "刘孙瑞",
+          "gender": ""
+        },
+        {
+          "name": "肖起凡",
+          "gender": ""
+        },
+        {
+          "name": "杨光宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "山东大学_看着看着就不行了": {
+      "members": [
+        {
+          "name": "俞旭铮",
+          "gender": ""
+        },
+        {
+          "name": "熊理达",
+          "gender": ""
+        },
+        {
+          "name": "刘京升",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京邮电大学_从零开始": {
+      "members": [
+        {
+          "name": "李尧羿",
+          "gender": ""
+        },
+        {
+          "name": "吴永琦",
+          "gender": ""
+        },
+        {
+          "name": "孙斗南",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江工业大学_眼大鸟": {
+      "members": [
+        {
+          "name": "江一鸣",
+          "gender": ""
+        },
+        {
+          "name": "黄坤",
+          "gender": ""
+        },
+        {
+          "name": "王孜杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北师范大学_绯色月下": {
+      "members": [
+        {
+          "name": "陈敏锐",
+          "gender": ""
+        },
+        {
+          "name": "王长虎",
+          "gender": ""
+        },
+        {
+          "name": "王储",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "吉林大学_ 夏威夷吉他": {
+      "members": [
+        {
+          "name": "薛皓天",
+          "gender": ""
+        },
+        {
+          "name": "朱小谢",
+          "gender": ""
+        },
+        {
+          "name": "谢旭晨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "电子科技大学_UESTC_FinalCap": {
+      "members": [
+        {
+          "name": "罗综颖",
+          "gender": ""
+        },
+        {
+          "name": "叶鉴赏",
+          "gender": ""
+        },
+        {
+          "name": "张志斌",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京理工大学_北理六队": {
+      "members": [
+        {
+          "name": "张世强",
+          "gender": ""
+        },
+        {
+          "name": "郑安庆",
+          "gender": ""
+        },
+        {
+          "name": "迟泽闻",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湘潭大学_我们教练会写签到题": {
+      "members": [
+        {
+          "name": "斯海洋",
+          "gender": ""
+        },
+        {
+          "name": "程坚",
+          "gender": ""
+        },
+        {
+          "name": "郭晨亮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "大连理工大学_远见": {
+      "members": [
+        {
+          "name": "王镜潼",
+          "gender": ""
+        },
+        {
+          "name": "武根泽",
+          "gender": ""
+        },
+        {
+          "name": "薛昕磊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京化工大学_*": {
+      "members": [
+        {
+          "name": "赵伟杰",
+          "gender": ""
+        },
+        {
+          "name": "张熠坤",
+          "gender": ""
+        },
+        {
+          "name": "刘权达",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华东师范大学_给毒瘤题放天假吧": {
+      "members": [
+        {
+          "name": "胡星武",
+          "gender": ""
+        },
+        {
+          "name": "金恺翔",
+          "gender": ""
+        },
+        {
+          "name": "谢涛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江理工大学_林少，这题开不开": {
+      "members": [
+        {
+          "name": "林航宇",
+          "gender": ""
+        },
+        {
+          "name": "杨昊泽",
+          "gender": ""
+        },
+        {
+          "name": "罗晨宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京理工大学_明明是我们先AC的": {
+      "members": [
+        {
+          "name": "朱婧婧",
+          "gender": ""
+        },
+        {
+          "name": "周弈帆",
+          "gender": ""
+        },
+        {
+          "name": "刘逸凡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京交通大学_反恐精英": {
+      "members": [
+        {
+          "name": "陈炳君",
+          "gender": ""
+        },
+        {
+          "name": "赵思达",
+          "gender": ""
+        },
+        {
+          "name": "胡祖俊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国科学院大学_自由之翼": {
+      "members": [
+        {
+          "name": "郭涵章",
+          "gender": ""
+        },
+        {
+          "name": "蔡晓帆",
+          "gender": ""
+        },
+        {
+          "name": "刘阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "清华大学_哪来的log": {
+      "members": [
+        {
+          "name": "李星遥",
+          "gender": ""
+        },
+        {
+          "name": "罗崚骁",
+          "gender": ""
+        },
+        {
+          "name": "宋香君",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "天津大学_TJU_天之豪杰": {
+      "members": [
+        {
+          "name": "孙英洲",
+          "gender": ""
+        },
+        {
+          "name": "田原",
+          "gender": ""
+        },
+        {
+          "name": "贾天豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京师范大学_腊鸡zmr": {
+      "members": [
+        {
+          "name": "张明睿",
+          "gender": ""
+        },
+        {
+          "name": "孔维嘉",
+          "gender": ""
+        },
+        {
+          "name": "李鼎懋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东南大学_最小鸽": {
+      "members": [
+        {
+          "name": "谈正",
+          "gender": ""
+        },
+        {
+          "name": "顾芯怡",
+          "gender": ""
+        },
+        {
+          "name": "余冠一",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国传媒大学_模板搬运工": {
+      "members": [
+        {
+          "name": "初国俊",
+          "gender": ""
+        },
+        {
+          "name": "邓楚盟",
+          "gender": ""
+        },
+        {
+          "name": "夏业伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江工业大学_欢迎报考浙江工业幼儿园": {
+      "members": [
+        {
+          "name": "李弘毅",
+          "gender": ""
+        },
+        {
+          "name": "李昕虎",
+          "gender": ""
+        },
+        {
+          "name": "陶宇星",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨理工大学_哈理工1队": {
+      "members": [
+        {
+          "name": "高尚",
+          "gender": ""
+        },
+        {
+          "name": "张皓然",
+          "gender": ""
+        },
+        {
+          "name": "潘子怡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京理工大学_摸鱼肥宅": {
+      "members": [
+        {
+          "name": "李天翔",
+          "gender": ""
+        },
+        {
+          "name": "程文浩",
+          "gender": ""
+        },
+        {
+          "name": "易翔宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北大学_多喝热水": {
+      "members": [
+        {
+          "name": "印飞",
+          "gender": ""
+        },
+        {
+          "name": "毕继泽",
+          "gender": ""
+        },
+        {
+          "name": "陈子健",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "山东理工大学_暴雨将至": {
+      "members": [
+        {
+          "name": "秦圣昭",
+          "gender": ""
+        },
+        {
+          "name": "徐红博",
+          "gender": ""
+        },
+        {
+          "name": "程鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中山大学_中山大学_蓝气球": {
+      "members": [
+        {
+          "name": "徐达烽",
+          "gender": ""
+        },
+        {
+          "name": "梁赛波",
+          "gender": ""
+        },
+        {
+          "name": "谢立辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长春理工大学_嗨呀气死了": {
+      "members": [
+        {
+          "name": "李泽鹏",
+          "gender": ""
+        },
+        {
+          "name": "陈昶文",
+          "gender": ""
+        },
+        {
+          "name": "孟令书",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西安交通大学_死也不写计算几何": {
+      "members": [
+        {
+          "name": "蔡少斐",
+          "gender": ""
+        },
+        {
+          "name": "李南辰",
+          "gender": ""
+        },
+        {
+          "name": "张子杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "安徽大学_Amadeus": {
+      "members": [
+        {
+          "name": "汪敏瑞",
+          "gender": ""
+        },
+        {
+          "name": "施余峰",
+          "gender": ""
+        },
+        {
+          "name": "陈寰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "杭州电子科技大学_杭电四队": {
+      "members": [
+        {
+          "name": "曹征远",
+          "gender": ""
+        },
+        {
+          "name": "蒋宇衡",
+          "gender": ""
+        },
+        {
+          "name": "姚金辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "重庆邮电大学_已经没有什么好害怕的了": {
+      "members": [
+        {
+          "name": "官蜀清",
+          "gender": ""
+        },
+        {
+          "name": "刘茜",
+          "gender": ""
+        },
+        {
+          "name": "周星宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京大学_啦啦啦": {
+      "members": [
+        {
+          "name": "杜星亮",
+          "gender": ""
+        },
+        {
+          "name": "韩博",
+          "gender": ""
+        },
+        {
+          "name": "彭翔宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华中师范大学_肥仔欢乐队": {
+      "members": [
+        {
+          "name": "武玥彤",
+          "gender": ""
+        },
+        {
+          "name": "金秀树",
+          "gender": ""
+        },
+        {
+          "name": "赵文渊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "广东工业大学_脖子疼的向日葵": {
+      "members": [
+        {
+          "name": "李学铭",
+          "gender": ""
+        },
+        {
+          "name": "黄律棋",
+          "gender": ""
+        },
+        {
+          "name": "陈俊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "天津大学_TJU_人间不值得": {
+      "members": [
+        {
+          "name": "孟一",
+          "gender": ""
+        },
+        {
+          "name": "马泽雄",
+          "gender": ""
+        },
+        {
+          "name": "郭谢帆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西安交通大学_西安滑稽坦克红太阳": {
+      "members": [
+        {
+          "name": "刘瀚之",
+          "gender": ""
+        },
+        {
+          "name": "陈业元",
+          "gender": ""
+        },
+        {
+          "name": "王之坤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京理工大学_想个队名各位": {
+      "members": [
+        {
+          "name": "赵珉怿",
+          "gender": ""
+        },
+        {
+          "name": "何银银",
+          "gender": ""
+        },
+        {
+          "name": "王珂",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江农林大学_铃羽世界第一软萌": {
+      "members": [
+        {
+          "name": "应尚威",
+          "gender": ""
+        },
+        {
+          "name": "陈杨恺",
+          "gender": ""
+        },
+        {
+          "name": "廖青山",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "武汉大学_Hellokitty好可爱啊": {
+      "members": [
+        {
+          "name": "关焕康",
+          "gender": ""
+        },
+        {
+          "name": "岳志澄",
+          "gender": ""
+        },
+        {
+          "name": "孙艺轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨工业大学_耳边": {
+      "members": [
+        {
+          "name": "于新蕊",
+          "gender": ""
+        },
+        {
+          "name": "董希尧",
+          "gender": ""
+        },
+        {
+          "name": "展宇宏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东华大学_咨瓷": {
+      "members": [
+        {
+          "name": "邓翔天",
+          "gender": ""
+        },
+        {
+          "name": "曾淳",
+          "gender": ""
+        },
+        {
+          "name": "潘姝烨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "吉林大学_等蛙回家": {
+      "members": [
+        {
+          "name": "韩继宗",
+          "gender": ""
+        },
+        {
+          "name": "吴都",
+          "gender": ""
+        },
+        {
+          "name": "杨良正",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华中科技大学_我想吃锅包肉朝鲜冷面人参鸡清蒸白鱼蒸饺白肉血肠雪衣豆沙": {
+      "members": [
+        {
+          "name": "张嘉辉",
+          "gender": ""
+        },
+        {
+          "name": "陈威宇",
+          "gender": ""
+        },
+        {
+          "name": "武敏颜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "杭州电子科技大学_杭电七队": {
+      "members": [
+        {
+          "name": "钟春",
+          "gender": ""
+        },
+        {
+          "name": "孟凡月",
+          "gender": ""
+        },
+        {
+          "name": "潘奕铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "苏州大学_小乔，要努力变强": {
+      "members": [
+        {
+          "name": "吴秉庭",
+          "gender": ""
+        },
+        {
+          "name": "颜道益",
+          "gender": ""
+        },
+        {
+          "name": "郭宇航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "大连理工大学开发区校区_冰菓": {
+      "members": [
+        {
+          "name": "傅心语",
+          "gender": ""
+        },
+        {
+          "name": "任奕舟",
+          "gender": ""
+        },
+        {
+          "name": "林俊贤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "大连理工大学开发区校区_青歌行": {
+      "members": [
+        {
+          "name": "高凯",
+          "gender": ""
+        },
+        {
+          "name": "张航",
+          "gender": ""
+        },
+        {
+          "name": "杨飞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "台州学院_梦里AC": {
+      "members": [
+        {
+          "name": "王一凡",
+          "gender": ""
+        },
+        {
+          "name": "周泽玺",
+          "gender": ""
+        },
+        {
+          "name": "赵城威",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "电子科技大学_UESTC_Laputa": {
+      "members": [
+        {
+          "name": "陈驰",
+          "gender": ""
+        },
+        {
+          "name": "聂赵毅",
+          "gender": ""
+        },
+        {
+          "name": "徐经纬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "大连理工大学_扶我起来还能A": {
+      "members": [
+        {
+          "name": "陈建川",
+          "gender": ""
+        },
+        {
+          "name": "陈臻熙",
+          "gender": ""
+        },
+        {
+          "name": "张恒宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京邮电大学_暮色森林": {
+      "members": [
+        {
+          "name": "于天舒",
+          "gender": ""
+        },
+        {
+          "name": "王亚宇",
+          "gender": ""
+        },
+        {
+          "name": "郑文凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "四川大学_病名为菜": {
+      "members": [
+        {
+          "name": "陈子豪",
+          "gender": ""
+        },
+        {
+          "name": "秦朗",
+          "gender": ""
+        },
+        {
+          "name": "任子尧",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "重庆大学_朋友代打": {
+      "members": [
+        {
+          "name": "徐茂凯",
+          "gender": ""
+        },
+        {
+          "name": "刘尧",
+          "gender": ""
+        },
+        {
+          "name": "胡庆弘",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国矿业大学_矿里有家": {
+      "members": [
+        {
+          "name": "范艺杰",
+          "gender": ""
+        },
+        {
+          "name": "冷佳业",
+          "gender": ""
+        },
+        {
+          "name": "张钰炳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "厦门大学_你可真是个取名宝才,厦大捡到鬼了": {
+      "members": [
+        {
+          "name": "李远航",
+          "gender": ""
+        },
+        {
+          "name": "洪佩怡",
+          "gender": ""
+        },
+        {
+          "name": "王炳森",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江中医药大学_ZCMU-纬神别抢我衣服": {
+      "members": [
+        {
+          "name": "林初阜",
+          "gender": ""
+        },
+        {
+          "name": "李佳辉",
+          "gender": ""
+        },
+        {
+          "name": "吴俊纬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江工业大学_喋血胖头猫": {
+      "members": [
+        {
+          "name": "张焓",
+          "gender": ""
+        },
+        {
+          "name": "竺羽翔",
+          "gender": ""
+        },
+        {
+          "name": "杨鸿辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "山东大学_奶茶，还是大杯的好": {
+      "members": [
+        {
+          "name": "赵玉鑫",
+          "gender": ""
+        },
+        {
+          "name": "杜保河",
+          "gender": ""
+        },
+        {
+          "name": "霍瑜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "电子科技大学_UESTC_Alpaca": {
+      "members": [
+        {
+          "name": "黄锦发",
+          "gender": ""
+        },
+        {
+          "name": "王心禹",
+          "gender": ""
+        },
+        {
+          "name": "肖健雄",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "郑州大学_我送气球到天池": {
+      "members": [
+        {
+          "name": "张兴言",
+          "gender": ""
+        },
+        {
+          "name": "孙刚来",
+          "gender": ""
+        },
+        {
+          "name": "樊晓然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "苏州大学_为什么不问问派大星呢": {
+      "members": [
+        {
+          "name": "盛俭",
+          "gender": ""
+        },
+        {
+          "name": "刘文墉",
+          "gender": ""
+        },
+        {
+          "name": "王瑞津",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北大学秦皇岛分校_我RE，我快乐": {
+      "members": [
+        {
+          "name": "金轶凡",
+          "gender": ""
+        },
+        {
+          "name": "吴嘉梁",
+          "gender": ""
+        },
+        {
+          "name": "毛润",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京航空航天大学_跪倒在吕超杰的石榴裙下": {
+      "members": [
+        {
+          "name": "胡天豪",
+          "gender": ""
+        },
+        {
+          "name": "茅涵俊",
+          "gender": ""
+        },
+        {
+          "name": "朱天齐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "*昌邑市第一中学_莫干山登山队": {
+      "members": [],
+      "organization_override": null
+    },
+    "青岛大学_哎呦 过了": {
+      "members": [
+        {
+          "name": "李昂",
+          "gender": ""
+        },
+        {
+          "name": "王佳艺",
+          "gender": ""
+        },
+        {
+          "name": "穆明坤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北农业大学_完美谢幕": {
+      "members": [
+        {
+          "name": "王格非",
+          "gender": ""
+        },
+        {
+          "name": "赵泓江",
+          "gender": ""
+        },
+        {
+          "name": "孙洪嘉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国石油大学（北京）_我为祖国献石油": {
+      "members": [
+        {
+          "name": "吕博枫",
+          "gender": ""
+        },
+        {
+          "name": "李昊元",
+          "gender": ""
+        },
+        {
+          "name": "冯云豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西安邮电大学_糖糖真好吃": {
+      "members": [
+        {
+          "name": "张天泰",
+          "gender": ""
+        },
+        {
+          "name": "黄文丰",
+          "gender": ""
+        },
+        {
+          "name": "杨晨磊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "成都信息工程大学_三元线性回归": {
+      "members": [
+        {
+          "name": "周超",
+          "gender": ""
+        },
+        {
+          "name": "杨浩",
+          "gender": ""
+        },
+        {
+          "name": "陶博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国科学技术大学_中科大十六队": {
+      "members": [
+        {
+          "name": "曾明亮",
+          "gender": ""
+        },
+        {
+          "name": "李子旸",
+          "gender": ""
+        },
+        {
+          "name": "马凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "福建工程学院_小弟弟，你怎么回事": {
+      "members": [
+        {
+          "name": "兰家旺",
+          "gender": ""
+        },
+        {
+          "name": "许伟骐",
+          "gender": ""
+        },
+        {
+          "name": "陈俊鸿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "杭州师范大学_TI1050": {
+      "members": [
+        {
+          "name": "薛鸿涛",
+          "gender": ""
+        },
+        {
+          "name": "潘律旨",
+          "gender": ""
+        },
+        {
+          "name": "罗天松",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西北大学_隐": {
+      "members": [
+        {
+          "name": "王天阳",
+          "gender": ""
+        },
+        {
+          "name": "李瑞星",
+          "gender": ""
+        },
+        {
+          "name": "刘昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华南理工大学软件学院_二饭三楼软卧": {
+      "members": [
+        {
+          "name": "陈逸超",
+          "gender": ""
+        },
+        {
+          "name": "黄煜林",
+          "gender": ""
+        },
+        {
+          "name": "袁韬略",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨理工大学_哈理工5队": {
+      "members": [
+        {
+          "name": "赵宏宇",
+          "gender": ""
+        },
+        {
+          "name": "周慰星",
+          "gender": ""
+        },
+        {
+          "name": "陈东明",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华南理工大学软件学院_啤酒加枸杞可乐泡党参": {
+      "members": [
+        {
+          "name": "卢健杰",
+          "gender": ""
+        },
+        {
+          "name": "宗文智",
+          "gender": ""
+        },
+        {
+          "name": "朱世靖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北林业大学_AutoriChiako": {
+      "members": [
+        {
+          "name": "朱灏耘",
+          "gender": ""
+        },
+        {
+          "name": "朱芮",
+          "gender": ""
+        },
+        {
+          "name": "齐泽华",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湖南师范大学_学弟说拿牌就女装": {
+      "members": [
+        {
+          "name": "郭子源",
+          "gender": ""
+        },
+        {
+          "name": "王乙超",
+          "gender": ""
+        },
+        {
+          "name": "左卜雷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湖南中医药大学_HNUCM-Coders": {
+      "members": [
+        {
+          "name": "刘志杰",
+          "gender": ""
+        },
+        {
+          "name": "鲁荣明",
+          "gender": ""
+        },
+        {
+          "name": "黎杨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "青岛大学_脱氧核糖核酸": {
+      "members": [
+        {
+          "name": "吴新雨",
+          "gender": ""
+        },
+        {
+          "name": "孙雨田",
+          "gender": ""
+        },
+        {
+          "name": "李德健",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "天津大学_TJU_白银矿工": {
+      "members": [
+        {
+          "name": "马昊阳",
+          "gender": ""
+        },
+        {
+          "name": "原雨豪",
+          "gender": ""
+        },
+        {
+          "name": "叶翰华",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "四川大学_难受啊马飞": {
+      "members": [
+        {
+          "name": "程鑫华",
+          "gender": ""
+        },
+        {
+          "name": "伍斯思",
+          "gender": ""
+        },
+        {
+          "name": "魏子豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北大学_赏金猎人": {
+      "members": [
+        {
+          "name": "袁乾宸",
+          "gender": ""
+        },
+        {
+          "name": "王惟",
+          "gender": ""
+        },
+        {
+          "name": "杨博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "电子科技大学_UESTC_Give_me_five": {
+      "members": [
+        {
+          "name": "范嘉琦",
+          "gender": ""
+        },
+        {
+          "name": "蒋凌岳",
+          "gender": ""
+        },
+        {
+          "name": "岳涛涛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "广东工业大学_二律背反": {
+      "members": [
+        {
+          "name": "康泽楠",
+          "gender": ""
+        },
+        {
+          "name": "刘浩瀚",
+          "gender": ""
+        },
+        {
+          "name": "邓会业",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华中师范大学_皮卡丘": {
+      "members": [
+        {
+          "name": "朱有为",
+          "gender": ""
+        },
+        {
+          "name": "丁舒怡",
+          "gender": ""
+        },
+        {
+          "name": "袁丞蕾",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南开大学_后街男孩": {
+      "members": [
+        {
+          "name": "周浩",
+          "gender": ""
+        },
+        {
+          "name": "臧德馨",
+          "gender": ""
+        },
+        {
+          "name": "常阔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "重庆大学_漫步者": {
+      "members": [
+        {
+          "name": "石威",
+          "gender": ""
+        },
+        {
+          "name": "黄俊森",
+          "gender": ""
+        },
+        {
+          "name": "傅嘉政",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "桂林电子科技大学_卖女孩的小火柴": {
+      "members": [
+        {
+          "name": "段诩",
+          "gender": ""
+        },
+        {
+          "name": "谭珂",
+          "gender": ""
+        },
+        {
+          "name": "智鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨工业大学_幼儿园的车": {
+      "members": [
+        {
+          "name": "陈嵩",
+          "gender": ""
+        },
+        {
+          "name": "倪旻恒",
+          "gender": ""
+        },
+        {
+          "name": "惠一锋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "河南理工大学_维斯特洛": {
+      "members": [
+        {
+          "name": "罗最",
+          "gender": ""
+        },
+        {
+          "name": "李战士",
+          "gender": ""
+        },
+        {
+          "name": "桑大朋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨理工大学_哈理工4队": {
+      "members": [
+        {
+          "name": "陈鑫",
+          "gender": ""
+        },
+        {
+          "name": "于博文",
+          "gender": ""
+        },
+        {
+          "name": "顾佳昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨工业大学(深圳)_好像有点儿": {
+      "members": [
+        {
+          "name": "曲子奇",
+          "gender": ""
+        },
+        {
+          "name": "陈润洲",
+          "gender": ""
+        },
+        {
+          "name": "蒋泽林",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江大学城市学院_金色威兹班": {
+      "members": [
+        {
+          "name": "陶汀",
+          "gender": ""
+        },
+        {
+          "name": "王文海",
+          "gender": ""
+        },
+        {
+          "name": "沈臻阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "国防科技大学_获奖名单宣读完毕": {
+      "members": [
+        {
+          "name": "赵宗庆",
+          "gender": ""
+        },
+        {
+          "name": "吴逸慈",
+          "gender": ""
+        },
+        {
+          "name": "郭春希",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京林业大学_皮卡丘的皮在痒": {
+      "members": [
+        {
+          "name": "许哲楠",
+          "gender": ""
+        },
+        {
+          "name": "方雨晨",
+          "gender": ""
+        },
+        {
+          "name": "赵天元",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "天津工业大学_出来看神仙": {
+      "members": [
+        {
+          "name": "董京林",
+          "gender": ""
+        },
+        {
+          "name": "门剑锋",
+          "gender": ""
+        },
+        {
+          "name": "李孜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中北大学_铁牌的诱惑": {
+      "members": [
+        {
+          "name": "杨昕宇",
+          "gender": ""
+        },
+        {
+          "name": "孙威",
+          "gender": ""
+        },
+        {
+          "name": "李子轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "黑龙江大学_德州韭菜收割机": {
+      "members": [
+        {
+          "name": "叶健雄",
+          "gender": ""
+        },
+        {
+          "name": "何文彬",
+          "gender": ""
+        },
+        {
+          "name": "邵沁杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国科学院大学_猴子排序": {
+      "members": [
+        {
+          "name": "薛泓彦",
+          "gender": ""
+        },
+        {
+          "name": "胡景佩",
+          "gender": ""
+        },
+        {
+          "name": "孔维浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西安电子科技大学_欧阿二": {
+      "members": [
+        {
+          "name": "孙可",
+          "gender": ""
+        },
+        {
+          "name": "林依清",
+          "gender": ""
+        },
+        {
+          "name": "屈师培",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南阳师范学院_稻花香里说丰年": {
+      "members": [
+        {
+          "name": "文成龙",
+          "gender": ""
+        },
+        {
+          "name": "王永忠",
+          "gender": ""
+        },
+        {
+          "name": "胡会平",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江大学城市学院_十八禁": {
+      "members": [
+        {
+          "name": "梁立",
+          "gender": ""
+        },
+        {
+          "name": "吕昱萌",
+          "gender": ""
+        },
+        {
+          "name": "罗贤哲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南阳理工学院_1226564": {
+      "members": [
+        {
+          "name": "周恩泽",
+          "gender": ""
+        },
+        {
+          "name": "伍钲演",
+          "gender": ""
+        },
+        {
+          "name": "姚杨伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长安大学_把书给我": {
+      "members": [
+        {
+          "name": "王博浩",
+          "gender": ""
+        },
+        {
+          "name": "孙翔",
+          "gender": ""
+        },
+        {
+          "name": "方尧",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南方科技大学_SUSTech_Edinburgh": {
+      "members": [
+        {
+          "name": "赵宇",
+          "gender": ""
+        },
+        {
+          "name": "郝佳雨",
+          "gender": ""
+        },
+        {
+          "name": "吴烨昌",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "黑龙江大学_桃园三结义": {
+      "members": [
+        {
+          "name": "程伟民",
+          "gender": ""
+        },
+        {
+          "name": "方华宇",
+          "gender": ""
+        },
+        {
+          "name": "秦文博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨工程大学_米库米库": {
+      "members": [
+        {
+          "name": "马兴华",
+          "gender": ""
+        },
+        {
+          "name": "郑佳祺",
+          "gender": ""
+        },
+        {
+          "name": "张子昂",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京邮电大学_三支箭": {
+      "members": [
+        {
+          "name": "倪理涵",
+          "gender": ""
+        },
+        {
+          "name": "许可凡",
+          "gender": ""
+        },
+        {
+          "name": "郑莘",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "上海大学_心动网络-初心队": {
+      "members": [
+        {
+          "name": "王雨川",
+          "gender": ""
+        },
+        {
+          "name": "林永泽",
+          "gender": ""
+        },
+        {
+          "name": "顾淑洁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南华大学_奶油馒头@USC": {
+      "members": [
+        {
+          "name": "黄小桐",
+          "gender": ""
+        },
+        {
+          "name": "徐斌倩",
+          "gender": ""
+        },
+        {
+          "name": "文杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "山东理工大学_进击的小怪兽": {
+      "members": [
+        {
+          "name": "梁剑锋",
+          "gender": ""
+        },
+        {
+          "name": "刘莹",
+          "gender": ""
+        },
+        {
+          "name": "杨兴志",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "广州大学_原初之火": {
+      "members": [
+        {
+          "name": "马嘉良",
+          "gender": ""
+        },
+        {
+          "name": "梁鹏宇",
+          "gender": ""
+        },
+        {
+          "name": "李立基",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "山东科技大学_奋进号": {
+      "members": [
+        {
+          "name": "卢山",
+          "gender": ""
+        },
+        {
+          "name": "刘泉禄",
+          "gender": ""
+        },
+        {
+          "name": "孙朝",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京化工大学_被安排得明明白白": {
+      "members": [
+        {
+          "name": "张云皓",
+          "gender": ""
+        },
+        {
+          "name": "范文帝",
+          "gender": ""
+        },
+        {
+          "name": "江钊昕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "辽宁大学_海星": {
+      "members": [
+        {
+          "name": "侯振桓",
+          "gender": ""
+        },
+        {
+          "name": "李智洪",
+          "gender": ""
+        },
+        {
+          "name": "周孟磊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "重庆邮电大学_CQUPT_欧锦神": {
+      "members": [
+        {
+          "name": "秦锐锋",
+          "gender": ""
+        },
+        {
+          "name": "陈路遥",
+          "gender": ""
+        },
+        {
+          "name": "丁昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "鲁东大学_海外保释刘老总": {
+      "members": [
+        {
+          "name": "韩林峰",
+          "gender": ""
+        },
+        {
+          "name": "朱振杨",
+          "gender": ""
+        },
+        {
+          "name": "丁轩宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "同济大学_荠菜": {
+      "members": [
+        {
+          "name": "毕晓栋",
+          "gender": ""
+        },
+        {
+          "name": "秦政睿",
+          "gender": ""
+        },
+        {
+          "name": "温鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北农业大学_拔丝地瓜": {
+      "members": [
+        {
+          "name": "黄雪彤",
+          "gender": ""
+        },
+        {
+          "name": "李星彤",
+          "gender": ""
+        },
+        {
+          "name": "曹莹莹",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江财经大学_天光": {
+      "members": [
+        {
+          "name": "吕效华",
+          "gender": ""
+        },
+        {
+          "name": "徐心如",
+          "gender": ""
+        },
+        {
+          "name": "周崇凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "浙江理工大学_我们都一样": {
+      "members": [
+        {
+          "name": "彭书海",
+          "gender": ""
+        },
+        {
+          "name": "李幽",
+          "gender": ""
+        },
+        {
+          "name": "李天雄",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北林业大学_营养快线": {
+      "members": [
+        {
+          "name": "冯天祥",
+          "gender": ""
+        },
+        {
+          "name": "段仁翀",
+          "gender": ""
+        },
+        {
+          "name": "张嘉文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "河南大学_灰青蓝紫黄": {
+      "members": [
+        {
+          "name": "赵一博",
+          "gender": ""
+        },
+        {
+          "name": "赵晓宇",
+          "gender": ""
+        },
+        {
+          "name": "李晓龙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "黑龙江大学_卡多希": {
+      "members": [
+        {
+          "name": "赵庆庆",
+          "gender": ""
+        },
+        {
+          "name": "常建",
+          "gender": ""
+        },
+        {
+          "name": "付东亮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长春理工大学_毕竟我们不是什么恶魔队": {
+      "members": [
+        {
+          "name": "朱磊业",
+          "gender": ""
+        },
+        {
+          "name": "唐依凡",
+          "gender": ""
+        },
+        {
+          "name": "周诗乐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "大连东软信息学院_新鲜空气": {
+      "members": [
+        {
+          "name": "张心吾",
+          "gender": ""
+        },
+        {
+          "name": "黄希迪",
+          "gender": ""
+        },
+        {
+          "name": "刘志远",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "牡丹江师范学院_你们都不队": {
+      "members": [
+        {
+          "name": "杨维涛",
+          "gender": ""
+        },
+        {
+          "name": "李鑫",
+          "gender": ""
+        },
+        {
+          "name": "王炎",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "宁波大学_生存时限": {
+      "members": [
+        {
+          "name": "严鹏",
+          "gender": ""
+        },
+        {
+          "name": "徐晓青",
+          "gender": ""
+        },
+        {
+          "name": "陆张婷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "山东师范大学_陶泥的猴子": {
+      "members": [
+        {
+          "name": "李志伟",
+          "gender": ""
+        },
+        {
+          "name": "任耀辰",
+          "gender": ""
+        },
+        {
+          "name": "陈仕博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "深圳大学_自动AC机": {
+      "members": [
+        {
+          "name": "温标林",
+          "gender": ""
+        },
+        {
+          "name": "王至恒",
+          "gender": ""
+        },
+        {
+          "name": "林冠煜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "天津大学仁爱学院_爱吃冰淇淋": {
+      "members": [
+        {
+          "name": "黄艳平",
+          "gender": ""
+        },
+        {
+          "name": "张家辉",
+          "gender": ""
+        },
+        {
+          "name": "郭洁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国地质大学（北京）_这题梦里能A": {
+      "members": [
+        {
+          "name": "黎紫来",
+          "gender": ""
+        },
+        {
+          "name": "张娜",
+          "gender": ""
+        },
+        {
+          "name": "朱逸凡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "武汉大学_我们好难受啊": {
+      "members": [
+        {
+          "name": "黄煜坤",
+          "gender": ""
+        },
+        {
+          "name": "刘文韬",
+          "gender": ""
+        },
+        {
+          "name": "李祖鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "郑州轻工业学院_zzuli_信任": {
+      "members": [
+        {
+          "name": "包毅豪",
+          "gender": ""
+        },
+        {
+          "name": "郝军亮",
+          "gender": ""
+        },
+        {
+          "name": "徐昌鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨工程大学_喵喵喵": {
+      "members": [
+        {
+          "name": "魏牧远",
+          "gender": ""
+        },
+        {
+          "name": "刘奕然",
+          "gender": ""
+        },
+        {
+          "name": "张嘉伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "辽宁石油化工大学_我真的很菜": {
+      "members": [
+        {
+          "name": "胡世锦",
+          "gender": ""
+        },
+        {
+          "name": "寇春雷",
+          "gender": ""
+        },
+        {
+          "name": "龚宝光",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湘潭大学_史迪仔": {
+      "members": [
+        {
+          "name": "赵永辉",
+          "gender": ""
+        },
+        {
+          "name": "阳鸿鹏",
+          "gender": ""
+        },
+        {
+          "name": "申显辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北大学秦皇岛分校_2000发WA": {
+      "members": [
+        {
+          "name": "张宁",
+          "gender": ""
+        },
+        {
+          "name": "王艺凯",
+          "gender": ""
+        },
+        {
+          "name": "孙意",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "吉首大学_FW": {
+      "members": [
+        {
+          "name": "蒋超",
+          "gender": ""
+        },
+        {
+          "name": "刘杰",
+          "gender": ""
+        },
+        {
+          "name": "田伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长沙理工大学_你在补考名单上": {
+      "members": [
+        {
+          "name": "李越",
+          "gender": ""
+        },
+        {
+          "name": "刘思远",
+          "gender": ""
+        },
+        {
+          "name": "李健",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长春工业大学_队服收割者": {
+      "members": [
+        {
+          "name": "姜丁源",
+          "gender": ""
+        },
+        {
+          "name": "马昂扬",
+          "gender": ""
+        },
+        {
+          "name": "赵彬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "华中科技大学_要我一直笑吗": {
+      "members": [
+        {
+          "name": "樊炯言",
+          "gender": ""
+        },
+        {
+          "name": "谢锦瑶",
+          "gender": ""
+        },
+        {
+          "name": "岳子洋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长沙理工大学_不作死就不会死": {
+      "members": [
+        {
+          "name": "晏政",
+          "gender": ""
+        },
+        {
+          "name": "李行",
+          "gender": ""
+        },
+        {
+          "name": "李良伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南京晓庄学院_全体起立": {
+      "members": [
+        {
+          "name": "蒋俊杰",
+          "gender": ""
+        },
+        {
+          "name": "薛明怡",
+          "gender": ""
+        },
+        {
+          "name": "王炜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "河南大学_就简简单单拿个牌吧": {
+      "members": [
+        {
+          "name": "崔博恩",
+          "gender": ""
+        },
+        {
+          "name": "蔡文飞",
+          "gender": ""
+        },
+        {
+          "name": "郑明远",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北大学秦皇岛分校_火锅猫": {
+      "members": [
+        {
+          "name": "唐文浩",
+          "gender": ""
+        },
+        {
+          "name": "董明宇",
+          "gender": ""
+        },
+        {
+          "name": "黄鑫源",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北电力大学_席尔瓦&库库璐&库姆悠": {
+      "members": [
+        {
+          "name": "熊仕民",
+          "gender": ""
+        },
+        {
+          "name": "王晓泽",
+          "gender": ""
+        },
+        {
+          "name": "高善勋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京师范大学_指北针": {
+      "members": [
+        {
+          "name": "吴雨霖",
+          "gender": ""
+        },
+        {
+          "name": "梁崎霖",
+          "gender": ""
+        },
+        {
+          "name": "许可亮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "成都东软学院_喷火龙小队": {
+      "members": [
+        {
+          "name": "周征宇",
+          "gender": ""
+        },
+        {
+          "name": "宋澳",
+          "gender": ""
+        },
+        {
+          "name": "杜正磊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "沈阳航空航天大学_琦玉老师是我的榜样": {
+      "members": [
+        {
+          "name": "苗齐",
+          "gender": ""
+        },
+        {
+          "name": "曲远",
+          "gender": ""
+        },
+        {
+          "name": "唐智航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长春工业大学_ccutsoft2018": {
+      "members": [
+        {
+          "name": "张力中",
+          "gender": ""
+        },
+        {
+          "name": "罗瑞松",
+          "gender": ""
+        },
+        {
+          "name": "刘博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "燕山大学_塔山小树林": {
+      "members": [
+        {
+          "name": "杨靖航",
+          "gender": ""
+        },
+        {
+          "name": "龚昊",
+          "gender": ""
+        },
+        {
+          "name": "赵文瑞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西南科技大学_我不管我就要快乐": {
+      "members": [
+        {
+          "name": "左睿",
+          "gender": ""
+        },
+        {
+          "name": "李镰江",
+          "gender": ""
+        },
+        {
+          "name": "肖江豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "河海大学_码农翻身": {
+      "members": [
+        {
+          "name": "王克",
+          "gender": ""
+        },
+        {
+          "name": "张宇杰",
+          "gender": ""
+        },
+        {
+          "name": "占鑫鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "成都理工大学_数独": {
+      "members": [
+        {
+          "name": "郭志成",
+          "gender": ""
+        },
+        {
+          "name": "贾佳儒",
+          "gender": ""
+        },
+        {
+          "name": "李常亮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湖南大学 _佛斯特布拉德": {
+      "members": [
+        {
+          "name": "胡超慧",
+          "gender": ""
+        },
+        {
+          "name": "梁天翔",
+          "gender": ""
+        },
+        {
+          "name": "罗灿辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长沙理工大学_我想要小姐姐": {
+      "members": [
+        {
+          "name": "黄迪文",
+          "gender": ""
+        },
+        {
+          "name": "陈文俊",
+          "gender": ""
+        },
+        {
+          "name": "彭洋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "上海第二工业大学_听说一队只能三个人，我们杀蛋蛋祭天": {
+      "members": [
+        {
+          "name": "王浩宇",
+          "gender": ""
+        },
+        {
+          "name": "谈云林",
+          "gender": ""
+        },
+        {
+          "name": "宋远迪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北师范大学_鲨鱼辣椒": {
+      "members": [
+        {
+          "name": "樊友朋",
+          "gender": ""
+        },
+        {
+          "name": "朱家琪",
+          "gender": ""
+        },
+        {
+          "name": "陈瑜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中南大学_吃饭睡觉十道题": {
+      "members": [
+        {
+          "name": "张钏楠",
+          "gender": ""
+        },
+        {
+          "name": "宋海磊",
+          "gender": ""
+        },
+        {
+          "name": "李金秋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西安电子科技大学_变色龙": {
+      "members": [
+        {
+          "name": "武冠群",
+          "gender": ""
+        },
+        {
+          "name": "王禹淙",
+          "gender": ""
+        },
+        {
+          "name": "戴晨祺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京理工大学珠海学院_两腿带一坑_北京理工大学珠海学院": {
+      "members": [
+        {
+          "name": "李培硕",
+          "gender": ""
+        },
+        {
+          "name": "强锦程",
+          "gender": ""
+        },
+        {
+          "name": "杨应钊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北林业大学_不是人造革": {
+      "members": [
+        {
+          "name": "李燕虎",
+          "gender": ""
+        },
+        {
+          "name": "孙杰",
+          "gender": ""
+        },
+        {
+          "name": "张澎",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国海洋大学_今天 Ivan 又没有写代码": {
+      "members": [
+        {
+          "name": "曾趸",
+          "gender": ""
+        },
+        {
+          "name": "杜森林",
+          "gender": ""
+        },
+        {
+          "name": "叶伊凡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "湖南工业大学_大王叫我来AC": {
+      "members": [
+        {
+          "name": "颜俊杰",
+          "gender": ""
+        },
+        {
+          "name": "汤洋",
+          "gender": ""
+        },
+        {
+          "name": "高琼",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "黑龙江科技大学_黑科大_嘟嘟嘟嘟嘟": {
+      "members": [
+        {
+          "name": "时路遥",
+          "gender": ""
+        },
+        {
+          "name": "王超",
+          "gender": ""
+        },
+        {
+          "name": "吕存",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南昌大学_听说你的名字很迷人()": {
+      "members": [
+        {
+          "name": "姚煦然",
+          "gender": ""
+        },
+        {
+          "name": "胡煜鑫",
+          "gender": ""
+        },
+        {
+          "name": "杜云箫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "*北华大学_一脸懵逼": {
+      "members": [],
+      "organization_override": null
+    },
+    "西安理工大学_幻想乡的wa之神社": {
+      "members": [
+        {
+          "name": "马晨翰",
+          "gender": ""
+        },
+        {
+          "name": "王昊辰",
+          "gender": ""
+        },
+        {
+          "name": "范炜轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "北京信息科技大学_吉林一日游": {
+      "members": [
+        {
+          "name": "孟新凯",
+          "gender": ""
+        },
+        {
+          "name": "潘博雅",
+          "gender": ""
+        },
+        {
+          "name": "杨震栋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "太原理工大学_人生旅者": {
+      "members": [
+        {
+          "name": "张凯翔",
+          "gender": ""
+        },
+        {
+          "name": "鲜松柏",
+          "gender": ""
+        },
+        {
+          "name": "靳铎",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长春工业大学_哼哼哈嘿": {
+      "members": [
+        {
+          "name": "王钰棋",
+          "gender": ""
+        },
+        {
+          "name": "王智博",
+          "gender": ""
+        },
+        {
+          "name": "王韧锋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中国人民解放军信息工程大学_繁星": {
+      "members": [
+        {
+          "name": "刘寅翔",
+          "gender": ""
+        },
+        {
+          "name": "魏志强",
+          "gender": ""
+        },
+        {
+          "name": "蔡舒宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "沈阳航空航天大学_平安夜": {
+      "members": [
+        {
+          "name": "马行健",
+          "gender": ""
+        },
+        {
+          "name": "高钰清",
+          "gender": ""
+        },
+        {
+          "name": "王旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "黑龙江工程学院_佩奇的弟弟叫乔治": {
+      "members": [
+        {
+          "name": "马文强",
+          "gender": ""
+        },
+        {
+          "name": "郑高雄",
+          "gender": ""
+        },
+        {
+          "name": "武泽宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "山东农业大学_SDAU_JL": {
+      "members": [
+        {
+          "name": "李华健",
+          "gender": ""
+        },
+        {
+          "name": "安轶凡",
+          "gender": ""
+        },
+        {
+          "name": "刘文亚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "安徽工业大学_简单男孩": {
+      "members": [
+        {
+          "name": "朱宇航",
+          "gender": ""
+        },
+        {
+          "name": "杨露生",
+          "gender": ""
+        },
+        {
+          "name": "徐智沛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北电力大学_搞机战队": {
+      "members": [
+        {
+          "name": "孙梓栋",
+          "gender": ""
+        },
+        {
+          "name": "张新宇",
+          "gender": ""
+        },
+        {
+          "name": "张婧",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨学院_给我星星！": {
+      "members": [
+        {
+          "name": "陈灿华",
+          "gender": ""
+        },
+        {
+          "name": "罗小刚",
+          "gender": ""
+        },
+        {
+          "name": "季显欣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "内蒙古师范大学_内师大一队": {
+      "members": [
+        {
+          "name": "刘兴民",
+          "gender": ""
+        },
+        {
+          "name": "刘怀玉",
+          "gender": ""
+        },
+        {
+          "name": "刁桂祥",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长春大学_骄傲突破天际": {
+      "members": [
+        {
+          "name": "温智皓",
+          "gender": ""
+        },
+        {
+          "name": "王育舟",
+          "gender": ""
+        },
+        {
+          "name": "王新宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "武汉工程大学_我的队友不可能那么可爱": {
+      "members": [
+        {
+          "name": "刘一麟",
+          "gender": ""
+        },
+        {
+          "name": "刘子涵",
+          "gender": ""
+        },
+        {
+          "name": "陈杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "吉林建筑大学_永不言弃": {
+      "members": [
+        {
+          "name": "郭宁",
+          "gender": ""
+        },
+        {
+          "name": "董金沅",
+          "gender": ""
+        },
+        {
+          "name": "张宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北师范大学_三线程": {
+      "members": [
+        {
+          "name": "许征航",
+          "gender": ""
+        },
+        {
+          "name": "田时雨",
+          "gender": ""
+        },
+        {
+          "name": "赵梦宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨工程大学_教你说骚话": {
+      "members": [
+        {
+          "name": "胡立超",
+          "gender": ""
+        },
+        {
+          "name": "唐彦昭",
+          "gender": ""
+        },
+        {
+          "name": "方福鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "中南民族大学_慢一点": {
+      "members": [
+        {
+          "name": "张佳",
+          "gender": ""
+        },
+        {
+          "name": "石雷鸣",
+          "gender": ""
+        },
+        {
+          "name": "李诗琪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "东北电力大学_喵++": {
+      "members": [
+        {
+          "name": "马晨骁",
+          "gender": ""
+        },
+        {
+          "name": "李庚",
+          "gender": ""
+        },
+        {
+          "name": "孙世霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长春大学_FBI WARNING": {
+      "members": [
+        {
+          "name": "李汉奇",
+          "gender": ""
+        },
+        {
+          "name": "李玉飞",
+          "gender": ""
+        },
+        {
+          "name": "郑兴旺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长春理工大学_幻想乡乐园": {
+      "members": [
+        {
+          "name": "陈俊超",
+          "gender": ""
+        },
+        {
+          "name": "付志强",
+          "gender": ""
+        },
+        {
+          "name": "赵珏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "牡丹江师范学院_花里胡哨": {
+      "members": [
+        {
+          "name": "任磊",
+          "gender": ""
+        },
+        {
+          "name": "王晓科",
+          "gender": ""
+        },
+        {
+          "name": "汤磊锴",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨华德学院_屮艸芔茻": {
+      "members": [
+        {
+          "name": "罗峥",
+          "gender": ""
+        },
+        {
+          "name": "谭浩文",
+          "gender": ""
+        },
+        {
+          "name": "刘伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "*北华大学_许学长能不能带我A题麻辣香锅": {
+      "members": [],
+      "organization_override": null
+    },
+    "中北大学_123找朋友": {
+      "members": [
+        {
+          "name": "涂雅迪",
+          "gender": ""
+        },
+        {
+          "name": "李龙香",
+          "gender": ""
+        },
+        {
+          "name": "张旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "吉林财经大学_恶魔": {
+      "members": [
+        {
+          "name": "张倩",
+          "gender": ""
+        },
+        {
+          "name": "仇静博",
+          "gender": ""
+        },
+        {
+          "name": "朱静茹",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "南昌理工学院_月亮湖": {
+      "members": [
+        {
+          "name": "何润昌",
+          "gender": ""
+        },
+        {
+          "name": "李超",
+          "gender": ""
+        },
+        {
+          "name": "余金祥",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "长春师范大学_超越": {
+      "members": [
+        {
+          "name": "孙彬彬",
+          "gender": ""
+        },
+        {
+          "name": "任明强",
+          "gender": ""
+        },
+        {
+          "name": "王宏月",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "厦门理工学院_我们中文队名是啥来着": {
+      "members": [
+        {
+          "name": "张泽韬",
+          "gender": ""
+        },
+        {
+          "name": "张峰",
+          "gender": ""
+        },
+        {
+          "name": "陈加鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "通化师范学院_通师1队": {
+      "members": [
+        {
+          "name": "蒋彪",
+          "gender": ""
+        },
+        {
+          "name": "林紫强",
+          "gender": ""
+        },
+        {
+          "name": "张金宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "西北民族大学_西北民大肝肝队": {
+      "members": [
+        {
+          "name": "熊梦彪",
+          "gender": ""
+        },
+        {
+          "name": "吕琳涵",
+          "gender": ""
+        },
+        {
+          "name": "梁恒滔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "哈尔滨华德学院_为中华之崛起而敲代码但敲不出来想吃键盘": {
+      "members": [
+        {
+          "name": "孙文博",
+          "gender": ""
+        },
+        {
+          "name": "杨宇",
+          "gender": ""
+        },
+        {
+          "name": "陈钱",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "大庆师范学院_茕茕孑立": {
+      "members": [],
+      "organization_override": null
+    }
+  }
+}

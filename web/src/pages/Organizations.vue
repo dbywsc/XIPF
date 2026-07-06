@@ -1,94 +1,87 @@
 <script setup lang="ts">
-import { ref, watch, onMounted, computed } from 'vue'
-import { getSummary } from '@/lib/api'
+import { ref, watch, onMounted } from 'vue'
+import { getOrganizations, getSchoolsRatings, type SchoolRating } from '@/lib/api'
 import { initSearch, searchOrg } from '@/lib/search'
+import { ratingColor } from '@/lib/colors'
 
-const all = ref<any[]>([]); const loading = ref(true)
-const query = ref(''); const results = ref<any[]>([])
-
-const sf = (a: any, b: any) =>
-  ((b.champion_冠军 || 0) - (a.champion_冠军 || 0)) ||
-  ((b.champion_亚军 || 0) - (a.champion_亚军 || 0)) ||
-  ((b.champion_季军 || 0) - (a.champion_季军 || 0)) ||
-  ((b.gold || 0) - (a.gold || 0)) ||
-  ((b.silver || 0) - (a.silver || 0)) ||
-  ((b.bronze || 0) - (a.bronze || 0))
+const list = ref<any[]>([]); const loading = ref(true); const q = ref(''); const all = ref<any[]>([])
 
 onMounted(async () => {
   await initSearch()
-  const d = await getSummary()
-  all.value = d.organizations.sort(sf)
+  const [o, r] = await Promise.all([
+    getOrganizations(),
+    getSchoolsRatings().catch(() => [] as SchoolRating[]),
+  ])
+  // Build a map from school name to rating data (try trimmed name matching)
+  const rm = new Map<string, SchoolRating>()
+  for (const s of r) {
+    rm.set(s.name.trim(), s)
+    // Also add without trimming for fallback
+    if (s.name !== s.name.trim()) rm.set(s.name, s)
+  }
+  // Merge org stats with school ratings by name
+  all.value = o
+    .map((org: any) => {
+      const rt = rm.get(org.name.trim()) || rm.get(org.name) || null
+      return {
+        ...org,
+        rating: rt?.rating ?? null,
+        rc: rt?.contests ?? 0,
+        org_rating_id: rt?.id ?? null,
+      }
+    })
+    .sort((a: any, b: any) => (b.rating ?? -Infinity) - (a.rating ?? -Infinity))
+  list.value = all.value
   loading.value = false
 })
 
-const byId = computed(() => {
-  const m: Record<string, any> = {}
-  for (const o of all.value) m[o.id] = o
-  return m
-})
+// Build lookup after data loads
+function lookup(r: any) {
+  for (const o of all.value) {
+    if (o.name.trim() === r.name.trim()) return o
+    if (o.org_rating_id && o.org_rating_id === r.id) return o
+  }
+  return null
+}
 
-watch(query, (q) => {
-  if (!q.trim()) { results.value = []; return }
-  results.value = searchOrg(q).map(r => byId.value[r.id] || r)
+watch(q, v => {
+  if (!v.trim()) {
+    list.value = all.value
+    return
+  }
+  const results = searchOrg(v)
+  const matched = results
+    .map(r => lookup(r) || r)
+    .filter((item: any) => item.rating !== undefined || item.name)
+  matched.sort((a: any, b: any) => (b.rating ?? -Infinity) - (a.rating ?? -Infinity))
+  list.value = matched
 })
-
-const list = computed(() => query.value.trim() ? results.value : all.value)
 </script>
 
 <template>
-  <div class="page animate-in">
-    <h1 class="page-title">学校列表</h1>
-    <div class="search-bar">
-      <svg class="search-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-      <input v-model="query" class="search-input" type="text" placeholder="搜索学校..." />
-    </div>
-    <div v-if="loading" class="empty-state"><p>加载中...</p></div>
-    <div v-else class="card" style="overflow:hidden">
-      <table class="table">
-        <thead>
-          <tr>
-            <th>#</th>
-            <th>学校</th>
-            <th class="text-right">参赛</th>
-            <th class="text-right">冠</th>
-            <th class="text-right">亚</th>
-            <th class="text-right">季</th>
-            <th class="text-right">金</th>
-            <th class="text-right">银</th>
-            <th class="text-right">铜</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr v-for="(o, i) in list" :key="o.id">
-            <td class="num rank-cell">{{ i + 1 }}</td>
-            <td><router-link :to="`/org/${o.id}`" class="org-link">{{ o.name }}</router-link></td>
-            <td class="num text-right">{{ o.count }}</td>
-            <td class="num text-right">{{ o.champion_冠军 || 0 }}</td>
-            <td class="num text-right">{{ o.champion_亚军 || 0 }}</td>
-            <td class="num text-right">{{ o.champion_季军 || 0 }}</td>
-            <td class="num text-right">{{ o.gold }}</td>
-            <td class="num text-right">{{ o.silver }}</td>
-            <td class="num text-right">{{ o.bronze }}</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
+<div style="max-width:960px;margin:0 auto"><h1 class="page-title">学校排行</h1>
+  <div class="srch" style="margin-bottom:18px;max-width:320px"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><input v-model="q" placeholder="搜索学校..."/></div>
+  <div v-if="loading" class="empty">加载中...</div>
+  <div v-else class="card">
+    <table class="tbl"><thead><tr><th style="width:52px">#</th><th>学校</th><th class="rt" style="width:92px">Rating</th><th class="rt" style="width:54px">场次</th></tr></thead>
+      <tbody><tr v-for="(o,i) in list" :key="o.id" class="clickable row-anim" :style="{animationDelay:`${i*20}ms`}" @click="$router.push(`/org/${o.id}`)">
+        <td class="tnum muted">{{ i+1 }}</td><td style="font-weight:600;font-size:14px">{{ o.name }}</td>
+        <td class="tnum rt">
+          <template v-if="o.rating !== null && o.rating >= 3000">
+            <span style="font-weight:650;color:var(--fg)">{{ o.rating.toFixed(0)[0] }}</span><span :style="{color:ratingColor(o.rating),fontWeight:650}">{{ o.rating.toFixed(0).slice(1) }}</span>
+          </template>
+          <span v-else-if="o.rating !== null" :style="{color:ratingColor(o.rating),fontWeight:650}">{{ o.rating.toFixed(0) }}</span>
+          <span v-else class="faint">-</span>
+        </td><td class="tnum rt muted">{{ o.rc||o.count }}</td>
+      </tr></tbody>
+    </table>
   </div>
+</div>
 </template>
 
 <style scoped>
-.page { max-width: 1200px; margin: 0 auto; }
-.search-bar { position: relative; margin-bottom: 24px; }
-.search-bar .search-icon {
-  position: absolute;
-  left: 14px;
-  top: 50%;
-  transform: translateY(-50%);
-  color: var(--text-muted);
-  pointer-events: none;
+@media(max-width:480px){
+  .tbl thead th:nth-child(3),.tbl tbody td:nth-child(3),
+  .tbl thead th:nth-child(4),.tbl tbody td:nth-child(4){display:none}
 }
-.search-bar .search-input { max-width: 400px; padding-left: 42px; }
-.org-link { color: var(--text); font-weight: 500; }
-.org-link:hover { color: var(--primary); opacity: 1; }
-.rank-cell { color: var(--text-muted); font-weight: 500; }
 </style>

@@ -1,0 +1,5440 @@
+{
+  "teams": {
+    "B501": {
+      "members": [
+        {
+          "name": "蒋凌宇",
+          "gender": ""
+        },
+        {
+          "name": "钱易",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D504": {
+      "members": [
+        {
+          "name": "许庭强",
+          "gender": ""
+        },
+        {
+          "name": "唐绍轩",
+          "gender": ""
+        },
+        {
+          "name": "周航锐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B806": {
+      "members": [
+        {
+          "name": "孙悠然",
+          "gender": ""
+        },
+        {
+          "name": "忙秋阳",
+          "gender": ""
+        },
+        {
+          "name": "郭青硕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A807": {
+      "members": [
+        {
+          "name": "胡昊天",
+          "gender": ""
+        },
+        {
+          "name": "赵乐坤",
+          "gender": ""
+        },
+        {
+          "name": "吕俊琪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C710": {
+      "members": [
+        {
+          "name": "林政宇",
+          "gender": ""
+        },
+        {
+          "name": "薛哲",
+          "gender": ""
+        },
+        {
+          "name": "曾子华",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D709": {
+      "members": [
+        {
+          "name": "赵一博",
+          "gender": ""
+        },
+        {
+          "name": "贾孟澄",
+          "gender": ""
+        },
+        {
+          "name": "赵旭航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B106": {
+      "members": [
+        {
+          "name": "严子轩",
+          "gender": ""
+        },
+        {
+          "name": "周轩熠",
+          "gender": ""
+        },
+        {
+          "name": "张湫阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B410": {
+      "members": [
+        {
+          "name": "苏焜",
+          "gender": ""
+        },
+        {
+          "name": "仝家驹",
+          "gender": ""
+        },
+        {
+          "name": "周尧",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C605": {
+      "members": [
+        {
+          "name": "陈泓睿",
+          "gender": ""
+        },
+        {
+          "name": "陆徐豪",
+          "gender": ""
+        },
+        {
+          "name": "李汶芝",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B808": {
+      "members": [
+        {
+          "name": "陈羽力",
+          "gender": ""
+        },
+        {
+          "name": "陈凌山",
+          "gender": ""
+        },
+        {
+          "name": "林圣涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A109": {
+      "members": [
+        {
+          "name": "赵肖睿",
+          "gender": ""
+        },
+        {
+          "name": "刘志源",
+          "gender": ""
+        },
+        {
+          "name": "古鸣浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A805": {
+      "members": [
+        {
+          "name": "马文浩",
+          "gender": ""
+        },
+        {
+          "name": "何卓锟",
+          "gender": ""
+        },
+        {
+          "name": "黄光升",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B206": {
+      "members": [
+        {
+          "name": "王司晨",
+          "gender": ""
+        },
+        {
+          "name": "颜桉",
+          "gender": ""
+        },
+        {
+          "name": "彭宇祺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A310": {
+      "members": [
+        {
+          "name": "黄霖",
+          "gender": ""
+        },
+        {
+          "name": "徐辰烨",
+          "gender": ""
+        },
+        {
+          "name": "祁泓金",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B803": {
+      "members": [
+        {
+          "name": "李贝瑀",
+          "gender": ""
+        },
+        {
+          "name": "胡培真",
+          "gender": ""
+        },
+        {
+          "name": "彭海天",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C403": {
+      "members": [
+        {
+          "name": "孙健钧",
+          "gender": ""
+        },
+        {
+          "name": "李澎瑞",
+          "gender": ""
+        },
+        {
+          "name": "黄伟宁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D808": {
+      "members": [
+        {
+          "name": "闵家旭",
+          "gender": ""
+        },
+        {
+          "name": "张羿凡",
+          "gender": ""
+        },
+        {
+          "name": "崔绍锞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C509": {
+      "members": [
+        {
+          "name": "温昊麟",
+          "gender": ""
+        },
+        {
+          "name": "吴蕴章",
+          "gender": ""
+        },
+        {
+          "name": "冯睿阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A709": {
+      "members": [
+        {
+          "name": "李名骕",
+          "gender": ""
+        },
+        {
+          "name": "杨轶涵",
+          "gender": ""
+        },
+        {
+          "name": "黄云垄",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B305": {
+      "members": [
+        {
+          "name": "汤修齐",
+          "gender": ""
+        },
+        {
+          "name": "潘振",
+          "gender": ""
+        },
+        {
+          "name": "吴晨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A101": {
+      "members": [
+        {
+          "name": "董亦骐",
+          "gender": ""
+        },
+        {
+          "name": "钟自厚",
+          "gender": ""
+        },
+        {
+          "name": "崔隽章",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B105": {
+      "members": [
+        {
+          "name": "方智鉴",
+          "gender": ""
+        },
+        {
+          "name": "范嘉涵",
+          "gender": ""
+        },
+        {
+          "name": "孔敬德",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A106": {
+      "members": [
+        {
+          "name": "陈鹏旭",
+          "gender": ""
+        },
+        {
+          "name": "王天泽",
+          "gender": ""
+        },
+        {
+          "name": "王宗凡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A704": {
+      "members": [
+        {
+          "name": "李子熙",
+          "gender": ""
+        },
+        {
+          "name": "魏志高",
+          "gender": ""
+        },
+        {
+          "name": "程书涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A810": {
+      "members": [
+        {
+          "name": "张城玮",
+          "gender": ""
+        },
+        {
+          "name": "卢景行",
+          "gender": ""
+        },
+        {
+          "name": "田宇丰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D708": {
+      "members": [
+        {
+          "name": "江博成",
+          "gender": ""
+        },
+        {
+          "name": "王振宇",
+          "gender": ""
+        },
+        {
+          "name": "王泰翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B704": {
+      "members": [
+        {
+          "name": "付宏磊",
+          "gender": ""
+        },
+        {
+          "name": "朱庆刚",
+          "gender": ""
+        },
+        {
+          "name": "林桁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A802": {
+      "members": [
+        {
+          "name": "漆宇祥",
+          "gender": ""
+        },
+        {
+          "name": "范晨阳",
+          "gender": ""
+        },
+        {
+          "name": "余东桦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B502": {
+      "members": [
+        {
+          "name": "王向前",
+          "gender": ""
+        },
+        {
+          "name": "储文皓",
+          "gender": ""
+        },
+        {
+          "name": "罗浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C502": {
+      "members": [
+        {
+          "name": "潘伦可",
+          "gender": ""
+        },
+        {
+          "name": "黄钰",
+          "gender": ""
+        },
+        {
+          "name": "邹宇涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C805": {
+      "members": [
+        {
+          "name": "唐熙林",
+          "gender": ""
+        },
+        {
+          "name": "魏佳蕾",
+          "gender": ""
+        },
+        {
+          "name": "杨泽旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C305": {
+      "members": [
+        {
+          "name": "孙宇开",
+          "gender": ""
+        },
+        {
+          "name": "羊柯伍",
+          "gender": ""
+        },
+        {
+          "name": "梁彬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D606": {
+      "members": [
+        {
+          "name": "岳立冬",
+          "gender": ""
+        },
+        {
+          "name": "张一炜",
+          "gender": ""
+        },
+        {
+          "name": "徐熙睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D104": {
+      "members": [
+        {
+          "name": "龙禺辰",
+          "gender": ""
+        },
+        {
+          "name": "魏贺鹏",
+          "gender": ""
+        },
+        {
+          "name": "胡明聪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A502": {
+      "members": [
+        {
+          "name": "封鸿焱",
+          "gender": ""
+        },
+        {
+          "name": "王君睿",
+          "gender": ""
+        },
+        {
+          "name": "姜宇骋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A105": {
+      "members": [
+        {
+          "name": "温家睿",
+          "gender": ""
+        },
+        {
+          "name": "林度",
+          "gender": ""
+        },
+        {
+          "name": "陈凌峰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D403": {
+      "members": [
+        {
+          "name": "王宇轩",
+          "gender": ""
+        },
+        {
+          "name": "韩则进",
+          "gender": ""
+        },
+        {
+          "name": "肖锦嗣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B703": {
+      "members": [
+        {
+          "name": "何平",
+          "gender": ""
+        },
+        {
+          "name": "彭锐政",
+          "gender": ""
+        },
+        {
+          "name": "陈静波",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C310": {
+      "members": [
+        {
+          "name": "王翔宇",
+          "gender": ""
+        },
+        {
+          "name": "叶子宁",
+          "gender": ""
+        },
+        {
+          "name": "戴睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B201": {
+      "members": [
+        {
+          "name": "王令开",
+          "gender": ""
+        },
+        {
+          "name": "王开纪",
+          "gender": ""
+        },
+        {
+          "name": "李晶洋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A801": {
+      "members": [
+        {
+          "name": "林俊耿",
+          "gender": ""
+        },
+        {
+          "name": "杨子弘",
+          "gender": ""
+        },
+        {
+          "name": "肖能翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D105": {
+      "members": [
+        {
+          "name": "聂卓然",
+          "gender": ""
+        },
+        {
+          "name": "杨家祯",
+          "gender": ""
+        },
+        {
+          "name": "冯育硕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A808": {
+      "members": [
+        {
+          "name": "钟梓皓",
+          "gender": ""
+        },
+        {
+          "name": "伍俊洁",
+          "gender": ""
+        },
+        {
+          "name": "杨振炜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C503": {
+      "members": [
+        {
+          "name": "吕浩天",
+          "gender": ""
+        },
+        {
+          "name": "徐睿",
+          "gender": ""
+        },
+        {
+          "name": "梁立州",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A303": {
+      "members": [
+        {
+          "name": "王晟帆",
+          "gender": ""
+        },
+        {
+          "name": "陈益磊",
+          "gender": ""
+        },
+        {
+          "name": "林思旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A503": {
+      "members": [
+        {
+          "name": "郎若谷",
+          "gender": ""
+        },
+        {
+          "name": "高胜寒",
+          "gender": ""
+        },
+        {
+          "name": "李堂辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B602": {
+      "members": [
+        {
+          "name": "杨鑫",
+          "gender": ""
+        },
+        {
+          "name": "尹凯乐",
+          "gender": ""
+        },
+        {
+          "name": "周越",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A601": {
+      "members": [
+        {
+          "name": "游世伟",
+          "gender": ""
+        },
+        {
+          "name": "蔡长波",
+          "gender": ""
+        },
+        {
+          "name": "王子豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B309": {
+      "members": [
+        {
+          "name": "张翔",
+          "gender": ""
+        },
+        {
+          "name": "林鑫宇",
+          "gender": ""
+        },
+        {
+          "name": "王琨瑀",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C206": {
+      "members": [
+        {
+          "name": "孙乐然",
+          "gender": ""
+        },
+        {
+          "name": "何珈玮",
+          "gender": ""
+        },
+        {
+          "name": "陈卓裕",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C603": {
+      "members": [
+        {
+          "name": "董柯演",
+          "gender": ""
+        },
+        {
+          "name": "张皓宇",
+          "gender": ""
+        },
+        {
+          "name": "吴佳霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C208": {
+      "members": [
+        {
+          "name": "刘一鸣",
+          "gender": ""
+        },
+        {
+          "name": "何辰玮",
+          "gender": ""
+        },
+        {
+          "name": "王俊迪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C202": {
+      "members": [
+        {
+          "name": "陈云龙",
+          "gender": ""
+        },
+        {
+          "name": "金智威",
+          "gender": ""
+        },
+        {
+          "name": "郭昕旸",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C806": {
+      "members": [
+        {
+          "name": "林彬",
+          "gender": ""
+        },
+        {
+          "name": "王刚",
+          "gender": ""
+        },
+        {
+          "name": "李至峰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D604": {
+      "members": [
+        {
+          "name": "欧鹏夫",
+          "gender": ""
+        },
+        {
+          "name": "曾鸿文",
+          "gender": ""
+        },
+        {
+          "name": "贺正高",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A809": {
+      "members": [
+        {
+          "name": "柳烨",
+          "gender": ""
+        },
+        {
+          "name": "秦一苇",
+          "gender": ""
+        },
+        {
+          "name": "郝尚诚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C706": {
+      "members": [
+        {
+          "name": "程前",
+          "gender": ""
+        },
+        {
+          "name": "许蕴朴",
+          "gender": ""
+        },
+        {
+          "name": "吴浩明",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A409": {
+      "members": [
+        {
+          "name": "干佳立",
+          "gender": ""
+        },
+        {
+          "name": "余首荣",
+          "gender": ""
+        },
+        {
+          "name": "姜楠",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D108": {
+      "members": [
+        {
+          "name": "姚仁杰",
+          "gender": ""
+        },
+        {
+          "name": "汤丰玮",
+          "gender": ""
+        },
+        {
+          "name": "卢一鸣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B505": {
+      "members": [
+        {
+          "name": "刘睿涵",
+          "gender": ""
+        },
+        {
+          "name": "王海粼",
+          "gender": ""
+        },
+        {
+          "name": "李佳霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B401": {
+      "members": [
+        {
+          "name": "孔泉智",
+          "gender": ""
+        },
+        {
+          "name": "徐梓博",
+          "gender": ""
+        },
+        {
+          "name": "席乐媛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D109": {
+      "members": [
+        {
+          "name": "马良",
+          "gender": ""
+        },
+        {
+          "name": "沈天辰",
+          "gender": ""
+        },
+        {
+          "name": "吕澎",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D405": {
+      "members": [
+        {
+          "name": "钟星宇",
+          "gender": ""
+        },
+        {
+          "name": "金典",
+          "gender": ""
+        },
+        {
+          "name": "黄冠泽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B708": {
+      "members": [
+        {
+          "name": "陈旻庚",
+          "gender": ""
+        },
+        {
+          "name": "叶阳",
+          "gender": ""
+        },
+        {
+          "name": "朱霁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C601": {
+      "members": [
+        {
+          "name": "闻人雨泽",
+          "gender": ""
+        },
+        {
+          "name": "傅景康",
+          "gender": ""
+        },
+        {
+          "name": "周靖凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D202": {
+      "members": [
+        {
+          "name": "居然",
+          "gender": ""
+        },
+        {
+          "name": "王旻昊",
+          "gender": ""
+        },
+        {
+          "name": "李建昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B301": {
+      "members": [
+        {
+          "name": "周泳良",
+          "gender": ""
+        },
+        {
+          "name": "闵士轩",
+          "gender": ""
+        },
+        {
+          "name": "罗一鸣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A103": {
+      "members": [
+        {
+          "name": "沈彬宇",
+          "gender": ""
+        },
+        {
+          "name": "陈师贤",
+          "gender": ""
+        },
+        {
+          "name": "赵翰熙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C106": {
+      "members": [
+        {
+          "name": "陈浩贤",
+          "gender": ""
+        },
+        {
+          "name": "何亮",
+          "gender": ""
+        },
+        {
+          "name": "杨立伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D408": {
+      "members": [
+        {
+          "name": "谢锦树",
+          "gender": ""
+        },
+        {
+          "name": "张勖扬",
+          "gender": ""
+        },
+        {
+          "name": "柯炳屹",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D809": {
+      "members": [
+        {
+          "name": "谢睿杰",
+          "gender": ""
+        },
+        {
+          "name": "冯子诚",
+          "gender": ""
+        },
+        {
+          "name": "文童宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B705": {
+      "members": [
+        {
+          "name": "刘浩然",
+          "gender": ""
+        },
+        {
+          "name": "丁以恒",
+          "gender": ""
+        },
+        {
+          "name": "郭颖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A804": {
+      "members": [
+        {
+          "name": "石曜铭",
+          "gender": ""
+        },
+        {
+          "name": "吕安哲",
+          "gender": ""
+        },
+        {
+          "name": "尤俊翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A803": {
+      "members": [
+        {
+          "name": "王涵聪",
+          "gender": ""
+        },
+        {
+          "name": "王啸烽",
+          "gender": ""
+        },
+        {
+          "name": "陈增杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C210": {
+      "members": [
+        {
+          "name": "李烨",
+          "gender": ""
+        },
+        {
+          "name": "鲁浩宇",
+          "gender": ""
+        },
+        {
+          "name": "杜宇轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C304": {
+      "members": [
+        {
+          "name": "司睿洋",
+          "gender": ""
+        },
+        {
+          "name": "尹昱钦",
+          "gender": ""
+        },
+        {
+          "name": "张泽文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B503": {
+      "members": [
+        {
+          "name": "朱振傲",
+          "gender": ""
+        },
+        {
+          "name": "侯哲昊",
+          "gender": ""
+        },
+        {
+          "name": "孙力为",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D801": {
+      "members": [
+        {
+          "name": "卢安来",
+          "gender": ""
+        },
+        {
+          "name": "王冀恒",
+          "gender": ""
+        },
+        {
+          "name": "管庆涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B204": {
+      "members": [
+        {
+          "name": "喻言",
+          "gender": ""
+        },
+        {
+          "name": "周骁坤",
+          "gender": ""
+        },
+        {
+          "name": "杨展途",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A302": {
+      "members": [
+        {
+          "name": "侯睿远",
+          "gender": ""
+        },
+        {
+          "name": "赵之钰",
+          "gender": ""
+        },
+        {
+          "name": "竺夏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B509": {
+      "members": [
+        {
+          "name": "郑晟睿",
+          "gender": ""
+        },
+        {
+          "name": "林舜华",
+          "gender": ""
+        },
+        {
+          "name": "陈鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D106": {
+      "members": [
+        {
+          "name": "吴峻锋",
+          "gender": ""
+        },
+        {
+          "name": "蔡少政",
+          "gender": ""
+        },
+        {
+          "name": "吴宇环",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A306": {
+      "members": [
+        {
+          "name": "赵欣雨",
+          "gender": ""
+        },
+        {
+          "name": "汪暄暄",
+          "gender": ""
+        },
+        {
+          "name": "陈佳宜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B404": {
+      "members": [
+        {
+          "name": "段岳辰",
+          "gender": ""
+        },
+        {
+          "name": "张子昱",
+          "gender": ""
+        },
+        {
+          "name": "任一杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A104": {
+      "members": [
+        {
+          "name": "孙煜恒",
+          "gender": ""
+        },
+        {
+          "name": "朱俊杰",
+          "gender": ""
+        },
+        {
+          "name": "万家梁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D607": {
+      "members": [
+        {
+          "name": "刘桐",
+          "gender": ""
+        },
+        {
+          "name": "张毅",
+          "gender": ""
+        },
+        {
+          "name": "黄鹏基",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D401": {
+      "members": [
+        {
+          "name": "廖家健",
+          "gender": ""
+        },
+        {
+          "name": "冯天翔",
+          "gender": ""
+        },
+        {
+          "name": "欧俊希",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A202": {
+      "members": [
+        {
+          "name": "刘一鸣",
+          "gender": ""
+        },
+        {
+          "name": "刘阳元",
+          "gender": ""
+        },
+        {
+          "name": "曹煜珑",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B103": {
+      "members": [
+        {
+          "name": "李泽锴",
+          "gender": ""
+        },
+        {
+          "name": "王荣航",
+          "gender": ""
+        },
+        {
+          "name": "刘宇林",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A207": {
+      "members": [
+        {
+          "name": "刘青山",
+          "gender": ""
+        },
+        {
+          "name": "杨韵清",
+          "gender": ""
+        },
+        {
+          "name": "金浩帆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A406": {
+      "members": [
+        {
+          "name": "张乐阳",
+          "gender": ""
+        },
+        {
+          "name": "程漠",
+          "gender": ""
+        },
+        {
+          "name": "洪响",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D802": {
+      "members": [
+        {
+          "name": "周学恒",
+          "gender": ""
+        },
+        {
+          "name": "刘润田",
+          "gender": ""
+        },
+        {
+          "name": "刘鸣晓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D609": {
+      "members": [
+        {
+          "name": "刘格显",
+          "gender": ""
+        },
+        {
+          "name": "房田峰",
+          "gender": ""
+        },
+        {
+          "name": "贺康",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C808": {
+      "members": [
+        {
+          "name": "吕东阳",
+          "gender": ""
+        },
+        {
+          "name": "傅若山",
+          "gender": ""
+        },
+        {
+          "name": "邹子成",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C701": {
+      "members": [
+        {
+          "name": "黄悦源",
+          "gender": ""
+        },
+        {
+          "name": "邹丰羽",
+          "gender": ""
+        },
+        {
+          "name": "沈高畅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A404": {
+      "members": [
+        {
+          "name": "蔡祺峰",
+          "gender": ""
+        },
+        {
+          "name": "范中博",
+          "gender": ""
+        },
+        {
+          "name": "韩邦远",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C707": {
+      "members": [
+        {
+          "name": "陈宇航",
+          "gender": ""
+        },
+        {
+          "name": "许廷阳",
+          "gender": ""
+        },
+        {
+          "name": "谭清海",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C405": {
+      "members": [
+        {
+          "name": "姚知言",
+          "gender": ""
+        },
+        {
+          "name": "陈伯远",
+          "gender": ""
+        },
+        {
+          "name": "黄尚扬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B809": {
+      "members": [
+        {
+          "name": "黄烁韩",
+          "gender": ""
+        },
+        {
+          "name": "柯谱",
+          "gender": ""
+        },
+        {
+          "name": "邹明序",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B303": {
+      "members": [
+        {
+          "name": "夏子洋",
+          "gender": ""
+        },
+        {
+          "name": "柯培垚",
+          "gender": ""
+        },
+        {
+          "name": "林骅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B107": {
+      "members": [
+        {
+          "name": "胡乐安",
+          "gender": ""
+        },
+        {
+          "name": "崔晨曦",
+          "gender": ""
+        },
+        {
+          "name": "赵聿祺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C108": {
+      "members": [
+        {
+          "name": "项赞宇",
+          "gender": ""
+        },
+        {
+          "name": "齐进帅",
+          "gender": ""
+        },
+        {
+          "name": "贺金龙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D210": {
+      "members": [
+        {
+          "name": "许钧剑",
+          "gender": ""
+        },
+        {
+          "name": "刘圆博",
+          "gender": ""
+        },
+        {
+          "name": "龙源徽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D807": {
+      "members": [
+        {
+          "name": "张温楷",
+          "gender": ""
+        },
+        {
+          "name": "游少濠",
+          "gender": ""
+        },
+        {
+          "name": "李景楠",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A107": {
+      "members": [
+        {
+          "name": "廖鹏飞",
+          "gender": ""
+        },
+        {
+          "name": "陈睿正",
+          "gender": ""
+        },
+        {
+          "name": "闫佳豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B205": {
+      "members": [
+        {
+          "name": "王荟斐",
+          "gender": ""
+        },
+        {
+          "name": "蔡子健",
+          "gender": ""
+        },
+        {
+          "name": "邹瀚泓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A102": {
+      "members": [
+        {
+          "name": "王普立",
+          "gender": ""
+        },
+        {
+          "name": "李永鑫",
+          "gender": ""
+        },
+        {
+          "name": "陈昊泽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C703": {
+      "members": [
+        {
+          "name": "王玛琪",
+          "gender": ""
+        },
+        {
+          "name": "黄亦诚",
+          "gender": ""
+        },
+        {
+          "name": "石翰林",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C807": {
+      "members": [
+        {
+          "name": "殷澄宇",
+          "gender": ""
+        },
+        {
+          "name": "陈可致",
+          "gender": ""
+        },
+        {
+          "name": "杨展宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B507": {
+      "members": [
+        {
+          "name": "陆昌坤",
+          "gender": ""
+        },
+        {
+          "name": "王钦荣",
+          "gender": ""
+        },
+        {
+          "name": "杨港宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A510": {
+      "members": [
+        {
+          "name": "陈忠鹏",
+          "gender": ""
+        },
+        {
+          "name": "陈家齐",
+          "gender": ""
+        },
+        {
+          "name": "陈敏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C708": {
+      "members": [
+        {
+          "name": "徐畅",
+          "gender": ""
+        },
+        {
+          "name": "傅祥斌",
+          "gender": ""
+        },
+        {
+          "name": "蒋天逸",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B108": {
+      "members": [
+        {
+          "name": "王尔强",
+          "gender": ""
+        },
+        {
+          "name": "白雨龙",
+          "gender": ""
+        },
+        {
+          "name": "郭翰良",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B710": {
+      "members": [
+        {
+          "name": "郭旭阳",
+          "gender": ""
+        },
+        {
+          "name": "孙逸凡",
+          "gender": ""
+        },
+        {
+          "name": "杨文杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C802": {
+      "members": [
+        {
+          "name": "张少南",
+          "gender": ""
+        },
+        {
+          "name": "马午寅",
+          "gender": ""
+        },
+        {
+          "name": "陈洋琛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A504": {
+      "members": [
+        {
+          "name": "谢宇韬",
+          "gender": ""
+        },
+        {
+          "name": "郭正楠",
+          "gender": ""
+        },
+        {
+          "name": "谢子杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D702": {
+      "members": [
+        {
+          "name": "万佳文",
+          "gender": ""
+        },
+        {
+          "name": "文帅",
+          "gender": ""
+        },
+        {
+          "name": "李中钰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A410": {
+      "members": [
+        {
+          "name": "高雨涵",
+          "gender": ""
+        },
+        {
+          "name": "朱天乐",
+          "gender": ""
+        },
+        {
+          "name": "文启智",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C209": {
+      "members": [
+        {
+          "name": "张昱东",
+          "gender": ""
+        },
+        {
+          "name": "张裕博",
+          "gender": ""
+        },
+        {
+          "name": "董淑睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B302": {
+      "members": [
+        {
+          "name": "周奕",
+          "gender": ""
+        },
+        {
+          "name": "戴子晟",
+          "gender": ""
+        },
+        {
+          "name": "江宇帆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B307": {
+      "members": [
+        {
+          "name": "王振波",
+          "gender": ""
+        },
+        {
+          "name": "常铭",
+          "gender": ""
+        },
+        {
+          "name": "郑力文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A606": {
+      "members": [
+        {
+          "name": "国展源",
+          "gender": ""
+        },
+        {
+          "name": "张宸维",
+          "gender": ""
+        },
+        {
+          "name": "杨梓睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C205": {
+      "members": [
+        {
+          "name": "童培峻",
+          "gender": ""
+        },
+        {
+          "name": "余健原",
+          "gender": ""
+        },
+        {
+          "name": "李羿辰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D409": {
+      "members": [
+        {
+          "name": "李晨",
+          "gender": ""
+        },
+        {
+          "name": "李意峰",
+          "gender": ""
+        },
+        {
+          "name": "俞烨宸",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B706": {
+      "members": [
+        {
+          "name": "桑浩翔",
+          "gender": ""
+        },
+        {
+          "name": "胡明道",
+          "gender": ""
+        },
+        {
+          "name": "周礼阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B504": {
+      "members": [
+        {
+          "name": "尤铭",
+          "gender": ""
+        },
+        {
+          "name": "胡逢彬",
+          "gender": ""
+        },
+        {
+          "name": "孙小文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B702": {
+      "members": [
+        {
+          "name": "许桥飞",
+          "gender": ""
+        },
+        {
+          "name": "夏冬",
+          "gender": ""
+        },
+        {
+          "name": "陈俊豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B109": {
+      "members": [
+        {
+          "name": "简政",
+          "gender": ""
+        },
+        {
+          "name": "司佩东",
+          "gender": ""
+        },
+        {
+          "name": "张宇凡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A703": {
+      "members": [
+        {
+          "name": "李岘",
+          "gender": ""
+        },
+        {
+          "name": "高宏智",
+          "gender": ""
+        },
+        {
+          "name": "龚子贤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D102": {
+      "members": [
+        {
+          "name": "许思杰",
+          "gender": ""
+        },
+        {
+          "name": "范宇航",
+          "gender": ""
+        },
+        {
+          "name": "蔡炜权",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C803": {
+      "members": [
+        {
+          "name": "刘雨杭",
+          "gender": ""
+        },
+        {
+          "name": "杨皓铭",
+          "gender": ""
+        },
+        {
+          "name": "张浩然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B810": {
+      "members": [
+        {
+          "name": "黄浩天",
+          "gender": ""
+        },
+        {
+          "name": "陈煜祺",
+          "gender": ""
+        },
+        {
+          "name": "向宇飞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D707": {
+      "members": [
+        {
+          "name": "吴挺宇",
+          "gender": ""
+        },
+        {
+          "name": "吴尚鸿",
+          "gender": ""
+        },
+        {
+          "name": "甘景贤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C704": {
+      "members": [
+        {
+          "name": "李安磊",
+          "gender": ""
+        },
+        {
+          "name": "方思源",
+          "gender": ""
+        },
+        {
+          "name": "熊雨荻",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A305": {
+      "members": [
+        {
+          "name": "叶凯鹏",
+          "gender": ""
+        },
+        {
+          "name": "李简平",
+          "gender": ""
+        },
+        {
+          "name": "王亦凡",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B306": {
+      "members": [
+        {
+          "name": "何超",
+          "gender": ""
+        },
+        {
+          "name": "胡书惠",
+          "gender": ""
+        },
+        {
+          "name": "满曜嘉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C810": {
+      "members": [
+        {
+          "name": "沈崇焕",
+          "gender": ""
+        },
+        {
+          "name": "刘俊毅",
+          "gender": ""
+        },
+        {
+          "name": "刘昕东",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D410": {
+      "members": [
+        {
+          "name": "邹嘉豪",
+          "gender": ""
+        },
+        {
+          "name": "李可期",
+          "gender": ""
+        },
+        {
+          "name": "钟涛宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B207": {
+      "members": [
+        {
+          "name": "张杨晨昱",
+          "gender": ""
+        },
+        {
+          "name": "徐诚翰",
+          "gender": ""
+        },
+        {
+          "name": "陈华鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C308": {
+      "members": [
+        {
+          "name": "周一鸣",
+          "gender": ""
+        },
+        {
+          "name": "孙宁",
+          "gender": ""
+        },
+        {
+          "name": "邬健翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D107": {
+      "members": [
+        {
+          "name": "刘洋",
+          "gender": ""
+        },
+        {
+          "name": "裘贺宝",
+          "gender": ""
+        },
+        {
+          "name": "周黄灏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D207": {
+      "members": [
+        {
+          "name": "崔嘉豪",
+          "gender": ""
+        },
+        {
+          "name": "龚敏",
+          "gender": ""
+        },
+        {
+          "name": "余天成",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C204": {
+      "members": [
+        {
+          "name": "陈志锐",
+          "gender": ""
+        },
+        {
+          "name": "罗一粟",
+          "gender": ""
+        },
+        {
+          "name": "王儒斌",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D303": {
+      "members": [
+        {
+          "name": "蔡易轩",
+          "gender": ""
+        },
+        {
+          "name": "高俊垚",
+          "gender": ""
+        },
+        {
+          "name": "李潭啸",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A706": {
+      "members": [
+        {
+          "name": "季璨",
+          "gender": ""
+        },
+        {
+          "name": "王熙岚",
+          "gender": ""
+        },
+        {
+          "name": "秦朝超",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C804": {
+      "members": [
+        {
+          "name": "郎震",
+          "gender": ""
+        },
+        {
+          "name": "姚祥辉",
+          "gender": ""
+        },
+        {
+          "name": "罗卫泽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A203": {
+      "members": [
+        {
+          "name": "张子漠",
+          "gender": ""
+        },
+        {
+          "name": "黄鸿",
+          "gender": ""
+        },
+        {
+          "name": "唐旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A605": {
+      "members": [
+        {
+          "name": "张麟",
+          "gender": ""
+        },
+        {
+          "name": "王奕凯",
+          "gender": ""
+        },
+        {
+          "name": "陈祖榆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C709": {
+      "members": [
+        {
+          "name": "陈兰锴",
+          "gender": ""
+        },
+        {
+          "name": "曹瑞峰",
+          "gender": ""
+        },
+        {
+          "name": "牛浩然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B607": {
+      "members": [
+        {
+          "name": "孙航雨",
+          "gender": ""
+        },
+        {
+          "name": "邱卓珩",
+          "gender": ""
+        },
+        {
+          "name": "李嘉泽",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C607": {
+      "members": [
+        {
+          "name": "廖棋灿",
+          "gender": ""
+        },
+        {
+          "name": "吴羽晗",
+          "gender": ""
+        },
+        {
+          "name": "陈程忞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D810": {
+      "members": [
+        {
+          "name": "拱垲",
+          "gender": ""
+        },
+        {
+          "name": "袁英麒",
+          "gender": ""
+        },
+        {
+          "name": "吕浩然",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A702": {
+      "members": [
+        {
+          "name": "蔡培",
+          "gender": ""
+        },
+        {
+          "name": "黄成选",
+          "gender": ""
+        },
+        {
+          "name": "刘之流",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D601": {
+      "members": [
+        {
+          "name": "吴一豪",
+          "gender": ""
+        },
+        {
+          "name": "王政骁",
+          "gender": ""
+        },
+        {
+          "name": "王路阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D203": {
+      "members": [
+        {
+          "name": "龚珊珊",
+          "gender": ""
+        },
+        {
+          "name": "罗宝升",
+          "gender": ""
+        },
+        {
+          "name": "曾令翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D505": {
+      "members": [
+        {
+          "name": "何文韬",
+          "gender": ""
+        },
+        {
+          "name": "王金洋",
+          "gender": ""
+        },
+        {
+          "name": "鲍帅宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C103": {
+      "members": [
+        {
+          "name": "顾天宇",
+          "gender": ""
+        },
+        {
+          "name": "原明清",
+          "gender": ""
+        },
+        {
+          "name": "张显荣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D603": {
+      "members": [
+        {
+          "name": "黄一帆",
+          "gender": ""
+        },
+        {
+          "name": "林楷",
+          "gender": ""
+        },
+        {
+          "name": "郑冰伟",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C507": {
+      "members": [
+        {
+          "name": "吕一然",
+          "gender": ""
+        },
+        {
+          "name": "马宏伟",
+          "gender": ""
+        },
+        {
+          "name": "张明达",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C401": {
+      "members": [
+        {
+          "name": "马弘逸",
+          "gender": ""
+        },
+        {
+          "name": "来孟阳",
+          "gender": ""
+        },
+        {
+          "name": "张淇皓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B510": {
+      "members": [
+        {
+          "name": "林仁豪",
+          "gender": ""
+        },
+        {
+          "name": "陈孝乐",
+          "gender": ""
+        },
+        {
+          "name": "刘嘉炜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A609": {
+      "members": [
+        {
+          "name": "刘博文",
+          "gender": ""
+        },
+        {
+          "name": "吴星智",
+          "gender": ""
+        },
+        {
+          "name": "梁君豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C107": {
+      "members": [
+        {
+          "name": "刘毅",
+          "gender": ""
+        },
+        {
+          "name": "曾昆",
+          "gender": ""
+        },
+        {
+          "name": "李安康",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C609": {
+      "members": [
+        {
+          "name": "鲍科任",
+          "gender": ""
+        },
+        {
+          "name": "柯豪",
+          "gender": ""
+        },
+        {
+          "name": "陆嘉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C303": {
+      "members": [
+        {
+          "name": "周世杰",
+          "gender": ""
+        },
+        {
+          "name": "郑少豪",
+          "gender": ""
+        },
+        {
+          "name": "颜嘉民",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C501": {
+      "members": [
+        {
+          "name": "汤宗铉",
+          "gender": ""
+        },
+        {
+          "name": "李果",
+          "gender": ""
+        },
+        {
+          "name": "林子豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B308": {
+      "members": [
+        {
+          "name": "刘宇凡星",
+          "gender": ""
+        },
+        {
+          "name": "罗实",
+          "gender": ""
+        },
+        {
+          "name": "韩子睿",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A602": {
+      "members": [
+        {
+          "name": "刘雄豪",
+          "gender": ""
+        },
+        {
+          "name": "郭伟平",
+          "gender": ""
+        },
+        {
+          "name": "陈炎",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C809": {
+      "members": [
+        {
+          "name": "王轶轩",
+          "gender": ""
+        },
+        {
+          "name": "邵一涵",
+          "gender": ""
+        },
+        {
+          "name": "卢昭阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A407": {
+      "members": [
+        {
+          "name": "江志辉",
+          "gender": ""
+        },
+        {
+          "name": "李天舒",
+          "gender": ""
+        },
+        {
+          "name": "庄青佳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D806": {
+      "members": [
+        {
+          "name": "李兹如",
+          "gender": ""
+        },
+        {
+          "name": "姜乐源",
+          "gender": ""
+        },
+        {
+          "name": "童文康",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B405": {
+      "members": [
+        {
+          "name": "王嘉铭",
+          "gender": ""
+        },
+        {
+          "name": "崔韩磊",
+          "gender": ""
+        },
+        {
+          "name": "阳捷",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B403": {
+      "members": [
+        {
+          "name": "吴梓涵",
+          "gender": ""
+        },
+        {
+          "name": "黎俊豪",
+          "gender": ""
+        },
+        {
+          "name": "谢艺瀚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A206": {
+      "members": [
+        {
+          "name": "尹瀚磊",
+          "gender": ""
+        },
+        {
+          "name": "段俊宏",
+          "gender": ""
+        },
+        {
+          "name": "曹朝阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A701": {
+      "members": [
+        {
+          "name": "蒋涛",
+          "gender": ""
+        },
+        {
+          "name": "庄凌浩",
+          "gender": ""
+        },
+        {
+          "name": "欧力铭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A509": {
+      "members": [
+        {
+          "name": "卢俊宇",
+          "gender": ""
+        },
+        {
+          "name": "林星宇",
+          "gender": ""
+        },
+        {
+          "name": "郑睿杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A210": {
+      "members": [
+        {
+          "name": "王鹤翱",
+          "gender": ""
+        },
+        {
+          "name": "孙童乐",
+          "gender": ""
+        },
+        {
+          "name": "从文杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A308": {
+      "members": [
+        {
+          "name": "冯国晟",
+          "gender": ""
+        },
+        {
+          "name": "于洋",
+          "gender": ""
+        },
+        {
+          "name": "马廷良",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B805": {
+      "members": [
+        {
+          "name": "唐日文",
+          "gender": ""
+        },
+        {
+          "name": "王瑞雪",
+          "gender": ""
+        },
+        {
+          "name": "陈铮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B801": {
+      "members": [
+        {
+          "name": "胡召鑫",
+          "gender": ""
+        },
+        {
+          "name": "邢文俊",
+          "gender": ""
+        },
+        {
+          "name": "张美星",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A204": {
+      "members": [
+        {
+          "name": "杨一郎",
+          "gender": ""
+        },
+        {
+          "name": "章心阳",
+          "gender": ""
+        },
+        {
+          "name": "包涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B804": {
+      "members": [
+        {
+          "name": "胡弘泰",
+          "gender": ""
+        },
+        {
+          "name": "池明轩",
+          "gender": ""
+        },
+        {
+          "name": "刘映石",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C801": {
+      "members": [
+        {
+          "name": "陈凯奇",
+          "gender": ""
+        },
+        {
+          "name": "杨卓",
+          "gender": ""
+        },
+        {
+          "name": "林宸",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B304": {
+      "members": [
+        {
+          "name": "孙振轩",
+          "gender": ""
+        },
+        {
+          "name": "李一阳",
+          "gender": ""
+        },
+        {
+          "name": "吴亚楠",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B102": {
+      "members": [
+        {
+          "name": "滕家良",
+          "gender": ""
+        },
+        {
+          "name": "杨师玉",
+          "gender": ""
+        },
+        {
+          "name": "农烨明",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D608": {
+      "members": [
+        {
+          "name": "蔡优",
+          "gender": ""
+        },
+        {
+          "name": "管穗京",
+          "gender": ""
+        },
+        {
+          "name": "梅涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A505": {
+      "members": [
+        {
+          "name": "张俊焕",
+          "gender": ""
+        },
+        {
+          "name": "王畅",
+          "gender": ""
+        },
+        {
+          "name": "朱雨程",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B709": {
+      "members": [
+        {
+          "name": "邬宇炼",
+          "gender": ""
+        },
+        {
+          "name": "王舒晗",
+          "gender": ""
+        },
+        {
+          "name": "何大鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C608": {
+      "members": [
+        {
+          "name": "吴晨阳",
+          "gender": ""
+        },
+        {
+          "name": "万全",
+          "gender": ""
+        },
+        {
+          "name": "任墨涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B701": {
+      "members": [
+        {
+          "name": "陈奕帆",
+          "gender": ""
+        },
+        {
+          "name": "陶乐乐",
+          "gender": ""
+        },
+        {
+          "name": "李澹",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A508": {
+      "members": [
+        {
+          "name": "张腾",
+          "gender": ""
+        },
+        {
+          "name": "周屹",
+          "gender": ""
+        },
+        {
+          "name": "周其星",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C409": {
+      "members": [
+        {
+          "name": "丁钧铖",
+          "gender": ""
+        },
+        {
+          "name": "林万新",
+          "gender": ""
+        },
+        {
+          "name": "张裕颉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A405": {
+      "members": [
+        {
+          "name": "任屹涵",
+          "gender": ""
+        },
+        {
+          "name": "庞政",
+          "gender": ""
+        },
+        {
+          "name": "秦强民",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B407": {
+      "members": [
+        {
+          "name": "黄诗杰",
+          "gender": ""
+        },
+        {
+          "name": "谢易居",
+          "gender": ""
+        },
+        {
+          "name": "陈俊彬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A205": {
+      "members": [
+        {
+          "name": "章振杰",
+          "gender": ""
+        },
+        {
+          "name": "龚丞思",
+          "gender": ""
+        },
+        {
+          "name": "黄毅帆",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A506": {
+      "members": [
+        {
+          "name": "陈芳英",
+          "gender": ""
+        },
+        {
+          "name": "洪栩栩",
+          "gender": ""
+        },
+        {
+          "name": "胡日扬",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C402": {
+      "members": [
+        {
+          "name": "魏文博",
+          "gender": ""
+        },
+        {
+          "name": "何高磊",
+          "gender": ""
+        },
+        {
+          "name": "李锦辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D101": {
+      "members": [
+        {
+          "name": "厉峻宏",
+          "gender": ""
+        },
+        {
+          "name": "郭宝旭",
+          "gender": ""
+        },
+        {
+          "name": "项展",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D610": {
+      "members": [
+        {
+          "name": "张翔",
+          "gender": ""
+        },
+        {
+          "name": "陈博恒",
+          "gender": ""
+        },
+        {
+          "name": "何慧君",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C604": {
+      "members": [
+        {
+          "name": "钟健",
+          "gender": ""
+        },
+        {
+          "name": "许志航",
+          "gender": ""
+        },
+        {
+          "name": "桑长安",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B609": {
+      "members": [
+        {
+          "name": "林喆霖",
+          "gender": ""
+        },
+        {
+          "name": "范锦炜",
+          "gender": ""
+        },
+        {
+          "name": "蔡子",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C404": {
+      "members": [
+        {
+          "name": "尚同铮",
+          "gender": ""
+        },
+        {
+          "name": "张睿博",
+          "gender": ""
+        },
+        {
+          "name": "徐子川",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A301": {
+      "members": [
+        {
+          "name": "刘浩楠",
+          "gender": ""
+        },
+        {
+          "name": "张浩祥",
+          "gender": ""
+        },
+        {
+          "name": "李自豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B604": {
+      "members": [
+        {
+          "name": "周鑫",
+          "gender": ""
+        },
+        {
+          "name": "道又铭",
+          "gender": ""
+        },
+        {
+          "name": "叶文定",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B807": {
+      "members": [
+        {
+          "name": "张健明",
+          "gender": ""
+        },
+        {
+          "name": "陶康",
+          "gender": ""
+        },
+        {
+          "name": "高健宁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B310": {
+      "members": [
+        {
+          "name": "叶昱彤",
+          "gender": ""
+        },
+        {
+          "name": "周硕涵",
+          "gender": ""
+        },
+        {
+          "name": "黎鹏翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B110": {
+      "members": [
+        {
+          "name": "张荣臻",
+          "gender": ""
+        },
+        {
+          "name": "刘翔宇",
+          "gender": ""
+        },
+        {
+          "name": "张泰林",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D204": {
+      "members": [
+        {
+          "name": "张海乐",
+          "gender": ""
+        },
+        {
+          "name": "席玮辰",
+          "gender": ""
+        },
+        {
+          "name": "王哲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C408": {
+      "members": [
+        {
+          "name": "李子安",
+          "gender": ""
+        },
+        {
+          "name": "尹子昂",
+          "gender": ""
+        },
+        {
+          "name": "林佳露",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B402": {
+      "members": [
+        {
+          "name": "龚诚",
+          "gender": ""
+        },
+        {
+          "name": "冼健民",
+          "gender": ""
+        },
+        {
+          "name": "陈冠宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C504": {
+      "members": [
+        {
+          "name": "葛轩铭",
+          "gender": ""
+        },
+        {
+          "name": "陈泆君",
+          "gender": ""
+        },
+        {
+          "name": "鲁永卓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A708": {
+      "members": [
+        {
+          "name": "华思成",
+          "gender": ""
+        },
+        {
+          "name": "王崇",
+          "gender": ""
+        },
+        {
+          "name": "陈洋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C508": {
+      "members": [
+        {
+          "name": "阮杨永",
+          "gender": ""
+        },
+        {
+          "name": "周子豪",
+          "gender": ""
+        },
+        {
+          "name": "余牧",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D209": {
+      "members": [
+        {
+          "name": "周一涛",
+          "gender": ""
+        },
+        {
+          "name": "王士尧",
+          "gender": ""
+        },
+        {
+          "name": "毋华萍",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D103": {
+      "members": [
+        {
+          "name": "陶晟昱",
+          "gender": ""
+        },
+        {
+          "name": "陈嘉",
+          "gender": ""
+        },
+        {
+          "name": "竺钱成",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B606": {
+      "members": [
+        {
+          "name": "张书颇",
+          "gender": ""
+        },
+        {
+          "name": "严展翔",
+          "gender": ""
+        },
+        {
+          "name": "徐振迪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B406": {
+      "members": [
+        {
+          "name": "温则葆",
+          "gender": ""
+        },
+        {
+          "name": "蔡润钦",
+          "gender": ""
+        },
+        {
+          "name": "余昕烨",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D306": {
+      "members": [
+        {
+          "name": "冯致远",
+          "gender": ""
+        },
+        {
+          "name": "金理宏",
+          "gender": ""
+        },
+        {
+          "name": "余成曙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D706": {
+      "members": [
+        {
+          "name": "徐昊天",
+          "gender": ""
+        },
+        {
+          "name": "刘博文",
+          "gender": ""
+        },
+        {
+          "name": "毛谦韵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D803": {
+      "members": [
+        {
+          "name": "白昊然",
+          "gender": ""
+        },
+        {
+          "name": "王华锋",
+          "gender": ""
+        },
+        {
+          "name": "危东",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A304": {
+      "members": [
+        {
+          "name": "赵翰韬",
+          "gender": ""
+        },
+        {
+          "name": "方哲昊",
+          "gender": ""
+        },
+        {
+          "name": "黄博翼",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A309": {
+      "members": [
+        {
+          "name": "曾云昊",
+          "gender": ""
+        },
+        {
+          "name": "贺雪杭",
+          "gender": ""
+        },
+        {
+          "name": "温凯旺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C105": {
+      "members": [
+        {
+          "name": "仵蓓文",
+          "gender": ""
+        },
+        {
+          "name": "黄景焜",
+          "gender": ""
+        },
+        {
+          "name": "邱志恩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D308": {
+      "members": [
+        {
+          "name": "林卫昱",
+          "gender": ""
+        },
+        {
+          "name": "费峥宇",
+          "gender": ""
+        },
+        {
+          "name": "潘帅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D407": {
+      "members": [
+        {
+          "name": "胡明涛",
+          "gender": ""
+        },
+        {
+          "name": "单宇宸",
+          "gender": ""
+        },
+        {
+          "name": "文红兵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C307": {
+      "members": [
+        {
+          "name": "陶大阳",
+          "gender": ""
+        },
+        {
+          "name": "杨晨",
+          "gender": ""
+        },
+        {
+          "name": "张忆周",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C109": {
+      "members": [
+        {
+          "name": "陈科睿",
+          "gender": ""
+        },
+        {
+          "name": "王湘豫",
+          "gender": ""
+        },
+        {
+          "name": "谭振鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D805": {
+      "members": [
+        {
+          "name": "齐子昊",
+          "gender": ""
+        },
+        {
+          "name": "宋博文",
+          "gender": ""
+        },
+        {
+          "name": "张云博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A806": {
+      "members": [
+        {
+          "name": "许博文",
+          "gender": ""
+        },
+        {
+          "name": "王浩宇",
+          "gender": ""
+        },
+        {
+          "name": "张鹏举",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D508": {
+      "members": [
+        {
+          "name": "孙昱涵",
+          "gender": ""
+        },
+        {
+          "name": "李少昆",
+          "gender": ""
+        },
+        {
+          "name": "罗飞云",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D506": {
+      "members": [
+        {
+          "name": "刘浩然",
+          "gender": ""
+        },
+        {
+          "name": "陈鹏",
+          "gender": ""
+        },
+        {
+          "name": "梁国轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D310": {
+      "members": [
+        {
+          "name": "刘宋凯",
+          "gender": ""
+        },
+        {
+          "name": "李敬",
+          "gender": ""
+        },
+        {
+          "name": "赵天鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B208": {
+      "members": [
+        {
+          "name": "罗明杨",
+          "gender": ""
+        },
+        {
+          "name": "夏源泽",
+          "gender": ""
+        },
+        {
+          "name": "王业鑫",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A507": {
+      "members": [
+        {
+          "name": "周俊杰",
+          "gender": ""
+        },
+        {
+          "name": "陈雨彬",
+          "gender": ""
+        },
+        {
+          "name": "连鑫焱",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D510": {
+      "members": [
+        {
+          "name": "刘长睿",
+          "gender": ""
+        },
+        {
+          "name": "王中天",
+          "gender": ""
+        },
+        {
+          "name": "王雨菲",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C301": {
+      "members": [
+        {
+          "name": "李凡一",
+          "gender": ""
+        },
+        {
+          "name": "王林翰",
+          "gender": ""
+        },
+        {
+          "name": "郑博文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C407": {
+      "members": [
+        {
+          "name": "林臧冉",
+          "gender": ""
+        },
+        {
+          "name": "张俊轩",
+          "gender": ""
+        },
+        {
+          "name": "阮华轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D305": {
+      "members": [
+        {
+          "name": "于泳昊",
+          "gender": ""
+        },
+        {
+          "name": "楼元培",
+          "gender": ""
+        },
+        {
+          "name": "张云起",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A403": {
+      "members": [
+        {
+          "name": "周兴科",
+          "gender": ""
+        },
+        {
+          "name": "余卓豪",
+          "gender": ""
+        },
+        {
+          "name": "陈超楠",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C610": {
+      "members": [
+        {
+          "name": "刘金尧",
+          "gender": ""
+        },
+        {
+          "name": "杨家浩",
+          "gender": ""
+        },
+        {
+          "name": "杨煜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B605": {
+      "members": [
+        {
+          "name": "黄梓峰",
+          "gender": ""
+        },
+        {
+          "name": "古恩豪",
+          "gender": ""
+        },
+        {
+          "name": "张志诚",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A710": {
+      "members": [
+        {
+          "name": "张雷鸣",
+          "gender": ""
+        },
+        {
+          "name": "姜良超",
+          "gender": ""
+        },
+        {
+          "name": "杨利恒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D507": {
+      "members": [
+        {
+          "name": "廖智成",
+          "gender": ""
+        },
+        {
+          "name": "徐丁阳",
+          "gender": ""
+        },
+        {
+          "name": "苏永康",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D110": {
+      "members": [
+        {
+          "name": "张学鹏",
+          "gender": ""
+        },
+        {
+          "name": "陈仕杰",
+          "gender": ""
+        },
+        {
+          "name": "曾宇成",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A607": {
+      "members": [
+        {
+          "name": "陈琳昊",
+          "gender": ""
+        },
+        {
+          "name": "黄煜杰",
+          "gender": ""
+        },
+        {
+          "name": "周子航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C207": {
+      "members": [
+        {
+          "name": "庄昀",
+          "gender": ""
+        },
+        {
+          "name": "宋浩元",
+          "gender": ""
+        },
+        {
+          "name": "吴俊豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D406": {
+      "members": [
+        {
+          "name": "杨曦",
+          "gender": ""
+        },
+        {
+          "name": "黄祯",
+          "gender": ""
+        },
+        {
+          "name": "陈宇轩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D402": {
+      "members": [
+        {
+          "name": "于鸥鹿",
+          "gender": ""
+        },
+        {
+          "name": "徐宇宸",
+          "gender": ""
+        },
+        {
+          "name": "王泓杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A501": {
+      "members": [
+        {
+          "name": "谢成",
+          "gender": ""
+        },
+        {
+          "name": "冯世杰",
+          "gender": ""
+        },
+        {
+          "name": "王葡豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A201": {
+      "members": [
+        {
+          "name": "李德立",
+          "gender": ""
+        },
+        {
+          "name": "韩世杰",
+          "gender": ""
+        },
+        {
+          "name": "袁馨渝",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C406": {
+      "members": [
+        {
+          "name": "宋名玮",
+          "gender": ""
+        },
+        {
+          "name": "周希明",
+          "gender": ""
+        },
+        {
+          "name": "曾援",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B408": {
+      "members": [
+        {
+          "name": "陈竹阳",
+          "gender": ""
+        },
+        {
+          "name": "胡立",
+          "gender": ""
+        },
+        {
+          "name": "许添",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D502": {
+      "members": [
+        {
+          "name": "杜可",
+          "gender": ""
+        },
+        {
+          "name": "刘钰",
+          "gender": ""
+        },
+        {
+          "name": "范金旭",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B601": {
+      "members": [
+        {
+          "name": "高泽彤",
+          "gender": ""
+        },
+        {
+          "name": "关泽霖",
+          "gender": ""
+        },
+        {
+          "name": "许铭宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C302": {
+      "members": [
+        {
+          "name": "曾鹏晨",
+          "gender": ""
+        },
+        {
+          "name": "刘易",
+          "gender": ""
+        },
+        {
+          "name": "韩俊杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B506": {
+      "members": [
+        {
+          "name": "林新晨",
+          "gender": ""
+        },
+        {
+          "name": "胡宇辰",
+          "gender": ""
+        },
+        {
+          "name": "李知夏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D501": {
+      "members": [
+        {
+          "name": "朱潇庸",
+          "gender": ""
+        },
+        {
+          "name": "陈罡",
+          "gender": ""
+        },
+        {
+          "name": "刘博文",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C104": {
+      "members": [
+        {
+          "name": "严臻圆",
+          "gender": ""
+        },
+        {
+          "name": "纪伟伟",
+          "gender": ""
+        },
+        {
+          "name": "张雨静",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B608": {
+      "members": [
+        {
+          "name": "徐敬磊",
+          "gender": ""
+        },
+        {
+          "name": "李奕飞",
+          "gender": ""
+        },
+        {
+          "name": "叶兆伦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D206": {
+      "members": [
+        {
+          "name": "江帅霖",
+          "gender": ""
+        },
+        {
+          "name": "王俊杰",
+          "gender": ""
+        },
+        {
+          "name": "雷涛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B603": {
+      "members": [
+        {
+          "name": "卓子翔",
+          "gender": ""
+        },
+        {
+          "name": "孙硕",
+          "gender": ""
+        },
+        {
+          "name": "游耀凯",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C602": {
+      "members": [
+        {
+          "name": "高嘉阳",
+          "gender": ""
+        },
+        {
+          "name": "傅锦灿",
+          "gender": ""
+        },
+        {
+          "name": "史昌盛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B802": {
+      "members": [
+        {
+          "name": "汪明超",
+          "gender": ""
+        },
+        {
+          "name": "凡亚豪",
+          "gender": ""
+        },
+        {
+          "name": "吴鸿洋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C410": {
+      "members": [
+        {
+          "name": "张稼祥",
+          "gender": ""
+        },
+        {
+          "name": "杜经辉",
+          "gender": ""
+        },
+        {
+          "name": "杨坤",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C201": {
+      "members": [
+        {
+          "name": "吴高宇",
+          "gender": ""
+        },
+        {
+          "name": "李秉翰",
+          "gender": ""
+        },
+        {
+          "name": "黄国栋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A208": {
+      "members": [
+        {
+          "name": "杨思腾",
+          "gender": ""
+        },
+        {
+          "name": "陈奕澄",
+          "gender": ""
+        },
+        {
+          "name": "陈晓辉",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D705": {
+      "members": [
+        {
+          "name": "王艺博",
+          "gender": ""
+        },
+        {
+          "name": "乔承锦",
+          "gender": ""
+        },
+        {
+          "name": "任子涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B707": {
+      "members": [
+        {
+          "name": "洪语涵",
+          "gender": ""
+        },
+        {
+          "name": "潘凌峰",
+          "gender": ""
+        },
+        {
+          "name": "张仁杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A307": {
+      "members": [
+        {
+          "name": "李瑜佳",
+          "gender": ""
+        },
+        {
+          "name": "李聪睿",
+          "gender": ""
+        },
+        {
+          "name": "杨子毅",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C506": {
+      "members": [
+        {
+          "name": "林景阳",
+          "gender": ""
+        },
+        {
+          "name": "林嘉亮",
+          "gender": ""
+        },
+        {
+          "name": "许航杰",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B209": {
+      "members": [
+        {
+          "name": "孟大为",
+          "gender": ""
+        },
+        {
+          "name": "许立文",
+          "gender": ""
+        },
+        {
+          "name": "杜一飞",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A402": {
+      "members": [
+        {
+          "name": "徐钧杰",
+          "gender": ""
+        },
+        {
+          "name": "杨光",
+          "gender": ""
+        },
+        {
+          "name": "朱锦昊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C309": {
+      "members": [
+        {
+          "name": "李俊良",
+          "gender": ""
+        },
+        {
+          "name": "冯际鸣",
+          "gender": ""
+        },
+        {
+          "name": "苏阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D208": {
+      "members": [
+        {
+          "name": "潘可欣",
+          "gender": ""
+        },
+        {
+          "name": "陈静",
+          "gender": ""
+        },
+        {
+          "name": "林律融",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A209": {
+      "members": [
+        {
+          "name": "郑林",
+          "gender": ""
+        },
+        {
+          "name": "张仕杰",
+          "gender": ""
+        },
+        {
+          "name": "陈城洛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D302": {
+      "members": [
+        {
+          "name": "李奕曈",
+          "gender": ""
+        },
+        {
+          "name": "李思睿",
+          "gender": ""
+        },
+        {
+          "name": "张安航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D804": {
+      "members": [
+        {
+          "name": "汤海峰",
+          "gender": ""
+        },
+        {
+          "name": "黎朔鸣",
+          "gender": ""
+        },
+        {
+          "name": "杨扬骁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D703": {
+      "members": [
+        {
+          "name": "沈彦君",
+          "gender": ""
+        },
+        {
+          "name": "孙瑞熙",
+          "gender": ""
+        },
+        {
+          "name": "李海涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B409": {
+      "members": [
+        {
+          "name": "侯炳旭",
+          "gender": ""
+        },
+        {
+          "name": "吴帅甫",
+          "gender": ""
+        },
+        {
+          "name": "王兴浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B202": {
+      "members": [
+        {
+          "name": "曹旭哲",
+          "gender": ""
+        },
+        {
+          "name": "朱政鑫",
+          "gender": ""
+        },
+        {
+          "name": "竺文博",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C510": {
+      "members": [
+        {
+          "name": "王金鹏",
+          "gender": ""
+        },
+        {
+          "name": "陈伟杰",
+          "gender": ""
+        },
+        {
+          "name": "李志锐",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C101": {
+      "members": [
+        {
+          "name": "冀明浩",
+          "gender": ""
+        },
+        {
+          "name": "董文清",
+          "gender": ""
+        },
+        {
+          "name": "陈密",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A110": {
+      "members": [
+        {
+          "name": "喻琰",
+          "gender": ""
+        },
+        {
+          "name": "肖丛宇",
+          "gender": ""
+        },
+        {
+          "name": "周政",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B101": {
+      "members": [
+        {
+          "name": "仇俊杰",
+          "gender": ""
+        },
+        {
+          "name": "徐池",
+          "gender": ""
+        },
+        {
+          "name": "张孙毓",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B210": {
+      "members": [
+        {
+          "name": "朱金杰",
+          "gender": ""
+        },
+        {
+          "name": "张春龙",
+          "gender": ""
+        },
+        {
+          "name": "吕金霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C102": {
+      "members": [
+        {
+          "name": "郑建斌",
+          "gender": ""
+        },
+        {
+          "name": "陈迪路",
+          "gender": ""
+        },
+        {
+          "name": "唐祎敏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A603": {
+      "members": [
+        {
+          "name": "邓云辉",
+          "gender": ""
+        },
+        {
+          "name": "邓乾烨",
+          "gender": ""
+        },
+        {
+          "name": "谢烨宇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A610": {
+      "members": [
+        {
+          "name": "王帅豪",
+          "gender": ""
+        },
+        {
+          "name": "姚宗凯",
+          "gender": ""
+        },
+        {
+          "name": "周宇航",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D704": {
+      "members": [
+        {
+          "name": "林仁杰",
+          "gender": ""
+        },
+        {
+          "name": "叶浙余",
+          "gender": ""
+        },
+        {
+          "name": "朱冬阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C606": {
+      "members": [
+        {
+          "name": "郭圳涛",
+          "gender": ""
+        },
+        {
+          "name": "黄晟杰",
+          "gender": ""
+        },
+        {
+          "name": "周紫涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D509": {
+      "members": [
+        {
+          "name": "毛川川",
+          "gender": ""
+        },
+        {
+          "name": "王运坤",
+          "gender": ""
+        },
+        {
+          "name": "刘思浩",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A707": {
+      "members": [
+        {
+          "name": "陈健豪",
+          "gender": ""
+        },
+        {
+          "name": "梁勋浩",
+          "gender": ""
+        },
+        {
+          "name": "卢明煜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D701": {
+      "members": [
+        {
+          "name": "客昱阳",
+          "gender": ""
+        },
+        {
+          "name": "骆韬",
+          "gender": ""
+        },
+        {
+          "name": "吴钰恺",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D304": {
+      "members": [
+        {
+          "name": "周益锋",
+          "gender": ""
+        },
+        {
+          "name": "苏楠",
+          "gender": ""
+        },
+        {
+          "name": "张江",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C203": {
+      "members": [
+        {
+          "name": "方庆声",
+          "gender": ""
+        },
+        {
+          "name": "谢博轩",
+          "gender": ""
+        },
+        {
+          "name": "周丽欣",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D301": {
+      "members": [
+        {
+          "name": "张宏泽",
+          "gender": ""
+        },
+        {
+          "name": "刘庭铄",
+          "gender": ""
+        },
+        {
+          "name": "刘义",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C110": {
+      "members": [
+        {
+          "name": "董佳鑫",
+          "gender": ""
+        },
+        {
+          "name": "许畅",
+          "gender": ""
+        },
+        {
+          "name": "刘智仁",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B104": {
+      "members": [
+        {
+          "name": "李沐翰",
+          "gender": ""
+        },
+        {
+          "name": "荆一彤",
+          "gender": ""
+        },
+        {
+          "name": "张崇",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C505": {
+      "members": [
+        {
+          "name": "黄庆彰",
+          "gender": ""
+        },
+        {
+          "name": "马行伟",
+          "gender": ""
+        },
+        {
+          "name": "韩志军",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D404": {
+      "members": [
+        {
+          "name": "陈志军",
+          "gender": ""
+        },
+        {
+          "name": "赵煜楠",
+          "gender": ""
+        },
+        {
+          "name": "余文玮",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A705": {
+      "members": [
+        {
+          "name": "杨文昊",
+          "gender": ""
+        },
+        {
+          "name": "徐瑞林",
+          "gender": ""
+        },
+        {
+          "name": "张智豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B203": {
+      "members": [
+        {
+          "name": "赵嘉驰",
+          "gender": ""
+        },
+        {
+          "name": "张岩",
+          "gender": ""
+        },
+        {
+          "name": "胡锦阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D602": {
+      "members": [
+        {
+          "name": "陈林埒",
+          "gender": ""
+        },
+        {
+          "name": "徐傲",
+          "gender": ""
+        },
+        {
+          "name": "刘宇恒",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A408": {
+      "members": [
+        {
+          "name": "谢睿兴",
+          "gender": ""
+        },
+        {
+          "name": "胡锦旗",
+          "gender": ""
+        },
+        {
+          "name": "翟晨好",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B610": {
+      "members": [
+        {
+          "name": "贾雨诺",
+          "gender": ""
+        },
+        {
+          "name": "张梦阳",
+          "gender": ""
+        },
+        {
+          "name": "卢艺勋",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A108": {
+      "members": [
+        {
+          "name": "周昊天",
+          "gender": ""
+        },
+        {
+          "name": "梁睿政",
+          "gender": ""
+        },
+        {
+          "name": "舒子翔",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "B508": {
+      "members": [
+        {
+          "name": "张荣昌",
+          "gender": ""
+        },
+        {
+          "name": "韦红材",
+          "gender": ""
+        },
+        {
+          "name": "常曜璘",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C306": {
+      "members": [
+        {
+          "name": "江亚君",
+          "gender": ""
+        },
+        {
+          "name": "徐冕",
+          "gender": ""
+        },
+        {
+          "name": "谢琳涵",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D201": {
+      "members": [
+        {
+          "name": "牟昱霖",
+          "gender": ""
+        },
+        {
+          "name": "吕浩诚",
+          "gender": ""
+        },
+        {
+          "name": "赵伟渊",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A401": {
+      "members": [
+        {
+          "name": "廖志强",
+          "gender": ""
+        },
+        {
+          "name": "王浩宇",
+          "gender": ""
+        },
+        {
+          "name": "焦文豪",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D307": {
+      "members": [
+        {
+          "name": "赵昌昊",
+          "gender": ""
+        },
+        {
+          "name": "陈永刚",
+          "gender": ""
+        },
+        {
+          "name": "任威学",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D710": {
+      "members": [
+        {
+          "name": "罗峻函",
+          "gender": ""
+        },
+        {
+          "name": "王郅明",
+          "gender": ""
+        },
+        {
+          "name": "高嘉琦",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A608": {
+      "members": [
+        {
+          "name": "蒲叶",
+          "gender": ""
+        },
+        {
+          "name": "黄鸣轩",
+          "gender": ""
+        },
+        {
+          "name": "吕雨柏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D503": {
+      "members": [
+        {
+          "name": "胡原滋",
+          "gender": ""
+        },
+        {
+          "name": "孙亚琦",
+          "gender": ""
+        },
+        {
+          "name": "尹猛",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D605": {
+      "members": [
+        {
+          "name": "陶文祥",
+          "gender": ""
+        },
+        {
+          "name": "刘秋悦",
+          "gender": ""
+        },
+        {
+          "name": "于明阳",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "A604": {
+      "members": [
+        {
+          "name": "潘永胜",
+          "gender": ""
+        },
+        {
+          "name": "卢哲涵",
+          "gender": ""
+        },
+        {
+          "name": "包鑫远",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C702": {
+      "members": [
+        {
+          "name": "李灿",
+          "gender": ""
+        },
+        {
+          "name": "黄咏珂",
+          "gender": ""
+        },
+        {
+          "name": "庄瑜",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "C705": {
+      "members": [
+        {
+          "name": "郭铭星",
+          "gender": ""
+        },
+        {
+          "name": "鄢迅",
+          "gender": ""
+        },
+        {
+          "name": "钟鹏",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D205": {
+      "members": [
+        {
+          "name": "陈博",
+          "gender": ""
+        },
+        {
+          "name": "崔名扬",
+          "gender": ""
+        },
+        {
+          "name": "司晨熙",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    },
+    "D309": {
+      "members": [
+        {
+          "name": "田嘉焕",
+          "gender": ""
+        },
+        {
+          "name": "詹宇腾",
+          "gender": ""
+        },
+        {
+          "name": "沈玉霖",
+          "gender": ""
+        }
+      ],
+      "organization_override": null
+    }
+  }
+}

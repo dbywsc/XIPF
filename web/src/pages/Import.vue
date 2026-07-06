@@ -107,6 +107,15 @@ function handle(e: Event) {
   r.readAsText(f)
 }
 
+function onDrop(e: DragEvent) {
+  const f = e.dataTransfer?.files?.[0]
+  if (f) {
+    const inp = document.getElementById('fi') as HTMLInputElement
+    const d = new DataTransfer(); d.items.add(f)
+    inp.files = d.files; inp.dispatchEvent(new Event('change'))
+  }
+}
+
 function dc() {
   const cd = {
     title: title.value || filename.value,
@@ -133,7 +142,7 @@ function dl(d: string, n: string) {
 </script>
 
 <template>
-  <div class="pg animate-in">
+  <div class="pg fade-in">
     <div class="page-head">
       <h1 class="page-title" style="margin-bottom:0">导入数据</h1>
       <a href="https://github.com/dbywsc/XIPF/blob/main/CONTRIBUTING.md" target="_blank" class="doc-link">说明文档 &rarr;</a>
@@ -150,18 +159,7 @@ function dl(d: string, n: string) {
           <input v-model="date" type="date" class="inp" />
         </label>
       </div>
-      <div
-        class="upload-zone"
-        @dragover.prevent
-        @drop.prevent="(e: any) => {
-          const f = e.dataTransfer?.files?.[0]
-          if (f) {
-            const inp = document.getElementById('fi') as HTMLInputElement
-            const d = new DataTransfer(); d.items.add(f)
-            inp.files = d.files; inp.dispatchEvent(new Event('change'))
-          }
-        }"
-      >
+      <div class="upload-zone" @dragover.prevent @drop.prevent="onDrop">
         <input id="fi" type="file" accept=".csv,.tsv" @change="handle" />
         <svg class="upload-icon" viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
         <p>拖拽或点击上传 .csv 文件</p>
@@ -191,90 +189,51 @@ function dl(d: string, n: string) {
 
 <style scoped>
 .pg { max-width: 640px; margin: 0 auto; }
-.page-head {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 24px;
-}
-.doc-link { font-size: 14px; color: var(--text-secondary); }
-.doc-link:hover { color: var(--primary); opacity: 1; }
+.page-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; }
+.doc-link { font-size: 14px; color: var(--fg3); }
+.doc-link:hover { color: var(--accent); }
 
 .form-card { padding: 24px; margin-bottom: 24px; }
 .form-row { display: flex; gap: 16px; margin-bottom: 20px; }
 .form-row label { flex: 1; display: flex; flex-direction: column; }
-.label-text { font-size: 13px; color: var(--text-secondary); font-weight: 500; margin-bottom: 6px; }
+.label-text { font-size: 13px; color: var(--fg2); font-weight: 500; margin-bottom: 6px; }
 .inp {
-  display: block;
-  width: 100%;
-  padding: 9px 14px;
-  font-size: 14px;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  outline: none;
-  font-family: inherit;
-  background: var(--bg);
-  color: var(--text);
-  transition: border-color var(--transition), box-shadow var(--transition);
+  display: block; width: 100%; padding: 9px 14px; font-size: 14px;
+  border: 1px solid var(--line2); border-radius: var(--r); outline: none;
+  font-family: inherit; background: var(--bg); color: var(--fg);
+  transition: border-color .25s, box-shadow .25s;
 }
-.inp:focus {
-  border-color: var(--primary-border);
-  box-shadow: 0 0 0 3px var(--primary-bg);
-}
+.inp:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-glow); }
 
 .upload-zone {
-  border: 2px dashed var(--border);
-  border-radius: var(--radius);
-  padding: 40px;
-  text-align: center;
-  cursor: pointer;
-  transition: all var(--transition);
-  position: relative;
+  border: 2px dashed var(--line2); border-radius: var(--r); padding: 40px;
+  text-align: center; cursor: pointer; transition: all .3s; position: relative; background: var(--bg3);
 }
-.upload-zone:hover { border-color: var(--primary-border); background: var(--primary-bg); }
+.upload-zone:hover { border-color: var(--accent); background: var(--accent-glow); }
 .upload-zone input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
-.upload-icon { color: var(--text-muted); margin-bottom: 8px; }
-.upload-zone p { color: var(--text-muted); font-size: 14px; }
+.upload-icon { color: var(--fg3); margin-bottom: 8px; }
+.upload-zone p { color: var(--fg2); font-size: 14px; }
 
-.msg { text-align: center; padding: 12px; font-size: 14px; margin-top: 16px; border-radius: var(--radius-sm); }
-.msg.err { color: var(--champion); background: var(--champion-bg); }
+.msg { text-align: center; padding: 12px; font-size: 14px; margin-top: 16px; border-radius: var(--r-sm); }
+.msg.err { color: var(--down); background: var(--down-bg); }
 
 .preview-card { padding: 24px; margin-bottom: 24px; }
 .preview-card h2 { font-size: 17px; font-weight: 600; margin-bottom: 4px; }
-.preview-meta { color: var(--text-secondary); font-size: 14px; margin-bottom: 16px; }
+.preview-meta { color: var(--fg2); font-size: 14px; margin-bottom: 16px; }
 
 .btns { display: flex; gap: 10px; margin-bottom: 20px; }
 .btn {
-  padding: 9px 22px;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  background: var(--card);
-  cursor: pointer;
-  font-size: 14px;
-  font-family: inherit;
-  transition: all var(--transition);
-  color: var(--text);
+  padding: 9px 22px; border: 1px solid var(--line2); border-radius: var(--r);
+  background: var(--bg4); cursor: pointer; font-size: 14px; font-family: inherit;
+  transition: all .25s; color: var(--fg2);
 }
-.btn:hover { border-color: var(--text-muted); }
-.btn.pri {
-  background: var(--primary);
-  color: #fff;
-  border-color: var(--primary);
-}
-.btn.pri:hover { background: var(--primary-hover); opacity: 1; }
+.btn:hover { border-color: var(--fg4); color: var(--fg); }
+.btn.pri { background: var(--accent); color: #fff; border-color: var(--accent); }
+.btn.pri:hover { background: var(--accent-dim); }
 
-.next-steps {
-  padding-top: 20px;
-  border-top: 1px solid var(--border-light);
-}
+.next-steps { padding-top: 20px; border-top: 1px solid var(--line2); }
 .next-steps h3 { font-size: 15px; font-weight: 600; margin-bottom: 10px; }
-.next-steps ol { padding-left: 20px; color: var(--text-secondary); font-size: 14px; }
+.next-steps ol { padding-left: 20px; color: var(--fg2); font-size: 14px; }
 .next-steps li { margin-bottom: 6px; }
-.next-steps code {
-  background: var(--primary-bg);
-  padding: 2px 7px;
-  border-radius: 4px;
-  font-size: 13px;
-  color: var(--primary);
-}
+.next-steps code { background: var(--accent-glow); padding: 2px 7px; border-radius: 4px; font-size: 13px; color: var(--accent); }
 </style>
