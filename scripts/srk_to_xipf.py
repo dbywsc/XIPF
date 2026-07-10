@@ -160,6 +160,59 @@ def determine_medals(teams, series_data, target_tier: str = ""):
     return gold_count, silver_count, bronze_count
 
 
+def _strip_series_title(title: str) -> str:
+    """Series titles in SRK often carry a trailing '#'. Strip it for display."""
+    return title.rstrip("#").strip()
+
+
+def determine_division_medals(teams, series_data):
+    """Co-branded 'combined' events: assign per-division medals.
+
+    Every ICPC-preset series that filters by a marker and defines medal counts
+    becomes a division (e.g. 邀请赛 / 区内 / 专科 / 中小学). Each team records the
+    medal(s) it earned in `division_medals`, and its top-level `medal` is set to
+    the best medal it won across all divisions (used for org/contestant stats).
+
+    Returns aggregate award counts summed across all divisions.
+    """
+    medal_order = {"gold": 3, "silver": 2, "bronze": 1, "": 0}
+    total = {"gold": 0, "silver": 0, "bronze": 0}
+
+    for s in series_data:
+        rule = s.get("rule", {})
+        if rule.get("preset") != "ICPC":
+            continue
+        options = rule.get("options", {})
+        marker = _get_series_marker(s)
+        counts = options.get("count", {}).get("value")
+        if not marker or not counts:
+            continue
+        div_name = _strip_series_title(s.get("title", "")) or marker
+
+        eligible = [t for t in teams if t["official"] and marker in t.get("_markers", set())]
+        eligible.sort(key=lambda t: (-t["solved"], t["penalty"]))
+
+        gold, silver, bronze = (counts + [0, 0, 0])[:3]
+        total["gold"] += gold
+        total["silver"] += silver
+        total["bronze"] += bronze
+
+        for i, team in enumerate(eligible):
+            if i < gold:
+                m = "gold"
+            elif i < gold + silver:
+                m = "silver"
+            elif i < gold + silver + bronze:
+                m = "bronze"
+            else:
+                continue
+            team.setdefault("division_medals", {})[div_name] = m
+            if medal_order[m] > medal_order[team["medal"]]:
+                team["medal"] = m
+
+    return total["gold"], total["silver"], total["bronze"]
+
+
 def normalize_text(val) -> str:
     """SRK fields can be plain strings or localized dicts {'zh-CN': '...', 'fallback': '...'}."""
     if isinstance(val, str):
@@ -290,6 +343,7 @@ def convert_srk(filepath: Path, year: int, contest_date: str = "",
             "members": members,
             "girl_team": False,
             "champion": "",
+            "division_medals": {},
             "_markers": markers,  # used by determine_medals for marker filtering
         })
 
@@ -298,8 +352,12 @@ def convert_srk(filepath: Path, year: int, contest_date: str = "",
     for rank, team in enumerate(all_sorted, 1):
         team["rank"] = rank
 
-    # Assign medals (respecting the target series' marker filter)
-    gold_count, silver_count, bronze_count = determine_medals(teams, series_data, target_tier)
+    # Assign medals. Combined co-branded events keep every division's awards;
+    # single/split events use the matching series only.
+    if target_tier == "combined":
+        gold_count, silver_count, bronze_count = determine_division_medals(teams, series_data)
+    else:
+        gold_count, silver_count, bronze_count = determine_medals(teams, series_data, target_tier)
 
     # Compute org ranks
     teams_by_org = {}

@@ -39,6 +39,8 @@ const filteredTeams = computed(() => {
   return teams
 })
 
+const hasMultiDivision = computed(() => data.value?.teams?.some((t: any) => t.division_medals && Object.keys(t.division_medals).length))
+
 function clearSearch() { sq.value = '' }
 </script>
 
@@ -52,7 +54,9 @@ function clearSearch() { sq.value = '' }
   <section style="margin-bottom:28px">
     <h1 style="font-size:22px;font-weight:700;letter-spacing:-.3px;margin-bottom:4px">{{ data.title }}</h1>
     <p class="muted" style="font-size:13.5px">{{ data.date||'日期待补充' }} · {{ data.teams.length }} 支队伍（正式 {{ data.teams.filter((t:any)=>t.official).length }}）</p>
-    <p v-if="data.no_awards" style="margin-top:10px;padding:9px 16px;background:var(--gold-bg);color:var(--gold);font-size:13.5px;font-weight:500;border-radius:var(--r);border:1px solid rgba(251,191,36,0.15)">本场比赛缺少奖项信息，未计入 Rating</p>
+    <p v-if="data.no_awards" style="margin-top:10px;padding:9px 16px;background:var(--gold-bg);color:var(--gold);font-size:13.5px;font-weight:500;border-radius:var(--r);border:1px solid rgba(251,191,36,.15)">本场比赛缺少奖项信息，未计入 Rating</p>
+    <p v-if="data.unrated" style="margin-top:10px;padding:9px 16px;background:rgba(239,68,68,.08);color:#ef4444;font-size:13.5px;font-weight:500;border-radius:var(--r);border:1px solid rgba(239,68,68,.15)">{{ data.unratedNote || '本场比赛不计 Rating' }}</p>
+    <p v-if="hasMultiDivision" style="margin-top:10px;padding:9px 16px;background:rgba(59,130,246,.08);color:#3b82f6;font-size:13.5px;font-weight:500;border-radius:var(--r);border:1px solid rgba(59,130,246,.15)">因技术原因，后台奖牌计数暂时只记录邀请赛奖牌，区内/中小学/专科奖项请以本页标注为准</p>
   </section>
 
   <!-- Search Bar -->

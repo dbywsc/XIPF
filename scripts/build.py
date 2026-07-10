@@ -376,6 +376,11 @@ def classify_tier(contest_id: str, title: str, slug: str = "") -> str:
     if 'ecfinal' in cid or cid.endswith('final_regional'):
         return 'final'
 
+    # Combined co-branded events (省赛+邀请赛+... on one merged board): shown
+    # under invitational, with per-division awards kept in each team's division_medals.
+    if 'combined' in cid or 'combined' in slug:
+        return 'invitational'
+
     # For provincial-category directories, check provincial BEFORE invitational,
     # even for co-branded events (邀请赛+省赛). The corresponding invitational entry
     # lives under the icpc/ccpc directory and will be classified as invitational.
