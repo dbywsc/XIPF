@@ -472,38 +472,60 @@ def _check_original_srk(contest_dir: Path) -> bool:
     category = parts[1]  # e.g., "ccpc" or "provincial"
     slug = parts[2]     # e.g., "北京_provincial"
 
-    # Try to find matching SRK file
+    # Try to find matching SRK file.
+    # `candidates` may downgrade a contest to no_awards; `extra_candidates`
+    # (co-branded 邀请赛暨省赛 events whose authoritative award data lives in
+    # the provincial collection) can only upgrade to has-awards.
     candidates = []
+    extra_candidates = []
     if category in ("ccpc", "icpc"):
         # Try {category}{year}* pattern
         prefix = f"{category}{year_dir}"
         candidates = list(srk_base.glob(f"{category}/{category}{year_dir}/*.srk.json"))
+        extra_candidates = list(srk_base.glob("provincial/*/*.srk.json"))
     elif category == "provincial":
         # Try matching by slug (province)
         province_code = slug.split("_")[0] if "_" in slug else ""
         if province_code:
             candidates = list(srk_base.glob(f"provincial/{province_code}/*.srk.json"))
 
-    for cand in candidates:
+    # Read our contest title once
+    cd_file = contest_dir / "contest_data.json"
+    our_title = ""
+    if cd_file.exists():
+        with open(cd_file, encoding="utf-8") as f:
+            cd = json.load(f)
+        our_title = cd.get("title", "").strip()
+
+    def _match(cand: Path):
+        """Return _has_real_series_awards() if the SRK title matches, else None."""
         with open(cand, encoding="utf-8") as f:
             data = json.load(f)
-        # Check if this SRK matches our contest (by title similarity)
-        srk_title = ""
         t = data.get("contest", {}).get("title", {})
         if isinstance(t, dict):
             srk_title = (t.get("zh-CN") or t.get("fallback") or "").strip()
         elif isinstance(t, str):
             srk_title = t.strip()
-        # Read our contest title
-        cd_file = contest_dir / "contest_data.json"
-        our_title = ""
-        if cd_file.exists():
-            with open(cd_file, encoding="utf-8") as f:
-                cd = json.load(f)
-            our_title = cd.get("title", "").strip()
-        # Compare
+        else:
+            srk_title = ""
         if srk_title and our_title and srk_title[:30] == our_title[:30]:
             return _has_real_series_awards(data)
+        return None
+
+    # Any matching SRK (primary or extra) with real awards → has awards
+    primary_result = None
+    for cand in candidates:
+        r = _match(cand)
+        if r is True:
+            return True
+        if r is False and primary_result is None:
+            primary_result = False
+    for cand in extra_candidates:
+        if _match(cand) is True:
+            return True
+
+    if primary_result is not None:
+        return primary_result
 
     return True  # Can't determine, assume real
     """First pass: scan all contest data to collect unique organization names."""
