@@ -102,7 +102,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "45",
@@ -203,7 +204,8 @@
         }
       ],
       "girl_team": false,
-      "champion": "冠军"
+      "champion": "冠军",
+      "division_medals": {}
     },
     {
       "id": "242",
@@ -304,7 +306,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "24",
@@ -405,7 +408,8 @@
         }
       ],
       "girl_team": false,
-      "champion": "亚军"
+      "champion": "亚军",
+      "division_medals": {}
     },
     {
       "id": "197",
@@ -506,7 +510,8 @@
         }
       ],
       "girl_team": false,
-      "champion": "季军"
+      "champion": "季军",
+      "division_medals": {}
     },
     {
       "id": "153",
@@ -603,7 +608,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "107",
@@ -704,7 +710,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "117",
@@ -805,7 +812,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "275",
@@ -906,7 +914,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "191",
@@ -1007,7 +1016,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "269",
@@ -1108,7 +1118,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "320",
@@ -1209,7 +1220,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "59",
@@ -1310,7 +1322,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "245",
@@ -1411,7 +1424,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "194",
@@ -1512,7 +1526,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "193",
@@ -1613,7 +1628,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "132",
@@ -1714,7 +1730,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "319",
@@ -1815,7 +1832,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "92",
@@ -1916,7 +1934,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "226",
@@ -2017,7 +2036,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "271",
@@ -2118,7 +2138,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "247",
@@ -2219,7 +2240,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "341",
@@ -2320,7 +2342,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "233",
@@ -2421,7 +2444,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "310",
@@ -2522,7 +2546,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "259",
@@ -2623,7 +2648,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "176",
@@ -2724,7 +2750,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "222",
@@ -2825,7 +2852,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "219",
@@ -2926,7 +2954,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "249",
@@ -3027,7 +3056,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "192",
@@ -3124,7 +3154,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "124",
@@ -3225,7 +3256,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "207",
@@ -3326,7 +3358,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "210",
@@ -3427,7 +3460,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "182",
@@ -3528,7 +3562,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "252",
@@ -3629,7 +3664,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "146",
@@ -3730,7 +3766,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "113",
@@ -3831,7 +3868,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "84",
@@ -3932,7 +3970,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "105",
@@ -4033,7 +4072,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "230",
@@ -4134,7 +4174,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "143",
@@ -4235,7 +4276,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "299",
@@ -4320,7 +4362,7 @@
           "tries": 0
         }
       ],
-      "medal": "gold",
+      "medal": "silver",
       "members": [
         {
           "name": "程旭",
@@ -4336,7 +4378,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "79",
@@ -4437,7 +4480,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "306",
@@ -4538,7 +4582,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "350",
@@ -4639,7 +4684,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "185",
@@ -4740,7 +4786,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "98",
@@ -4841,7 +4888,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "34",
@@ -4942,7 +4990,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "35",
@@ -5043,7 +5092,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "60",
@@ -5144,7 +5194,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "134",
@@ -5245,7 +5296,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "175",
@@ -5346,7 +5398,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "241",
@@ -5447,7 +5500,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "38",
@@ -5548,7 +5602,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "114",
@@ -5649,7 +5704,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "360",
@@ -5750,7 +5806,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "250",
@@ -5851,7 +5908,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "239",
@@ -5952,7 +6010,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "32",
@@ -6053,7 +6112,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "255",
@@ -6154,7 +6214,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "101",
@@ -6255,7 +6316,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "196",
@@ -6356,7 +6418,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "162",
@@ -6457,7 +6520,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "302",
@@ -6558,7 +6622,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "142",
@@ -6659,7 +6724,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "270",
@@ -6760,7 +6826,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "123",
@@ -6861,7 +6928,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "12",
@@ -6962,7 +7030,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "213",
@@ -7063,7 +7132,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "189",
@@ -7164,7 +7234,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "236",
@@ -7265,7 +7336,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "351",
@@ -7366,7 +7438,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "202",
@@ -7467,7 +7540,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "276",
@@ -7568,7 +7642,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "318",
@@ -7669,7 +7744,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "258",
@@ -7770,7 +7846,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "180",
@@ -7871,7 +7948,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "159",
@@ -7972,7 +8050,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "214",
@@ -8073,7 +8152,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "158",
@@ -8174,7 +8254,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "47",
@@ -8275,7 +8356,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "86",
@@ -8376,7 +8458,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "203",
@@ -8477,7 +8560,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "21",
@@ -8578,7 +8662,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "102",
@@ -8679,7 +8764,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "201",
@@ -8780,7 +8866,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "178",
@@ -8881,7 +8968,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "58",
@@ -8982,7 +9070,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "221",
@@ -9083,7 +9172,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "165",
@@ -9184,7 +9274,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "209",
@@ -9285,7 +9376,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "43",
@@ -9386,7 +9478,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "19",
@@ -9487,7 +9580,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "342",
@@ -9588,7 +9682,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "89",
@@ -9689,7 +9784,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "232",
@@ -9790,7 +9886,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "327",
@@ -9891,7 +9988,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "1",
@@ -9992,7 +10090,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "217",
@@ -10093,7 +10192,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "179",
@@ -10194,7 +10294,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "156",
@@ -10295,7 +10396,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "348",
@@ -10396,7 +10498,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "357",
@@ -10497,7 +10600,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "131",
@@ -10598,7 +10702,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "160",
@@ -10699,7 +10804,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "289",
@@ -10800,7 +10906,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "340",
@@ -10897,7 +11004,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "15",
@@ -10998,7 +11106,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "133",
@@ -11099,7 +11208,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "237",
@@ -11200,7 +11310,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "80",
@@ -11301,7 +11412,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "186",
@@ -11402,7 +11514,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "208",
@@ -11499,7 +11612,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "62",
@@ -11600,7 +11714,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "288",
@@ -11685,7 +11800,7 @@
           "tries": 0
         }
       ],
-      "medal": "silver",
+      "medal": "bronze",
       "members": [
         {
           "name": "李源恺",
@@ -11701,7 +11816,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "76",
@@ -11786,7 +11902,7 @@
           "tries": 0
         }
       ],
-      "medal": "silver",
+      "medal": "bronze",
       "members": [
         {
           "name": "谢嘉骏",
@@ -11802,7 +11918,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "130",
@@ -11903,7 +12020,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "181",
@@ -12004,7 +12122,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "88",
@@ -12105,7 +12224,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "363",
@@ -12202,7 +12322,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "149",
@@ -12303,7 +12424,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "63",
@@ -12404,7 +12526,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "346",
@@ -12505,7 +12628,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "361",
@@ -12606,7 +12730,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "215",
@@ -12707,7 +12832,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "169",
@@ -12808,7 +12934,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "260",
@@ -12909,7 +13036,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "170",
@@ -13010,7 +13138,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "353",
@@ -13111,7 +13240,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "50",
@@ -13212,7 +13342,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "254",
@@ -13313,7 +13444,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "164",
@@ -13410,7 +13542,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "336",
@@ -13511,7 +13644,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "187",
@@ -13612,7 +13746,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "244",
@@ -13713,7 +13848,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "228",
@@ -13814,7 +13950,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "297",
@@ -13915,7 +14052,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "273",
@@ -14016,7 +14154,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "323",
@@ -14117,7 +14256,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "356",
@@ -14218,7 +14358,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "93",
@@ -14319,7 +14460,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "2",
@@ -14420,7 +14562,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "72",
@@ -14521,7 +14664,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "235",
@@ -14622,7 +14766,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "263",
@@ -14719,7 +14864,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "154",
@@ -14820,7 +14966,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "145",
@@ -14921,7 +15068,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "220",
@@ -15022,7 +15170,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "25",
@@ -15123,7 +15272,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "362",
@@ -15224,7 +15374,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "52",
@@ -15325,7 +15476,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "298",
@@ -15426,7 +15578,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "274",
@@ -15527,7 +15680,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "344",
@@ -15628,7 +15782,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "216",
@@ -15729,7 +15884,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "53",
@@ -15830,7 +15986,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "315",
@@ -15931,7 +16088,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "262",
@@ -16032,7 +16190,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "174",
@@ -16133,7 +16292,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "205",
@@ -16234,7 +16394,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "359",
@@ -16335,7 +16496,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "188",
@@ -16436,7 +16598,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "287",
@@ -16537,7 +16700,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "85",
@@ -16638,7 +16802,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "152",
@@ -16739,7 +16904,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "161",
@@ -16840,7 +17006,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "14",
@@ -16941,7 +17108,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "81",
@@ -17042,7 +17210,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "190",
@@ -17143,7 +17312,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "69",
@@ -17244,7 +17414,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "246",
@@ -17345,7 +17516,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "308",
@@ -17446,7 +17618,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "126",
@@ -17547,7 +17720,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "329",
@@ -17648,7 +17822,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "68",
@@ -17749,7 +17924,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "334",
@@ -17850,7 +18026,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "272",
@@ -17951,7 +18128,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "333",
@@ -18052,7 +18230,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "328",
@@ -18153,7 +18332,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "91",
@@ -18254,7 +18434,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "36",
@@ -18355,7 +18536,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "243",
@@ -18456,7 +18638,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "365",
@@ -18557,7 +18740,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "261",
@@ -18658,7 +18842,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "71",
@@ -18759,7 +18944,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "204",
@@ -18860,7 +19046,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "195",
@@ -18961,7 +19148,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "108",
@@ -19062,7 +19250,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "97",
@@ -19163,7 +19352,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "368",
@@ -19264,7 +19454,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "77",
@@ -19365,7 +19556,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "225",
@@ -19466,7 +19658,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "354",
@@ -19567,7 +19760,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "366",
@@ -19668,7 +19862,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "322",
@@ -19769,7 +19964,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "42",
@@ -19870,7 +20066,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "122",
@@ -19971,7 +20168,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "11",
@@ -20072,7 +20270,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "22",
@@ -20173,7 +20372,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "316",
@@ -20274,7 +20474,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "256",
@@ -20375,7 +20576,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "30",
@@ -20476,7 +20678,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "37",
@@ -20577,7 +20780,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "238",
@@ -20678,7 +20882,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "295",
@@ -20779,7 +20984,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "147",
@@ -20880,7 +21086,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "212",
@@ -20981,7 +21188,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "119",
@@ -21074,7 +21282,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "358",
@@ -21175,7 +21384,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "141",
@@ -21276,7 +21486,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "332",
@@ -21377,7 +21588,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "121",
@@ -21478,7 +21690,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "309",
@@ -21579,7 +21792,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "292",
@@ -21680,7 +21894,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "227",
@@ -21781,7 +21996,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "326",
@@ -21882,7 +22098,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "16",
@@ -21983,7 +22200,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "27",
@@ -22084,7 +22302,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "70",
@@ -22185,7 +22404,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "296",
@@ -22286,7 +22506,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "345",
@@ -22387,7 +22608,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "206",
@@ -22488,7 +22710,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "90",
@@ -22589,7 +22812,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "31",
@@ -22690,7 +22914,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "171",
@@ -22775,7 +23000,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "",
       "members": [
         {
           "name": "黄子彪",
@@ -22791,7 +23016,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "184",
@@ -22888,7 +23114,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "224",
@@ -22973,7 +23200,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "",
       "members": [
         {
           "name": "胡嘉泰",
@@ -22989,7 +23216,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "198",
@@ -23090,7 +23318,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "229",
@@ -23191,7 +23420,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "78",
@@ -23276,7 +23506,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "",
       "members": [
         {
           "name": "许艺涵",
@@ -23292,7 +23522,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "138",
@@ -23393,7 +23624,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "128",
@@ -23494,7 +23726,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "3",
@@ -23595,7 +23828,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "106",
@@ -23696,7 +23930,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "321",
@@ -23797,7 +24032,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "157",
@@ -23898,7 +24134,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "20",
@@ -23999,7 +24236,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "355",
@@ -24100,7 +24338,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "56",
@@ -24201,7 +24440,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "331",
@@ -24302,7 +24542,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "294",
@@ -24403,7 +24644,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "303",
@@ -24504,7 +24746,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "18",
@@ -24605,7 +24848,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "148",
@@ -24706,7 +24950,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "211",
@@ -24807,7 +25052,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "278",
@@ -24908,7 +25154,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "125",
@@ -25009,7 +25256,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "40",
@@ -25110,7 +25358,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "57",
@@ -25211,7 +25460,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "83",
@@ -25312,7 +25562,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "325",
@@ -25413,7 +25664,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "172",
@@ -25514,7 +25766,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "200",
@@ -25615,7 +25868,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "104",
@@ -25716,7 +25970,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "155",
@@ -25817,7 +26072,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "139",
@@ -25918,7 +26174,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "338",
@@ -26019,7 +26276,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "234",
@@ -26120,7 +26378,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "183",
@@ -26221,7 +26480,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "293",
@@ -26322,7 +26582,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "177",
@@ -26423,7 +26684,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "46",
@@ -26520,7 +26782,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "103",
@@ -26617,7 +26880,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "26",
@@ -26718,7 +26982,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "349",
@@ -26819,7 +27084,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "150",
@@ -26920,7 +27186,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "343",
@@ -27021,7 +27288,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "55",
@@ -27114,7 +27382,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "335",
@@ -27215,7 +27484,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "307",
@@ -27316,7 +27586,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "67",
@@ -27417,7 +27688,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "264",
@@ -27518,7 +27790,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "49",
@@ -27619,7 +27892,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "290",
@@ -27720,7 +27994,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "199",
@@ -27821,7 +28096,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "29",
@@ -27922,7 +28198,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "324",
@@ -28023,7 +28300,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "7",
@@ -28124,7 +28402,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "8",
@@ -28225,7 +28504,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "311",
@@ -28326,7 +28606,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "168",
@@ -28427,7 +28708,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "240",
@@ -28528,7 +28810,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "277",
@@ -28629,7 +28912,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "5",
@@ -28730,7 +29014,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "337",
@@ -28831,7 +29116,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "317",
@@ -28932,7 +29218,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "268",
@@ -29033,7 +29320,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "9",
@@ -29134,7 +29422,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "33",
@@ -29235,7 +29524,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "301",
@@ -29336,7 +29626,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "248",
@@ -29437,7 +29728,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "17",
@@ -29538,7 +29830,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "218",
@@ -29639,7 +29932,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "304",
@@ -29740,7 +30034,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "4",
@@ -29841,7 +30136,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "39",
@@ -29942,7 +30238,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "166",
@@ -30043,7 +30340,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "173",
@@ -30144,7 +30442,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "330",
@@ -30245,7 +30544,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "313",
@@ -30346,7 +30646,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "347",
@@ -30447,7 +30748,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "251",
@@ -30548,7 +30850,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "352",
@@ -30649,7 +30952,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "267",
@@ -30750,7 +31054,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "51",
@@ -30851,7 +31156,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "109",
@@ -30952,7 +31258,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "116",
@@ -31053,7 +31360,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "266",
@@ -31154,7 +31462,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "364",
@@ -31255,7 +31564,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "339",
@@ -31356,7 +31666,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "280",
@@ -31457,7 +31768,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "110",
@@ -31558,7 +31870,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "74",
@@ -31659,7 +31972,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "144",
@@ -31760,7 +32074,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "64",
@@ -31861,7 +32176,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "120",
@@ -31962,7 +32278,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "99",
@@ -32063,7 +32380,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "111",
@@ -32164,7 +32482,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "65",
@@ -32265,7 +32584,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "284",
@@ -32366,7 +32686,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "253",
@@ -32467,7 +32788,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "75",
@@ -32568,7 +32890,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "87",
@@ -32669,7 +32992,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "257",
@@ -32770,7 +33094,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "13",
@@ -32871,7 +33196,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "286",
@@ -32972,7 +33298,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "48",
@@ -33073,7 +33400,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "314",
@@ -33174,7 +33502,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "167",
@@ -33275,7 +33604,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "6",
@@ -33376,7 +33706,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "305",
@@ -33477,7 +33808,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "54",
@@ -33578,7 +33910,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "44",
@@ -33679,7 +34012,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "82",
@@ -33780,7 +34114,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "28",
@@ -33881,7 +34216,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "312",
@@ -33982,7 +34318,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "163",
@@ -34083,7 +34420,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "223",
@@ -34184,7 +34522,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "94",
@@ -34285,7 +34624,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "291",
@@ -34386,7 +34726,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "73",
@@ -34487,7 +34828,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "367",
@@ -34588,7 +34930,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "66",
@@ -34689,7 +35032,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "118",
@@ -34790,7 +35134,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "282",
@@ -34891,7 +35236,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "140",
@@ -34992,7 +35338,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "137",
@@ -35093,7 +35440,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "285",
@@ -35194,7 +35542,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "136",
@@ -35295,7 +35644,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "10",
@@ -35396,7 +35746,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "127",
@@ -35497,7 +35848,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "23",
@@ -35598,7 +35950,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "151",
@@ -35695,7 +36048,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "61",
@@ -35796,7 +36150,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "279",
@@ -35897,7 +36252,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "41",
@@ -35998,7 +36354,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "231",
@@ -36099,7 +36456,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "135",
@@ -36200,7 +36558,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "281",
@@ -36301,7 +36660,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "112",
@@ -36402,7 +36762,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "95",
@@ -36503,7 +36864,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "300",
@@ -36604,13 +36966,14 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "283",
       "name": "吉吉国王",
       "organization": "珠海科技学院",
-      "official": false,
+      "official": true,
       "rank": 364,
       "org_rank": 8,
       "solved": 0,
@@ -36705,13 +37068,14 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "96",
       "name": "小小码农",
       "organization": "广州中医药大学",
-      "official": false,
+      "official": true,
       "rank": 365,
       "org_rank": 6,
       "solved": 0,
@@ -36806,7 +37170,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "115",
@@ -36907,13 +37272,14 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "129",
       "name": "结束乐队的奇妙冒险之旅",
       "organization": "广州中医药大学",
-      "official": false,
+      "official": true,
       "rank": 367,
       "org_rank": 8,
       "solved": 0,
@@ -37008,7 +37374,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "100",
@@ -37109,7 +37476,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     }
   ],
   "problems": [
@@ -37176,7 +37544,7 @@
   ],
   "awards": {
     "gold": 28,
-    "silver": 57,
-    "bronze": 85
+    "silver": 56,
+    "bronze": 84
   }
 }

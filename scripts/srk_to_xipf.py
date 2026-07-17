@@ -132,11 +132,25 @@ def determine_medals(teams, series_data, target_tier: str = ""):
             silver_count = counts[1]
             bronze_count = counts[2]
         elif "ratio" in options:
-            ratios = options["ratio"].get("value", [0.1, 0.2, 0.3])
-            n = len(official_sorted)
-            gold_count = max(1, int(n * ratios[0] + 0.999999))
-            silver_count = max(1, int(n * ratios[1] + 0.999999))
-            bronze_count = max(1, int(n * ratios[2] + 0.999999))
+            ratio_opts = options["ratio"]
+            ratios = ratio_opts.get("value", [0.1, 0.2, 0.3])
+            denominator = ratio_opts.get("denominator", "all")
+            rounding = ratio_opts.get("rounding", "ceil")
+            if denominator == "scored":
+                n = sum(1 for t in official_sorted if t["solved"] > 0)
+            elif denominator == "submitted":
+                n = sum(1 for t in official_sorted if t["problems"])
+            else:
+                n = len(official_sorted)
+            if rounding == "floor":
+                _round = lambda x: int(x)
+            elif rounding == "round":
+                _round = lambda x: int(x + 0.5)
+            else:
+                _round = lambda x: int(x + 0.999999)
+            gold_count = max(1, _round(n * ratios[0]))
+            silver_count = max(1, _round(n * ratios[1]))
+            bronze_count = max(1, _round(n * ratios[2]))
         else:
             n = len(official_sorted)
             gold_count = max(1, (n * 1 + 9) // 10)
