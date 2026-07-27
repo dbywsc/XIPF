@@ -485,7 +485,7 @@ def _check_original_srk(contest_dir: Path) -> bool:
         extra_candidates = list(srk_base.glob("provincial/*/*.srk.json"))
     elif category == "provincial":
         # Try matching by slug (province)
-        province_code = slug.split("_")[0] if "_" in slug else ""
+        province_code = _province_name_to_code(slug.split("_")[0] if "_" in slug else "")
         if province_code:
             candidates = list(srk_base.glob(f"provincial/{province_code}/*.srk.json"))
 
@@ -528,7 +528,77 @@ def _check_original_srk(contest_dir: Path) -> bool:
         return primary_result
 
     return True  # Can't determine, assume real
-    """First pass: scan all contest data to collect unique organization names."""
+
+
+def _province_name_to_code(name: str) -> str:
+    """Map Chinese province name to srk-collection two-letter directory code."""
+    _PROVINCE_MAP = {
+        "安徽": "ah", "北京": "bj", "重庆": "cq", "福建": "fj",
+        "广东": "gd", "广西": "gx", "贵州": "gz", "河北": "he",
+        "河南": "ha", "黑龙江": "hl", "湖北": "hb", "湖南": "hn",
+        "吉林": "jl", "江苏": "js", "江西": "jx", "辽宁": "ln",
+        "内蒙古": "nm", "山东": "sd", "上海": "sh", "山西": "sx",
+        "陕西": "sn", "四川": "sc", "新疆": "xj", "浙江": "zj",
+        "东北": "northeast",
+    }
+    return _PROVINCE_MAP.get(name, "")
+
+
+def _find_srk_source(contest_dir: Path, contest, srk_source: dict[str, str]):
+    """Try to locate the original SRK file for `contest` and record a stable
+    key (content-based hash) in `srk_source`, so that two contests derived from
+    the same SRK (e.g. copies in ccpc/ and provincial/) share the same key."""
+    if contest.id in srk_source:
+        return
+    srk_base = ROOT / "srk-collection-master" / "official"
+    parts = contest_dir.relative_to(CONTESTS_DIR).parts
+    if len(parts) < 3:
+        return
+    year_dir = parts[0]
+    category = parts[1]
+    slug = parts[2]
+    candidates: list[Path] = []
+    if category in ("ccpc", "icpc"):
+        candidates = list(srk_base.glob(f"{category}/{category}{year_dir}/*.srk.json"))
+        # For co-branded events only: also search provincial collection
+        if slug.endswith("_invitational") or slug.endswith("_combined"):
+            candidates += list(srk_base.glob("provincial/*/*.srk.json"))
+    elif category == "provincial":
+        province_code = _province_name_to_code(slug.split("_")[0] if "_" in slug else "")
+        if province_code:
+            candidates = list(srk_base.glob(f"provincial/{province_code}/*.srk.json"))
+    if not candidates:
+        return
+    cd_file = contest_dir / "contest_data.json"
+    our_title = ""
+    if cd_file.exists():
+        with open(cd_file, encoding="utf-8") as f:
+            cd = json.load(f)
+        our_title = cd.get("title", "").strip()
+    import hashlib
+    for cand in candidates:
+        with open(cand, encoding="utf-8") as f:
+            raw = f.read()
+        # Use a content hash as stable key so that mirror copies of the same
+        # SRK (e.g. in ccpc/ and provincial/) are recognized as identical.
+        h = hashlib.sha256(raw.encode()).hexdigest()[:16]
+        data = json.loads(raw)
+        t = data.get("contest", {}).get("title", {})
+        if isinstance(t, dict):
+            srk_title = (t.get("zh-CN") or t.get("fallback") or "").strip()
+        elif isinstance(t, str):
+            srk_title = t.strip()
+        else:
+            srk_title = ""
+        # Original titles of co-branded events share the same SRK but
+        # get renamed after separation — use a relaxed match (first 20 chars)
+        if our_title and srk_title and (our_title[:20] in srk_title or srk_title[:20] in our_title):
+            srk_source[contest.id] = h
+            return
+
+
+def collect_org_names() -> set:
+    """Scan all contest data to collect unique organization names."""
     names = set()
     for contest_dir in sorted(CONTESTS_DIR.rglob("*")):
         if not contest_dir.is_dir():
@@ -580,6 +650,10 @@ def build():
     all_org_stats: dict[str, dict] = defaultdict(lambda: {"gold": 0, "silver": 0, "bronze": 0, "count": 0})
     unmatched_orgs: set[str] = set()
 
+    # Track which SRK file each contest was derived from, so we can detect
+    # co-branded pairs (invitational + provincial from the same source).
+    _srk_source: dict[str, str] = {}  # contest.id → srk filename
+
     for contest_dir in sorted(CONTESTS_DIR.rglob("*")):
         if not contest_dir.is_dir():
             continue
@@ -599,6 +673,15 @@ def build():
 
         if roster_file.exists():
             load_roster(roster_file, contest)
+
+        # Track source SRK for co-branded detection below
+        # For contest_data.json entries, find the SRK that was used to generate them
+        if srk_file.exists():
+            _srk_source[contest.id] = srk_file.name
+        else:
+            _find_srk_source(contest_dir, contest, _srk_source)
+
+        # Check if source data has real awards
 
         # Check if source data has real awards
         # Online preliminaries are always award-less but still rated
@@ -660,6 +743,22 @@ def build():
                 ))
 
         all_contests.append(contest)
+
+    # --- Detect co-branded provincial contests -> unrated ---
+    # A provincial contest derived from the same SRK source as an invitational
+    # contest (co-branded event with dual marker sets) should be unrated.
+    _src_to_ids: dict[str, list[str]] = {}
+    for cid, src in _srk_source.items():
+        _src_to_ids.setdefault(src, []).append(cid)
+    for src, ids in _src_to_ids.items():
+        inv_ids = [i for i in ids if i.endswith("_invitational") or i.endswith("_combined")]
+        prov_ids = [i for i in ids if i.endswith("_provincial")]
+        if inv_ids and prov_ids:
+            for pid in prov_ids:
+                if pid not in UNRATED_CONTESTS:
+                    UNRATED_CONTESTS[pid] = (
+                        "本场比赛是邀请赛和省赛同时进行，因此对省赛做 unrated 处理"
+                    )
 
     # --- Dedup by title ---
     # Group contests by normalized title. Co-branded events (same title, different
