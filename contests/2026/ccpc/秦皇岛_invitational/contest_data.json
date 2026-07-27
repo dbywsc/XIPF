@@ -108,7 +108,10 @@
         }
       ],
       "girl_team": false,
-      "champion": "冠军"
+      "champion": "冠军",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "A20",
@@ -215,7 +218,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "D23",
@@ -322,7 +328,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "D09",
@@ -429,7 +436,10 @@
         }
       ],
       "girl_team": false,
-      "champion": "亚军"
+      "champion": "亚军",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "A03",
@@ -536,7 +546,10 @@
         }
       ],
       "girl_team": false,
-      "champion": "季军"
+      "champion": "季军",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "F21",
@@ -643,7 +656,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "G24",
@@ -750,7 +766,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "K20",
@@ -857,7 +876,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "A04",
@@ -964,7 +987,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "C20",
@@ -1071,7 +1097,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "O23",
@@ -1178,7 +1207,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "H01",
@@ -1285,7 +1315,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "A12",
@@ -1392,7 +1425,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "L03",
@@ -1499,7 +1536,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "B12",
@@ -1606,7 +1646,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "I04",
@@ -1713,7 +1756,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "M24",
@@ -1820,7 +1867,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "M01",
@@ -1927,7 +1978,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "J02",
@@ -2034,7 +2086,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "H12",
@@ -2141,7 +2196,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "D14",
@@ -2248,7 +2306,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "N06",
@@ -2355,7 +2416,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "G17",
@@ -2462,7 +2527,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "F08",
@@ -2569,7 +2637,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "F14",
@@ -2676,7 +2745,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "G01",
@@ -2783,7 +2855,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "E21",
@@ -2890,7 +2965,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "I03",
@@ -2997,7 +3075,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "G14",
@@ -3104,7 +3186,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "L14",
@@ -3211,7 +3296,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "O02",
@@ -3318,7 +3407,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "D24",
@@ -3425,7 +3518,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "E06",
@@ -3532,7 +3629,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "O22",
@@ -3639,7 +3740,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "I19",
@@ -3746,7 +3851,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "D08",
@@ -3853,7 +3961,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "C06",
@@ -3960,7 +4071,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "A18",
@@ -4067,7 +4181,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "Q12",
@@ -4174,7 +4291,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "B06",
@@ -4281,7 +4402,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold",
+        "省赛": "gold"
+      }
     },
     {
       "id": "E17",
@@ -4388,7 +4513,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "gold"
+      }
     },
     {
       "id": "M19",
@@ -4495,7 +4623,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "E20",
@@ -4602,7 +4733,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "F15",
@@ -4709,7 +4843,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "C02",
@@ -4816,7 +4953,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "F02",
@@ -4923,7 +5063,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "J19",
@@ -5014,7 +5157,7 @@
           "tries": 0
         }
       ],
-      "medal": "silver",
+      "medal": "gold",
       "members": [
         {
           "name": "史正阳",
@@ -5030,7 +5173,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "gold"
+      }
     },
     {
       "id": "N08",
@@ -5137,7 +5284,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "J14",
@@ -5244,7 +5394,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "J22",
@@ -5351,7 +5504,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "F09",
@@ -5458,7 +5614,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "H05",
@@ -5549,7 +5708,7 @@
           "tries": 2
         }
       ],
-      "medal": "silver",
+      "medal": "gold",
       "members": [
         {
           "name": "黎睿涵",
@@ -5565,7 +5724,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "gold"
+      }
     },
     {
       "id": "C10",
@@ -5672,7 +5835,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "K14",
@@ -5779,7 +5945,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "K04",
@@ -5886,7 +6055,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "L18",
@@ -5993,7 +6165,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "F04",
@@ -6100,7 +6275,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "M05",
@@ -6191,7 +6369,7 @@
           "tries": 5
         }
       ],
-      "medal": "silver",
+      "medal": "gold",
       "members": [
         {
           "name": "刘烨通",
@@ -6207,7 +6385,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "gold"
+      }
     },
     {
       "id": "E14",
@@ -6298,7 +6480,7 @@
           "tries": 0
         }
       ],
-      "medal": "silver",
+      "medal": "gold",
       "members": [
         {
           "name": "布绍磊",
@@ -6314,7 +6496,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "gold"
+      }
     },
     {
       "id": "K02",
@@ -6421,7 +6607,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "B03",
@@ -6528,7 +6717,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "B01",
@@ -6635,7 +6827,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "A01",
@@ -6742,7 +6937,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "D06",
@@ -6849,7 +7047,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "B20",
@@ -6940,7 +7141,7 @@
           "tries": 0
         }
       ],
-      "medal": "silver",
+      "medal": "gold",
       "members": [
         {
           "name": "计凯喆",
@@ -6956,7 +7157,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "gold"
+      }
     },
     {
       "id": "D10",
@@ -7063,7 +7268,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "M07",
@@ -7170,7 +7378,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "K13",
@@ -7277,7 +7488,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "F11",
@@ -7384,7 +7598,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "F03",
@@ -7491,7 +7708,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "M11",
@@ -7598,7 +7818,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "K17",
@@ -7705,7 +7928,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "N22",
@@ -7812,7 +8038,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "O13",
@@ -7919,7 +8149,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "M08",
@@ -8026,7 +8259,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "N14",
@@ -8133,7 +8369,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "C07",
@@ -8240,7 +8479,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "B16",
@@ -8347,7 +8589,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "J01",
@@ -8454,7 +8699,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "D17",
@@ -8561,7 +8809,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "E02",
@@ -8668,7 +8919,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "N15",
@@ -8775,7 +9029,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "I23",
@@ -8882,7 +9140,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "N19",
@@ -8989,7 +9250,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "H18",
@@ -9096,7 +9360,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "B13",
@@ -9203,7 +9471,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "K24",
@@ -9310,7 +9581,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "N07",
@@ -9417,7 +9692,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "B22",
@@ -9524,7 +9803,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "G11",
@@ -9631,7 +9913,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "N02",
@@ -9738,7 +10023,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "L12",
@@ -9845,7 +10133,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "Q15",
@@ -9952,7 +10243,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "Q14",
@@ -10059,7 +10354,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "M21",
@@ -10166,7 +10464,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "D21",
@@ -10273,7 +10575,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "J03",
@@ -10380,7 +10686,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "A16",
@@ -10487,7 +10796,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "A21",
@@ -10594,7 +10906,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "N01",
@@ -10701,7 +11016,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "E04",
@@ -10808,7 +11127,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "D19",
@@ -10915,7 +11237,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "J18",
@@ -11022,7 +11347,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "E24",
@@ -11129,7 +11457,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "E08",
@@ -11236,7 +11567,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "E22",
@@ -11343,7 +11677,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "C09",
@@ -11446,7 +11783,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "G08",
@@ -11553,7 +11893,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "K05",
@@ -11660,7 +12003,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "F05",
@@ -11763,7 +12110,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "I20",
@@ -11870,7 +12220,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "N20",
@@ -11977,7 +12330,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "Q09",
@@ -12084,7 +12441,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver",
+        "省赛": "silver"
+      }
     },
     {
       "id": "L09",
@@ -12191,7 +12552,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "silver"
+      }
     },
     {
       "id": "I22",
@@ -12282,7 +12646,7 @@
           "tries": 3
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "刘强",
@@ -12298,7 +12662,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "E13",
@@ -12405,7 +12773,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "C01",
@@ -12512,7 +12883,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "O08",
@@ -12619,7 +12993,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "B09",
@@ -12726,7 +13103,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "E19",
@@ -12817,7 +13197,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "陈易",
@@ -12833,7 +13213,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "L17",
@@ -12940,7 +13324,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "A02",
@@ -13031,7 +13418,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "徐戍城",
@@ -13047,7 +13434,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "B18",
@@ -13154,7 +13545,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "C23",
@@ -13261,7 +13655,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "Q13",
@@ -13352,7 +13749,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "秦博",
@@ -13368,7 +13765,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "K12",
@@ -13475,7 +13876,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "C15",
@@ -13566,7 +13970,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "尹瀚磊",
@@ -13582,7 +13986,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "N24",
@@ -13673,7 +14081,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "徐浚恒",
@@ -13689,7 +14097,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "O09",
@@ -13796,7 +14208,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "J15",
@@ -13903,7 +14318,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "N21",
@@ -14010,7 +14428,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "A15",
@@ -14117,7 +14538,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "J12",
@@ -14224,7 +14648,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "D07",
@@ -14331,7 +14758,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "A07",
@@ -14438,7 +14868,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "M09",
@@ -14545,7 +14978,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "L22",
@@ -14652,7 +15088,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "C08",
@@ -14759,7 +15198,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "I02",
@@ -14850,7 +15292,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "曹越",
@@ -14866,7 +15308,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "D20",
@@ -14973,7 +15419,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "L07",
@@ -15064,7 +15513,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "潘语博",
@@ -15080,7 +15529,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "C04",
@@ -15187,7 +15640,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "E10",
@@ -15294,7 +15750,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "O01",
@@ -15385,7 +15844,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "张翔",
@@ -15401,7 +15860,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "B23",
@@ -15492,7 +15955,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "陈昀",
@@ -15508,7 +15971,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "H15",
@@ -15615,7 +16082,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "E09",
@@ -15706,7 +16176,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "李鑫浩",
@@ -15722,7 +16192,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "F22",
@@ -15829,7 +16303,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "I12",
@@ -15936,7 +16413,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "L21",
@@ -16027,7 +16507,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "刘一鸣",
@@ -16043,7 +16523,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "H08",
@@ -16150,7 +16634,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "D04",
@@ -16257,7 +16744,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "O11",
@@ -16348,7 +16838,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "闫子昂",
@@ -16364,7 +16854,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "L16",
@@ -16455,7 +16949,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "国家茁",
@@ -16471,7 +16965,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "I18",
@@ -16578,7 +17076,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "J21",
@@ -16669,7 +17170,7 @@
           "tries": 1
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "李志勃",
@@ -16685,7 +17186,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "C11",
@@ -16792,7 +17297,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "G22",
@@ -16899,7 +17407,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "E11",
@@ -17006,7 +17517,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "H14",
@@ -17113,7 +17627,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "F23",
@@ -17204,7 +17721,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "罗文彬",
@@ -17220,7 +17737,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "A11",
@@ -17327,7 +17848,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "L11",
@@ -17418,7 +17940,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "秦昊",
@@ -17434,7 +17956,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "N12",
@@ -17525,7 +18051,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "王一诺",
@@ -17541,7 +18067,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "Q11",
@@ -17632,7 +18162,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "袁恩泉",
@@ -17648,7 +18178,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "F20",
@@ -17755,7 +18289,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "L24",
@@ -17846,7 +18383,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "何一博",
@@ -17862,7 +18399,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "G20",
@@ -17969,7 +18510,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "I14",
@@ -18076,7 +18620,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "A14",
@@ -18183,7 +18730,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "E07",
@@ -18290,7 +18838,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "A05",
@@ -18397,7 +18948,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "C13",
@@ -18504,7 +19058,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "G19",
@@ -18611,7 +19168,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "N05",
@@ -18718,7 +19278,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "K23",
@@ -18809,7 +19372,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "武昀昊",
@@ -18825,7 +19388,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "J07",
@@ -18932,7 +19499,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "O24",
@@ -19023,7 +19593,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "陶靖宇",
@@ -19039,7 +19609,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "O20",
@@ -19146,7 +19720,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "I13",
@@ -19237,7 +19814,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "王启灿",
@@ -19253,7 +19830,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "Q05",
@@ -19344,7 +19925,7 @@
           "tries": 0
         }
       ],
-      "medal": "bronze",
+      "medal": "silver",
       "members": [
         {
           "name": "王浩然",
@@ -19360,7 +19941,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "silver"
+      }
     },
     {
       "id": "E15",
@@ -19467,7 +20052,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "O19",
@@ -19574,7 +20162,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "J06",
@@ -19681,7 +20273,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "F16",
@@ -19788,7 +20383,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "G12",
@@ -19895,7 +20493,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "G03",
@@ -20002,7 +20603,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "O14",
@@ -20109,7 +20714,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "N11",
@@ -20216,7 +20825,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "D03",
@@ -20323,7 +20936,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "A19",
@@ -20430,7 +21047,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "M18",
@@ -20537,7 +21158,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "B02",
@@ -20644,7 +21269,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "J05",
@@ -20751,7 +21379,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "E23",
@@ -20858,7 +21489,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "I16",
@@ -20965,7 +21599,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "K21",
@@ -21072,7 +21709,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "E18",
@@ -21179,7 +21819,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "C18",
@@ -21286,7 +21929,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "F19",
@@ -21393,7 +22040,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "H10",
@@ -21500,7 +22150,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "F12",
@@ -21607,7 +22260,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "B21",
@@ -21714,7 +22370,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "G04",
@@ -21821,7 +22480,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "K16",
@@ -21928,7 +22590,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "Q01",
@@ -22035,7 +22700,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "F17",
@@ -22142,7 +22810,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "N03",
@@ -22249,7 +22921,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "B19",
@@ -22356,7 +23032,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "H13",
@@ -22463,7 +23142,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "M03",
@@ -22570,7 +23252,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "F10",
@@ -22677,7 +23363,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "G05",
@@ -22784,7 +23473,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "L13",
@@ -22891,7 +23584,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "L06",
@@ -22998,7 +23694,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "Q03",
@@ -23105,7 +23805,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "L15",
@@ -23212,7 +23916,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "G15",
@@ -23319,7 +24027,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "C16",
@@ -23426,7 +24138,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "G18",
@@ -23533,7 +24249,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "J10",
@@ -23640,7 +24359,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "H04",
@@ -23747,7 +24470,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "J24",
@@ -23854,7 +24580,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "O16",
@@ -23961,7 +24691,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "A06",
@@ -24068,7 +24802,11 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze",
+        "省赛": "bronze"
+      }
     },
     {
       "id": "E01",
@@ -24159,7 +24897,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "龚瀚霖",
@@ -24175,7 +24913,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "邀请赛": "bronze"
+      }
     },
     {
       "id": "H23",
@@ -24282,7 +25023,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "G21",
@@ -24373,7 +25115,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "李延栋",
@@ -24389,7 +25131,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "O18",
@@ -24480,7 +25225,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "吴震隆",
@@ -24496,7 +25241,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "M17",
@@ -24587,7 +25335,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "焦成阳",
@@ -24603,7 +25351,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "O06",
@@ -24710,7 +25461,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "O12",
@@ -24801,7 +25553,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "孙杰",
@@ -24817,7 +25569,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "D05",
@@ -24924,7 +25679,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "F01",
@@ -25031,7 +25787,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "J13",
@@ -25138,7 +25895,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "N09",
@@ -25229,7 +25987,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "阎慧斌",
@@ -25245,7 +26003,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "G02",
@@ -25336,7 +26097,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "宋康飞",
@@ -25352,7 +26113,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "O17",
@@ -25443,7 +26207,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "王碧辉",
@@ -25459,7 +26223,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "M12",
@@ -25550,7 +26317,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "蒋毅",
@@ -25566,7 +26333,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "M04",
@@ -25673,7 +26443,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "I05",
@@ -25780,7 +26551,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "C19",
@@ -25887,7 +26659,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "A17",
@@ -25994,7 +26767,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "G23",
@@ -26101,7 +26875,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "N13",
@@ -26208,7 +26983,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "D22",
@@ -26315,7 +27091,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "K09",
@@ -26406,7 +27183,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "姬涵斌",
@@ -26422,7 +27199,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "Q02",
@@ -26529,7 +27309,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "M14",
@@ -26620,7 +27401,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "唐凯博",
@@ -26636,7 +27417,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "D18",
@@ -26743,7 +27527,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "B08",
@@ -26850,7 +27635,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "M23",
@@ -26957,7 +27743,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "J04",
@@ -27048,7 +27835,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "曹力仁",
@@ -27064,7 +27851,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "N04",
@@ -27155,7 +27945,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "张明振",
@@ -27171,7 +27961,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "O03",
@@ -27262,7 +28055,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "李昱彤",
@@ -27278,7 +28071,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "G10",
@@ -27385,7 +28181,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "I06",
@@ -27476,7 +28273,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "王一飞",
@@ -27492,7 +28289,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "H11",
@@ -27583,7 +28383,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "李肖剑",
@@ -27599,7 +28399,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "H20",
@@ -27706,7 +28509,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "M15",
@@ -27797,7 +28601,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "李瀚宇",
@@ -27813,7 +28617,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "F24",
@@ -27904,7 +28711,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "张子航",
@@ -27920,7 +28727,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "J23",
@@ -28011,7 +28821,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "国倍宁",
@@ -28027,7 +28837,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "N18",
@@ -28118,7 +28931,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "王大旗",
@@ -28134,7 +28947,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "M16",
@@ -28225,7 +29041,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "潘靓",
@@ -28241,7 +29057,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "M02",
@@ -28332,7 +29151,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "何馨蕊",
@@ -28348,7 +29167,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "I08",
@@ -28455,7 +29277,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "O15",
@@ -28546,7 +29369,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "吉喆",
@@ -28562,7 +29385,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "K10",
@@ -28653,7 +29479,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "赵佳霖",
@@ -28669,7 +29495,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "I07",
@@ -28760,7 +29589,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "王乾宇",
@@ -28776,7 +29605,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "L20",
@@ -28867,7 +29699,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "刘政",
@@ -28883,7 +29715,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "H24",
@@ -28990,7 +29825,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "H02",
@@ -29097,7 +29933,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "O07",
@@ -29188,7 +30025,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "张篷文",
@@ -29204,7 +30041,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "O10",
@@ -29295,7 +30135,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "石盛辰",
@@ -29311,7 +30151,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "C21",
@@ -29418,7 +30261,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "I10",
@@ -29509,7 +30353,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "朱子营",
@@ -29525,7 +30369,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "B15",
@@ -29632,7 +30479,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "A10",
@@ -29739,7 +30587,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "K11",
@@ -29846,7 +30695,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "K07",
@@ -29953,7 +30803,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "H07",
@@ -30044,7 +30895,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "于兴阔",
@@ -30060,7 +30911,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "F06",
@@ -30167,7 +31021,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "K03",
@@ -30258,7 +31113,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "刘明武",
@@ -30274,7 +31129,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "N17",
@@ -30381,7 +31239,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "L23",
@@ -30488,7 +31347,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "L19",
@@ -30595,7 +31455,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "J09",
@@ -30686,7 +31547,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "宋承泽",
@@ -30702,7 +31563,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "A24",
@@ -30793,7 +31657,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "陈佳威",
@@ -30809,7 +31673,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "G16",
@@ -30916,7 +31783,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "Q06",
@@ -31007,7 +31875,7 @@
           "tries": 0
         }
       ],
-      "medal": "",
+      "medal": "bronze",
       "members": [
         {
           "name": "宋知轩",
@@ -31023,7 +31891,10 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {
+        "省赛": "bronze"
+      }
     },
     {
       "id": "A08",
@@ -31130,7 +32001,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "J17",
@@ -31237,7 +32109,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "H03",
@@ -31344,7 +32217,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "H06",
@@ -31451,7 +32325,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "K18",
@@ -31558,7 +32433,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "B11",
@@ -31665,7 +32541,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "K22",
@@ -31772,7 +32649,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "C22",
@@ -31879,7 +32757,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "C12",
@@ -31986,7 +32865,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "A09",
@@ -32093,7 +32973,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "B14",
@@ -32200,7 +33081,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "I11",
@@ -32307,7 +33189,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "A13",
@@ -32414,7 +33297,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "F18",
@@ -32521,7 +33405,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "L05",
@@ -32628,7 +33513,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "I21",
@@ -32735,7 +33621,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "E12",
@@ -32842,7 +33729,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "G09",
@@ -32949,7 +33837,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "C03",
@@ -33056,7 +33945,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "Q08",
@@ -33163,7 +34053,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "K08",
@@ -33270,7 +34161,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "B04",
@@ -33377,7 +34269,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "O04",
@@ -33484,7 +34377,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "Q04",
@@ -33591,7 +34485,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "B17",
@@ -33698,7 +34593,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "D16",
@@ -33805,7 +34701,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "Q10",
@@ -33912,7 +34809,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "E03",
@@ -34019,7 +34917,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "D15",
@@ -34126,7 +35025,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "Q07",
@@ -34233,7 +35133,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "H16",
@@ -34340,7 +35241,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "H09",
@@ -34447,7 +35349,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "L08",
@@ -34554,7 +35457,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "G07",
@@ -34661,7 +35565,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "H19",
@@ -34768,7 +35673,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "D13",
@@ -34875,7 +35781,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "F07",
@@ -34982,7 +35889,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "C24",
@@ -35089,7 +35997,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "I24",
@@ -35196,7 +36105,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "O21",
@@ -35303,7 +36213,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "L01",
@@ -35410,7 +36321,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "C05",
@@ -35517,7 +36429,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "N10",
@@ -35624,7 +36537,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "K01",
@@ -35731,7 +36645,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "G13",
@@ -35838,7 +36753,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "D02",
@@ -35945,7 +36861,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "M13",
@@ -36052,7 +36969,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "E16",
@@ -36159,7 +37077,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "A22",
@@ -36266,7 +37185,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "L10",
@@ -36373,7 +37293,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "B10",
@@ -36480,7 +37401,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "B24",
@@ -36587,7 +37509,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "I17",
@@ -36694,7 +37617,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "O05",
@@ -36801,7 +37725,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "L04",
@@ -36908,7 +37833,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "M20",
@@ -37015,7 +37941,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "I15",
@@ -37122,7 +38049,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "D11",
@@ -37229,7 +38157,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "M06",
@@ -37336,7 +38265,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "K06",
@@ -37443,7 +38373,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "B07",
@@ -37550,7 +38481,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "J08",
@@ -37657,7 +38589,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "M22",
@@ -37764,7 +38697,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "A23",
@@ -37871,7 +38805,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "N23",
@@ -37978,7 +38913,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "H21",
@@ -38085,7 +39021,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "F13",
@@ -38192,7 +39129,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "I09",
@@ -38299,7 +39237,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "J20",
@@ -38406,7 +39345,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "K19",
@@ -38513,7 +39453,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "C14",
@@ -38620,7 +39561,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "C17",
@@ -38727,7 +39669,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "K15",
@@ -38834,7 +39777,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "H22",
@@ -38941,7 +39885,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "H17",
@@ -39048,7 +39993,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "D01",
@@ -39155,7 +40101,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "M10",
@@ -39262,7 +40209,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "G06",
@@ -39369,7 +40317,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "D12",
@@ -39476,7 +40425,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "E05",
@@ -39583,7 +40533,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "J16",
@@ -39690,7 +40641,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "L02",
@@ -39797,7 +40749,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "B05",
@@ -39904,13 +40857,14 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "I01",
       "name": "毛毛虫坐火箭",
       "organization": "华中农业大学",
-      "official": false,
+      "official": true,
       "rank": 374,
       "org_rank": 4,
       "solved": 0,
@@ -40011,13 +40965,14 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     },
     {
       "id": "N16",
       "name": "芝士牛肉汉堡",
       "organization": "河北大学",
-      "official": false,
+      "official": true,
       "rank": 375,
       "org_rank": 9,
       "solved": 0,
@@ -40118,7 +41073,8 @@
         }
       ],
       "girl_team": false,
-      "champion": ""
+      "champion": "",
+      "division_medals": {}
     }
   ],
   "problems": [
@@ -40189,8 +41145,8 @@
     }
   ],
   "awards": {
-    "gold": 37,
-    "silver": 73,
-    "bronze": 110
+    "gold": 55,
+    "silver": 109,
+    "bronze": 164
   }
 }
