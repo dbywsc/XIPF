@@ -201,6 +201,7 @@ TIER_NET_TARGET = {
 UNRATED_CONTESTS = {
     "ccpc/ccpc2026/ccpc2026invitational-guizhou": "本场比赛题目存在问题，做 unrated 处理",
     "2026-ccpc-贵州_invitational": "本场比赛题目存在问题，做 unrated 处理",
+    "2026-provincial-河北_provincial": "本场比赛是邀请赛和省赛同时进行，因此对省赛做 unrated 处理",
 }
 
 
